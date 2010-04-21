@@ -15,7 +15,7 @@ String currentText;
 int fontSize = 1;
 
 void setup() {
-  size(1400, 300);
+  size(1400, 600);
   smooth();
 	
   PFont font = createFont("Courier New.ttf", 16);
@@ -93,7 +93,7 @@ void draw() {
 	// if(frameCount % 30 == 0) println(currentText);
 	
 	// temporarily use random bullshit for normal time
-	// normalTime = random(1);
+	normalTime = random(1);
 }
 
 
