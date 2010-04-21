@@ -1,0 +1,666 @@
+1	3	How do you do?
+6	8	Mr Carl Laemmle feels it would be a little unkind
+8	13	to present this picture without just a word of friendly warning.
+13	16	We are about to unfold the story of Frankenstein.
+17	19	A man of science,
+19	22	who sought to create a man after his own image,
+22	25	without reckoning upon God.
+26	30	It is one of the strangest tales ever told.
+30	34	It deals with the two great mysteries of creation:
+34	36	life and death.
+37	39	I think it will thrill you.
+40	42	It may shock you.
+42	45	It might even horrify you.
+46	50	So if any of you feel that you do not care to subject your nerves to such a strain,
+50	53	now is your chance to, er...
+53	56	Well, we've warned you.
+123	127	(man)... dona eis, Domine: et lux perpetua luceat eis.
+127	129	Amen.
+132	134	(bell tolls)
+135	137	(sobbing)
+155	157	Down. Down, you fool!
+251	253	Now!
+253	255	Come on!
+258	260	Hurry, hurry.
+279	282	The moon's rising. We've no time to lose.
+282	283	(clattering)
+284	286	Careful!
+292	295	Here he comes!
+304	308	He's just resting. Waiting for a new life to come.
+331	333	Here we are.
+339	342	Look, it's still here.
+345	347	Climb up and cut the rope.
+347	350	- No! - Go on. It can't hurt you.
+351	353	Here's a knife.
+376	378	Look out!
+380	382	Here's the knife.
+382	384	Here I come.
+387	389	Is it all right?
+389	393	The neck's broken. The brain is useless!
+394	396	We must find another brain.
+405	408	That'll do, gentlemen.
+417	419	(laughter)
+428	430	And in conclusion, ladies and gentlemen,
+430	434	here we have one of the most perfect specimens of the human brain
+434	437	ever to come to my attention at the university.
+437	441	And here, the abnormal brain of the typical criminal.
+441	442	Observe, ladies and gentlemen,
+443	446	the scarcity of convolutions on the frontal lobe
+446	448	as compared to that of the normal brain,
+449	454	and the distinct degeneration of the middle frontal lobe.
+454	456	All of these degenerate characteristics
+456	459	check amazingly with the history of the dead man before us,
+459	465	whose life was one of brutality, of violence and murder.
+465	468	These jars will remain here for your further inspection.
+468	471	Thank you, gentlemen. The class is dismissed.
+521	523	(cries out)
+533	536	(gong)
+540	542	(faint voices)
+566	568	Herr Victor Moritz.
+571	573	Victor.
+573	576	- I'm so glad you've come. - What is it, Elizabeth?
+576	579	- Oh, you've heard from Henry. - Yes. The first word in four months.
+579	582	It just came.
+582	585	- Victor, you must help me. - Of course I'll help you.
+586	588	I'm afraid.
+588	593	I've read this over and over again, but they're just words that I can't understand.
+593	595	Listen.
+595	598	"You must have faith in me, Elizabeth. Wait."
+598	601	"My work must come first, even before you."
+601	604	"At night, the winds howl in the mountains."
+604	606	"There is no one here."
+606	609	"Prying eyes can't peer into my secret."
+609	612	- What can he mean? - What does he say then?
+614	619	"I am living in an abandoned watchtower close to the town of Goldstadt."
+619	622	"Only my assistant is here to help me with my experiments."
+623	627	- Oh. His experiments. - Yes, that's what frightens me.
+627	631	The day we announced our engagement, he told me of his experiments.
+631	635	He said he was close to a discovery so terrific that he doubted his own sanity.
+635	639	There was a strange look in his eyes. Some mystery.
+639	642	His words carried me right away.
+642	647	Of course, I've never doubted him. But still, I worry. I can't help it.
+647	651	And now this letter. All this uncertainty can't go on. I must know.
+651	654	Victor, have you seen him?
+654	656	Yes. About three weeks ago.
+656	660	I met him walking alone in the woods. He spoke to me of his work, too.
+660	663	I asked him if I might visit his laboratory.
+663	666	He just glared at me and said he would let no one go there.
+666	670	- His manner was very strange. - Oh, what can we do?
+670	673	- If he should be ill! - Now, don't worry.
+673	676	I'll go to Dr Waldman, Henry's old professor in medical school.
+676	679	Perhaps he can tell me more about all this.
+679	681	Victor, you're a dear.
+681	683	You know I'd go to the ends of the earth for you.
+684	687	I shouldn't like that. I'm far too fond of you.
+687	689	I wish you were.
+691	693	- Victor. - I'm sorry.
+698	700	Good night, Victor. And thank you. Thank you.
+700	704	Good night. And don't worry. Promise?
+704	706	I won't.
+711	713	- Victor! - What is it?
+715	717	- I'm coming with you. - You can't!
+717	720	I must. I'll be ready in a minute.
+724	729	Herr Frankenstein is a most brilliant young man, yet so erratic.
+729	731	He troubles me.
+731	735	I'm worried about Henry. Why has he left the university?
+735	739	He was doing so well and he seemed so happy with his work.
+740	744	You know, his researches in the field of chemical galvanism and electrobiology
+744	748	were far in advance of our theories here at the university.
+748	751	In fact, they had reached a most advanced stage.
+751	753	They were becoming dangerous.
+755	757	Herr Frankenstein is greatly changed.
+757	759	You mean changed as a result of his work?
+759	761	Yes. His work.
+761	764	His insane ambition to create life.
+765	768	How? How?
+769	772	Please tell us everything, whatever it is.
+772	776	The bodies we use now, dissecting them for lecture purposes,
+776	779	were not perfect enough for his experiments, he said.
+779	782	He wished us to supply him with other bodies,
+782	786	and we were not to be too particular as to where and how we got them.
+787	789	I told him that his demands were unreasonable,
+789	793	and so he left the university to work unhampered.
+793	796	- He found what he needed elsewhere. - Oh. The bodies of animals.
+796	799	Well, what are the lives of a few rabbits and dogs?
+800	802	You do not quite get what I mean.
+803	806	Herr Frankenstein was interested only in human life.
+807	810	First to destroy it, then re-create it.
+811	814	There you have his mad dream.
+817	820	- Can we go to him? - You will not be very welcome.
+820	823	What does that matter? I must see him.
+824	829	Dr Waldman, you have influence with Henry. Won't you come with us?
+829	833	I'm sorry, but Herr Frankenstein is no longer my pupil.
+833	838	But he respects you. Won't you help us to take him away?
+838	841	Very well, Fräulein. I've warned you.
+841	843	But if you wish it, I will go.
+848	850	(thunder rumbles)
+867	869	- Fritz! - Hello.
+871	875	- Have you finished those connections? - Yes, they're done.
+875	878	Well, come down, then, and help. We've lots to do.
+896	898	(thunderclap)
+902	905	Look out!
+908	909	Fool!
+909	911	If this storm develops as I hope,
+912	915	you will have plenty to be afraid of before the night's over.
+915	917	Go on, fix the electrodes.
+926	928	(crackling)
+929	932	This storm will be magnificent.
+932	934	All the electrical secrets of heaven.
+935	939	And this time we're ready. Hey, Fritz? Ready.
+941	943	Oh!
+943	945	- Why, what's the matter? - Look.
+948	950	There's nothing to fear. Look.
+952	954	No blood, no decay.
+955	957	Just a few stitches.
+959	962	And look. Here's the final touch.
+966	969	- The brain you stole, Fritz. - Yes.
+969	972	Think of it-the brain of a dead man
+972	975	waiting to live again in a body I made with my own hands.
+977	979	With my own hands.
+982	985	Let's have one final test. Throw the switches.
+985	987	(thunderclap)
+1002	1003	Good.
+1003	1007	In 15 minutes, the storm should be at its height.
+1007	1009	Then we'll be ready.
+1009	1010	(knocking at door)
+1010	1013	What's that?
+1015	1018	- There's someone there. - Shh! Quiet.
+1021	1024	Send them away! Nobody must come here.
+1025	1027	Here. Cover this.
+1040	1042	Whoever it is, don't let them in.
+1043	1045	Leave them to me.
+1047	1050	Of all the times for anybody to come! Now!
+1052	1055	- (Fritz mutters) - (knocking continues)
+1055	1058	I'll show them, messing about at this time of night. Got too much to do.
+1058	1061	- (banging at door) - Wait a minute! All right, all right!
+1062	1065	Wait a minute, I'm coming.
+1066	1069	- It's Dr Waldman, Fritz. - You can't see him. Go away.
+1072	1074	(knocking continues)
+1074	1077	All right, knock! You won't get in.
+1083	1084	(mutters)
+1085	1087	- Henry! - Frankenstein!
+1087	1089	- Henry! - Frankenstein!
+1089	1092	Henry!
+1092	1094	- (Elizabeth) Open the door! - (Victor) Let us in!
+1094	1098	Who is it? What do you want? You must leave me alone now.
+1098	1101	It's Elizabeth! Open the door!
+1112	1114	- Henry! - Frankenstein!
+1116	1118	- What do you want? - Open the door!
+1118	1122	- You must leave me alone. - (Elizabeth) At least give us shelter.
+1130	1133	- What's this nonsense of locked doors? - Henry!
+1133	1137	Elizabeth, please, won't you go away? Won't you trust me just for tonight?
+1137	1142	- You're ill. What's the matter? - Nothing. I'm quite all right. Truly I am.
+1142	1144	Can't you see I mustn't be disturbed?
+1144	1148	You'll ruin everything. My experiment is almost completed.
+1148	1151	Wait a moment. I understand.
+1152	1155	I believe in you. But I cannot leave you tonight.
+1155	1159	- You've got to leave! - Henry, you're inhuman. You're crazy!
+1160	1162	Crazy, am I?
+1163	1166	We'll see whether I'm crazy or not.
+1170	1172	Come on up.
+1186	1189	You're quite sure you want to come in?
+1193	1194	Very well.
+1213	1217	Forgive me, but I'm forced to take unusual precautions.
+1222	1224	Sit down, please.
+1226	1228	Sit down!
+1232	1235	You too, Elizabeth. Please.
+1239	1241	A moment ago, you said I was crazy.
+1243	1246	- Tomorrow, we'll see about that. - (Fritz) Don't touch that!
+1246	1248	(thunderclap)
+1251	1254	I'm sorry, Doctor, but I insist.
+1267	1269	Please.
+1274	1278	Doctor Waldman, I learnt a great deal from you at the university
+1278	1282	about the violet ray, the ultraviolet ray,
+1282	1285	which you said was the highest colour in the spectrum.
+1286	1289	You were wrong.
+1289	1293	Here, in this machinery, I have gone beyond that.
+1295	1299	I have discovered the great ray that first brought life into the world.
+1299	1302	Oh. And your proof?
+1302	1305	Tonight you shall have your proof.
+1307	1310	At first I experimented only with dead animals,
+1310	1314	and then a human heart, which I kept beating for three weeks.
+1316	1321	But now I'm going to turn that ray on that body,
+1321	1323	and endow it with life.
+1323	1327	And you really believe that you can bring life to the dead?
+1328	1330	That body is not dead.
+1330	1332	It has never lived.
+1333	1337	I created it. I made it with my own hands
+1337	1341	from the bodies I took from graves, from the gallows, anywhere.
+1344	1347	Go and see for yourself.
+1347	1349	(thunderclap)
+1349	1351	You too.
+1356	1358	Dead, hey?
+1365	1368	Quite a good scene, isn't it?
+1368	1370	One man crazy,
+1370	1373	three very sane spectators.
+1374	1376	(thunderclap)
+1377	1378	Yes!
+1379	1381	Test the batteries.
+1488	1490	Look. It's moving.
+1492	1494	It's alive. It's alive!
+1496	1500	It's alive. It's moving. It's alive!
+1500	1504	It's alive! It's alive! It's alive!
+1504	1506	- It's alive! - Henry, in the name of God!
+1506	1509	In the name of God?! Now I know what it...
+1509	1512	(voice drowned out by thunder)
+1519	1521	Henry is well, but he's very busy.
+1521	1523	He said he would get in touch with you soon.
+1523	1527	Don't worry about him, Baron. He'll be home in a few days.
+1527	1530	You two have it all arranged, haven't you?
+1530	1532	You think I'm an idiot, don't you?
+1533	1535	But I'm not.
+1535	1538	Anyone can see with half an eye that there's something wrong.
+1539	1541	And I've two eyes, and pretty good ones at that.
+1542	1545	- Well, what is it? - You're quite mistaken, Baron.
+1545	1548	What's the matter with my son? What's he doing?
+1548	1550	He's completing his experiments.
+1550	1553	Why does he go messing around an old ruined windmill
+1553	1558	when he has a decent house, a bath, good food and drink,
+1558	1562	and a darned pretty girl to come back to? Would you tell me that?
+1562	1566	- Baron, you don't understand. - I understand perfectly well.
+1566	1569	There's another woman, and you're afraid to tell me.
+1569	1572	Pretty sordid experiments these must be. Huh!
+1572	1576	- Oh, but you're wrong! - And how do you know?
+1576	1579	If you please, Herr Baron, the burgomaster.
+1579	1582	- Well, tell him to go away. - But he says it's important.
+1582	1587	Nothing the burgomaster can say can be of the slightest importance.
+1588	1591	Good day, Herr Baron. Fräulein.
+1591	1593	Well, what do you want?
+1593	1596	If it's trouble, go away. I've trouble enough.
+1596	1600	- Oh, there's no trouble, sir. - What do you mean, "no trouble"?
+1600	1602	There's nothing but trouble.
+1602	1606	- I brought you these flowers. - Thank you, Herr Vogel.
+1606	1610	Both in my private and official capacities as burgomaster...
+1610	1614	Yes, yes, yes, we know all about that, but what do you want?
+1614	1618	What I really want to know is when will the wedding be, if you please.
+1618	1622	Unless Henry comes to his senses, there'll be no wedding at all.
+1623	1627	- But the village is already prepared. - Well, tell them to unprepare.
+1627	1630	But such a lovely bride...
+1630	1633	Such a fine young man, the very image of his father.
+1633	1636	- Heaven forbid. - But, sir, everything is ready!
+1636	1640	I know that! Don't keep on saying so, you idiot!
+1640	1642	There's nothing to cry about.
+1642	1646	Good day, Miss Elizabeth. Good day, Herr Moritz.
+1646	1649	Good day, Herr Vogel.
+1649	1651	Good day, Herr Baron.
+1652	1655	And good riddance to you.
+1655	1658	There you are. Huh! You see how it is.
+1658	1662	The whole village is kept waiting, the bride is kept waiting,
+1663	1668	and I am kept waiting. Henry must come home, if I have to fetch him myself.
+1668	1670	No, no, Baron. What about his work?
+1670	1673	Stuff and nonsense. What about his wedding?
+1673	1676	There is another woman...
+1676	1678	and I'm going to find her.
+1684	1686	(Dr Waldman huffs)
+1690	1692	Come and sit down, Doctor.
+1693	1695	You must be patient.
+1695	1697	Do you expect perfection at once?
+1697	1701	This creature of yours should be kept under guard.
+1701	1704	Mark my words, he will prove dangerous.
+1705	1707	Dangerous?
+1707	1709	Poor old Waldman.
+1712	1716	Have you never wanted to do anything that was dangerous?
+1716	1720	Where should we be if nobody tried to find out what lies beyond?
+1721	1724	Have you never wanted to look beyond the clouds and the stars?
+1724	1728	Or to know what causes the trees to bud?
+1728	1731	And what changes the darkness into light?
+1733	1737	But if you talk like that... people call you crazy.
+1739	1743	Well, if I could discover just one of these things -
+1743	1746	what eternity is, for example -
+1746	1750	I wouldn't care if they did think I was crazy.
+1751	1755	You're young, my friend. Your success has intoxicated you.
+1755	1757	Wake up and look facts in the face!
+1758	1761	Here we have a fiend whose brain...
+1761	1764	Whose brain must be given time to develop.
+1764	1767	It's a perfectly good brain, Doctor.
+1767	1770	Well, you ought to know. It came from your own laboratory.
+1771	1775	The brain that was stolen from my laboratory was a criminal brain.
+1785	1789	Oh, well. After all, it's only a piece of dead tissue.
+1789	1791	Only evil can come of it.
+1792	1795	Your health will be ruined if you persist in this madness.
+1795	1797	I'm astonishingly sane, Doctor.
+1798	1801	You have created a monster and it will destroy you.
+1801	1803	Patience, patience.
+1804	1807	I believe in this monster, as you call it.
+1807	1810	And if you don't, well, you must leave me alone.
+1810	1813	But think of Elizabeth. Your father.
+1813	1815	Elizabeth believes in me.
+1815	1818	My father? He never believes in anyone.
+1820	1823	I've got to experiment further.
+1823	1825	He's only a few days old, remember.
+1825	1829	So far, he's been kept in complete darkness.
+1829	1831	Wait till I bring him into the light.
+1831	1833	(footsteps)
+1837	1840	Here he comes. Let's turn out the light.
+1879	1881	Come in.
+1882	1884	Come in.
+1904	1907	Sit down. Sit down!
+1914	1917	You see? It understands.
+1918	1919	Watch.
+1962	1966	(Waldman) Take care now, Frankenstein. Take care.
+1969	1972	Shut out the light.
+1989	1991	Sit down.
+1993	1995	Go and sit down.
+2014	2019	- It understands this time. It's wonderful. - Frankenstein, where is it?!
+2019	2020	Aagh!
+2020	2022	Quiet, you fool!
+2025	2027	Get away with that torch.
+2042	2045	- Aagh! - Quick!
+2045	2047	Fetch the rope, quick.
+2047	2049	Stop pushing.
+2049	2052	- Get him to the cellar. - Shoot it! It's a monster.
+2054	2056	(clanking chains)
+2056	2058	(howling)
+2066	2068	Quiet. Quiet!
+2073	2076	Stop that! You'll have the whole countryside on us!
+2076	2079	Come away. He has the strength of ten men!
+2079	2081	(monster yells)
+2081	2083	Here, give me that!
+2085	2087	Come away, Fritz.
+2087	2090	Leave it alone. Leave it alone.
+2107	2109	(yelling)
+2114	2116	(screaming)
+2117	2120	Listen. What's that? Who's there?
+2124	2125	(yelling)
+2126	2128	It's Fritz!
+2132	2134	(monster growls)
+2135	2137	Come on, Doctor. Quick, hurry.
+2142	2144	(growls)
+2145	2146	Get back.
+2147	2149	- (growls) - Get out!
+2150	2152	Come on, quickly.
+2159	2161	(growling)
+2165	2167	(banging on door)
+2169	2171	(banging continues)
+2175	2178	He hated Fritz. Fritz always tormented him.
+2182	2184	Come, pull yourself together.
+2184	2187	- What can we do? - Kill it, as you would any savage animal.
+2187	2191	We must overpower him first. Get me a hypodermic needle.
+2191	2193	- It's murder. - It's our only chance.
+2193	2197	In a few minutes, he'll be through that door. Come, quick. Hurry.
+2198	2200	(banging on door continues)
+2208	2210	- Got it? - Yes, here it is.
+2210	2214	- It's very strong. Half-grain solution. - Good. Now then.
+2215	2219	You stand there. When he goes toward you, I will make the injection in his back.
+2221	2223	- Ready? - Yes.
+2235	2238	(growls)
+2246	2248	Aagh!
+2249	2251	Get back! Back!
+2277	2279	(knock at door)
+2283	2285	Dr Waldman. Dr Waldman!
+2286	2289	- Are you hurt? - No, I'm all right. It's nothing.
+2289	2291	See who's at the door.
+2294	2298	What's happening? Elizabeth and your father are coming to see you.
+2298	2299	- Keep them out. - Too late!
+2299	2302	They must not see that. Here, quick, give me a hand.
+2302	2304	Quick!
+2318	2323	Henry, hurry, get that blood off your face before your father and Elizabeth get here.
+2331	2333	Well, er...
+2333	2336	Pretty sort of place for my son to be in, I must say.
+2337	2340	- Is that the front door? - Yes, this is it.
+2340	2342	Right.
+2342	2344	I don't like it, but...
+2345	2347	here goes.
+2349	2351	(tuts)
+2352	2354	There doesn't seem to be anybody in the place.
+2358	2360	God...
+2364	2367	What a... What a forsaken place.
+2367	2370	Are you trying to burn it down, eh? What's that for, eh?
+2370	2374	Well, what's the matter with you? You look as if you've been kicked by a horse.
+2375	2376	- Where's Henry? - Why...
+2377	2379	- Well? - He can't be disturbed just now.
+2379	2382	Oh, can't he? Huh! I'll soon settle that nonsense.
+2382	2384	Victor, where is he?
+2384	2386	This place seems to drive everybody crazy.
+2387	2389	- (banging) - Oh, heavens... What's that?
+2389	2392	I beg your pardon. I am Dr Waldman.
+2393	2396	Oh, are you? I'm Baron Frankenstein.
+2396	2399	Perhaps you know what all this tommyrot's about.
+2399	2402	I... (splutters) I'll be shot if I do!
+2402	2405	I advise you to take Henry away from here at once.
+2405	2408	Well, what do you suppose I'm here for? Pleasure?
+2408	2409	Nah.
+2409	2411	Where are you, my dear? Oh, there you are.
+2412	2414	Let's see what's up the awful stairs.
+2414	2417	I don't know how the deuce I'm going to get up 'em, but...
+2417	2420	(Baron mutters)
+2420	2422	Leave them alone.
+2422	2426	No banisters or anything else... How much further?
+2429	2431	Come in.
+2433	2435	- Henry. - Elizabeth.
+2438	2440	Henry!
+2441	2444	Victor! Dr Waldman! Come quickly.
+2444	2449	- My dear, what have they done to you? - Poor Fritz... It's all my fault...
+2449	2451	Get him on the sofa.
+2461	2463	Have you got any brandy?
+2466	2468	Quick, quick, quick.
+2471	2473	Here, I'll do that.
+2474	2475	My boy... Now, now...
+2476	2477	Now drink. Drink this.
+2480	2483	There. There, that's better.
+2483	2486	I'm going to take you home with me, Henry.
+2486	2490	No, I can't. My work. What will happen to the records of my experiment?
+2490	2492	- We will preserve them. - And...
+2492	2495	I will see that it is painlessly destroyed.
+2495	2497	Yes, yes. Leave it all to me.
+2497	2500	Poor Fritz. All my fault.
+2500	2502	There, Henry. You can't do any more now.
+2502	2505	You must come home until you get well again.
+2505	2508	You'll soon feel better when you get out of here.
+2585	2587	(gags)
+2590	2592	(chokes)
+2638	2640	It's like heaven being with you again.
+2641	2643	Heaven wasn't so far away all the time, you know.
+2643	2646	I know. But I didn't realise it.
+2647	2651	My work. Those horrible days and nights.
+2652	2654	I couldn't think of anything else.
+2654	2657	Henry, you're not to think of those things any more.
+2658	2660	- You promised. - All right.
+2660	2664	Let's think about us. When will our wedding be?
+2667	2669	Let's make it soon.
+2669	2671	As soon as you like.
+2678	2680	For three generations,
+2680	2684	these orange blossoms have been worn at our weddings.
+2684	2687	Your great-grandfather wore this, Henry.
+2688	2691	Looks as good as new now, hey?
+2691	2696	And here. Here is one to make the best man look still better.
+2697	2702	30 years ago, I placed this on your mother's head, Henry.
+2703	2708	Today, you'll make me very happy by doing the same for Elizabeth.
+2708	2711	And I hope, in 30 years' time,
+2711	2715	a youngster of yours will be carrying on the tradition.
+2715	2719	And now, how about a little drink, eh?
+2720	2724	My grandfather bought this wine and laid it down.
+2725	2730	My grandmother wouldn't let him drink it. Bless her heart.
+2730	2732	Here's to your very good health.
+2732	2735	Well, are you all full? Yes? Come along.
+2735	2740	Here's a health to a son of the House of Frankenstein.
+2740	2742	(all) A son to the House of Frankenstein.
+2744	2747	Here's a jolly good health to young Frankenstein.
+2747	2749	(all) Young Frankenstein.
+2752	2756	Give the servants some champagne. This stuff's wasted on 'em.
+2757	2759	Well, well, well.
+2762	2765	(Baron) Go on, mop it up. It'll do you good.
+2765	2769	- House of Frankenstein. - To the House of Frankenstein.
+2770	2772	Now then. Now be off about your business.
+2778	2782	- (merriment outside) - Listen! Listen to 'em!
+2782	2786	The boys and girls of the village are out here.
+2791	2793	(cheering and singing)
+2799	2802	It's extraordinary how friendly you can make a lot of people
+2802	2805	on a couple of bottles of beer.
+2805	2807	Tomorrow they'll all be fighting.
+2807	2809	No doubt!
+2809	2812	- They're calling for you, Baron. - Hey-ho.
+2812	2815	Well, I suppose I'd better show myself.
+2815	2818	(cheering)
+2820	2823	Quiet!
+2823	2825	Thank you all very much indeed.
+2825	2828	I'm very pleased to see you all, and I hope there's plenty of beer.
+2829	2831	There's lots more where that came from.
+2831	2833	(cheering)
+2867	2871	You stay here, Maria. I'll just take a look at my traps.
+2871	2874	Then we'll go to the village and have a grand time, huh?
+2874	2876	- You won't be long, Daddy? - Oh, no.
+2876	2879	If Franz comes by, tell him I'll be back soon.
+2880	2882	Daddy, won't you stay and play with me a little while?
+2883	2885	I'm too busy, darling.
+2885	2887	You stay and play with the kitty, huh?
+2888	2890	- Bye, Daddy. - Goodbye.
+2890	2892	Be a good girl now.
+2893	2895	Come on, kitty.
+2925	2928	Who are you? I'm Maria.
+2929	2931	Will you play with me?
+2946	2948	Would you like one of my flowers?
+2972	2975	You have those, and I'll have these.
+2981	2983	I can make a boat.
+2987	2989	See how mine float?
+2999	3001	Ohh!
+3009	3012	No, you're hurting me! No!
+3035	3037	(? Bavarian folk music)
+3081	3084	- Henry. - Elizabeth!
+3085	3088	How lovely you look. But you shouldn't be here.
+3089	3091	I must see you for a minute.
+3095	3097	Why? What's the matter?
+3102	3104	Could you leave us for a moment?
+3105	3107	Why, of course.
+3115	3117	- Why, what is it? - I'm so glad you're safe.
+3117	3119	Safe? Of course I'm safe.
+3119	3123	But you look worried. Is anything wrong?
+3123	3124	No.
+3124	3127	No, forget my foolishness.
+3127	3129	It was just a mood. There's nothing the matter.
+3129	3131	Of course there isn't!
+3132	3135	Henry, I'm afraid. Terribly afraid.
+3136	3138	Where is Dr Waldman? Why is he late for the wedding?
+3139	3141	He's always late. He'll be here soon.
+3142	3144	Something is going to happen.
+3144	3147	I feel it. I can't get it out of my mind.
+3147	3150	You're just nervous.
+3150	3152	All the excitement and preparation.
+3152	3157	No. No, it isn't that. I've felt it all day.
+3158	3160	Something is coming between us.
+3160	3163	I know it. I know it!
+3163	3166	Sit down and rest. You look so tired.
+3167	3172	- If I could just save us from it. - From what, dear? From what?
+3173	3175	I don't know!
+3175	3179	If I could just get it out of my mind! I'd die if I had to lose you now, Henry.
+3179	3182	Lose me? Why, I'll always be with you.
+3182	3185	Will you, Henry? Are you sure?
+3186	3188	I love you so.
+3188	3192	Sure. How beautiful you look.
+3193	3195	Henry! Henry! (knocking at door)
+3195	3198	What's that? What's that?!
+3198	3200	Henry! Dr Waldman!
+3201	3204	- What about Dr Waldman? - Henry, don't leave me!
+3204	3208	- No, darling, you stay here. - Henry! Henry!
+3209	3211	Dr Waldman's been murdered in the tower.
+3211	3211	The monster.
+3212	3215	He's been seen in the hills, terrorising the mountainside.
+3215	3216	(moaning)
+3216	3218	He's in the house.
+3219	3221	He's upstairs!
+3224	3226	(bells ring out)
+3226	3228	(agitated shouting outside)
+3247	3248	(moaning)
+3248	3251	It's in the cellars.
+3285	3286	(moans)
+3286	3288	(screams)
+3288	3290	- (mimics scream) - (screams)
+3294	3297	(Elizabeth continues screaming)
+3298	3300	It's Elizabeth! Come on.
+3307	3308	(clattering)
+3314	3316	Elizabeth!
+3316	3318	What is it?
+3322	3325	- Don't let him come here. - No, no, no, darling. It's all right.
+3325	3330	- Don't let him come here. - It's all right, darling. It's all right.
+3343	3345	Oh, look! That's Maria!
+3348	3350	(cheering)
+3407	3410	Silence! Silence! Silence!
+3410	3412	What is it?
+3412	3415	Maria. She's drowned.
+3416	3419	My poor man. Why do you bring her here to me?
+3420	3422	But... But she has been murdered.
+3422	3424	(shouting)
+3427	3430	Silence! I'll see that justice is done.
+3430	3432	Who is it?
+3441	3444	- How is Elizabeth now? - I don't know.
+3444	3448	She's still in a daze. Just looks at me and says nothing. It's maddening.
+3448	3451	Easy, old man. She'll be all right.
+3451	3453	- Our wedding day. - Steady.
+3453	3455	Your wedding will be postponed a day at most.
+3455	3459	- A day? I wonder. - What do you mean?
+3459	3463	There can be no wedding while this horrible creation of mine is still alive.
+3463	3467	I made him with these hands, and with these hands I will destroy him.
+3467	3469	- I must find him! - I'll go with you.
+3469	3472	No. You stay here and look after Elizabeth.
+3472	3477	I'll leave her in your care, whatever happens. You understand? In your care.
+3482	3483	(angry shouting)
+3485	3489	Quiet! Quiet! Quiet!
+3490	3491	Ludwig.
+3491	3495	You will search the woods. Those are your group.
+3495	3498	- We'll get him! - Quiet!
+3498	3500	Herr Frankenstein.
+3500	3504	You will take to the mountains. Those are your people.
+3505	3508	I... I will lead the third group by the lake.
+3509	3514	And remember... remember... get him alive if you can,
+3514	3516	but get him!
+3517	3521	Quiet! Search every ravine, every crevasse,
+3521	3523	but the fiend must be found!
+3525	3527	Are you ready?
+3527	3530	Light your torches and go!
+3595	3596	Stop!
+3596	3598	Frankenstein, mountains!
+3598	3600	Ludwig!
+3600	3602	Lake party, this way!
+3641	3643	Come on, boys! Keep together.
+3643	3646	You search there. The rest, come with me.
+3660	3661	(yells)
+3661	3664	Look lively! Come on! Come on!
+3667	3669	Herr Frankenstein! Herr Frankenstein!
+3670	3672	(moaning)
+3675	3678	Come on, men! Quick! This way!
+3683	3687	Which way did he go? Which way did he go? Tell me! Tell me!
+3687	3688	Over there.
+3688	3690	You stay here and take care of him.
+3690	3694	The rest, follow me. Come on! Come on, quick!
+3714	3717	No, come back! This way.
+3730	3732	Herr Frankenstein!
+3732	3735	Herr Frankenstein, where are you?
+3737	3740	I think he's up there. Come on, follow me.
+3740	3742	Quick!
+3753	3755	Hello!
+3762	3764	Fire. Fire!
+3766	3768	Help! Help!
+3771	3773	- Listen. - (Herr Frankenstein) Help!
+3773	3776	It's Frankenstein.
+3776	3778	That way!
+3802	3804	This way! Come on, hurry! Hurry!
+3807	3810	Look, they're there! Turn the hounds loose!
+3881	3883	(yells)
+3897	3898	(yells)
+3920	3922	There he is! The murderer.
+3960	3962	He's alive.
+3962	3964	Frankenstein!
+3965	3967	Frankenstein.
+3969	3972	Bring him down to the village and let's take him home.
+3975	3977	Murderer!
+3982	3984	Burn the mill!
+3993	3996	Burn the mill! He can't get away!
+4005	4007	(screams)
+4028	4031	(continues screaming)
+4040	4041	Aaagh!
+4048	4050	(hounds howling)
+4064	4067	Have you got it? Come on, hurry.
+4067	4069	(whispering and giggling)
+4075	4077	Quiet, quiet.
+4078	4081	Well, go ahead and knock.
+4087	4090	Well, well, well, what's all this?
+4090	4092	What do you want, hey?
+4093	4094	What's this?
+4094	4096	If you please, Herr Baron,
+4096	4101	we thought that Mr Henry could do with a glass of his great-grandmother's wine.
+4101	4104	Fine old lady, my grandmother.
+4105	4110	Very foreseeing of her to prevent my grandfather drinking this.
+4117	4120	Mr Henry doesn't need this.
+4122	4124	As I said before, I say again,
+4125	4129	here's to a son to the House of Frankenstein.
+4129	4132	(all) Yes, indeed, sir. We hope so, sir.

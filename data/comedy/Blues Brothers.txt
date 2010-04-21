@@ -1,0 +1,1212 @@
+114	117	The assistant warden wants this one out of the block early.
+118	120	Wants to get it over with fast.
+120	122	Okay. Let's do it.
+122	126	Hey, wake up. It's time.
+126	130	Wake up. Let's go. It's time.
+245	248	This is it.
+257	261	7474505B.
+261	264	What wing? - Maximum wing, Block 9.
+264	265	Standard release?
+266	270	Parole, three out of five. Good behaviour.
+270	273	Give me a minute.
+300	304	One Timex digital watch, broken.
+304	308	One unused prophylactic.
+313	316	One soiled.
+333	339	Boots, black. Belt, black.
+342	345	One black suit jacket.
+346	350	One pair black suit pants.
+350	352	One hat.
+352	356	Black.
+356	359	One pair sunglasses.
+360	364	Twenty-three dollars and seven cents.
+365	369	Sign here.
+480	483	What's this? - What?
+483	484	This car.
+485	488	This stupid car.
+489	492	Where's the Cadillac?
+493	495	The Caddy. Where's the Caddy?
+495	497	The what?
+497	500	The Cadillac we used to have. The Bluesmobile.
+501	502	I traded it.
+502	506	You traded the Bluesmobile for this? - No, for a microphone.
+506	509	A microphone?
+509	511	Okay, I can see that.
+511	514	What the hell is this? - This was a bargain.
+515	518	I picked it up at the Mount Prospect City Police Auction last spring.
+518	523	It's an old Mount Prospect police car. They were practically giving them away.
+523	527	Well, thank you, pal.
+527	529	The day I get out of prison...
+529	534	...my own brother picks me up in a police car.
+557	561	You don't like it?
+563	566	No, I don't like it.
+583	585	Car's got a lot of pick-up.
+586	588	It's got a cop motor, a 440-cubic-inch plant.
+589	592	It's got cop tyres, cop suspension, cop shocks.
+592	594	A model made before catalytic converters...
+595	597	...so it'll run good on regular gas.
+597	602	What do you say? Is it the new Bluesmobile, or what?
+604	607	Fix the cigarette lighter.
+642	646	What are we doing here?
+646	649	You promised you'd visit the Penguin the day you got out.
+649	652	Yeah. So I lied to her.
+652	654	You can't lie to a nun.
+654	657	We gotta go in and visit the Penguin.
+657	662	No fucking way.
+720	722	Who is it?
+722	726	Jake and Elwood.
+728	731	Come in.
+746	749	Hello, boys.
+749	752	Nice to see you.
+752	756	Please, have a seat.
+771	772	No, boys.
+772	774	Come over here in front of me.
+774	779	I want to see your faces.
+790	795	The county took a tax assessment of this property last month.
+795	798	They want $5,000.
+798	801	Won't the church pay?
+801	805	They would if they were interested in keeping the place.
+806	808	But they aren't.
+808	812	The archbishop wants to sell this building to the Board of Education.
+812	814	What will happen to you?
+814	817	I'll be sent to the missions...
+817	821	Africa, Latin America...
+821	823	Korea. - Forget it.
+823	828	Five grand? No problem. We'll have it for you in the morning. Let's go.
+828	833	I will not take your filthy, stolen money.
+834	839	Well, then. I guess you're really up shit creek.
+840	843	I beg your pardon. What did you say?
+843	846	I offered to help you.
+847	851	You refused to take our money.
+851	855	Then I said, 'I guess you're really up shit creek.'
+855	857	Christ, Jake, take it easy, man. - Elwood.
+857	860	Ow. Shit. - Jesus Christ.
+860	862	Shit. - Jesus.
+862	866	Shit. Goddam it. - Son of a bitch.
+869	872	You fat penguin.
+874	877	Fuck this.
+888	891	You are such a disappointing pair.
+891	894	I prayed so hard for you.
+894	896	It saddens and hurts me...
+896	899	...that the two young men whom I raised...
+899	901	...to believe in the Ten Commandments...
+901	904	...have returned to me as two thieves...
+904	909	...with filthy mouths and bad attitudes.
+909	911	Get out.
+911	914	And don't come back...
+914	920	...until you've redeemed yourselves.
+925	930	Boys, you gotta learn not to talk to nuns that way.
+933	935	Curtis.
+935	937	You look fine. - Good to see you.
+937	941	Buy you boys a drink?
+943	946	Boys, things are bad.
+946	949	They gonna sell this place to the Board of Education...
+949	953	...and I'll be out on the street.
+953	959	That money's got to be in the Cook County Assessor's Office within 11 days.
+960	963	They wouldn't turn you out, would they?
+963	970	Shit. What's one more old nigger to the Board of Education?
+970	973	Curtis, you and the Penguin are the only family we got.
+973	976	You're the only one that was ever good to us...
+976	981	...singing Elmore James tunes and blowing the harp for us down here.
+981	986	Well, the sister was right. You boys could use a little churching up.
+986	989	Slide on down to the Triple Rock...
+989	992	...and catch Reverend Cleophus.
+992	996	You boys listen to what he's got to say.
+999	1001	I don't want to listen to no jive-ass preacher...
+1001	1004	...talking to me about heaven and hell.
+1005	1009	You get wise. You get to church.
+1024	1026	All I'm saying is, we got to figure out...
+1026	1030	...some way to get that money honestly.
+1030	1032	That could be a problem.
+1032	1033	Like the Penguin says.
+1033	1037	We got to move toward redemption. We got to go to church.
+1037	1041	'We got to move toward redemption. We got to go to church.'
+1041	1042	Bullshit.
+1042	1046	Come on.
+1065	1067	And now, this week's sermon...
+1067	1072	...is from our beloved, the Reverend Cleophus James.
+1078	1081	And now, people...
+1081	1084	And now, people...
+1084	1092	When I woke up this morning, I heard a disturbing sound.
+1092	1095	I said, when I woke up this morning...
+1095	1099	I heard a disturbing sound.
+1099	1102	What I heard was the jingle-jangle...
+1102	1105	...of a thousand lost souls.
+1106	1109	I'm talking about the souls of mortal men and women...
+1109	1112	...departed from this life.
+1113	1114	Wait a minute.
+1114	1120	Those lost, anguished souls roaming unseen over the earth...
+1121	1123	...seeking a divine light...
+1123	1128	...they'll not find because it's too late.
+1128	1132	Too late. Yeah. Too late for them to ever see again...
+1132	1137	...the light they once chose not to follow. All right.
+1137	1140	Don't be lost when the time comes.
+1140	1144	For the day of the Lord cometh...
+1144	1147	...as a thief in the night.
+1147	1151	Amen
+1151	1154	Say amen.
+1161	1162	Let us all - All go back...
+1162	1166	To the old - Old landmark
+1170	1174	As we stay in the service of the Lord...
+1174	1176	Let us preach - Preach the word...
+1177	1182	Got to preach - Preach the word all the way
+1183	1187	Do it, know it, feel it
+1267	1271	Jake, are you all right?
+1283	1288	Alleluia
+1289	1293	The band.
+1294	1297	Do you see the light?
+1301	1303	What light?
+1303	1305	Have you seen the light?
+1305	1310	Yes. Jesus H. Tap-Dancing Christ.
+1310	1315	I have seen the light.
+1335	1338	The band.
+1347	1353	Praise God. - And God bless the United States.
+1414	1422	Stay in the service of the Lord
+1430	1434	Yea, Lord
+1458	1461	We'll put the band back together, we do a few gigs...
+1461	1464	...we get some bread. Bang... five thousand bucks.
+1464	1469	Well, getting the band back together might not be that easy.
+1469	1472	What are you talking about? - They split.
+1472	1474	They all took straight jobs.
+1474	1476	Yeah? So you know where they are.
+1477	1480	You said you were keeping in touch with them.
+1480	1484	I got a couple of leads, a few phone numbers.
+1485	1488	But, I mean, how many of them visited or even wrote you?
+1488	1491	They're not the kind of guys who write letters.
+1491	1494	You were outside. I was inside.
+1494	1497	You were supposed to keep in touch with the band.
+1497	1500	I kept asking you if we were gonna play again.
+1500	1505	What was I gonna do, take away your only hope?
+1506	1509	Take away the very thing that kept you going in there?
+1509	1511	I took the liberty of bullshitting you. Okay?
+1512	1518	You lied to me. - It wasn't lies. It was just bullshit.
+1529	1531	Shit. - What?
+1531	1533	Rollers. - No.
+1533	1536	Shit.
+1572	1576	What? What did I do? - You failed to stop at a red signal.
+1576	1578	The light was yellow, sir.
+1579	1583	May I see your license, please?
+1588	1589	Goddam it.
+1589	1593	I haven't been pulled over in six months.
+1593	1597	I bet those cops have got SCMODS.
+1598	1604	State County Municipal Offender Data System.
+1628	1632	Elwood, we show your license currently under suspension.
+1632	1636	Step out of the car, please.
+1655	1659	First you trade the Cadillac for a microphone.
+1659	1661	Then you lie to me about the band.
+1661	1663	Now you're gonna put me right back in the joint.
+1663	1668	They're not gonna catch us. We're on a mission from God.
+1684	1687	We are in high-speed pursuit northbound on Courtland Avenue.
+1688	1691	Black-and-white 1974 Dodge sedan with Illinois plates.
+1691	1695	Request assistance.
+1717	1722	We'll be all right if we can just get back on the expressway.
+1722	1726	This don't look like no expressway to me.
+1727	1729	Don't yell at me.
+1729	1731	What do you want me to do, motor head?
+1731	1733	Try not to be so negative all the time.
+1733	1738	Why don't you offer some constructive criticism?
+1740	1745	You got us into this parking lot, pal. Now you get us out.
+1745	1749	You want out of this parking lot?
+1750	1755	Will there be anything else? - Do you have Miss Piggy?
+1773	1778	There's pants and burgers. - Yeah, lots of space in this mall.
+1789	1793	Disco pants and haircuts.
+1819	1821	Baby clothes.
+1821	1825	This place has got everything.
+1837	1841	New Oldsmobiles are in early this year.
+1859	1863	Pier 1 Imports.
+1875	1878	Oh, shit.
+1915	1917	They broke my watch.
+1918	1920	I'm gonna catch that sucker...
+1920	1925	...if it's the last thing I ever do.
+2093	2097	Nice place, huh?
+2148	2151	Hey, Sam.
+2163	2164	Hey, Lloyd.
+2164	2168	Anybody call for me on the phone? - No. No calls.
+2168	2174	Some guy left his card. Cop. Said he'd be back.
+2182	2185	This here's my brother, Jake. He just got out of the joint.
+2185	2188	He's gonna be staying with me for a few weeks.
+2188	2192	Yeah. Okay.
+2192	2197	Did you get me my Cheez Whiz, boy?
+2217	2221	Well, it ain't much, but it's home.
+2221	2227	How often does the train go by? - So often you won't even notice it.
+2253	2255	What are you doing?
+2255	2259	Making dinner. Want some?
+2262	2264	Tomorrow we got to get the band back together.
+2265	2267	I'm gonna quit work in the morning, first thing.
+2268	2270	And how are you going to get to work...
+2270	2273	Mr Lead Foot, Mr Hot-Rodder, Mr Motor Head?
+2273	2276	Those cops took your license away.
+2276	2278	They got your name, your address.
+2278	2281	No, they don't got my address. I falsified my renewal.
+2281	2285	I put down 1060 West Addison.
+2290	2293	That's Wrigley Field.
+2297	2300	I gotta hit the sack.
+2300	2304	Hey, you sleaze. My bed.
+2411	2415	This, gentlemen, is the elegant abode of one Elwood Blues.
+2415	2416	Thanks, Mr Mercer.
+2416	2423	I kinda like the Wrigley Field bit. - Yeah, real cute.
+2430	2433	Hi, Sam.
+2443	2447	Hi. Has my friend arrived yet? He failed to report in yesterday.
+2447	2448	I don't want trouble.
+2448	2454	Tell us where they are, and there'll be no trouble.
+2467	2470	Stand back.
+2513	2518	It's almost 9:00. We've gotta go to work.
+2572	2576	Hello, Elwood. Sit down. What's on your mind?
+2577	2579	I gotta quit.
+2579	2581	Why is that, Elwood?
+2582	2586	I'm going to become a priest.
+2594	2599	I'll call payroll and have them get your severance pay ready.
+2603	2605	Good luck. - God bless you, sir.
+2606	2608	Thank you.
+2621	2626	What's this? - This is the last known address...
+2626	2630	...of Bones Malone and Blue Lou Marini.
+2633	2638	The Lord works in mysterious ways.
+2681	2683	Mrs Toronto? - Tarantino.
+2684	2689	Ma'am, do you have a Thomas Malone or Louis Marini living here?
+2690	2693	Not any more. They moved out a long time ago.
+2693	2697	I don't take in boarders any more.
+2697	2702	May we come in, ma'am? - Please.
+2711	2714	Did they leave a forwarding address? A phone number?
+2714	2717	Did they live quietly? What were their personal habits?
+2717	2719	They were good boys...
+2720	2723	...but they made a lot of racket at night.
+2723	2725	Are you the police?
+2725	2729	No, ma'am. We're musicians.
+2730	2733	Mr Man.
+2737	2743	Yes, ma'am? - They left this card. Maybe it'll help.
+2754	2758	Thanks.
+2815	2819	Thank you. You're marvellous.
+2820	2823	Thank you. I'm Murph, and these are the Magic Tones.
+2823	2825	Steve 'The Colonel' Cropper, Donald 'Duck' Dunn...
+2825	2828	Willie 'Too Big' Hall and Tom 'Bones' Malone.
+2828	2830	We'll be back with the Magic Tones for the Armada Room's...
+2831	2833	...two-hour disco swing party after this short break.
+2833	2838	Till then, don't you go changing.
+2840	2844	So you're out. You're free. You're rehabilitated.
+2844	2847	What's next? What's happening? What you gonna do?
+2847	2849	You got the money you owe us, mother-fucker?
+2850	2852	Let's get something straight here.
+2852	2855	The reason he got locked in the slam in the first place...
+2855	2858	...was for sticking up a gas station to cover you guys.
+2858	2859	You're kidding.
+2859	2862	He pulled that job to pay for the band's room-service tab...
+2862	2865	...from that Kiwanis gig in Coal City.
+2865	2867	You did? - That's right.
+2867	2870	So I don't want to hear any more of this small-change shit.
+2871	2874	We're putting the band back together.
+2877	2881	Who here at this table can honestly say...
+2882	2886	...that they played any finer or felt any better than they did...
+2886	2889	...when they were with the Blues Brothers?
+2891	2893	You were the backbone...
+2893	2897	...the nerve centre of a great rhythm-and-blues band.
+2897	2901	You can make that live, breathe and jump again.
+2901	2904	Murph and the Magic Tones?
+2904	2907	Look at you in those candy-ass monkey suits.
+2907	2910	And I thought I had it bad in Joliet.
+2910	2912	At least we got a change in clothes.
+2912	2915	You're wearing the same shit from three years ago.
+2915	2917	Jake ain't lying, though.
+2917	2920	We had a band powerful enough to turn goat piss into gasoline.
+2920	2923	We'll never get that fat sound again without more horns.
+2924	2925	We'll never get Mr Fabulous.
+2926	2928	Where is he? - Forget it.
+2928	2930	Mr Fabulous is the top maitre d' at the Chez Paul.
+2930	2932	He's pullin' down six bills a week.
+2932	2936	Matt Murphy got married. - Where is Matt 'Guitar' Murphy?
+2936	2938	He opened a restaurant with his old lady on Maxwell Street...
+2938	2940	...and he took Blue Lou with him.
+2940	2945	You'll never get Matt and Mr Fabulous out of them high-paying gigs.
+2945	2948	Oh, yeah?
+2948	2950	Well, me and the Lord...
+2951	2953	...we got an understanding.
+2953	2957	We're on a mission from God.
+2968	2970	Mainly French cuisine.
+2970	2975	No, sir. Mayor Daley no longer dines here. He's dead, sir.
+2976	2979	Private dining rooms are available.
+2979	2982	Oh, no. It was supposed to be five years.
+2982	2985	Didn't you get five years? No, sir, not you.
+2985	2987	And your name, sir?
+2987	2993	Rizzolo, for eight at 11:30. Thank you.
+2993	2996	Mr Fabulous, how marvellous it is to see you.
+2997	3000	You're looking younger than ever. - Wait. You guys can't come in here.
+3000	3002	Nonsense, my dear fellow.
+3002	3004	My brother and I have come to dine...
+3004	3008	...to celebrate my early release from the service of the state.
+3008	3010	Wait. Let's talk outside.
+3010	3012	Let's have a cup of coffee outside. - Why, heavens, no.
+3012	3015	We seek a full meal and all the compliments of the house.
+3015	3017	Come, Elwood.
+3017	3019	Let us adjourn ourselves to the nearest table...
+3020	3024	...and overlook this establishment's board of fare.
+3024	3027	Good evening. Chez Paul. Wait. Hey.
+3027	3033	Sir, do you mind calling back in about five minutes, please?
+3053	3057	We'll have a table in a few moments.
+3062	3064	Excuse me.
+3064	3066	Give us a bottle of your finest champagne...
+3066	3070	...five shrimp cocktails and some bread for my brother.
+3070	3074	We have a Dom Pérignon '71 at $120.
+3074	3078	That'll be fine, pal.
+3080	3085	Seriously, the food here is really expensive. The soup is fucking $10.
+3085	3088	Let's go outside. I'll buy you a cup of coffee.
+3089	3091	We're putting the band back together.
+3091	3095	Forget it. No way. - We're on a mission from God.
+3095	3097	Hold it. Hold it. What's this?
+3097	3099	Waiter? Sir?
+3099	3103	Please, waiter?
+3104	3106	Yes, sir? How are your salads?
+3106	3108	The salads are fine.
+3109	3113	It's just that we'd like to move to another table...
+3113	3116	...away from those two gentlemen.
+3116	3119	Why? Have they been disturbing you?
+3119	3121	No. It's just that...
+3122	3125	Well, frankly, they're offensive-smelling.
+3125	3129	I mean, they smell bad.
+3131	3133	Excuse me. I'll see if I can locate another table for you.
+3134	3136	Thank you.
+3146	3150	Wrong glass, sir.
+3199	3202	How much for the little girl?
+3202	3205	The women? How much for the women? - What?
+3205	3207	I want to buy your women.
+3207	3210	Your little girl. Your daughters. Sell them to me.
+3211	3214	Sell me your children. - Maitre d'.
+3221	3225	Cut it out. The owners are gonna ask me to call the cops.
+3225	3228	You wouldn't do that to me, would you? - He just got outta Joliet.
+3229	3232	He's on parole. You can't call the cops on him, man.
+3233	3235	We're putting the band back together. - I said no.
+3235	3238	Absolutely not.
+3239	3242	How much for your wife?
+3244	3247	We're putting the band back together. We need you, man. We need your horn.
+3247	3249	I really can't.
+3249	3252	We got everybody except Matt 'Guitar' Murphy and Blue Lou.
+3252	3256	We're getting them next. - No way.
+3259	3262	If you say no, Elwood and I will come here for breakfast...
+3262	3267	...lunch and dinner every day of the week.
+3269	3274	Okay. I'll play. You got me.
+3276	3279	Sir?
+3293	3295	White men.
+3295	3297	White women.
+3298	3302	The swastika is calling you.
+3303	3307	The sacred and ancient symbol of your race...
+3308	3312	...since the beginning of time.
+3312	3316	The Jew is using the black...
+3316	3321	...as muscle against you.
+3321	3324	And you are left there, helpless.
+3325	3330	Fuck you. - What are you gonna do about it, whity?
+3331	3334	Just sit there? - Go back where you came from.
+3334	3336	Of course not.
+3336	3339	Son of a bitch. - You are going to join...
+3339	3341	...with us...
+3341	3343	...the members of...
+3343	3348	...the American Socialist White People's Party:
+3348	3352	an organization of decent...
+3352	3355	...law-abiding white folk...
+3355	3357	...just like you.
+3358	3360	Go to hell, bastards.
+3360	3362	Go to hell.
+3362	3365	I pledge allegiance to Adolf Hitler...
+3366	3369	...the immortal leader of our race.
+3370	3373	To the order for which he stands.
+3374	3376	One great cause.
+3376	3379	Sacred and invincible.
+3379	3382	Hey, what's going on?
+3382	3385	Those bums won their court case so they're marching today.
+3385	3390	What bums? - The fucking Nazi party.
+3390	3393	Illinois Nazis.
+3393	3395	I hate Illinois Nazis.
+3396	3400	Heil Hitler.
+3405	3408	Ten-hut.
+3421	3423	Gruppenfuehrer. - Yes, sir.
+3423	3427	Get that car's license plate number.
+3427	3432	We're gonna kill that son of a bitch.
+3457	3460	Come on home, babe
+3462	3466	Oh, come on home, woman
+3466	3470	Oh, come on home, pretty baby
+3470	3474	I love you
+3523	3525	When she walk that walk
+3525	3529	And talk that talk
+3529	3532	And whisper in my ear
+3532	3535	Tell me that she love me
+3535	3537	I love that talk
+3538	3540	That baby talk
+3540	3543	When she talk like that
+3543	3547	I can't take it like that
+3553	3555	Come on home to me, baby
+3555	3561	Walk your walk Talk your talk
+3561	3565	Talk your talk, baby
+3598	3599	Thank you, ladies and gentlemen.
+3600	3602	That was 'Boom, Boom', a song that I wrote back in the '50s.
+3602	3604	No, you didn't. - It was a hit.
+3604	3607	No, you didn't. - Yes, I did.
+3607	3611	I wrote 'Boom, Boom'. I wrote 'Boom, Boom'.
+3621	3624	Can I help you, boys? - You got any white bread?
+3624	3626	Yes.
+3626	3630	I'll have some toasted white bread, please.
+3631	3633	You want butter or jam on that toast, honey?
+3633	3636	No, ma'am. Dry.
+3636	3640	Got any fried chicken? - Best damn chicken in the state.
+3641	3643	Bring me four fried chickens and a Coke.
+3643	3645	You want chicken wings or chicken legs?
+3646	3648	Four fried chickens and a Coke.
+3648	3650	And some dry white toast, please.
+3650	3652	You all want anything to drink with that?
+3652	3654	No, ma'am. - A Coke.
+3654	3656	Be up in a minute.
+3656	3661	We got two honkies out there dressed like Hasidic diamond merchants.
+3661	3664	Say what? - They look like they're from the CIA.
+3664	3669	What they wanna eat? - The tall one wants white-bread toast.
+3669	3672	Dry. With nothing on it. - Elwood.
+3672	3677	And the other one wants four whole fried chickens and a Coke.
+3677	3680	And Jake. Shit. The Blues Brothers.
+3680	3683	Hi, Jake. - Matt. How you doing?
+3683	3685	How was Joliet? - Oh, it's bad.
+3686	3687	On Thursday night they serve a wicked pepper steak.
+3688	3691	Can't be as bad as the cabbage rolls at the Terre Haute Federal Pen.
+3691	3693	Or that oatmeal at the Cook County slammer.
+3693	3696	They're all pretty bad. - Matt...
+3696	3697	Me and Elwood...
+3698	3700	...we're putting the band back together.
+3700	3702	We need you and Blue Lou.
+3702	3704	Don't talk that way around here. My old lady...
+3704	3706	She'll kill me. - Ma'am, you gotta understand.
+3706	3710	This is a lot bigger than any domestic problems you might be experiencing.
+3710	3712	Matt, what the hell is he talking about?
+3712	3716	Don't get riled, sugar. - Don't you 'sugar' me.
+3716	3718	Now, you not going back on the road no more.
+3718	3721	And you ain't playing any more two-bit, sleazy dives.
+3721	3722	You're living with me now...
+3722	3726	...and you're not gonna go sliding around with your white hoodlum friends.
+3726	3731	But, babes. This is Jake and Elwood. The Blues Brothers.
+3731	3735	The Blues Brothers. Shit.
+3735	3738	They still owe you money, fool.
+3738	3739	Ma'am.
+3739	3742	Would it make you feel better if you knew...
+3742	3745	...that what we're asking Matt to do is a holy thing?
+3745	3748	You see, we're on a mission from God.
+3748	3751	Don't you blaspheme in here.
+3751	3753	Now, this is my man, my restaurant...
+3754	3756	...and you two are gonna walk right out that door...
+3756	3758	...without your dry, white toast...
+3758	3760	...without your four fried chickens...
+3760	3763	...and without Matt 'Guitar' Murphy.
+3763	3764	Now you listen to me. I love you.
+3764	3766	But I'm the man and you're the woman.
+3766	3768	And I'll make the decisions concerning my life.
+3768	3770	You better think about what you saying.
+3770	3773	You better think about the consequences of your actions.
+3773	3775	Shut up, woman.
+3775	3776	You better think
+3776	3778	Think about what you're trying to do to me
+3778	3780	Yeah, think
+3780	3782	Let your mind go Let yourself be free
+3782	3784	Let's go back
+3784	3786	Let's go way on back when
+3786	3790	I didn't even know you, you couldn't have been too much more than ten
+3790	3793	I ain't no psychiatrist I ain't no doctor with degree
+3793	3797	It don't take too much high IQ to see what you're doing to me
+3797	3798	You better think
+3799	3801	Think about what you're trying to do to me
+3801	3802	Think
+3802	3805	Let your mind go Let yourself be free
+3805	3808	Freedom
+3810	3814	Yeah, freedom right now
+3820	3822	Hey, think about it
+3822	3823	You, think about it
+3824	3826	There ain't nothing you could ask I could answer you, but I won't
+3827	3832	But I was gonna change that, I'm not if you keep doing things I don't
+3832	3834	Think about what you're trying to do to me
+3834	3835	Damn it
+3835	3838	Let your mind go Let yourself be free
+3838	3842	People walking around every day playing games and taking scores
+3842	3848	Tryin'to make people lose their mind Now, be careful you don't lose yours
+3853	3855	You need me
+3855	3857	And I need you
+3857	3860	Without each other there ain't nothing either can do...
+3860	3864	Yeah, think about it, baby - What you trying to do to me
+3864	3868	To the bone Think about it right now
+3868	3871	Oh, freedom
+3885	3887	You, think about it
+3887	3890	There ain't nothing you could ask I can answer you, but I won't
+3890	3896	But I was gonna change my mind if you keep doing things I don't
+3901	3903	You need me
+3903	3905	And I need you
+3905	3910	Without each other there ain't nothing either can do...
+3910	3912	Think about it, baby - What you're trying to do to me
+3912	3914	To the bone, man
+3914	3916	Think about it, baby...
+3916	3918	Yeah, right on - To the bone...
+3918	3922	For deepening - To the bone, for deeps
+3925	3927	Deepening
+3927	3929	Right now
+3929	3931	Think about it, yeah, yeah
+3931	3935	To the bone For deepening
+3936	3938	Think about it
+3938	3942	To the bone
+3944	3946	Don't give me the Blues Brothers
+3946	3948	You had better
+3948	3950	Stop and think about it
+3951	3954	Think
+3971	3974	Let's boogie.
+3986	3990	Well, go ahead, damn it.
+4002	4005	Shit.
+4076	4078	Pardon me...
+4078	4081	...but we do have a strict policy concerning handling the instruments:
+4081	4083	An employee of Ray's Music Exchange...
+4083	4085	...must be present.
+4085	4087	Now, may I help you?
+4087	4090	Ray, it's me. Joliet Jake.
+4090	4093	I once rented some column speakers from you...
+4093	4095	...for my band... The Blues Brothers.
+4095	4098	Hey, Ray. It's me. Murph, of Murph and the Magic Tones.
+4098	4099	Remember me? I bought three Fender amps.
+4100	4104	Oh, we sell a lot of amplifiers. - Not like these. They were beautiful.
+4104	4107	Upholstered with thick, red shag. - Right.
+4107	4111	I remember now. I'll buy them all back for 350 apiece.
+4111	4113	Three fifty?
+4113	4115	I paid 800 each not six months ago.
+4115	4118	You know... depreciation, man.
+4118	4120	Ray, we're here to buy stuff.
+4120	4125	We need pianos, amps, mikes... the works.
+4126	4129	Go on. Get.
+4131	4137	Breaks my heart: a boy that young going bad.
+4137	4139	Tell me a little about this electric piano.
+4139	4141	You have a good eye, my man.
+4141	4143	That's the best in the city of Chicago.
+4143	4145	How much? - Two thousand bucks and it's yours.
+4145	4150	You can take it home with you. I'll throw in the black keys for free.
+4150	4152	Two thousand for this chunk of shit?
+4152	4156	Come on, Ray.
+4156	4162	Really, Ray. It's used. There's no action left in this keyboard.
+4167	4169	Excuse me.
+4169	4174	I don't think there's anything wrong with the action on this piano.
+4179	4182	Well, I heard about the fella you've been dancing with
+4182	4185	All over the neighbourhood
+4186	4188	So why didn't you ask me, baby
+4188	4191	Didn't you think I could
+4191	4194	Well, I know that the bugaloo is out of sight
+4194	4197	But the shing-a-ling's the thing tonight
+4197	4200	But if that was you and me out there, baby
+4200	4202	I would have shown you how to do it right
+4203	4206	Do it right
+4217	4218	Twisting
+4218	4223	Shake it, shake it, baby
+4223	4226	Here we go loop-de-loop
+4227	4230	Shake it out, baby
+4230	4232	Here we go loop-de-lai
+4233	4237	Bend over Let me see you shake your tail feather
+4239	4243	Come on Let me see you shake your tail feather
+4247	4252	Come on Come on, baby
+4257	4259	All right
+4259	4262	Do the twist
+4262	4264	Do the fly
+4264	4268	Do the swim
+4268	4270	And do the bird
+4270	4273	Do the duck
+4273	4276	Do the monkey
+4277	4279	Watusi
+4279	4282	And what about the frug
+4283	4284	Do the mashed potato
+4284	4288	What about the bugaloo
+4288	4290	Oh, the Bony Maronie
+4290	4295	Come on, let's do the twist
+4298	4300	Twisting
+4300	4304	Shake it, shake it, baby
+4321	4323	Okay, man.
+4323	4325	We'll take these axes.
+4325	4331	Naturally. And as usual, I gotta take an IOU.
+4364	4367	You guys go inside. Get yourselves a bite.
+4367	4369	I've got to make a phone call.
+4369	4372	Does this phone call concern our first gig?
+4372	4376	Have I ever lied to you?
+4382	4385	What are we gonna do, man? We don't got no gig.
+4385	4387	How much money you got?
+4387	4389	I got a quarter. - That's enough for a phone call.
+4389	4393	Come on.
+4400	4403	What are you doing? - You said we were gonna make a call.
+4403	4404	I said I was gonna make a call.
+4405	4407	Who are you gonna call, Jake?
+4407	4408	Do you remember Maury Sline?
+4408	4411	Sline? Booking agent? What about him?
+4411	4414	He got us some good showcases in the old days.
+4414	4417	He got us the Morgan Park. He got us the Ticktock.
+4417	4420	I got him laid. He owes me.
+4420	4423	Give it a shot.
+4452	4457	There's got to be at least seven dollars' worth of change here.
+4464	4467	Sir.
+4469	4471	What did you find out? - Okay.
+4471	4474	I called a friend at the Motor Vehicle Department.
+4474	4477	That license plate is like a rash all over the computer.
+4478	4480	The car belongs to a known traffic menace.
+4480	4483	What's his name? - His name is Elwood Blues.
+4483	4488	He's got a record a mile long. And he's a Catholic.
+4489	4491	Did you get his address? - Of course.
+4491	4494	1060 West Addison.
+4494	4498	Let's go.
+4510	4514	Anybody with that kind of record is gonna make a mistake.
+4514	4517	I want all party members in the tristate district...
+4517	4522	...to monitor the city, county and state police on their CBs.
+4522	4524	Mr Blues is gonna fuck up.
+4525	4527	And when he does...
+4527	4533	...he better pray the police get to him before we do.
+4539	4543	We been in this car for three hours now. Where is this place?
+4543	4546	I told you it'd take a little while to get there.
+4546	4554	What's the name of the place? - The name of the place is...
+4554	4556	Bob's Country Bunker.
+4556	4561	Here we are. - Bob's Country Bunker?
+4578	4580	The sign says, 'Tonight only, the Good Ole Boys'.
+4580	4584	Blues Brothers. It should read, 'Tonight only...
+4584	4586	...the Blues Brothers' triumphant return.'
+4586	4588	Must be some kind of mistake.
+4588	4590	You guys unload the stuff.
+4590	4594	Elwood, come with me.
+4615	4616	What can I get you boys?
+4617	4619	You thirsty, hungry or just driving through?
+4619	4622	Maybe you'd like a beer or something a little harder?
+4622	4625	We happen to make the state's best pepper steak.
+4625	4627	No, thank you, ma'am.
+4627	4630	We may be sucking back a few beers later on.
+4630	4632	We'll be here all night. You see, we're the band.
+4633	4636	You are? Gee, that's nice.
+4636	4638	Hey, Bob, this is the band.
+4638	4640	All right.
+4640	4643	What kind of music do you usually have here?
+4643	4649	We got both kinds. We got country and western.
+4651	4653	Jake, are you sure this is the place?
+4653	4657	Yeah, sure. This is the place.
+4661	4664	Hi. You the Good Ole Boys? - That's us.
+4664	4667	The rest of the band's in the parking lot getting our stuff.
+4667	4669	Well, I'm sure glad to have you boys here.
+4669	4672	I'm Bob and this here is my place.
+4672	4675	Well, it's a beautiful place, Bob.
+4675	4680	I guess you wanna get your steel guitars and everything set up on stage.
+4680	4686	Claire, get up and turn those stage lights on and get these boys going.
+4689	4691	Chicken wire?
+4691	4695	What do you say we have a sound check?
+4697	4700	Excuse me, sonny. I'll give this to you. You're the tallest one.
+4700	4703	Okay. What is it?
+4703	4705	That there is a list of the songs...
+4705	4709	...that you boys will be playing tonight.
+4727	4732	I don't think we know any of the songs on this list.
+4732	4735	This list doesn't mean anything. They're just requests.
+4735	4737	Do our regular set. First tune.
+4737	4739	'Give Me Some Loving.' One, two...
+4739	4743	One, two, three, four.
+4756	4758	Shit.
+4758	4761	What are those damn freak pecker heads playing?
+4761	4765	Good evening, ladies and gentlemen. We're glad to be here tonight.
+4765	4770	We're the Good Old Blues Brothers Boys Band from Chicago.
+4770	4773	We hope you'll like our show. I'm Elwood. This is my brother Jake.
+4773	4777	Well, my temperature's rising And my feet on the floor
+4777	4780	Crazy people knockin' 'Cause they want some more
+4780	4784	Let me in, baby I don't know what you got
+4784	4786	Better take it easy 'Cause this place is hot
+4786	4790	And I'm so glad we made it
+4790	4794	That ain't no Hank Williams song.
+4794	4796	Give me some loving
+4796	4800	Get off the stage.
+4800	4802	Every day
+4802	4805	Why'd they turn off the lights?
+4805	4807	Maybe they blew a fuse. - I don't think so.
+4808	4809	Those lights are off on purpose.
+4810	4813	We gotta figure out something these people like, and fast.
+4813	4815	I got it. Remember the theme from 'Rawhide'?
+4815	4817	Old favourite. Rowdy Yates.
+4817	4820	What key? - 'A'. Good country key.
+4820	4823	'Rawhide' in 'A'.
+4828	4831	Rollin', rollin'
+4831	4833	Though the streams are swollen
+4833	4835	Keep them dogies rollin'
+4836	4838	Rawhide
+4838	4842	Through rain and wind and weather Hell-bent for leather
+4842	4848	Wishin'my gal was by my side
+4848	4850	All the things I'm missin'
+4850	4852	Good vittles, love and kissin'
+4852	4857	Are waiting at the end of my ride...
+4857	4858	Move 'em on - Head 'em up...
+4858	4859	Head 'em out - Move 'em on...
+4859	4860	Move 'em on - Head 'em up
+4861	4862	Rawhide Cut 'em out
+4862	4863	Ride 'em in
+4864	4865	Cut 'em out
+4865	4871	Ride 'em in, rawhide
+4924	4930	Theme from the TV show 'Rawhide'. Thank you.
+4936	4942	We'd like to do a favourite of the horn section. We hope it's one of yours.
+4944	4950	Sometimes it's hard to be a woman
+4952	4955	Giving all your love
+4955	4960	To just one man
+4960	4964	And if you love him
+4964	4968	Oh, be proud of him...
+4968	4971	'Cause after all
+4971	4976	He's just a man
+4977	4980	Stand by your man
+4980	4984	Give him two arms to cling to
+4984	4989	And something warm to come to
+4989	4992	When nights are cold and lonely
+4992	4997	Stand by your man
+4997	5001	And tell the world you love him
+5001	5008	Keep giving all the love you can
+5009	5016	Stand by your man
+5017	5021	Stand by your man
+5021	5025	And show the world you love him
+5025	5031	Keep giving all the love you can
+5032	5034	Baby
+5034	5036	Stand by
+5036	5041	Your man
+5063	5065	Well, folks, it's time to call it a night.
+5065	5068	But do what you feel, and keep both feet on the wheel.
+5068	5070	You don't have to go home but you can't stay here.
+5070	5071	So, till next time:
+5071	5072	Move 'em on - Head 'em up...
+5072	5075	Head 'em up - Move 'em on
+5075	5076	Rawhide...
+5076	5077	Cut 'em out - Ride 'em in...
+5077	5079	Ride 'em in - Cut 'em out
+5079	5085	Ride 'em in, rawhide
+5087	5092	Let's get the hell out of here.
+5097	5101	Shit, I wanna tell you, that's some of the best goddam music we've had...
+5101	5103	...at the Country Bunker in a long time.
+5103	5107	Well, sorry we couldn't remember 'The Wreck of the Old 97'.
+5107	5111	Why, hell. You guys can learn it next time when you come back.
+5111	5114	Bob, about our money for tonight.
+5115	5117	That's right.
+5117	5119	Two hundred dollars...
+5119	5122	...and you boys drank $300 worth of beer.
+5122	5124	When we first came in...
+5125	5127	...the bar lady never charged us for the first round.
+5127	5133	So, like, we figured beer was complimentary for the band.
+5135	5138	Well, I'll just go out and take up a collection from the boys.
+5138	5142	I sure would appreciate it.
+5147	5149	I say this trip is nowhere, man.
+5149	5151	I say we gotta quit.
+5151	5154	What? Quit?
+5154	5157	I wish you guys would make up your mind.
+5157	5160	Otherwise I gotta call Mr Ronzini at the Holiday Inn to get our old gig back.
+5160	5163	Back at the Armada Room?
+5163	5166	Listen, they want us to pay for the beer we drank.
+5166	5167	So you'd better split.
+5167	5171	The next gig is gonna be dynamite.
+5171	5175	Huge. You'll see.
+5178	5181	I say we give the Blues Brothers just one more chance.
+5181	5184	Why not? If the shit fits, wear it.
+5184	5188	Scoot over, goddam it.
+5193	5196	Boys look a little upset.
+5196	5198	Hey, man. Don't worry. We got a couple of days.
+5198	5201	We'll get the Penguin's tax money.
+5201	5205	I mean, look. We got an appointment to see Mr Sline tomorrow.
+5205	5207	Everything's gonna be all right.
+5207	5210	Let's skate.
+5210	5214	Goddam it.
+5216	5218	Excuse me. Are you the Good Ole Boys?
+5218	5221	That's right. I'm Tucker McElroy, lead singer, driver of the Winnebago.
+5221	5223	I'd like to talk to you, but we're running very late.
+5224	5228	I'm Jacob Stein, American Federation of Musicians Union, Local 200.
+5228	5230	I've been sent here to see if you're carrying your permits.
+5230	5232	Our what?
+5232	5236	Your union cards. May I see your cards, please?
+5236	5239	Suppose we ain't got no union cards, and we go in and start playing anyway?
+5239	5242	What you gonna do about that? You gonna stop us?
+5242	5244	Stein.
+5245	5250	You gonna look funny trying to eat corn on the cob with no fucking teeth.
+5250	5254	Listen, let me talk to Bob, the owner.
+5255	5258	See if we can put your band on contract waivers for tonight.
+5258	5260	I don't want you to move from this spot.
+5260	5264	Just let me handle this.
+5266	5270	We'll talk to Bob.
+5272	5276	Get in the car and start her up.
+5278	5281	You know you boys owe me a lot of money for that beer you drank.
+5281	5284	Goddam it. - Bob, we loved playing here tonight.
+5284	5287	My brother's writing out an American Express traveller's check...
+5287	5289	...to cover the bar tab.
+5289	5291	I sure would appreciate it.
+5291	5294	I'd better check up, see how he's doing. I have to sign it too.
+5295	5301	I usually sit in the car and write it out on the glove compartment lid.
+5304	5307	Need a pencil.
+5316	5319	Were them guys from the union? - What the hell, 'union'?
+5319	5322	Those boys skipped out of here owing me a lot of money for beer.
+5322	5325	What the hell are you guys all dressed up for?
+5325	5326	We're the Good Ole Boys.
+5326	5331	You're the Good Ole Boys?
+5348	5353	'A.F.M.' Shit.
+5370	5374	Our Lady of Blessed Acceleration, don't fail me now.
+5387	5390	I don't believe it. It's that shit-box Dodge again.
+5390	5394	The bastards are ours now.
+5412	5416	Holy shit.
+5425	5429	Boys, you in big trouble.
+5431	5433	Maury, you owe me.
+5433	5436	We'll play anywhere, anytime, for anybody.
+5436	5440	Put us in the Double Up Lounge, or the Morgan Park Theatre, or the Crystal.
+5440	5442	We always knocked them dead in those joints.
+5442	5447	Discos. They're all discos.
+5447	5451	Singles. Mixed singles. Gay singles.
+5451	5454	These people like to dance with each other.
+5454	5456	We are a dance band.
+5456	5459	I don't know, boys. I just don't know.
+5460	5462	Times have changed, you know what I mean?
+5463	5465	What are you guys gonna do? The same act?
+5465	5466	You wear the same 'farkakte' suits.
+5467	5469	You'll scare people away.
+5469	5471	Don't you ever wear blue jeans or jump suits...
+5471	5474	...like Wayne Cochran and the C.C. Riders?
+5474	5477	You gotta come through for us.
+5477	5480	We need 5,000 bucks fast.
+5480	5482	Five thousand bucks?
+5482	5485	Who do you think you are? The Beatles?
+5485	5488	You know the size hall you gotta work to take in that kind of money?
+5488	5492	We'll fill any hall in the country.
+5493	5496	You guys familiar with the Palace Hotel ballroom?
+5496	5500	Never heard of it. - Nice place up north.
+5500	5503	Built in the '40s on Lake Wazapamani.
+5503	5505	That seats 5,000.
+5505	5507	You guys fill that place, you can make 5,000 bucks, easy.
+5507	5511	Book us for tomorrow night. - Hold it. Tomorrow night?
+5511	5514	A gig like that, you gotta prepare the proper exploitation.
+5514	5517	I know about that stuff. I been exploited all my life.
+5517	5522	Forget it. There's no way with you guys. Forget about it.
+5523	5526	Say, how's Mrs Sline?
+5526	5530	I might have some information she'd like to know.
+5533	5535	You blackmailing me?
+5535	5539	If you wanna put it that way. Maury, we need this gig.
+5539	5542	We're on a mission from God.
+5544	5547	Get us the hall, and I guarantee we'll pack them in for miles around.
+5547	5550	What do you say?
+5551	5554	Okay. I'll get you the Palace Hotel.
+5554	5557	I'll print up show bills. I'll make the place look real pretty, okay?
+5557	5562	I don't think you guys are gonna gross dollar one.
+5562	5564	But if you do, I want a taste of the gig, okay?
+5564	5568	Thanks, Maury. Let's go, boys.
+5573	5578	Listen, you boys heard me talk about Jake and Elwood.
+5578	5580	They used to live here, just like you.
+5580	5583	And I used to sing to them, just like with you.
+5583	5587	Tonight Jake and Elwood are going out to sing and play...
+5587	5589	...to raise money to help you children.
+5589	5591	Your lazy butts are in this too.
+5591	5593	So get up on that wagon.
+5593	5598	We're going up north to put the word on the streets.
+5617	5621	Tonight only, the fabulous Blues Brothers...
+5621	5624	Rhythm and Blues Revue...
+5624	5628	...at the Palace Hotel ballroom, Route 16...
+5629	5631	Lake Wazapamani.
+5631	5633	The fabulous Blues Brothers...
+5633	5637	Show Band and Revue.
+5640	5643	There you go, boy.
+5643	5645	All right, man.
+5646	5647	Check it out.
+5647	5650	Tonight only. - From Chicago.
+5650	5653	The Blues Brothers. - Rhythm and Blues Revue.
+5653	5655	One night only. The fabulous...
+5655	5659	Blues Brothers Show Band and Revue.
+5662	5664	You. On the motorcycle.
+5665	5667	You two girls.
+5667	5672	Tell your friends. - Free parking.
+5672	5674	Two-dollar cover charge only, folks.
+5674	5679	That's a lot of entertainment. - For two dollars.
+5679	5684	Will you please put this in the window, 'cause it's real important.
+5694	5697	Tonight only, from Chicago...
+5697	5700	...the fabulous Blues Brothers...
+5701	5703	Rhythm and Blues Revue...
+5703	5707	...for your dancing pleasure.
+5707	5710	And it's ladies'night tonight.
+5710	5714	at the Palace Hotel ballroom.
+5721	5723	'Tonight only, the Blues Brothers...
+5723	5726	...genuine Rhythm and Blues Show and Revue.
+5726	5730	Palace Hotel ballroom. Tonight only.'
+5731	5732	How we doing?
+5732	5738	So far we covered Lake, McHenry...
+5738	5740	...and part of Du Page County.
+5740	5744	Good. Let's get to the gig.
+5745	5747	What is it?
+5747	5750	We're out of gas.
+5750	5755	Oh, shit.
+5776	5779	Wow. A classic. What a room.
+5779	5780	This place is gonna swing tonight.
+5781	5782	It's a fucking barn. We'll never fill it.
+5782	5785	We've gotta fill this hall tonight.
+5785	5787	A lot of young children are depending on it.
+5787	5790	Young children? What do you mean?
+5790	5793	Jake and Elwood are donating the band's share of the door money...
+5794	5796	...to pay the taxes on the St. Helen's orphanage...
+5796	5798	...in Calumet City.
+5798	5799	What?
+5799	5804	We're out of gas. - Yep. Mind if we fill her up?
+5804	5807	Nope. I said 'we're' out of gas.
+5807	5810	Tanker truck's late. Should have been here two hours ago.
+5810	5813	It's always late on Thursdays.
+5813	5818	I guess we'll have to wait.
+5841	5845	Excuse me, sir.
+5845	5851	Yes, you. Could you fill it up with premium, and check under the hood?
+5852	5854	Sure.
+5854	5858	You want I should wash the dead bugs off the windshield?
+5859	5862	No. I'm in kind of a hurry.
+5871	5872	Where in the hell are they?
+5872	5877	So maybe you'd like to come by and see the show.
+5877	5883	I'm awfully sorry, but I do have a prior dinner engagement.
+5890	5893	Thanks, Marvin.
+5896	5900	Get me Troopers Daniel and Mount.
+5905	5908	I don't see those Blues Brothers.
+5908	5911	We'll wait.
+5911	5914	Okay, you're all set.
+5914	5920	That'll be $94.
+5921	5922	Here's 95. Thank you.
+5922	5925	Okay. And that's a dollar change.
+5926	5931	Oh, keep the change. - Thanks.
+5931	5935	So, look. If your date...
+5935	5937	...don't work out tonight for any reason...
+5937	5941	...there's a motel up on the interstate.
+5942	5945	Maybe we could, say, meet...
+5946	5950	...around midnight?
+5950	5954	I'll think about it, Elwood, okay?
+5954	5957	Bye.
+5970	5973	Son of a bitch.
+5973	5976	Come on.
+6008	6012	We're really late. You'd better step on it.
+6020	6023	I always like to perform for angry mobs.
+6023	6024	You can't quit now.
+6024	6028	What can they be doing?
+6044	6047	My head hurts.
+6047	6049	That Night Train's a mean wine.
+6049	6051	You'd better get bright. We got a show to do.
+6051	6053	Then we gotta figure out some way to collect that gate money...
+6053	6060	...get it to the County Assessor's office as soon as they open in the morning.
+6066	6069	We want the show.
+6078	6081	Gentlemen, I'm leaving.
+6081	6083	Man, we were so close.
+6083	6085	Hey, you guys know 'Minnie The Moocher'?
+6085	6087	I knew a hooker once named Minnie Mazola.
+6088	6090	No. The song 'Minnie the Moocher'.
+6090	6094	Yeah. So what? - Hit it.
+6123	6128	Hey, folks, here's a story 'bout Minnie the Moocher
+6129	6133	She was a low-down hoochie coocher
+6134	6137	She was the roughest, toughest frail
+6138	6140	But Minnie had a heart
+6140	6144	As big as a whale
+6163	6167	She messed around with a bloke named Smokey
+6168	6172	She loved him though he was cokey
+6172	6176	He took her down to Chinatown
+6176	6183	And he showed her how to kick the gong around
+6223	6227	She had a dream about the King of Sweden
+6227	6231	He gave her things that she was needin'
+6231	6236	He gave her a home built of gold and steel
+6236	6242	A diamond car with the platinum wheels
+6299	6304	This is glue. Strong stuff.
+6309	6311	What the hell are you doing?
+6311	6314	This can is from a surplus disposal run.
+6314	6317	Fifteen overcharged ounces of pure, uncompounded...
+6317	6320	...isopropyl butane monosulfate.
+6320	6322	When combined with oxygen and a little heat...
+6322	6326	...it will cause a rapid expansion.
+6352	6357	Poor Min, poor Min...
+6399	6401	Let's take them. - Wait a minute.
+6401	6404	I've never even heard these boys sing, all right?
+6405	6406	All right.
+6406	6409	They're not going no place.
+6409	6413	All right, cover all exits. Let's go. Come on. Hurry up.
+6415	6419	Move it.
+6437	6440	Who wants an Orange Whip? Orange Whip?
+6441	6444	Three Orange Whips.
+6462	6464	Excuse us.
+6464	6468	Good evening, ladies.
+6503	6507	One, two, one, two, three, four.
+6528	6532	Now, ladies and gentlemen, it is the distinct pleasure of the management...
+6532	6536	...to present to you the evening's star attraction.
+6537	6541	Here they are, back after their exclusive three-year tour...
+6541	6545	...of Europe, Scandinavia and the subcontinent.
+6545	6549	Won't you welcome from Calumet City, Illinois...
+6549	6554	...the show band ofJoliet Jake and Elwood Blues.
+6555	6559	The Blues Brothers.
+6594	6598	One, two. One, two, three, four.
+6607	6609	We're so glad to see so many lovely people here tonight.
+6610	6612	We'd like to welcome all the representatives...
+6612	6614	...of Illinois' law enforcement community...
+6614	6618	...who have chosen to join us in the Palace Hotel ballroom at this time.
+6618	6620	We certainly hope you all enjoy the show.
+6620	6622	And remember that no matter who you are...
+6622	6625	...and what you do to live and survive...
+6625	6628	...there's still some things that make us all the same.
+6628	6633	You. Me. Them. Everybody.
+6633	6636	Everybody
+6636	6638	Needs somebody
+6638	6641	Everybody
+6641	6644	Needs somebody to love
+6645	6647	Someone to love
+6648	6650	Sweetheart to miss
+6650	6653	Sugar to kiss
+6653	6656	I need you, you, you
+6660	6662	In the morning
+6662	6666	When my soul's on fire
+6667	6668	Sometimes I feel
+6668	6671	I feel a little sad inside
+6671	6675	When my baby mistreats me I never, never
+6675	6678	Find a place to hide I need you
+6696	6699	Sometimes I feel
+6699	6701	I feel a little sad inside
+6701	6703	When my baby mistreats me
+6703	6709	I never, never find a place to hide I need you
+6716	6719	People, when you do find that special somebody...
+6719	6721	...you gotta hold that man, hold that woman...
+6721	6722	Iove him, please him, squeeze her, please her.
+6723	6725	Signify your feelings with every caress.
+6725	6727	Because it's so important to have that special somebody...
+6727	6729	...to hold, kiss, miss...
+6730	6731	...to squeeze and please.
+6731	6736	Everybody needs somebody
+6736	6738	Everybody
+6738	6742	Needs somebody to love
+6742	6745	Someone to love
+6745	6747	Sweetheart to miss
+6747	6749	Sugar to kiss
+6750	6753	I need you, you
+6759	6761	In the morning
+6762	6765	When my soul's on fire
+6765	6770	When there ain't no one around I need you
+6801	6805	Thank you. That was for Wilson Pickett.
+6806	6809	This is dedicated to the late, great Magic Sam.
+6809	6814	One, two. One, two, three, four.
+6820	6826	Come on Baby, don't you wanna go
+6835	6838	Back to that same old place
+6838	6842	Sweet home Chicago
+6844	6846	Six and three is nine
+6846	6848	Nine and nine is eighteen
+6848	6853	Look there, brother, baby and see what I see...
+6917	6919	The Mafia's after us now. - You guys were hot.
+6919	6922	You were great. I've got to record you.
+6922	6925	Bullshit. - I don't bullshit.
+6925	6927	I'm president of Clarion Records...
+6927	6929	...the largest recording company on the eastern seaboard.
+6930	6932	So what? - Here's $10,000.
+6932	6937	An advance on your first recording session.
+6938	6940	Is it a deal?
+6940	6942	Yeah. Sure, it's a deal.
+6942	6945	Yeah. Sure, it's a deal.
+6945	6948	Listen, all these cops out here... they're waiting for us.
+6948	6951	We gotta get out with nobody seeing us. You know a back door out?
+6951	6955	Sure. I used to be head bouncer here back in the '70s.
+6955	6958	There's an electrical service duct behind your drummer's riser.
+6959	6961	Do us a favour.
+6961	6964	Take $1,400 and give it to Ray's Music Exchange...
+6964	6967	...in Calumet City, and give the rest to the band.
+6967	6968	You got it. - Thanks.
+6969	6972	Bye.
+6988	6994	Me and Elwood are gonna make a break for it. You and the band keep playing.
+7008	7013	Something's wrong. - Where's Jake?
+7015	7019	Where'd they go?
+7030	7033	I sure hope this thing leads someplace.
+7033	7037	Elwood, we're gone, man.
+7044	7046	Who is that girl?
+7046	7049	Well, Jake.
+7049	7052	You look just fine down there...
+7052	7054	...slithering in the mud like vermin.
+7054	7057	No problem.
+7057	7061	You're not gonna get away from me this time.
+7065	7068	Check that out. Let's go.
+7086	7089	It's good to see you, sweetheart.
+7089	7093	You contemptible pig.
+7093	7096	I remained celibate for you.
+7097	7099	I stood at the back of a cathedral...
+7100	7102	...waiting, in celibacy, for you...
+7102	7106	...with 300 friends and relatives in attendance.
+7106	7109	My uncle hired the best Rumanian caterers in the state.
+7109	7112	To obtain the seven limousines...
+7112	7116	...my father used up his last favours with Mad Pete Trullo.
+7116	7119	So for me, for my mother...
+7119	7123	...my grandmother, my father, my uncle and for the common good...
+7123	7128	I must now kill you and your brother.
+7140	7145	Oh, please don't kill us.
+7145	7149	You know I love you, baby. I wouldn't leave you. It wasn't my fault.
+7149	7151	You miserable slug.
+7151	7154	You think you can talk your way out of this? You betrayed me.
+7154	7157	No, I didn't. Honest.
+7157	7159	I ran out of gas.
+7159	7163	I had a flat tyre. I didn't have money for cab fare.
+7163	7165	My tux didn't come back from the cleaners.
+7165	7167	And old friend came in from out of town.
+7167	7171	Someone stole my car. There was an earthquake. A terrible flood.
+7171	7178	Locusts. It wasn't my fault, I swear to God.
+7199	7202	Jake, honey.
+7214	7217	Let's go.
+7219	7222	Take it easy.
+7236	7240	You're now going to totally demolish that car.
+7241	7247	You want to maybe consider going after the Blues Brothers?
+7255	7258	It's 106 miles to Chicago.
+7258	7261	We got a full tank of gas, half a pack of cigarettes...
+7261	7264	...it's dark and we're wearing sunglasses.
+7264	7266	Hit it.
+7309	7312	Shit, man. Can't this damn thing go any faster than this?
+7312	7316	Bob, I think I've got a little problem.
+7317	7321	Goddam, boy.
+7343	7346	Shit.
+7372	7377	Don't you say a fuckin' word.
+7413	7416	All units, we have a ten-seven-niner.
+7416	7418	Officers are in pursuit:
+7418	7421	a black-and-white 1974 Dodge sedan...
+7422	7424	...southbound on 47.
+7424	7427	Respond to signal, ten-seven-niner.
+7427	7430	Occupants of vehicle: one Joliet Jake Blues...
+7431	7433	...one Elwood Blues.
+7433	7437	Considered extremely dangerous. - Gruppenfuehrer.
+7447	7452	Jake, I gotta pull over.
+7460	7464	Southbound on State Highway 47.
+7488	7490	Hi. Wanna hand me the mike?
+7491	7493	Thanks a lot.
+7493	7496	This is car... What number are we?
+7496	7498	Five-five.
+7498	7503	Car 55. We're in a truck.
+7509	7512	Signal ten-seven-niner still engaged.
+7512	7516	Vehicle travelling southbound approaching Chicago city limits.
+7516	7519	Commander advises will contact Chicago precincts...
+7519	7520	...for a local intercept.
+7521	7523	Maintain pursuit.
+7529	7531	Use of unnecessary violence...
+7531	7536	...in the apprehension of the Blues Brothers has been approved.
+7563	7566	Well, this is definitely Lower Wacker Drive.
+7566	7569	If my estimations are correct...
+7569	7574	...we should be very close to the Honourable Richard J. Daley Plaza.
+7574	7578	That's where they got that Picasso. - Yep.
+7730	7733	Son of a bitch.
+7738	7742	There they are.
+7781	7783	Oh, no. - What the fuck was that?
+7783	7785	The motor. It's thrown a rod.
+7786	7790	Is that serious? - Yep.
+7817	7820	Faster.
+7871	7874	Holy shit.
+7894	7897	I've always loved you.
+7908	7910	There it is.
+7953	7957	Come on.
+7996	8001	Sir, where's the office of the assessor of Cook County?
+8001	8003	Down the hall. Turn right.
+8003	8005	Take the elevator to 1102.
+8005	8008	Thank you, sir.
+8146	8148	Excuse me. Did you see two guys...
+8148	8150	...with black suits and hats, one carrying a briefcase?
+8150	8152	Yeah. I just sent them down there.
+8152	8156	Thank you.
+8173	8177	Hold the door.
+8204	8208	Let's go.
+8275	8278	Can I help you?
+8280	8283	This is where they pay taxes, right? - Right.
+8283	8284	This money is for the year's assessment...
+8285	8288	...on the St. Helen of the Blessed Shroud Orphanage in Calumet City, Illinois.
+8288	8292	Five thousand bucks. It's all there, pal.
+8298	8300	Stand back.
+8300	8303	Fire.
+8324	8329	And here is your receipt.
+8346	8348	Warden threw a party in the county jail
+8348	8351	Prison band was there and they began to wail
+8351	8354	The band was jumping and the joint began to swing
+8354	8356	You should of heard those knocked-out jailbirds sing
+8356	8358	Let's rock
+8358	8361	Everybody, let's rock
+8361	8363	Everybody on the whole cell block
+8364	8366	Was dancing to the jailhouse rock
+8366	8369	Spider Murphy played the tenor saxophone
+8369	8371	Little Joe was blowin' on the slide trombone
+8372	8374	The drummer boy from Illinois went crash, boom, bang
+8374	8376	The whole rhythm section was the Purple Gang
+8377	8381	Let's rock Everybody, let's rock
+8382	8384	Everybody on the whole cell block
+8384	8388	Was dancing to the jailhouse rock
+8455	8457	Sad Sack was sitting on a block of stone
+8457	8459	Way over in the corner weeping all alone
+8460	8462	The warden said Buddy, don't you be no square
+8462	8464	If you can't get a partner use a wooden chair
+8464	8466	Let's rock
+8466	8469	Everybody, let's rock
+8469	8472	Everybody on the whole cell block
+8472	8477	Was dancing to the jailhouse rock

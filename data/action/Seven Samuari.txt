@@ -1,0 +1,603 @@
+14	21	Toho Co. Ltd., Japan MCMLIV
+24	32	SAMURAI IMUSASHI MIYAMOTO
+34	37	From Hideji Hojo's adaptationof the novel "Musashi"by Eiji Yoshikawa
+39	41	ProducerKazuo Takimura
+42	45	ScreenplayTokuhei Wakao and Hiroshi lnagaki
+45	48	CinematographyJun Yasumoto
+48	51	Art DirectionMakoto Sono and Kisaku lto
+53	55	SoundChoshichiro Mikami
+55	56	LightingShoji Kameyama
+56	59	MusicIkuma Dan
+59	70	CastTakezo/Musashi - Toshiro MifuneMatahachi - Rentaro MikuniTakuan - Kuroemon Onoe
+70	86	Otsu - Kaoru YachigusaAkemi - Mariko OkadaOko - Mitsuko MitoOsugi - Eiko MiyoshiSeijuro Yoshioka - Akihiko Hirata
+87	93	DirectorHiroshi Inagaki
+97	102	A battle is about to be fought
+102	105	between the armies of the Eastand the West -
+105	108	For supremacy in medieval Japan
+110	113	1600 A.D.
+115	120	Miyamoto Village
+167	172	What will you do? Have you decidedabout a woman? -Are you going?
+172	175	I am going
+176	178	I'll be famous aftermy first battle
+178	180	Then what will the villageelders say!
+183	186	What do you say?Join me
+192	197	Oh yes!You have your mother to look after
+198	201	And Otsu to marry
+204	207	I am all alone. You are not
+208	210	I will go alone
+213	214	Takezo!
+216	218	Takezo!
+221	225	Bad one! Climbing trees again!
+226	229	Takezo!The priest will scold you!
+231	234	Really, Takezo!
+237	240	You too, Matahachi!
+255	257	Listen, Otsu!
+258	263	You are engaged to me, aren't you?
+266	272	If, well, for instance, if...
+272	275	If I left for a year,what would you do?
+276	282	Would you wait for me?-Where are you going?
+282	284	I am not going anywhere
+285	288	I mean, "in case"
+289	294	I would wait. For a year,even for ten years!
+295	296	You will?
+297	303	You are going to battle!-No. Not l!
+304	307	You lie!Takezo has tempted you
+309	314	Do not go, please!What will become of me?
+314	321	I have tested your love.-Do not go!
+322	326	I will never leave you!
+395	399	Battle of Sekigahara
+439	441	Look! What's that?
+442	446	Run for your life! Run!
+447	451	No use digging!Run! Quickly!
+454	455	Unbelievable!
+455	459	Where are our troops?
+461	466	Enemy crossed the river!We've been defeated! Routed!
+474	477	Can this be the end of the war?
+478	482	They make us dig like slaves
+482	484	But the war is lost!
+486	489	You run!-And you?
+489	493	Our cause is not lost.I will fight on!
+500	503	Me, too!-No! Run!
+503	507	It is not over yet.I may get a captain's head!
+656	661	Courage! Matahachi!Your wound is slight!
+661	663	I will die!
+664	669	Don't talk like that.-I want to live to see her!
+669	671	Courage!
+673	677	I see a house!
+678	682	I can't quite make it out.Keep your strength up
+684	686	Otsu is an orphan
+686	690	After I am gone,please look after her
+697	701	Spare no one!Search everywhere!
+722	724	Look! Matahachi!The house!
+725	728	I can't go on.-It is true! Look!
+776	777	Mother!
+787	788	Give us food!
+789	791	And keep quiet!
+839	842	You must be hungry.Sorry I am late
+856	858	Thank you. I will eat later
+859	864	I'm tired of eating gruel.-The wound is healing fast
+865	867	It has been two months already
+869	874	Where is he?-Riding again. He likes to
+874	878	It's not just that.He's trying to conquer the horse
+879	881	He rides until he exhausts it
+882	887	He has always been ruthless.-I like that type of man!
+898	902	How I long for home!But this must mend itself first
+903	906	The skin has not healed over
+907	911	I can walk, though.-Do not overexert yourself
+911	916	We cannot stay here forever.-But we are glad to have you
+916	921	You see, we are alone.It is lonely here
+921	927	Stay until you recover.-The enemy might discover us
+927	932	They do not look for suchunimportant... Pardon me!
+933	937	Unimportant. That's right!
+937	939	Let me do it
+944	948	We left home thinking we couldbecome samurai so easily
+950	953	What a dream!
+954	958	Bear it, weakling!
+1017	1020	Takezo!Give me a ride!
+1028	1030	Otsu, my love!
+1031	1033	Forgive me!
+1037	1041	Who is this Otsu?-A girl of our village
+1041	1046	Your sweetheart?-No, Matahachi's betrothed
+1046	1050	Matahachi's?-A nice, sweet girl
+1050	1052	And she excelled a rough riding
+1053	1057	You think I'll be frightened?-You will if I let him out!
+1057	1060	I will not! Try him!
+1060	1064	You'll scream.Your mother will be angry
+1064	1068	Do not worry!I will not scream. Please!
+1068	1071	Stubborn!-Coward!
+1071	1074	Coward?-You big coward!
+1082	1084	Do not cry out!
+1105	1106	Are you all right?
+1108	1111	That crazy mean horse!
+1111	1116	It is not his fault.-You think it's mine?
+1116	1118	Do not be angry
+1137	1141	Why don't you hold mein your arms?
+1143	1145	Women!
+1167	1170	Wench! Listen!
+1178	1180	Is your mother home?
+1183	1187	Warn her!Tell her she's trespassing!
+1187	1192	We will collect our share ofthe tribute soon! Remember!
+1192	1197	I will run you two out of thisterritory unless you behave!
+1209	1211	Who's that?
+1211	1213	A brigand
+1228	1232	Hurry! He will be back again!
+1236	1239	Say! This is splendid!
+1245	1247	What is your trade?
+1248	1251	Outwardly, herb-farming
+1251	1256	And actually?-Actually?
+1257	1261	Connected with brigands?-To some extent
+1261	1265	Mother! This is solid gold!
+1268	1271	It is. Splendid!
+1272	1277	Stripping dead samurai?-Yes. Otherwise we cannot live
+1277	1280	Not scared?-So what?
+1280	1284	You also?-Of course. They are dead!
+1293	1296	Will that brigand really come?
+1298	1301	Is your mother not frightened?
+1302	1304	Is the hiding-place far?
+1306	1308	Please speak to me
+1310	1312	Do not be angry with me
+1313	1316	Forget it!You have Otsu!
+1327	1330	He has no right to stop me
+1330	1333	I can do whatever I like!
+1334	1336	He killed my husband
+1337	1342	People say so.But I hate to believe it
+1343	1347	My man was a bigger man.Stronger and finer
+1347	1349	Though he too was a brigand
+1356	1358	Drink?-I cannot
+1358	1361	Give me that wooden sword!
+1362	1364	You are a child
+1369	1371	I will not be here long
+1371	1376	I will go to Kyotofor some real business
+1376	1378	What about you?
+1378	1383	I cannot go home yet.-Waiting for another battle?
+1384	1387	First fame, then I shallreturn home
+1388	1391	Parents?-No
+1391	1393	Relatives?-Yes
+1394	1397	I am wild, so they hate me
+1397	1399	Lonely?-No!
+1403	1405	Good fortune to you!
+1414	1417	Already!-The bandit!
+1417	1420	Good! I shall test this.-Wait!
+1450	1453	Are you alone?Where's the wench?
+1455	1461	Bring out the treasure quietly,quick! Or you'll regret it!
+1465	1469	Stubborn one!-Let us search!
+1482	1483	The ceiling!
+1516	1517	Who are you?
+1518	1520	Kill him!
+1660	1664	I will never let you go!-What are you doing?Never!
+1665	1668	A woman is drawn to a strong man!
+1668	1671	You make me feel like a woman!
+1671	1674	Take me, Takezo!
+1675	1678	I love you!
+1678	1683	A woman says this,only when she loves!
+1686	1688	Take me!
+1715	1718	Who was that running passed us?
+1739	1742	Must we leave at once?-Yes!
+1742	1744	We have to get out before dawn
+1744	1747	His bandits are boundto come to kill us!
+1747	1749	We'll fight
+1750	1753	We'll wait for Takezo, won't we?
+1753	1755	He won't come back!
+1756	1758	Why?
+1759	1763	He attempted to assault me.He is a savage!
+1765	1768	I repulsed him. He ran away
+1769	1776	You're gentle and kind, Matahachi,not like that wild boar!
+1776	1782	Please help us. Will you?Will you help us?
+1800	1802	Takezo!
+1871	1874	That fool!What about your mother and Otsu?
+1902	1904	You fool, Matahachi!
+1908	1911	You fool, Matahachi!
+1924	1928	Give them our gold!
+1928	1931	Never!-Our lives...
+1932	1935	Do not touch the women!We can talk!
+1973	1975	Matahachi!
+1975	1978	You are brave!
+1994	2000	"All travelers must showproper identification"
+2002	2007	What is your destination?-Miyamoto Village
+2007	2009	He looks like a bandit
+2009	2010	Seize him!
+2054	2058	Priest Takuan! Look at yourself!
+2060	2064	"Holy I am alone..."
+2069	2072	Drink, my newborn Buddha!
+2072	2075	Find me a drying pole instead
+2075	2078	I washed my only clothes
+2079	2081	What will you do in the meantime?
+2081	2084	I shall stay like this
+2084	2088	Please! It is unbecoming!-What do you mean?
+2090	2095	Human beings are born naked.-Oh! You priests!
+2125	2126	Mother Osugi!
+2127	2129	Otsu! My dear!-What is happening?
+2129	2134	I hear Takezo broke through theguard and is in this area
+2134	2137	We may hear about Matahachi!
+2139	2142	So you are Takezo's relatives?
+2145	2149	We are quite distant relatives, sir
+2149	2153	And we have nothing to do with him
+2153	2157	He was such an unmanageable fellow
+2157	2161	We outlawed him.We call him "The Lawless"
+2161	2163	Very well. Now listen!
+2165	2169	I am organizing a hunt for him,with my base at this temple
+2170	2173	All of you will cooperateand assist us!
+2174	2180	That "Lawless" Takezo is a terror
+2180	2183	He let my son die aloneand he shamelessly came home
+2183	2185	We must punish him!
+2204	2206	Matahachi, where are you?
+2242	2245	How criminal!Bloodshed in a temple!
+2246	2248	What audacity to come here!
+2248	2252	He is a demon!A devil, indeed!
+2255	2259	The village will be penalizedfor this! Understand?
+2260	2266	Two from each family shallreport at once for the hunt!
+2266	2268	That is an order!
+2274	2279	Hurry up!
+2304	2308	Now arrest all villagersrelated to him!
+2308	2310	They will be the bait!
+2370	2376	Come on! You lazy louts!Are you dead?
+2376	2378	Hurry up! Hurry up!
+2417	2419	Thank you for your work
+2425	2431	Should Matahachi be dead,what will you do?
+2431	2434	I will still consider youas my daughter-in-law
+2435	2437	You are, aren't you?
+2437	2439	Aren't you?
+2441	2443	I am relieved to hear that
+2450	2455	It would not be proper toleave you at the temple too long
+2455	2458	You will live here with me!
+2461	2463	Or don't you like that idea?
+2466	2468	You should like it
+2470	2474	I shall teach you to sew and weave
+2474	2476	Mother Osugi!
+2484	2485	Takezo!
+2496	2499	Listen!Matahachi is not dead!
+2501	2504	I came to tell you that!He's not dead!
+2504	2506	Where is he?-I do not know!
+2507	2509	But he is alive!-What is he doing?
+2510	2512	I cannot...
+2514	2518	tell you that!Do not ask me!
+2518	2520	Takezo!
+2521	2523	Where are you going?
+2524	2526	I hate this village
+2526	2529	I came to tell you of your son!
+2530	2535	I am glad.But you mustn't leave so quickly
+2536	2539	Aren't you hungry?
+2539	2542	I have not eaten for days!
+2542	2547	Poor Takezo!I will get you something
+2547	2549	No guard will ever look here
+2550	2552	Take a bath, too!
+2554	2556	Yes!
+2566	2572	This is wonderful,so calm, so nice
+2574	2577	I thought Mother Osugiwould be bitter
+2581	2583	I am!
+2585	2591	You did not bring him back to me!
+2592	2593	Why?
+2595	2598	I'm sorry. I could not
+2598	2602	But why will you nottell me the reason?
+2602	2603	What is he doing?
+2603	2605	I cannot tell you that
+2622	2625	Mother Osugi!-Quiet!
+2660	2661	A trap!
+2674	2676	Osugi! Traitress!
+2678	2682	I came to comfort you.And you betrayed me!
+2689	2692	Matahachi deserted me!
+2692	2695	He is weak!A coward!
+2730	2735	Reinforcements arrivedfrom the castle today
+2735	2739	The roadways and hillsare covered by guards
+2739	2742	He is trapped
+2742	2748	Villagers shall continuethe hunt day and night!
+2756	2760	Hurry up!
+2808	2812	Otsu! A letter
+2824	2825	What happened?
+2860	2862	From Matahachi, and one Oko!
+2862	2865	Matahachi has been my loversince the great battle
+2865	2868	We have since married
+2868	2872	I learned of his betrothal to youas he spoke in his sleep
+2872	2876	You must not wait for him
+2876	2880	Your heart must not cry
+2902	2906	You are out to capture me too?-No, you are mistaken! Spare me!
+2924	2927	It's terrible! Come, somebody!
+2927	2929	Takezo did this!
+2952	2955	I'm going into the mountains
+2957	2962	This is idioticjust to catch a man
+2962	2965	The villagers are frightened.-You... alone?
+2967	2970	So many men have alreadyfailed to catch him
+2971	2976	Takezo is a man, with aman's weaknesses. -No
+2976	2980	Wait and see. I shallbring him back in due time
+2986	2987	Priest!
+2990	2991	I'll go with you!
+3045	3048	That is why you came with me
+3048	3053	You wanted to hear moreabout Matahachi
+3056	3059	He was unfaithful. Forget him!
+3060	3063	I am glad for you, you are young
+3063	3066	I cannot think that way
+3066	3070	What troubles you?-I am confused!
+3071	3073	My heart is broken!
+3074	3078	Forgive me. I did not meanto make you cry
+3079	3084	Otsu! Play the bamboo flute.It heals sorrow
+3086	3090	Meanwhile the foodwill get warm
+3167	3171	Good evening. Is it notcold and damp out there?
+3172	3173	Come nearer the fire
+3175	3179	Priest! Talking to yourself?
+3179	3184	Not at all, lookout there in the reeds
+3186	3187	Wait!
+3189	3193	Come here.We will not harm you
+3194	3197	Here is fire and foodto warm yourself
+3198	3202	We're not your enemies.No, not at all
+3202	3205	Let us talk by the fire
+3218	3221	Here. Come over here
+3273	3275	It is good?
+3282	3285	Why are you here?-To capture you
+3291	3296	If you will surrenderto a Buddhist priest...
+3296	3300	consideration shall be given you.-Never!
+3300	3305	My boy! Do you think you can win?-Yes!
+3306	3310	Trying to defeat yourself, also?
+3310	3314	I do not mind dyingin a good fight!
+3314	3318	But before I die,I will have some blood!
+3318	3323	What about your relatives?They are prisoners on your account
+3323	3328	Who are they? Who are they?
+3328	3332	Some are suffering.-Hang them all!
+3332	3335	Better dead! All of them!
+3335	3339	Even the women?-Quiet!
+3339	3346	Their children?-I don't care. Let all of them...
+3351	3352	Fool!
+3354	3356	Wild fool!
+3358	3362	I punish you, with the handof your parents!
+3371	3374	Takezo has been captured!
+3377	3378	Takezo's captured!
+3412	3415	I did not capture himfor the reward
+3416	3420	You say you will notdeliver him to me?
+3420	3425	If you refuse to leave him to me,I shall free him!
+3425	3429	Then recapture him yourself.-What do you mean?
+3429	3431	Do you want to kill me?Good
+3432	3436	Deliver my head to Himeji Castle,to Lord Ikeda
+3436	3441	He would probably say "Good priestTakuan, where is the rest of you?"
+3442	3445	Is my Lord your friend?
+3445	3450	Take my head and find out.Cut it off clean
+3454	3457	I beg you a thousand pardons,Your Grace!
+3457	3462	But what about Takezo? Will youlet me handle him my way?
+3462	3467	Yes. If you'll give mehis head later
+3467	3470	Good, Aoki.Funerals are my job
+3470	3473	I would have no work ifyou got the corpses also!
+3481	3483	Takuan!
+3487	3491	What is it?-I have something to tell you!
+3491	3493	Come closer
+3504	3507	Here I am!What do you want?
+3508	3510	Why don't you behead me?
+3512	3517	You shame me this way!And you call yourself a priest!
+3518	3522	Do you not know how to treata samurai? Idiot!
+3522	3524	You're a spirited one!
+3526	3533	Lout!I could have crushed you!
+3533	3536	Too bad you didn't!
+3537	3541	I surrendered believing you werea man of high virtue
+3541	3546	A true sign of stupidity!-I did nothing
+3546	3550	I am not ashamed.I am a samurai!
+3550	3553	Are you? Samurai!
+3553	3557	With your spirit youwon't die for some time
+3559	3563	Priest! You trash!
+3564	3568	Please! Why be so cruel...he is helpless!
+3568	3571	It is not your concern.-Yes, it is!
+3571	3574	I helped capture him!
+3575	3579	No! I insist that I havemy way in this!
+3594	3595	I cannot believe this!
+3597	3598	It is incredible!
+3606	3610	Oh, but that I hadgreat strength!
+3630	3631	Takezo!
+3647	3650	Maybe he is dead!-He's still alive!
+3651	3652	Let's stone him and see!
+3654	3657	Children! Go home!
+3669	3672	Whether he is dead or alive...
+3672	3677	you are my daughter-in-law!
+3677	3678	Understand?
+3680	3684	I would rather die!
+3684	3690	Fool! I'm telling you to leavethe temple and join my house!
+3691	3694	But to me that will meanonly death! -Why?
+3695	3700	A house without loveis a living death
+3700	3704	Quiet!How dare you say that?
+3704	3707	You are a mere child!
+3707	3709	Ungrateful young wench!
+3724	3725	Priest!
+3727	3730	Priest! Please!
+3731	3734	Are you still there?Come inside! It is cold
+3734	3738	Have mercy on him.Please cut him down!
+3738	3740	No! Impossible!
+3741	3745	I am begging you!He will die!
+3745	3750	No!-Please! For mercy's sake!
+3751	3757	I promise to do anything!Only forgive him
+3757	3758	It is justice!
+3760	3762	You are merciless!
+3763	3765	A devil!
+3765	3766	A demon!
+3797	3798	Takezo!
+3800	3802	Takezo!
+3807	3809	What do you want, trash?
+3810	3813	You still have your tongue, I see!
+3813	3816	Maybe you will live!-Shut up!
+3817	3819	Behead me!
+3820	3822	It is dangerous
+3822	3827	Even after death, your headwould jump at me
+3828	3831	Is the moon not beautiful tonight?
+3843	3847	Poor fellow. At lasthe's lost his reason
+3847	3851	Silence! My body willkill you when I fall!
+3851	3854	That's the spirit, my boy!
+3861	3865	Easy now!Such a futile struggle
+3866	3872	Could you but use thatforce for humanity's good!
+3873	3878	God and man would be moved.Nay, even the universe!
+3883	3887	A man must know awe, and fear God
+3887	3892	Conceited in your strength,you ignored wisdom and virtue
+3892	3895	You thought you coulddefeat the world
+3895	3897	Look at yourself!
+3903	3907	Wisdom and strong virtuescombined, make a man
+3908	3910	Understand?
+3914	3917	Think it over till dawn
+3917	3919	I shall behead you then
+3920	3925	Wait!Good priest, is it true?
+3930	3936	I am truly a man!Do not let me die like an animal!
+3936	3938	Spare my life!
+3941	3946	I want to live!God help me live!
+3949	3951	Well said!
+3951	3955	But, life is like a real battle
+3956	3958	There's no return match
+3958	3963	Prepare for death,recite the Sutras of Buddha!
+4011	4012	Otsu!
+4053	4056	Why?-Do not ask me!
+4057	4061	Let us run. They willkill us at first sight!
+4139	4143	Otsu! Is this a dream?Am I alive?
+4150	4152	I am so hungry
+4155	4159	I have rice-cakes inmy parcel, Takezo!
+4160	4167	But I cannot open it. My hands!I'm sorry, will you open it?
+4179	4182	Otsu! Thank you!
+4188	4190	It is all right
+4191	4195	I am such a fool!
+4195	4200	I apologize!I apologize!
+4219	4223	As I was gazing at you,bound and hanging
+4223	4227	I saw that I too was boundby an unseen rope
+4228	4233	And I could not cutthe rope by myself
+4236	4241	Takezo! I cannot go back!
+4241	4244	Take me with you!
+4244	4246	Do you hate me?
+4248	4250	Once
+4252	4253	But now...
+4259	4261	And l...-Please!
+4262	4267	What would I doif you discarded me?
+4268	4272	I am alone.All alone in this world!
+4275	4277	I, too
+4278	4282	Then you must know how I feel!
+4294	4298	But I have no powerto make you happy
+4299	4303	Takezo! Both of us are lonely
+4312	4314	Look! Takezo!
+4344	4347	Capture them!
+4350	4354	Fire a signal!Use the gun and powder!
+4372	4375	Leave me here! You run alone!
+4375	4377	I cannot!
+4385	4388	Wait for me here!
+4390	4392	Understand? Wait here!
+4425	4426	Takezo!
+4449	4451	Takezo!
+4464	4468	Himeji Castle
+4469	4474	Mother Osugi! Mother Osugi!-What is it?
+4474	4476	Otsu's been taken to the castle!
+4477	4479	Takezo escaped capture!
+4482	4484	Quiet, everybody!
+4491	4494	Old one!Prepare for a trip!
+4495	4497	To defend the prestige of my name!
+4498	4501	We will kill Otsu and Takezo!
+4518	4523	Listen! You shall havethe first cut at Takezo!
+4523	4528	Me... the first cut?-Yes. And I will do the beheading!
+4529	4533	Watch your step!-Silence, fool!
+4534	4538	Watch it yourself.You are no goat!
+4573	4575	Takezo!
+4577	4580	Are you still an animal?
+4580	4585	Otsu rescued me.I must get her out!
+4586	4590	Fool! She is safe
+4590	4592	Follow me
+4654	4658	Priest Takuan! Priest Takuan!
+4658	4663	She is safely sheltered nearthe bridge of Hanada
+4663	4665	You dirty lying rogue!
+4675	4679	Open here! Open the door!
+4679	4685	Takezo! This room is yoursfor some time
+4685	4689	Otsu will wait!
+4689	4692	You lie! She is alone!
+4692	4698	She will wait! ln those booksare many of the things you need!
+4698	4701	Master them, and retrospect!
+4701	4703	I leave you, wild fool!
+4714	4717	Bridge of Hanada
+4717	4718	It may be years!
+4719	4721	You will be waiting faithfully?
+4721	4723	Remember this
+4724	4726	As you know
+4727	4731	a priest has littleunderstanding of love matters
+4731	4732	Farewell
+4761	4766	Kyoto
+4828	4832	That is not the song of a child!
+4832	4835	When did she learn it?
+4835	4839	Probably in secret for tonight
+4839	4840	You are in love
+4843	4846	Akemi, how old are you?
+4846	4852	Guess how old I am.-Sixteen? No, seventeen!
+4853	4857	Was I mistaken?-She is already twenty-one
+4857	4861	Amazing!She looks so young!
+4861	4864	Is it true?I am happy
+4865	4869	I wish I could be sixteen forever.-Why?
+4870	4874	Something wonderful took place.-What was it?
+4875	4877	It was the year of the Great Battle
+4877	4881	I was sixteen, then.-Yes, and?
+4882	4887	Akemi! Do not talk of old wars
+4887	4891	You see, those days bringugly memories to me
+4891	4893	But probably not to a child
+4895	4900	By the way, let us attendthe Kabuki Theatre!
+4900	4905	Yes let's. All of us! Eh, Akemi?-Wonderful! Let us change!
+4905	4910	You go as you are.Excuse me a moment
+4912	4916	Fetch the sedan chairs
+4916	4920	I will go.-You remain here with Seijuro
+4927	4929	Akemi, finish that story
+4931	4934	It is a secret.-About a man?
+4940	4944	We will offer SeijuroAkemi in return for wealth!
+4946	4951	She would displease him!-Jealous? Ambitious?
+4951	4953	In truth...-I am
+4954	4959	If he accepts Akemi, wecan live in luxury together!
+4983	4985	Where are you going?
+4992	4995	How long must you flatterthat young fool?
+4996	4997	I know my own business
+4999	5001	You would even sellyour own daughter!
+5003	5005	You are a strange woman
+5008	5011	You have destroyed my life
+5011	5013	What kind of a man are you?
+5015	5021	I wish I had not rejected Takezothat night. He is a man!
+5022	5026	I am your husband!-An idiot, you mean!
+5028	5032	Order the sedan chairs.Four of them!
+5054	5055	Otsu!
+5062	5065	Three years have passed.
+5065	5070	Priest Takuan, realizing that Takezois a man of exceptional qualities,
+5070	5075	has intervened on his behalf. Takezohas begun his moral training...
+5075	5078	in preparation for servicein the cause of Himeji Castle.
+5140	5145	We will give him a titleappropriate for a samurai
+5145	5147	Miyamoto Musashi!
+5150	5152	Musashi, it is good
+5152	5156	You do not wish to bein my service? Why?
+5157	5159	I am far from ready, sir
+5160	5163	Then you shall traveland train yourself!
+5163	5165	Yes, my Lord
+5167	5171	I pray for him, my Lord!
+5172	5175	What thorough protection!
+5188	5193	The world is vast and boundless.Be staunch!
+5202	5204	What happened?
+5209	5214	May I bid Otsu goodbye?-The parting will be sad, my friend
+5215	5217	I must tell her I am leaving
+5217	5219	I will tell her for you.-But
+5219	5222	No!-She is my life!
+5223	5225	So you must see her?
+5226	5230	Takezo! ls that the only reason?
+5231	5233	If so, I will not stop you
+5234	5238	But you must have another. Yes?
+5241	5245	Takezo! Cut off the past!
+5245	5250	You are a new man.Reborn as it were
+5251	5253	Break clean from the past!
+5327	5331	Thank you very much.Please come again
+5346	5348	Welcome
+5358	5359	Takezo!
+5365	5369	I have waited!It was too difficult
+5373	5376	Otsu! Give me up for dead!
+5377	5379	I cannot!
+5380	5384	It is our fortune!
+5387	5392	Then, for what have I waitedthese three years?
+5392	5397	You told me we two would helpeach other to new life!
+5398	5402	Was that a lie? A whim?
+5403	5405	Forgive me
+5406	5407	No, no!
+5411	5414	It is cruel of Priest Takuan, too!
+5415	5417	Please, Takezo!
+5418	5422	Take me with you wherever you go
+5423	5426	I am to travel for training
+5426	5428	But why can't I be with you?
+5429	5434	Have I displeased you, Takezo?-No
+5434	5436	I love you, Otsu!
+5437	5442	I constantly thought of you in thecastle. -Then, why?
+5442	5446	If you care for me, do not follow
+5447	5450	I will follow even beyondthe Great Seas
+5452	5454	Take me with you
+5455	5457	I will not hinder you
+5465	5469	Take me!lf I annoy you...
+5469	5474	Leave me in a wilderness,or anywhere you like!
+5475	5478	I shall be obedient
+5478	5481	But take me with you!
+5483	5487	Oh God! Wait here my love,I shall prepare myself
+5497	5499	Wait!
+5577	5580	Soon I will be back
+5592	5597	FORGIVE ME
+5612	5617	THE END

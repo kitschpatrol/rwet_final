@@ -1,0 +1,1390 @@
+74	76	Sméagol!
+76	78	I've got one!
+79	81	I've got a fish, Sméag. Sméagol!
+81	84	Pull it in. Go on. Go on. Go on.Pull it in.
+92	93	Déagol!
+149	150	Déagol?
+153	155	Déagol.
+170	172	Give us that, Déagol, my love.
+177	178	Why?
+179	181	Because...
+181	185	...it's my birthday and I wants it.
+265	270	My precious.
+277	280	They cursed us.
+280	281	Murderer.
+282	284	"Murderer" they called us.
+284	289	They cursed usand drove us away.
+290	291	Gollum.
+292	293	Gollum.
+293	295	Gollum.
+299	302	And we wept, precious.
+302	305	We wept to be so alone.
+308	311	- And coolSo nice for feet
+312	316	And we only wishTo catch a fish
+317	320	So juicy sweet
+325	329	And we forgot the taste of bread...
+329	333	...the sound of trees...
+334	337	...the softness of the wind.
+337	343	We even forgot our own name.
+351	357	My precious.
+399	401	Wake up!
+402	404	Wake up!
+404	406	Wake up, sleepies.
+406	408	We must go, yes.
+408	410	We must go at once.
+414	417	Haven't you had any sleep, Mr. Frodo?
+419	421	I've gone and had too much.
+423	424	Must be getting late.
+425	426	No.
+426	428	It isn't.
+428	431	It isn't midday yet.
+431	434	The days are growing darker.
+438	440	Come on!
+442	444	Must go! No time!
+445	447	Not before Mr. Frodo'shad something to eat.
+447	450	No time to lose, silly.
+458	459	Here.
+463	464	What about you?
+464	468	Oh, no, I'm not hungry.Leastways, not for lembas bread.
+468	470	Sam.
+472	473	All right.
+474	476	We don't have that much left.
+476	479	We have to be carefulor we're going to run out.
+481	484	You go ahead and eat that, Mr. Frodo.
+484	485	I've rationed it.
+486	487	There should be enough.
+490	491	For what?
+492	494	The journey home.
+501	504	Come, Hobbitses.
+505	507	Very close now.
+507	510	Very close to Mordor.
+510	513	No safe places here.
+513	515	Hurry.
+562	565	I feel like I'm back atThe Green Dragon...
+565	568	...after a hard day's work.
+568	571	Only, you've never donea hard day's work.
+582	585	Welcome, my lords...
+585	587	...to Isengard!
+587	591	You young rascals!A merry hunt you've led us on...
+591	596	...and now we find you feastingand... and smoking!
+596	599	We are sittingon a field of victory...
+599	603	...enjoying a few well-earned comforts.
+604	607	The salted pork is particularly good.
+608	610	Salted pork?
+611	615	- Hobbits.- We're under orders from Treebeard...
+615	618	...who's taken over managementof Isengard.
+620	623	Young Master Gandalf.
+623	627	I'm glad you've come.
+628	632	Wood and water, stock and stoneI can master.
+632	636	But there is a wizard to manage here...
+636	638	...locked in his tower.
+638	642	And there Saruman must remainunder your guard, Treebeard.
+642	644	Well, let's just have his headand be done with it.
+644	646	No.
+647	649	He has no power anymore.
+649	653	The filth of Saruman...
+653	657	...is washing away.
+657	662	Trees will come back to live here.
+662	664	Young trees.
+664	666	- Wild trees.- Pippin!
+676	678	Bless my bark!
+678	680	Peregrin Took!
+680	682	I'll take that, my lad.
+682	684	Quickly, now.
+720	726	Tonight we remember those whogave their blood to defend this country.
+726	728	Hail the victorious dead.
+729	731	Hail!
+776	777	I am happy for you.
+778	780	He is an honourable man.
+781	783	You are both honourable men.
+785	790	It was not Théoden of Rohanwho led our people to victory.
+798	799	Don't listen to me.
+800	802	You are young.
+802	804	And tonight is for you.
+804	808	Oh, you can search far and wideYou can drink the whole town dry
+808	812	But you'll never find a beer so brownBut you'll never find a beer so brown
+812	817	As the one we drink in our hometownAs the one we drink in our hometown
+817	821	You can drink your fancy alesYou can drink 'em by the flagon
+821	824	But the only brew for the brave and true
+824	826	Comes from The Green Dragon
+829	831	Thank you! I win!
+833	836	No news of Frodo?
+836	839	No word. Nothing.
+840	842	We have time.
+844	847	Every day, Frodo moves closer to Mordor.
+848	850	Do we know that?
+853	856	What does your heart tell you?
+862	865	That Frodo is alive.
+867	869	Yes.
+871	873	Yes, he's alive.
+875	878	Too risky. Too risky.
+878	879	Thieves.
+880	882	They stole it from us.
+882	885	Kill them. Kill them. Kill them both.
+887	890	Quiet! Mustn't wake them.
+890	892	Mustn't ruin it now.
+893	895	But they knows.
+895	897	They knows.
+897	899	They suspects us.
+900	904	What's it saying, my precious, my love?
+904	907	Is Sméagol losing his nerve?
+908	910	No. Not.
+910	915	Never. Sméagol hates nasty Hobbitses.
+915	919	Sméagol wants to see them dead.
+919	922	And we will.
+922	926	Sméagol did it once.He can do it again.
+929	932	It's ours!
+932	934	Ours!
+936	938	We must get the precious.We must get it back.
+938	942	Patience! Patience, my love.
+942	946	First we must lead them to her.
+947	952	We lead them to the Winding Stair.
+952	954	Yes, the stairs. And then?
+955	957	Up, up, up, up,up the stairs we go...
+958	964	...until we come to the tunnel.
+964	967	And when they go in...
+967	970	...there's no coming out.
+971	974	She's always hungry.
+974	978	She always needs to feed.
+979	980	She must eat.
+980	982	All she gets is filthy Orcses.
+982	985	And they doesn't taste very nice,does they, precious?
+985	987	No.
+987	992	Not very nice at all, my love.
+992	995	She hungers for sweeter meats.
+995	997	Hobbit meat.
+997	1001	And when she throws away the bonesand the empty clothes...
+1001	1004	...then we will find it.
+1005	1009	And take it for me!
+1010	1012	For us.
+1012	1015	Yes. We meant "for us."
+1015	1019	Gollum. Gollum.
+1019	1023	The precious will be ours...
+1023	1028	...once the Hobbitses are dead!
+1028	1029	You treacherous little toad!
+1032	1034	No! No! Master!
+1034	1036	No, Sam! Leave him alone!
+1037	1039	I heard it from his own mouth.He means to murder us.
+1040	1044	Never! Sméagol wouldn't hurt a fly.
+1045	1047	He's a horrid, fat Hobbit...
+1048	1049	...who hates Sméagol...
+1049	1052	...and who makes up nasty lies.
+1052	1055	You miserable little maggot!I'll stove your head in!
+1055	1056	Sam!
+1057	1059	Call me a liar? You're a liar!
+1060	1064	- You scare him off, we're lost!- I don't care! I can't do it, Mr. Frodo.
+1064	1067	- I won't wait around for him to kill us!- I'm not sending him away.
+1067	1069	You don't see it, do you?
+1069	1070	He's a villain.
+1071	1075	We can't do this by ourselves, Sam.Not without a guide.
+1075	1078	I need you on my side.
+1079	1081	I'm on your side, Mr. Frodo.
+1083	1085	I know, Sam. I know.
+1086	1088	Trust me.
+1088	1090	Come, Sméagol.
+1116	1119	The stars are veiled.
+1120	1123	Something stirs in the east.
+1124	1127	A sleepless malice.
+1129	1131	The Eye of the enemy is moving.
+1144	1147	What are you doing?
+1151	1153	Pippin!
+1159	1161	Pippin?
+1174	1176	Pippin.
+1176	1178	- What, are you mad?- I just want to look at it.
+1179	1180	Just one more time.
+1180	1182	Put it back.
+1192	1193	Pippin.
+1200	1201	No!
+1206	1207	Pippin.
+1210	1212	He is here.
+1212	1214	I see you.
+1217	1218	Pippin!
+1232	1235	Help! Gandalf, help!
+1237	1238	Someone help him!
+1245	1246	Pippin!
+1247	1248	Fool of a Took!
+1268	1270	Look at me.
+1272	1276	Gandalf, forgive me.
+1276	1278	Look at me.
+1278	1280	What did you see?
+1284	1285	A tree.
+1286	1288	There was a white tree...
+1288	1290	...in a courtyard of stone.
+1293	1294	It was dead.
+1298	1300	The city was burning.
+1300	1303	Minas Tirith? Is that what you saw?
+1304	1305	I saw...
+1309	1310	I saw him.
+1313	1315	I could hear his voice in my head.
+1315	1318	And what did you tell him?
+1318	1320	Speak!
+1323	1327	He asked me my name.I didn't answer.
+1327	1328	He hurt me.
+1328	1331	What did you tell himabout Frodo and the Ring?
+1334	1336	There was no lie in Pippin's eyes.
+1337	1339	A fool...
+1339	1342	...but an honest fool he remains.
+1342	1345	He told Sauron nothingof Frodo and the Ring.
+1346	1349	We've been strangely fortunate.
+1349	1353	Pippin saw in the palantira glimpse of the enemy's plan.
+1354	1357	Sauron moves to strikethe city of Minas Tirith.
+1358	1361	His defeat at Helm's Deepshowed our enemy one thing.
+1362	1364	He knows the heir of Elendilhas come forth.
+1364	1366	Men are not as weak as he supposed.
+1366	1370	There is courage still, strengthenough perhaps to challenge him.
+1370	1372	Sauron fears this.
+1372	1376	He will not risk the peoples ofMiddle-earth uniting under one banner.
+1377	1380	He will raze Minas Tirithto the ground...
+1380	1383	...before he sees a kingreturn to the throne of Men.
+1383	1387	If the beacons of Gondor are lit,Rohan must be ready for war.
+1388	1390	Tell me...
+1390	1394	...why should we ride to the aidof those who did not come to ours?
+1398	1399	What do we owe Gondor?
+1400	1402	- I will go.- No!
+1403	1406	- They must be warned.- They will be.
+1409	1411	You must come to Minas Tirithby another road.
+1412	1416	Follow the riverand look to the black ships.
+1417	1419	Understand this:
+1419	1423	Things are now in motionthat cannot be undone.
+1424	1426	I ride for Minas Tirith...
+1428	1431	...and I won't be going alone.
+1432	1436	Of all the inquisitive Hobbits,Peregrin Took, you are the worst.
+1437	1439	Hurry! Hurry!
+1440	1441	Where are we going?
+1441	1443	Why did you look?
+1443	1445	Why do you always have to look?
+1446	1449	- I don't know. I can't help it.- You never can.
+1449	1450	I'm sorry, all right?
+1452	1455	- I won't do it again.- Don't you understand?
+1456	1458	The enemy thinks you have the Ring.
+1458	1462	He's going to be looking for you, Pip.They have to get you out of here.
+1463	1465	And you...? You're coming with me?
+1468	1469	Merry?
+1469	1470	Come on.
+1476	1477	How far is Minas Tirith?
+1477	1480	Three days' ride, as the Nazgûl flies.
+1480	1483	And you better hope we don't haveone of those on our tail.
+1484	1485	Here.
+1485	1487	Something for the road.
+1488	1490	The last of the Longbottom Leaf.
+1490	1494	I know you've run out.You smoke too much, Pippin.
+1494	1496	But... But we'll see each other soon.
+1500	1502	- Won't we?- I don't know.
+1504	1506	I don't know what's going to happen.
+1506	1508	- Merry.- Run, Shadowfax.
+1508	1509	Show us the meaning of haste.
+1509	1511	Merry!
+1521	1522	Merry!
+1547	1550	Take her by the safest road.
+1550	1552	A ship lies anchoredin the Grey Havens.
+1552	1556	It waits to carry her across the sea.
+1556	1560	The last journey of Arwen Undómiel.
+1622	1625	There is nothing for you here...
+1626	1628	...only death.
+1635	1636	Lady Arwen...
+1637	1639	...we cannot delay.
+1641	1642	My lady!
+1661	1664	- Tell me what you have seen.- Arwen.
+1664	1666	You have the gift of foresight.
+1666	1667	What did you see?
+1668	1671	I looked into your future,and I saw death.
+1672	1674	But there is also life.
+1676	1680	You saw there was a child.You saw my son.
+1680	1683	That future is almost gone.
+1683	1685	But it is not lost.
+1687	1689	Nothing is certain.
+1691	1693	Some things are certain.
+1697	1700	If I leave him now...
+1700	1703	...I will regret it forever.
+1704	1706	It is time.
+1711	1714	From the ashes a fire shall be woken
+1715	1718	A light from the shadow shall spring
+1718	1721	Renewed shall be blade that was broken
+1728	1731	The crownless again shall be king
+1735	1737	Re-forge the sword.
+1770	1773	Your hands are cold.
+1776	1779	The life of the Eldar is leaving you.
+1783	1784	This was my choice.
+1786	1788	Whether by your will or not...
+1790	1794	...there is no ship nowthat can bear me hence.
+1839	1842	We've just passedinto the realm of Gondor.
+1853	1855	Minas Tirith.
+1855	1858	City of kings.
+1888	1890	Make way!
+1918	1919	It's the tree.
+1920	1921	Gandalf. Gandalf.
+1921	1924	Yes, the White Tree of Gondor.
+1924	1925	The tree of the king.
+1926	1928	Lord Denethor, however,is not king.
+1928	1931	He is a steward only,a caretaker of the throne.
+1932	1935	Now listen carefully.Lord Denethor is Boromir's father.
+1936	1939	To give him news of his beloved son'sdeath would be most unwise.
+1940	1943	And do not mention Frodo or the Ring.
+1944	1946	And say nothing of Aragorn either.
+1948	1952	In fact, it's better if youdon't speak at all, Peregrin Took.
+1981	1987	Hail Denethor, son of Ecthelion,lord and steward of Gondor.
+1992	1997	I come with tidings in this dark hour,and with counsel.
+1998	2001	Perhaps you come to explain this.
+2006	2011	Perhaps you come to tell mewhy my son is dead.
+2025	2028	Boromir died to save us...
+2028	2029	...my kinsman and me.
+2029	2033	- He fell defending us from many foes.- Pippin.
+2038	2041	I offer you my service, such as it is...
+2042	2045	...in payment of this debt.
+2046	2048	Get up.
+2048	2052	My lord, there will be a timeto grieve for Boromir...
+2053	2055	...but it is not now.
+2055	2057	War is coming.
+2058	2062	The enemy is on your doorstep.As steward, you are charged...
+2062	2066	...with the defense of this city.Where are Gondor's armies?
+2066	2071	You still have friends.You are not alone in this fight.
+2071	2075	Send word to Théoden of Rohan.Light the beacons.
+2077	2080	You think you are wise, Mithrandir.
+2080	2083	Yet for all your subtleties,you have not wisdom.
+2085	2089	Do you think the eyesof the White Tower are blind?
+2090	2093	I have seen more than you know.
+2093	2096	With your left hand you would use meas a shield against Mordor.
+2096	2099	And with your rightyou'd seek to supplant me.
+2099	2102	I know who rides with Théoden of Rohan.
+2103	2108	Oh, yes. Word has reached my earsof this Aragorn, son of Arathorn.
+2108	2113	And I tell you now, I will not bowto this Ranger from the North...
+2113	2118	...last of a ragged houselong bereft of lordship.
+2118	2123	Authority is not given to youto deny the return of the king, steward.
+2123	2128	The rule of Gondor is mineand no other's.
+2133	2134	Come.
+2146	2150	So I imagine this is justa ceremonial position.
+2151	2155	I mean, they don't actually expect meto do any fighting.
+2155	2159	- Do they?- You're in the service of the steward now.
+2159	2166	You're going to have to do as you're told,Peregrin Took, guard of the Citadel.
+2168	2171	It's so quiet.
+2171	2175	It's the deep breath before the plunge.
+2176	2179	I don't want to be in a battle...
+2180	2184	...but waiting on the edge of oneI can't escape is even worse.
+2188	2191	Is there any hope, Gandalf,for Frodo and Sam?
+2192	2195	There never was much hope.
+2197	2200	Just a fool's hope.
+2205	2207	Our enemy is ready.
+2208	2210	His full strength's gathered.
+2210	2214	Not only Orcs, but Men as well.
+2214	2217	Legions of Haradrim from the south...
+2217	2219	...mercenaries from the coast.
+2220	2222	All will answer Mordor's call.
+2222	2224	Come on.
+2225	2228	This will be the end of Gondoras we know it.
+2228	2231	Here the hammer stroke will fall hardest.
+2232	2236	If the river is taken,if the garrison at Osgiliath falls...
+2237	2240	...the last defense of this citywill be gone.
+2240	2244	But we have the White Wizard.That's got to count for something.
+2250	2251	Gandalf?
+2255	2258	Sauron has yet to revealhis deadliest servant...
+2259	2263	...the one who will leadMordor's armies in war.
+2263	2268	The one they say no living man can kill.
+2269	2271	The Witch-king of Angmar.
+2272	2274	You've met him before.
+2275	2277	He stabbed Frodo on Weathertop.
+2283	2286	He is the lord of the Nazgûl...
+2286	2289	...the greatest of the Nine.
+2289	2292	Minas Morgul is his lair.
+2296	2299	The Dead City.
+2299	2304	Very nasty place. Full of enemies.
+2311	2313	Quick. Quick.
+2314	2317	They will see. They will see.
+2326	2331	Come away. Come away.Look, we have found it.
+2331	2335	The way into Mordor.
+2335	2340	The secret stair.
+2340	2342	Climb.
+2362	2364	- No, Mr. Frodo!- Not that way!
+2369	2371	- What's it doing?- No.
+2372	2375	- They're calling me.- No.
+2403	2406	Hide! Hide!
+2448	2451	I can feel his blade.
+2462	2465	We come to it at last.
+2466	2468	The great battle of our time.
+2506	2509	Come away, Hobbits.We climb. We must climb.
+2518	2521	The board is set.
+2522	2524	The pieces are moving.
+2525	2528	Peregrin Took, my lad,there is a task now to be done.
+2528	2532	Another opportunity for oneof the Shire-folk to prove their great worth.
+2537	2538	You must not fail me.
+2579	2580	Quiet.
+2581	2584	- To the river. Quick. Quick.- Go. Go.
+2584	2585	Come on.
+2588	2590	Faster.
+2602	2605	Draw swords.
+2657	2659	Hold! Hold!
+2736	2738	What?
+2750	2753	Amon Dîn.
+2757	2760	The beacon.The beacon of Amon Dîn is lit.
+2763	2767	Hope is kindled.
+2856	2860	The beacons of Minas Tirith!The beacons are lit!
+2861	2864	Gondor calls for aid.
+2873	2876	And Rohan will answer.
+2876	2879	Muster the Rohirrim.
+2893	2895	Assemble the army at Dunharrow.
+2895	2899	As many men as can be found.You have two days.
+2900	2905	On the third,we ride for Gondor and war.
+2906	2907	- Forward.- Very good, sir.
+2907	2908	- Gamling.- My lord.
+2908	2910	Make hasteacross the Riddermark.
+2910	2912	Summon every able-bodied manto Dunharrow.
+2912	2914	I will.
+2918	2921	- Will you ride with us?- Just to the encampment.
+2921	2925	It's tradition for the womenof the court to farewell the men.
+2931	2933	The men have found their captain.
+2933	2936	They will follow you into battle,even to death.
+2936	2939	You have given us hope.
+2953	2956	So it is before the wallsof Minas Tirith...
+2956	2960	...the doom of our time will be decided.
+2962	2968	Now is the hour.Riders of Rohan, oaths you have taken.
+2968	2971	Now, fulfill them all.To lord and land!
+3013	3014	Faramir!
+3020	3024	We can't hold them. The city is lost.
+3025	3028	Tell the men to break cover.We ride for Minas Tirith.
+3036	3038	Nazgûl.
+3040	3043	Take cover!
+3043	3045	Nazgûl!
+3045	3049	Fall back. Fall back to Minas Tirith!
+3055	3057	Fall back!
+3064	3068	- Retreat! Retreat!- Come on!
+3092	3096	The age of Men is over.
+3096	3101	The time of the Orc has come.
+3104	3106	Take cover!
+3107	3110	Take cover, my lord!
+3110	3111	It's coming!
+3117	3120	- It's Mithrandir.- The White Rider!
+3158	3159	Pull!
+3176	3179	Mithrandir.
+3179	3181	They broke through our defenses.
+3181	3183	They've taken the bridgeand the west bank.
+3184	3188	- Battalions of Orcs are crossing the river.- It is as the Lord Denethor predicted.
+3188	3192	- Long has he foreseen this doom.- Foreseen and done nothing.
+3196	3198	Faramir?
+3200	3203	This is not the first Halflingto have crossed your path.
+3204	3206	No.
+3207	3208	You've seen Frodo and Sam?
+3209	3213	- Where? When?- In Ithilien.
+3213	3215	Not two days ago.
+3215	3219	Gandalf, they're taking the roadto the Morgul Vale.
+3220	3223	And then the pass of Cirith Ungol.
+3225	3227	What does that mean?
+3227	3232	- What's wrong?- Faramir, tell me everything.
+3258	3261	Careful, master. Careful.
+3261	3264	Very far to fall.
+3266	3270	Very dangerous are the stairs.
+3273	3275	Come, master.
+3281	3284	Come to Sméagol.
+3290	3291	Mr. Frodo.
+3292	3294	Get back, you!
+3294	3296	Don't touch him!
+3300	3303	Why does he hates poor Sméagol?
+3303	3306	What has Sméagol ever done to him?
+3307	3309	Master?
+3310	3313	Master carries heavy burden.
+3313	3318	Sméagol knows.Heavy, heavy burden.
+3319	3322	Fat one cannot know.
+3324	3326	Sméagol look after master.
+3327	3330	He wants it.
+3330	3334	He needs it.Sméagol sees it in his eye.
+3334	3339	Very soon he will ask you for it.You will see.
+3340	3343	The fat one will take it from you.
+3350	3354	Send forth all legions.
+3355	3358	Do not stop the attackuntil the city is taken.
+3359	3362	Slay them all.
+3364	3369	- What of the wizard?- I will break him.
+3373	3375	What of Théoden's riders?
+3375	3377	Will Rohan's army come?
+3378	3380	Mithrandir.
+3381	3385	Courage is the best defensethat you have now.
+3385	3389	Here do I swear fealtyand service to Gondor...
+3389	3390	...in peace or war...
+3391	3393	...in living or dying...
+3395	3396	...from...
+3398	3401	From this hour henceforth...
+3401	3403	...until my lord release me...
+3405	3407	...or death take me.
+3407	3410	And I shall not forget it...
+3410	3413	...nor fail to rewardthat which is given.
+3420	3423	Fealty with love.
+3424	3425	Valour with honour.
+3427	3430	Disloyalty with vengeance.
+3438	3442	I do not think we should so lightlyabandon the outer defenses...
+3442	3445	...defenses that your brotherlong held intact.
+3445	3447	- What would you have me do?- I will not yield...
+3448	3450	...the river in Pelennor unfought.
+3450	3452	Osgiliath must be retaken.
+3452	3454	My lord, Osgiliath is overrun.
+3455	3457	Much must be risked in war.
+3460	3464	Is there a captain here who still hasthe courage to do his lord's will?
+3470	3473	You wish now that our placeshad been exchanged...
+3474	3477	...that I had diedand Boromir had lived.
+3480	3481	Yes.
+3482	3484	I wish that.
+3492	3495	Since you were robbedof Boromir...
+3496	3499	...I will do what I canin his stead.
+3507	3511	If I should return,think better of me, Father.
+3513	3517	That will depend on the mannerof your return.
+3597	3599	What are you up to?
+3599	3600	Sneaking off, are we?
+3601	3603	Sneaking?
+3604	3606	Sneaking?
+3607	3610	Fat Hobbit is always so polite.
+3610	3615	Sméagol shows them secret waysthat nobody else could find...
+3615	3617	...and they say "sneak."
+3618	3621	Sneak?
+3621	3624	Very nice friend.Oh, yes, my precious.
+3624	3626	- Very nice, very nice.- All right. All right!
+3628	3630	You just startled me is all.
+3630	3632	What were you doing?
+3634	3636	Sneaking.
+3636	3639	Fine. Have it your own way.
+3641	3644	I'm sorry to wake you, Mr. Frodo.
+3644	3646	We have to be moving on.
+3651	3652	It's dark still.
+3652	3655	It's always dark here.
+3659	3660	It's gone!
+3662	3664	- The Elven bread.- What?
+3665	3666	That's all we have left.
+3670	3672	He took it. He must have!
+3673	3676	Sméagol?No, no, not poor Sméagol.
+3676	3679	Sméagol hates nasty Elf bread.
+3679	3682	You're a lying wretch!What did you do with it?!
+3682	3684	He doesn't eat it.
+3685	3687	- He can't have taken it.- Look.
+3688	3690	What's this?
+3692	3695	Crumbs on his jacketses.He took it!
+3696	3698	He took it.
+3698	3702	I seen him. He's always stuffinghis face when master's not looking.
+3703	3704	That's a filthy lie!
+3705	3707	You stinking, two-faced sneak!
+3707	3708	- Sam!- Call me...
+3708	3709	Stop it!
+3710	3711	Sam!
+3713	3716	- I'll kill him!- Sam! No!
+3717	3723	Oh, my... I'm sorry. I didn't mean itto go so far. I was just so... So angry.
+3723	3725	Here, just...Let's just rest a bit.
+3725	3727	- I'm all right.- No.
+3727	3730	No, you're not all right.You're exhausted.
+3730	3732	It's that Gollum.
+3732	3734	It's this place.
+3734	3737	It's that thing around your neck.
+3740	3741	I could help a bit.
+3741	3744	I could carry it for a while.
+3744	3746	Carry it for a while.
+3746	3747	I could carry it... I could carry it.
+3748	3750	Share the load... Share the load...the load... the load.
+3753	3754	Get away!
+3755	3756	I don't want to keep it.
+3759	3761	I just want to help.
+3763	3766	See? See?
+3766	3769	He wants it for himself.
+3769	3771	Shut up, you!
+3772	3773	Go away!Get out of here!
+3774	3775	No, Sam.
+3775	3777	It's you.
+3781	3782	I'm sorry, Sam.
+3784	3785	But he's a liar.
+3785	3788	He's poisoned you against me.
+3789	3791	You can't help me anymore.
+3793	3795	You don't mean that.
+3797	3799	Go home.
+3876	3877	Faramir!
+3878	3879	Faramir!
+3881	3883	Your father's will has turnedto madness.
+3884	3886	Do not throw away your lifeso rashly.
+3887	3889	Where does my allegiance lieif not here?
+3893	3897	Your father loves you, Faramir.
+3897	3900	He will remember itbefore the end.
+3967	3968	Can you sing, Master Hobbit?
+3971	3973	Well...
+3973	3975	...yes.
+3975	3979	At least, well enoughfor my own people.
+3981	3983	But we have no songsfor great halls...
+3984	3985	...and evil times.
+3986	3989	And why should your songsbe unfit for my halls?
+3992	3993	Come, sing me a song.
+4004	4007	Home is behind
+4007	4011	The world ahead
+4013	4018	And there are many paths to tread
+4020	4024	Through shadow
+4024	4028	To the edge of night
+4029	4034	Until the stars are all alight
+4037	4041	Mist and shadow
+4041	4046	Cloud and shade
+4048	4051	All shall fade
+4053	4057	All shall
+4063	4065	Fade
+4088	4092	March! March!
+4092	4097	March! March! March!
+4100	4102	Make way for the king.
+4104	4106	Make way.
+4108	4110	The king is here.
+4112	4114	My lord.
+4115	4117	Hail to you, sire.
+4117	4118	Grimbold, how many?
+4118	4121	I bring 500 men from the Westfold,my lord.
+4122	4124	We have 300 more from Fenmarch,Théoden King.
+4125	4129	- Where are the riders from Snowbourn?- None have come, my lord.
+4145	4147	Six thousand spears.
+4148	4150	Less than half of what I'd hoped for.
+4151	4154	Six thousand will not be enoughto break the lines of Mordor.
+4157	4158	More will come.
+4159	4161	Every hour lost hastens Gondor's defeat.
+4162	4164	We have till dawn,then we must ride.
+4183	4185	The horses are restless...
+4185	4187	...and the men are quiet.
+4187	4190	They grow nervous in the shadowof the mountain.
+4192	4194	That road there...
+4195	4197	...where does that lead?
+4198	4201	It is the road to the Dimholt,the door under the mountain.
+4202	4205	None who venture there ever return.
+4206	4208	That mountain is evil.
+4230	4232	Aragorn.
+4232	4234	Let's find some food.
+4250	4251	There.
+4252	4255	A true esquire of Rohan.
+4259	4261	I'm ready.
+4262	4263	Sorry.
+4264	4266	It isn't all that dangerous.
+4266	4268	It's not even sharp.
+4269	4272	Well, that's no good. You won't killmany Orcs with a blunt blade.
+4273	4274	Come on.
+4278	4280	To the smithy. Go!
+4282	4284	You should not encourage him.
+4284	4287	You should not doubt him.
+4287	4290	I do not doubt his heart,only the reach of his arm.
+4293	4294	Why should Merry be left behind?
+4294	4297	He has as much causeto go to war as you.
+4299	4302	Why can he not fightfor those he loves?
+4330	4334	I choose a mortal life.
+4336	4339	I wish I could've seen him...
+4340	4343	...one last time.
+4353	4355	Sir?
+4357	4359	King Théoden awaits you, my lord.
+4379	4381	I take my leave.
+4395	4396	My lord Elrond.
+4397	4400	I come on behalf of one whom I love.
+4403	4405	Arwen is dying.
+4410	4413	She will not long survive the evilthat now spreads from Mordor.
+4414	4417	The light of the Evenstar is failing.
+4418	4421	As Sauron's power grows,her strength wanes.
+4422	4425	Arwen's life is now tiedto the fate of the Ring.
+4426	4428	The Shadow is upon us, Aragorn.
+4429	4430	The end has come.
+4431	4433	It will not be our end, but his.
+4434	4437	You ride to war, but not to victory.
+4438	4442	Sauron's armies march on Minas Tirith,this you know.
+4442	4446	But in secret he sends another forcewhich will attack from the river.
+4447	4450	A fleet of Corsairs ships sailsfrom the south.
+4451	4453	They'll be in the city in two days.
+4453	4456	You're outnumbered, Aragorn.
+4456	4458	You need more men.
+4459	4460	There are none.
+4462	4466	There are those who dwellin the mountain.
+4475	4477	Murderers...
+4477	4478	...traitors.
+4481	4483	You would call upon them to fight?
+4483	4484	They believe in nothing.
+4484	4486	They answer to no one.
+4487	4490	They will answerto the king of Gondor.
+4496	4501	Andûril, the Flame of the West,forged from the shards of Narsil.
+4515	4519	Sauron will not have forgottenthe Sword of Elendil.
+4533	4537	The blade that was brokenshall return to Minas Tirith.
+4538	4540	The man who can wieldthe power of this sword...
+4540	4544	...can summon to him an army moredeadly than any that walks this earth.
+4545	4548	Put aside the Ranger.
+4548	4551	Become who you were born to be.
+4551	4553	Take the Dimholt road.
+4557	4559	I give hope to Men.
+4563	4567	I keep none for myself.
+4578	4580	Why are you doing this?
+4580	4583	The war lies to the east.You cannot leave on the eve of battle.
+4585	4587	You cannot abandon the men.
+4589	4590	Éowyn...
+4590	4592	We need you here.
+4594	4595	Why have you come?
+4597	4599	Do you not know?
+4608	4611	It is but a shadow and a thoughtthat you love.
+4614	4617	I cannot give you what you seek.
+4636	4638	Just where do you thinkyou're off to?
+4639	4640	Not this time.
+4640	4642	This time you must stay, Gimli.
+4645	4647	Have you learned nothingof the stubbornness of Dwarves?
+4648	4651	You might as well accept it.We're going with you, laddie.
+4673	4675	- What's happening?- Where is he going?
+4675	4677	Where's he going?
+4679	4681	I don't understand.
+4685	4687	Lord Aragorn!
+4688	4690	Why does he leave on the eve of battle?
+4691	4693	He leaves because there is no hope.
+4694	4696	He leaves because he must.
+4696	4698	Too few have come.
+4698	4700	We cannot defeatthe armies of Mordor.
+4702	4704	No...
+4704	4706	...we cannot.
+4708	4712	But we will meet themin battle nonetheless.
+4726	4727	I have left instruction.
+4730	4733	The people are to followyour rule in my stead.
+4739	4742	Take up my seat in the Golden Hall.
+4743	4746	Long may you defend Edoras...
+4746	4748	...if the battle goes ill.
+4749	4752	What other duty would youhave me do, my lord?
+4754	4756	Duty?
+4758	4760	No.
+4768	4770	I would have you smile again...
+4773	4778	...not grieve for thosewhose time has come.
+4782	4786	You shall live to seethese days renewed...
+4790	4793	...and no more despair.
+4798	4802	What kind of army would lingerin such a place?
+4802	4804	One that is cursed.
+4806	4808	Long ago, the Men of the Mountainsswore an oath...
+4809	4811	...to the last king of Gondor...
+4812	4813	...to come to his aid...
+4814	4815	...to fight.
+4816	4818	But when the time came...
+4818	4821	...when Gondor's need was dire...
+4821	4823	...they fled...
+4823	4826	...vanishing into the darknessof the mountain.
+4827	4829	And so Isildur cursed them...
+4831	4835	...never to rest until they hadfulfilled their pledge.
+4848	4852	The very warmth of my bloodseems stole away.
+4857	4859	The way is shut.
+4859	4861	It was made by thosewho are dead.
+4862	4864	And the Dead keep it.
+4865	4866	The way is shut.
+4877	4878	Brego!
+4882	4884	I do not fear death.
+4896	4898	Well, this is a thing unheard-of.
+4899	4903	An Elf will go undergroundwhere a Dwarf dare not?
+4903	4905	Oh.
+4905	4907	Oh, I'd never hear the end of it.
+4922	4924	We must ride light and swift.
+4924	4926	It is a long road ahead.
+4926	4929	And man and beast must reach the endwith the strength to fight.
+4934	4937	Little Hobbits do not belong in war,Master Meriadoc.
+4937	4939	All my friends have gone to battle.
+4940	4941	I would be ashamed to be left behind.
+4941	4944	It is a three-day gallop to Minas Tirith.
+4944	4946	And none of my riders can bear youas a burden.
+4947	4949	I want to fight.
+4949	4951	I will say no more.
+4967	4969	Ride with me.
+4971	4972	My lady.
+4972	4975	Form up! Move out!
+4975	4978	Form up! Move out!
+4981	4982	Ride!
+4982	4985	Ride now to Gondor!
+5031	5036	Who enters my domain?
+5039	5041	One who will have your allegiance.
+5044	5049	The Dead do not suffer the living to pass.
+5050	5052	You will suffer me.
+5075	5078	The way is shut.
+5079	5084	It was made by those who are dead.
+5084	5088	And the Dead keep it.
+5097	5100	The way is shut.
+5101	5104	Now you must die.
+5108	5110	I summon you to fulfill your oath.
+5111	5115	None but the king of Gondormay command me.
+5121	5123	That line was broken.
+5125	5127	It has been remade.
+5135	5136	Fight for us...
+5137	5139	...and regain your honour.
+5143	5144	What say you?
+5156	5158	What say you?
+5158	5160	You waste your time, Aragorn.
+5160	5163	They had no honour in life,they have none now in death.
+5164	5166	I am Isildur's heir.
+5167	5169	Fight for me...
+5169	5173	...and I will hold your oaths fulfilled.
+5176	5178	What say you?
+5188	5191	Open the gate! Quick!
+5220	5222	Quick! Hurry!
+5227	5228	Faramir!
+5229	5232	Say not that he has fallen.
+5233	5235	They were outnumbered.
+5235	5237	None survived.
+5238	5239	Fear.
+5240	5243	The city is rank with it.
+5245	5248	Let us ease their pain.
+5248	5250	Release the prisoners.
+5250	5252	Catapults!
+5264	5268	My sons are spent.
+5269	5272	My line has ended.
+5274	5276	He's alive!
+5276	5279	The House of Stewards has failed.
+5279	5280	He needs medicine, my lord.
+5281	5284	My line has ended!
+5285	5287	My lord!
+5300	5302	Rohan...
+5303	5305	...has deserted us.
+5319	5322	Théoden's betrayed me.
+5333	5334	Abandon your posts!
+5335	5339	Flee! Flee for your lives!
+5349	5350	Prepare for battle!
+5351	5354	Hurry, men! To the wall! Defend the wall!
+5355	5357	Over here!
+5358	5360	Return to your posts!
+5370	5373	Send these foul beasts into the abyss.
+5383	5384	Stay where you are.
+5400	5402	We need more rubble!
+5402	5404	Watch out!
+5404	5406	Down to the lower level. Quick!
+5408	5409	Double up, men!
+5470	5473	Hold them back! Do not give in to fear.
+5473	5476	Stand to your posts! Fight!
+5515	5517	Not to the towers!
+5517	5520	Aim for the trolls! Kill the trolls!
+5521	5522	Bring them down!
+5528	5530	Fight them back!
+5531	5533	Peregrin Took!
+5533	5536	- Go back to the Citadel!- They'd called us out to fight.
+5549	5551	This is no place for a Hobbit.
+5576	5577	Guard of the Citadel, indeed.
+5578	5581	Now, back, up the hill. Quickly. Quick!
+5587	5592	Grondl Grondl Grondl Grondl
+5593	5596	Grondl Grondl Grondl
+5596	5604	Grondl Grondl Grondl Grondl Grondl
+5612	5614	In there.
+5616	5618	What is this place?
+5622	5625	Master must go inside the tunnel.
+5626	5630	Now that I'm here, I don't think I want to.
+5632	5634	It's the only way.
+5637	5639	Go in...
+5639	5641	...or go back.
+5644	5647	I can't go back.
+5658	5661	- What's that smell?- Orcses' filth.
+5661	5664	Orcses come in here sometimes.
+5669	5671	Hurry.
+5675	5677	This way.
+5680	5682	Sméagol?
+5682	5685	Over here.
+5693	5696	It's sticky. What is it?
+5696	5698	You'll see.
+5698	5700	Oh, yes.
+5700	5704	You will see.
+5712	5714	Sméagol?
+5715	5716	Sméagol!
+5719	5721	Sméagol!
+5730	5731	Sam.
+5827	5829	And you, Frodo Baggins...
+5830	5835	...I give you the light of Eärendil,our most beloved star.
+5835	5839	May it be a light for youin dark places...
+5839	5842	...when all other lights go out.
+5915	5919	Naughty little fly
+5919	5922	Why does he cry?
+5922	5926	Caught in a web
+5926	5928	Soon you'll be...
+5929	5930	Eaten.
+5966	5969	Got away, did it, precious?
+5969	5971	Not this time.
+5971	5974	- Not this time!- No!
+5981	5984	It wasn't us. It wasn't us!
+5984	5987	Sméagol wouldn't hurt master.
+5987	5989	We promised.
+5989	5991	You must believe us.
+5991	5993	It was the precious.
+5993	5998	The precious made us do it.
+6014	6017	I have to destroy it, Sméagol.
+6026	6029	I have to destroy it for both our sakes.
+6038	6040	No!
+6062	6065	I'm so sorry, Sam.
+6069	6071	I'm so sorry.
+6096	6101	This task was appointed to you,Frodo of the Shire.
+6102	6104	If you do not find a way...
+6105	6106	...no one will.
+6152	6154	Back to the gate!
+6154	6156	Hurry!
+6179	6182	No tomb for Denethor and Faramir.
+6183	6189	No long, slow sleep of death embalmed.
+6189	6194	We shall burn,like the heathen kings of old.
+6197	6199	Bring wood and oil.
+6202	6203	Steady.
+6203	6205	Steady.
+6219	6221	You are soldiers of Gondor.
+6222	6226	No matter what comes through that gate,you will stand your ground.
+6235	6236	Volley!
+6237	6239	Fire!
+6347	6349	Let him go, you filth.
+6351	6353	Let him go!
+6354	6356	You will not touch him again.
+6359	6361	Come on and finish it.
+6466	6468	Back!
+6478	6479	Mr. Frodo.
+6488	6490	Oh, no.
+6491	6492	Frodo.
+6493	6494	Mr. Frodo.
+6499	6500	Wake up.
+6504	6506	Don't leave me here alone.
+6508	6510	Don't go where I can't follow.
+6514	6515	Wake up.
+6522	6524	Not asleep.
+6526	6528	Dead.
+6556	6558	What's this?
+6559	6561	Looks like old Shelob'sbeen having a bit of fun.
+6563	6566	Killed another one, has she?
+6566	6568	No.
+6570	6572	This fellow ain't dead.
+6573	6575	Not dead?
+6575	6581	She jabs him with her stinger,and he goes as limp as a boned fish.
+6581	6584	Then she has her way with them.
+6584	6586	That's how she likes to feed.
+6586	6588	Fresh blood.
+6588	6590	Get him to the tower!
+6594	6595	Samwise, you fool.
+6596	6598	This scum will be awakein a couple of hours.
+6598	6601	Then he'll wish he'd never been born.
+6624	6627	The house of his spirit crumbles.
+6628	6630	He is burning.
+6631	6632	Already burning.
+6632	6634	He's not dead.
+6635	6636	He's not dead!
+6638	6640	No! No!
+6640	6643	No! No!
+6643	6645	He's not dead!
+6645	6648	- Farewell, Peregrin, son of Paladin.- No! No! No!
+6649	6652	I release you from my service.
+6653	6657	Go now and die in what wayseems best to you.
+6659	6661	Pour oil on the wood!
+6663	6665	Come on! Move your feet!
+6666	6668	- Hurry along there! Hurry along!- Gandalf!
+6669	6670	Where is Gandalf?
+6671	6673	Gandalf!
+6678	6679	Retreat!
+6681	6682	The city is breached!
+6683	6686	Fall back to the second level!
+6689	6691	Get the women and children out!
+6691	6693	Get them out!
+6693	6694	Retreat!
+6694	6696	Come on. Come on.
+6697	6701	Move into the city. Kill all in your path.
+6708	6711	Take them down!
+6730	6733	Fight. Fight to the last man!
+6733	6734	Fight for your lives!
+6782	6783	Courage, Merry.
+6784	6786	Courage for our friends.
+6789	6792	Form ranks, you maggots. Form ranks!
+6792	6795	Pikes in front. Archers behind.
+6803	6806	Éomer, take your éoreddown the left flank.
+6806	6808	Flank ready.
+6808	6811	Gamling, follow the king's bannerdown the center.
+6811	6814	Grimbold, take your company rightafter you pass the wall.
+6814	6817	Forth, and fear no darkness!
+6817	6821	Arise, arise, Riders of Théoden!
+6821	6826	Spears shall be shaken,shields shall be splintered...
+6826	6830	...a sword-day, a red day...
+6830	6833	...ere the sun rises!
+6841	6845	Whatever happens, stay with me.I'll look after you.
+6851	6853	Ride now!
+6855	6857	Ride now!
+6857	6860	Ride! Ride for ruin...
+6860	6863	...and the world's ending!
+6865	6866	Death!
+6866	6869	Death!
+6869	6872	- Death!- Death!
+6873	6874	- Death!- Death!
+6875	6878	- Death!- Death!
+6883	6885	Forth Eorlingas!
+6927	6928	Fire!
+6932	6933	Death!
+6937	6938	Charge!
+6939	6940	Fire at will!
+6966	6967	Gandalf!
+6970	6973	Gandalf! Denethor has lost his mind!
+6974	6976	He's burning Faramir alive!
+6976	6978	Up! Quickly!
+7007	7010	Set a fire in our flesh.
+7027	7029	Stay this madness!
+7062	7064	No!
+7064	7066	You will not take my son from me!
+7066	7069	No! No!
+7079	7081	Faramir.
+7094	7098	So passes Denethor, son of Ecthelion.
+7124	7126	Drive them to the river!
+7128	7130	Make safe the city!
+7169	7170	Re-form the line!
+7172	7173	Re-form the line!
+7180	7183	Sound the charge! Take them head-on!
+7183	7185	Charge!
+7249	7250	Cut him down!
+7252	7254	Follow me!
+7276	7278	Take the reins. Pull him left!
+7281	7282	Left!
+7298	7300	Aim for their heads!
+7306	7309	Bring it down! Bring it down!Bring it down!
+7322	7324	Merry!
+7345	7346	I didn't think it would end this way.
+7348	7349	End?
+7350	7352	No, the journey doesn't end here.
+7355	7358	Death is just another path...
+7358	7360	...one that we all must take.
+7361	7364	The grey rain curtainof this world rolls back...
+7365	7368	...and all turns to silver glass.
+7370	7372	And then you see it.
+7374	7376	What, Gandalf?
+7377	7378	See what?
+7380	7382	White shores...
+7383	7386	...and beyond.
+7387	7389	A far green country...
+7390	7392	...under a swift sunrise.
+7396	7398	Well...
+7398	7399	...that isn't so bad.
+7400	7401	No.
+7403	7404	No, it isn't.
+7420	7423	Rally to me! To me!
+7443	7448	Feast on his flesh.
+7452	7454	I will kill you if you touch him.
+7454	7460	Do not come betweenthe Nazgûl and his prey.
+7525	7528	Late as usual, pirate scum!
+7529	7531	There's knife-work here needs doing.
+7531	7534	Come on, you sea rats!Get off your ships!
+7549	7551	There's plenty for the both of us.
+7551	7553	May the best Dwarf win.
+7577	7579	You fool.
+7579	7582	No man can kill me.
+7584	7587	Die now.
+7598	7600	I am no man.
+7615	7619	- Fifteen! Sixteen!- Seventeen!
+7634	7637	- Twenty-nine!- Legolas!
+7658	7661	Thirty-three, thirty-four.
+7706	7708	That still only counts as one!
+7708	7710	All right, then. Come on!
+7752	7755	I know your face...
+7757	7759	...Éowyn.
+7761	7763	My eyes darken.
+7764	7766	No.
+7766	7768	No.
+7770	7772	I am going to save you.
+7774	7776	You already did.
+7779	7781	Éowyn...
+7782	7785	...my body is broken.
+7790	7792	You have to let me go.
+7798	7800	I go to my fathers...
+7802	7804	...in whose mighty company...
+7805	7808	...I shall not now feel ashamed.
+7824	7825	Éowyn.
+7870	7872	Release us.
+7874	7876	Bad idea.
+7876	7880	Very handy in a tight spot, these lads,despite the fact they're dead.
+7880	7882	You gave us your word.
+7884	7886	I hold your oath fulfilled.
+7887	7888	Go.
+7889	7891	Be at peace.
+7924	7925	Merry.
+7928	7929	Merry, it's me.
+7932	7933	It's Pippin.
+7935	7938	I knew you'd find me.
+7938	7939	Yes.
+7941	7943	Are you going to leave me?
+7944	7945	No, Merry.
+7947	7949	I'm going to look after you.
+7991	7992	Hands off!
+7993	7996	That shiny shirt, that's mine.
+7996	8000	It's going to the Great Eye,along with everything else.
+8001	8005	I don't take orders fromstinking Morgul rats!
+8006	8011	You touch it, and I'll stickthis blade in your gut.
+8031	8032	The scum tried to knife me.
+8032	8034	Kill him!
+8112	8114	That's for Frodo!
+8114	8116	And for the Shire!
+8120	8122	And that's for my old Gaffer!
+8143	8146	Stop your squealing, you dunghill rat.
+8147	8152	I'm gonna bleed you like a stuck pig.
+8159	8160	Not if I stick you first.
+8161	8162	Sam!
+8167	8169	Oh, Sam, I'm so sorry.
+8169	8171	Sorry for everything.
+8171	8175	- Let's get you out of here.- It's too late. It's over.
+8175	8178	They've taken it. Sam...
+8179	8180	...they took the Ring.
+8181	8183	Begging your pardon, but they haven't.
+8195	8197	I thought I'd lost you.
+8197	8199	So I took it.
+8200	8202	Only for safekeeping.
+8203	8205	Give it to me.
+8208	8210	Give me the Ring, Sam.
+8215	8216	Sam.
+8218	8220	Give me the Ring.
+8239	8241	You must understand.
+8244	8246	The Ring is my burden.
+8247	8249	It will destroy you, Sam.
+8252	8254	Come on, Mr. Frodo.
+8255	8257	We best find you some clothes.
+8257	8260	You can't go walking through Mordorin naught but your skin.
+8281	8283	We did it, Mr. Frodo.
+8283	8286	We made it to Mordor.
+8287	8288	There are so many of them.
+8289	8292	We'll never get through unseen.
+8297	8300	It's him, the Eye.
+8307	8310	We have to go in there, Mr. Frodo.
+8310	8312	There's nothing for it.
+8315	8319	Come on. Let's just make itdown the hill for starters.
+8328	8331	Frodo has passed beyond my sight.
+8333	8335	The darkness is deepening.
+8336	8338	If Sauron had the Ring, we would know it.
+8338	8340	It's only a matter of time.
+8341	8344	He has suffered a defeat, yes...
+8345	8349	...but behind the walls of Mordor,our enemy is regrouping.
+8349	8351	Let him stay there.
+8351	8354	Let him rot! Why should we care?
+8354	8359	Because 10,000 Orcs now standbetween Frodo and Mount Doom.
+8365	8368	I've sent him to his death.
+8369	8370	No.
+8371	8373	There is still hope for Frodo.
+8374	8378	He needs time and safe passageacross the plains of Gorgoroth.
+8379	8381	- We can give him that.- How?
+8381	8384	Draw out Sauron's armies.
+8384	8386	Empty his lands.
+8386	8389	Then we gather our full strengthand march on the Black Gate.
+8390	8393	We cannot achieve victorythrough strength of arms.
+8393	8394	Not for ourselves.
+8395	8400	But we can give Frodo his chanceif we keep Sauron's Eye fixed upon us.
+8402	8405	Keep him blind to all else that moves.
+8406	8407	A diversion.
+8408	8410	Sauron will suspect a trap.
+8411	8413	He will not take the bait.
+8413	8415	Certainty of death...
+8415	8417	...small chance of success...
+8418	8420	...what are we waiting for?
+8438	8441	To the Gate, you slugs!
+8442	8445	Move it! To the Gate!
+8451	8452	Look, the Orcs...
+8453	8455	...they're moving off.
+8456	8458	You see, Mr. Frodo...
+8458	8460	...some luck at last.
+8513	8514	Take mine.
+8515	8517	There's a few drops left.
+8531	8534	There will be none leftfor the return journey.
+8535	8538	I don't think there will bea return journey, Mr. Frodo.
+8589	8591	Frodo, get down!
+8592	8594	Hide!
+8604	8606	Frodo!
+8611	8613	Where are they?
+8647	8650	Let the Lord of the Black Land come forth!
+8651	8654	Let justice be done upon him!
+8685	8687	Fall back.
+8687	8689	Fall back!
+8701	8703	It's gone, Mr. Frodo.
+8705	8708	The light's passed on,away towards the north.
+8708	8710	Something's drawn its gaze.
+8727	8729	Hold your ground! Hold your ground.
+8731	8735	Sons of Gondor, of Rohan, my brothers!
+8738	8740	I see in your eyes...
+8740	8744	...the same fear that would takethe heart of me.
+8746	8749	A day may comewhen the courage of Men fails...
+8749	8753	...when we forsake our friendsand break all bonds of fellowship.
+8753	8756	But it is not this day.
+8756	8759	An hour of wolvesand shattered shields...
+8759	8762	...when the age of Mencomes crashing down.
+8762	8764	But it is not this day.
+8764	8766	This day we fight!
+8768	8772	By all that you hold dearon this good earth...
+8772	8776	...I bid you stand, Men of the West!
+8861	8864	Never thought I'd die fightingside by side with an Elf.
+8865	8867	What about side by side with a friend?
+8870	8872	Aye.
+8873	8875	I could do that.
+8904	8906	Do you remember the Shire,Mr. Frodo?
+8909	8911	It'll be spring soon.
+8911	8914	And the orchards will be in blossom.
+8914	8918	And the birds will be nestingin the hazel thicket.
+8919	8923	And they'll be sowingthe summer barley in the lower fields...
+8924	8928	...and eating the firstof the strawberries with cream.
+8930	8932	Do you rememberthe taste of strawberries?
+8934	8936	No, Sam.
+8936	8938	I can't recall the taste of food...
+8940	8943	...nor the sound of water...
+8943	8946	...nor the touch of grass.
+8947	8949	I'm...
+8950	8951	...naked in the dark.
+8953	8955	There's... There's nothing.
+8955	8959	No veil between meand the wheel of fire.
+8961	8962	I can see him...
+8963	8964	...with my waking eyes.
+8965	8968	Then let us be rid of it...
+8968	8971	...once and for all.
+8971	8973	Come on, Mr. Frodo.
+8973	8976	I can't carry it for you...
+8976	8978	...but I can carry you.
+8979	8980	Come on!
+9010	9012	Aragorn.
+9024	9026	Elessar.
+9038	9040	For Frodo.
+9073	9075	Look, Mr. Frodo.
+9075	9078	A doorway.
+9078	9080	We're almost there.
+9082	9086	Clever Hobbits to climb so high!
+9143	9145	Frodo!
+9171	9172	Eagles.
+9174	9175	The eagles are coming!
+9197	9199	Frodo!
+9204	9205	I'm here, Sam.
+9212	9214	Destroy it!
+9224	9227	Go on! Now!
+9227	9230	Throw it in the fire!
+9243	9245	What are you waiting for?
+9247	9249	Just let it go!
+9281	9283	The Ring is mine.
+9287	9288	No.
+9289	9290	No.
+9298	9301	No!
+9401	9403	Yes!
+9404	9405	Yes!
+9406	9409	Precious! Precious!
+9409	9412	Precious! Precious!
+9463	9465	Give me your hand!
+9473	9475	Take my hand!
+9478	9479	No!
+9486	9488	Don't you let go.
+9492	9494	Don't let go.
+9495	9497	Reach!
+9582	9585	Frodo!
+9586	9589	Frodo!
+9666	9668	It's gone.
+9672	9674	It's done.
+9675	9677	Yes, Mr. Frodo.
+9678	9680	It's over now.
+9705	9707	I can see the Shire.
+9709	9712	The Brandywine River.
+9714	9716	Bag End.
+9718	9720	Gandalf's fireworks.
+9721	9724	The lights in the Party Tree.
+9726	9729	Rosie Cotton dancing.
+9730	9732	She had ribbons in her hair.
+9735	9738	If ever I was to marry someone...
+9739	9741	...it would've been her.
+9743	9745	It would've been her.
+9756	9759	I'm glad to be with you,Samwise Gamgee...
+9763	9766	...here at the end of all things.
+9871	9873	Gandalf?
+9892	9894	Frodo!
+9913	9915	Gimli!
+10014	10017	Now come the days of the king.
+10022	10024	May they be blessed.
+10044	10046	This day does not belong to one man...
+10046	10048	...but to all.
+10050	10053	Let us together rebuild this world...
+10053	10057	...that we may sharein the days of peace.
+10205	10207	My friends...
+10212	10215	...you bow to no one.
+10257	10259	And thus it was.
+10259	10263	A Fourth Age of Middle-earth began.
+10263	10265	And the Fellowship of the Ring...
+10265	10270	...though eternally boundby friendship and love...
+10270	10272	...was ended.
+10277	10282	Thirteen months to the day since Gandalfsent us on our long journey...
+10282	10286	...we found ourselveslooking upon a famillar sight.
+10288	10291	We were home.
+10297	10299	Hi.
+10315	10318	Hey, watch the pumpkin.
+10364	10365	Rosie, Rosie.
+10365	10367	Good night, lads.
+10422	10426	How do you pick up the threadsof an old life?
+10428	10430	How do you go on...
+10430	10435	...when in your heartyou begin to understand...
+10436	10439	...there is no going back?
+10440	10443	There are some thingsthat time cannot mend...
+10444	10446	...some hurts that go too deep...
+10448	10451	...that have taken hold.
+10487	10490	Mr. Frodo?
+10492	10494	What is it?
+10495	10499	It's been four years to the daysince Weathertop, Sam.
+10500	10502	It's never really healed.
+10506	10511	"There and Back Again: A Hobbit's Taleby Bilbo Baggins.
+10512	10516	And The Lord of the Ringsby Frodo Baggins."
+10516	10519	You finished it.
+10521	10522	Not quite.
+10523	10526	There's room for a little more.
+10528	10532	Bilbo once told me his partin this tale would end...
+10532	10536	...that each of us must come and goin the telling.
+10536	10539	Bilbo's story was now over.
+10540	10542	There would be no more journeysfor him...
+10543	10544	Save one.
+10545	10548	Tell me again, lad,where are we going?
+10548	10550	To the harbour, Bilbo.
+10550	10553	The Elves have accorded youa special honour...
+10553	10556	...a place on the last shipto leave Middle-earth.
+10557	10559	Frodo...
+10560	10565	...any chance of seeingthat old Ring of mine again?
+10565	10568	The one I gave you.
+10571	10573	Sorry, Uncle.
+10575	10578	I'm afraid I lost it.
+10578	10580	Oh.
+10580	10582	Pity.
+10584	10588	I should like to have held itone last time.
+10616	10621	Well, here's a sightI have never seen before.
+10635	10638	The power of the Three Rings is ended.
+10639	10641	The time has come...
+10641	10645	...for the dominion of Men.
+10646	10648	The sea calls us home.
+10656	10659	I think I'm...
+10659	10663	...quite readyfor another adventure.
+10693	10695	Farewell...
+10695	10698	...my brave Hobbits.
+10700	10703	My work is now finished.
+10705	10710	Here at last,on the shores of the sea...
+10711	10713	...comes the end of our Fellowship.
+10717	10719	I will not say, "Do not weep...
+10720	10724	...for not all tears are an evil."
+10740	10742	It is time, Frodo.
+10747	10750	What does he mean?
+10752	10755	We set out to save the Shire, Sam.
+10756	10759	And it has been saved.
+10762	10765	But not for me.
+10766	10768	You don't mean that.
+10769	10771	You can't leave.
+10779	10782	The last pages are for you, Sam.
+10986	10989	My dear Sam:
+10991	10994	You cannot always be torn in two.
+10994	10998	You will have to be one and wholefor many years.
+10999	11005	You have so much to enjoyand to be and to do.
+11005	11009	Your part in the story will go on.
+11009	11011	Well...
+11012	11015	...I'm back.
+11113	11118	Lay down
+11118	11124	Your sweet and weary head
+11124	11128	Night is falling
+11128	11133	You have comeTo journey's end
+11133	11137	Sleep now
+11137	11144	And dreamOf the ones who came before
+11144	11148	They are calling
+11148	11153	From acrossThe distant shore
+11153	11158	Why do you weep?
+11158	11163	What are these tearsUpon your face?
+11163	11168	Soon you will see
+11168	11173	All of your fearsWill pass away
+11173	11178	Safe in my arms
+11178	11183	You're only sleeping
+11183	11188	What can you see
+11188	11193	On the horizon?
+11193	11197	Why do the white gulls
+11197	11202	Call?
+11203	11208	Across the sea
+11208	11213	A pale moon rises
+11213	11216	The ships have come
+11216	11223	To carry you home
+11223	11228	And all will turn
+11228	11233	To silver glass
+11233	11237	A light on the water
+11238	11243	All souls pass
+11243	11248	Hope fades
+11248	11254	Into the world of night
+11254	11258	Through shadows falling
+11258	11264	Out of memory and time
+11264	11268	Don't say
+11268	11274	We have come now to the end
+11274	11278	White shores are calling
+11278	11282	You and I will meet again
+11282	11289	And you'll be herein my arms
+11289	11293	Just sleeping
+11293	11298	What can you see
+11298	11303	On the horizon?
+11303	11308	Why do the white gulls
+11308	11313	Call?
+11313	11318	Across the sea
+11318	11323	A pale moon rises
+11323	11326	The ships have come
+11326	11333	To carry you home
+11333	11338	And all will turn
+11338	11343	To silver glass
+11343	11347	A light on the water
+11348	11351	Grey ships pass
+11351	11357	Into the West

@@ -1,0 +1,636 @@
+306	308	Your move: Bishop to knight four.
+308	311	My move: Knight to rook three.
+311	315	Poor baby, you're startin' to lose it, aren't ya?
+320	323	Your move: King to rook one.
+323	326	My move: Rook to knight six.
+326	329	Checkmate. Checkmate.
+333	335	You cheatin' bitch.
+396	398	Childs, what's he doin'?
+398	401	Circlin' the camp.
+401	403	Who is he?
+403	406	- Said Norge or something on the side. - That's Norwegian.
+525	527	- George, are you okay? - Yeah, yeah, I'm okay.
+527	530	Yeah. What's goin' on down there?
+551	553	Watch it!
+572	574	Easy.
+577	579	Easy. Easy.
+579	581	Easy. Yes.
+593	595	First goddamn week of winter.
+605	609	Oh, come on. Four stitches. Barely grazed ya.
+609	612	What were they doing flying that low,
+612	617	- shooting at a dog, at us? - Hmm, stir-crazy,
+617	619	cabin fever, who knows?
+619	623	U.S. Number 31, calling McMurdo. Come in, over.
+626	630	U.S. Number 31, calling McMurdo, urgent! Come in, over.
+632	633	Great.
+633	635	- Come on, come on. - Nobody!
+636	639	Nobody. Get ahold of somebody. Get ahold of anybody! We gotta report this mess!
+639	643	Look, I haven't been able to reach shit in two weeks!
+643	646	I doubt if anybody's talked to anybody on this entire continent,
+646	648	and you want me to reach somebody!
+658	661	Maybe we at war with Norway.
+665	670	I was wondering when El Capitan was gonna get a chance to use his popgun.
+674	677	- How long they been stationed there? - It says here only eight weeks.
+678	680	- That's not long enough for guys to go bonkers. - Bullshit, Bwana.
+681	683	Five minutes is enough to put a man over down here.
+683	685	- Damn straight. - I mean, look at Palmer.
+685	688	He been the way he is since the first day.
+688	691	- How many in their party? - They started with ten.
+691	694	- There'd be eight others left. - How do we know?
+694	697	Guys as crazy as that could have done a lot of damage to their own before they got to us.
+697	700	- Nothing we can do. - Oh, yes there is. I want to go up.
+700	702	- In this weather? - Bennings?
+702	706	- Winds are gonna let up a tad next couple of hours. - A tad?
+706	710	Can't condone it much myself, but it is a short haul.
+710	713	An hour there, an hour back.
+713	717	- Shit, Doc, I'll give you the lift. No problem. - Forget it, Palmer.
+718	720	Thanks for thinkin' about it though.
+724	726	Loaded with kerosene. I count 15 cans.
+726	729	- MacReady! - Mac, get your gear on.
+739	744	- It may not clear up for a week, and we're the closest to 'em. - It's all right by me, Doc.
+744	748	- I'm just letting you know we're taking a chance. - Quit griping, MacReady.
+748	752	If we get caught in a white-out, you can scratch one doctor and one pilot.
+752	755	This is real thin. It'll clear as soon as you get up.
+757	759	It's up to you, Mac.
+760	763	If you don't wanna fly, we don't fly.
+763	766	- You really wanna save those crazy Swedes, huh? - Norwegians.
+766	768	- Which way, Doc? - Southwest.
+768	770	You have to read the map 'cause I'm gonna be busy.
+777	781	Mac's really taking it up, huh?
+781	784	He knows what he's doing.
+842	847	Nauls, will you turn that crap down? I'm trying to get some sleep. I was shot today.
+847	851	- Oui, Bwana. Will do. - ¤ Very superstitious ¤
+852	854	¤ Writing's on the wall ¤
+856	860	¤ Very superstitious ¤
+990	992	Anybody there?
+992	994	Hey, Sweden?
+994	997	They're not Swedish, Mac, they're Norwegian.
+1076	1078	Mac!
+1113	1115	My God! What the hell happened here?
+1117	1120	Come on, Doc.
+1155	1158	Portable video unit.
+1158	1161	- Anything? - It's all in Norwegian.
+1166	1170	- What are ya doin', Doc? - It could be important work. I wanna take it back with us.
+1170	1173	It's gettin' late. Let's hurry it up.
+1173	1175	I'll check out the last few rooms.
+1193	1196	Hey, Copper, come here!
+1236	1240	Maybe they found a fossil, the remains of some animal buried in the ice,
+1240	1242	- and they chopped it out. - But where is it? Look at this.
+1257	1259	What is that?
+1259	1264	Is that a man in there or something?
+1264	1269	Whatever it is, they burned it up in a hurry.
+1269	1271	Help me find a shovel, Doc.
+1325	1330	- We found this. - Jesus Christ!
+1353	1356	Blair, I'd like you to start an autopsy right away.
+1415	1417	- Did you reach anybody yet? - Reach anybody?
+1417	1419	We're a thousand miles from nowhere, man,
+1420	1422	and it's gonna get a hell of a lot worse before it gets any better!
+1422	1425	Well, stick to it, Windows, stick to it.
+1430	1433	Nothin' wrong with this Norwegian, physiologically anyway.
+1433	1437	- No drugs, no alcohol, nothin'. - Hmm.
+1458	1461	Well, what we got here is what appears to be, anyway,
+1461	1465	a normal set of internal organs.
+1465	1468	Heart,
+1468	1471	lungs, kidneys, liver,
+1471	1473	intestines.
+1476	1478	Seem to be normal.
+1495	1498	...one, door number two and door number three.
+1499	1503	I think that Dawn Screen here has got the most to trade in. I went to you first.
+1503	1505	You brought your friend, Anna. You've been consulting Anna all through the show.
+1505	1509	- You may as well consult her one more time. - I know how this one ends.
+1544	1547	Clark, will you put this mutt with the others where it belongs?
+1550	1552	Yeah, okay.
+1572	1573	Go ahead.
+1576	1579	Go ahead. What are you waiting for?
+1743	1745	I don't know what the hell's in there.
+1745	1748	- It's weird and pissed off, whatever it is. - Bennings, go get Childs.
+1748	1750	What is this? What's goin' on?
+1750	1753	- Hey, Palmer, what is this? - I don't know.
+1753	1755	Childs! Mac wants the flamethrower!
+1755	1756	- Mac wants the what? - That's what he said!
+1757	1758	- Now, move! - Damn it!
+1771	1773	- Stand back. - Mac, what is it?
+1819	1821	No! No! God!
+1822	1824	- Don't! Don't! No! - Get back! Get back!
+1847	1852	Get your ass over here! Burn it!
+1856	1858	Damn it, Childs, torch it!
+1936	1939	Oh, my God.
+1944	1948	Oh! Ohh!
+1952	1955	Look. Son of a bitch.
+1972	1974	What we're talking about here is an organism...
+1974	1978	that imitates other life-forms, and it imitates them perfectly.
+1978	1980	When this thing attacked our dogs,
+1980	1983	it tried to digest 'em, absorb them.
+1983	1987	And in the process shape its own cells to imitate them.
+1989	1993	This, for instance. That's not dog.
+1995	1996	It's imitation.
+1997	2000	We got to it before it had time to finish.
+2000	2003	Finish what?
+2003	2006	Finish imitating these dogs.
+2012	2016	Easy. Easy. Good.
+2019	2021	Easy. Easy.
+2026	2027	- Clark? - Yeah?
+2027	2031	Did you notice anything strange about the dog, anything at all?
+2031	2033	Strange? No.
+2035	2036	What was the dog doing in the rec room?
+2036	2038	I don't know.
+2038	2041	He was just wandering around camp all day.
+2043	2047	Are you sayin' to me the dog wasn't put in the kennel until last night?
+2047	2052	- Right. - How long were you alone with that dog?
+2053	2058	I don't know, an hour, hour and a half maybe.
+2058	2061	What the hell you lookin' at me like that for?
+2064	2067	- I don't know. - What?
+2067	2071	I don't know. It's probably nothin'.
+2071	2075	It's nothin' at all.
+2084	2086	How much more of this crap is there?
+2086	2091	- Oh, nine hours I'd say. - We can't learn anything from this.
+2091	2093	Guess not.
+2103	2105	Where'd they take these shots?
+2105	2108	Seems like they were spending a lot of their time...
+2108	2111	in a little place northeast of their camp about five or six miles.
+2111	2114	What's that?
+2114	2117	It looks like something buried under the ice.
+2123	2125	And look at that, they're planting thermite charges.
+2125	2130	Whatever it was, it was bigger than the block of ice you found.
+2139	2139	Here.
+2140	2142	This is it, the place where they were spending most of their time.
+2143	2146	- Pretty nasty out. 35 knots. - Screw it. I'm gonna go up anyway.
+2168	2171	Half a mile due east.
+2264	2269	Jesus! How long you figure this has been in the ice?
+2269	2273	Well, the backscatter effect's been bringin' things up...
+2273	2275	from way down around here for a long time.
+2275	2278	I'd say... I'd say the ice it's buried in...
+2278	2281	is 100,000 years old at least.
+2283	2286	- And those Norwegians blew it up. - Yeah.
+2313	2315	I don't know.
+2315	2319	Thousands of years ago it crashes and this thing...
+2319	2323	gets thrown out or crawls out and it ends up freezing in the ice.
+2323	2327	- I just cannot believe any of this voodoo bullshit. - Childs,
+2328	2330	happens all the time, man.
+2330	2332	They're fallin' out of the skies like flies.
+2332	2335	Government knows all about it. Right, Mac?
+2335	2339	- Do you believe any of this voodoo bullshit, Blair? - Childs?
+2339	2342	Childs, Chariots Of The Gods, man.
+2342	2345	They practically own South America.
+2345	2347	I mean, they taught the Incas everything they know.
+2354	2356	So, come on now, MacReady.
+2356	2358	The Norwegians get ahold of this...
+2358	2360	- and they dig it up out of the ice. - Yes, Garry, they dig it up,
+2360	2362	they cart it back, it gets thawed out,
+2362	2365	wakes up, probably not in the best of moods.
+2365	2367	- I don't know... - Which one of you disrespectful men...
+2367	2372	been tossin' his dirty drawers in the kitchen trash can, huh?
+2372	2374	From now on, I want my kitchen clean, all right? Germ free!
+2374	2377	Now, how's this motherfucker wake up after thousands of years in the ice?
+2377	2380	- And how can it look like a dog? - I don't know how.
+2380	2382	'Cause it's different than us, see.
+2382	2387	'Cause it's from outer space. What do you want from me? Ask him.
+2389	2392	You buy any of this, Blair?
+2508	2512	Mac, we're movin' those things out of the lab into the storeroom.
+2512	2515	Can you come get your stuff?
+2515	2518	Be there in a minute, Doc.
+2533	2535	Through the door.
+2538	2541	Right over there. Right over there.
+2543	2546	Sorry, Mac. You have to move your stuff...
+2546	2549	Doc says we gotta stash 'em in here and lock 'em up.
+2549	2552	- I have to talk to you. - I'm tired of talking, Fuchs.
+2552	2554	I just want to get up to my shack and get drunk.
+2554	2558	- Mac, it's important. - What is it?
+2558	2560	- Outside. - It's 40 below outside.
+2560	2563	In the Thiokol. Please, Mac.
+2577	2579	We ought to just burn these things.
+2579	2582	Can't burn the find of the century.
+2582	2585	That's gonna win somebody the Nobel Prize.
+2597	2599	You got the keys?
+2599	2602	Get 'em from Garry. I want to get some stuff out of here.
+2635	2637	There's something wrong with Blair.
+2637	2639	He's locked in his room and won't answer the door.
+2639	2644	- I took one of his notebooks from the lab. Listen. - Yeah?
+2646	2648	"It could have imitated a million life-forms on a million planets.
+2648	2651	It could change into any one of them at any time.
+2651	2653	- Now it wants life-forms on Earth... " - It's gettin' cold,
+2653	2655	- and I haven't slept in two days. - Wait a minute, Mac.
+2656	2659	"It needs to be alone and in close proximity with the life-form to be absorbed.
+2659	2662	- The chameleon strikes in the dark. " - Is Blair cracking up?
+2662	2666	Damn it, MacReady. "There's still cellular activity in these burned remains.
+2666	2669	They're not dead yet. "
+2678	2681	Let's go, Bennings. I gotta get some sleep.
+2698	2702	Holy shit.
+2706	2708	Go get the doc.
+2708	2712	- I'll get Garry. We'll meet in Blair's room. - All right.
+2717	2719	It's Bennings!
+2729	2733	Bennings was right there, Mac! I swear it had ahold of him!
+2744	2747	- Windows, get back! Keep away from him! - Don't touch him!
+2750	2752	Get back! Stay back!
+2755	2757	It isn't Bennings!
+2789	2792	- My God! What was happening to him? - If it had time to finish,
+2792	2794	it would have looked and sounded and acted just like Bennings!
+2794	2798	- I don't know what you're saying. - That was one of those things,
+2798	2801	trying to imitate him, Garry.
+2803	2807	- Come on. - MacReady, I've known Bennings for ten years.
+2807	2809	He's my friend.
+2809	2812	We gotta burn the rest of them.
+2844	2846	All right, step back.
+2871	2873	You sure that's all of 'em?
+2873	2875	We cleaned out the storehouse, the lab.
+2875	2878	There is nothing left.
+2878	2880	Where's Blair?
+2919	2922	I can't find Blair.
+2922	2924	Where's everybody else?
+2924	2926	Windows is in the radio room still trying to get through.
+2926	2928	Everyone else is in the rec room.
+2928	2931	You go on. I'll be in in a minute.
+2953	2957	Blair?
+3009	3013	Don't come in here! I got a gun! I got an ax!
+3013	3016	Don't, you son of a bitch! Don't come in here! You understand me?
+3016	3019	- He's got a gun, Mac! - Anybody interferes, I'll kill 'im!
+3019	3021	Jesus!
+3021	3024	He smashed up some of the chopper pretty good.
+3025	3028	Childs, go see if he got to the tractor.
+3028	3033	Nobody gets in and out of here! Nobody!
+3037	3042	You guys think I'm crazy! Well, that's fine!
+3042	3046	Most of ya don't know what's going on around here!
+3046	3049	But I'm damn well sure some of you do!
+3050	3052	Christ!
+3054	3058	He got most of the chopper and the tractor, and he's killed the rest of the dogs.
+3062	3064	Garry, wait a minute! Wait a minute!
+3065	3067	All right, Childs, go around to the map room door.
+3068	3069	- Talk to him. - Okay.
+3069	3071	Go on.
+3071	3073	Norris, get a table from the lab.
+3075	3079	Do you think that thing wanted to be an animal?
+3079	3082	No dogs make it a thousand miles through the cold.
+3085	3088	No, you don't understand!
+3088	3090	That thing wanted to be us!
+3090	3095	A cell gets out, it could imitate everything on the face of the earth!
+3095	3098	- And nothing could stop it! - Okay, Blair.
+3098	3101	Come on now, you don't want to hurt anybody.
+3101	3104	I'll kill you!
+3128	3132	Good shot, MacReady. Excuse me.
+3132	3135	- All right, bring him up. Lift him up. - Yeah.
+3135	3138	Okay. Okay.
+3153	3155	Come on, Blair.
+3160	3163	- What about your shack, MacReady? - I don't want him in my shack.
+3163	3165	We'll lock him in the toolshed.
+3169	3171	Why am I in here?
+3171	3175	For your own protection, Blair... and ours.
+3187	3189	How you doin', old boy?
+3192	3195	I don't know who to trust.
+3195	3199	I know what you mean, Blair.
+3199	3202	Trust is a tough thing to come by these days.
+3204	3208	Tell you what? Why don't you just trust in the Lord?
+3209	3211	Watch Clark.
+3211	3213	What?
+3214	3217	I said, "Watch Clark. "
+3217	3220	And watch him close, do you hear me?
+3237	3239	Now the radio's gone.
+3239	3242	- So are the choppers. - We're completely cut off.
+3242	3246	All we can do now is hole up 'til spring and wait for the rescue team.
+3246	3250	No, we don't wait. Somebody in this camp ain't what he appears.
+3250	3253	Right now that may be one or two of us. By spring it could be all of us.
+3253	3257	So how do we know who's human?
+3257	3260	If I was an imitation... a perfect imitation...
+3260	3263	how would you know if it was really me?
+3268	3270	Is there some kind of test, Doc?
+3270	3272	Well, yeah... possibly.
+3272	3276	- I've been thinking about a blood serum test. - What's that?
+3276	3278	We could take a sample of each person's blood.
+3278	3281	We could mix it with uncontaminated blood.
+3281	3284	I suppose if there's a reaction, we'd know who isn't human.
+3284	3286	We've got whole blood in storage.
+3286	3288	Here, start working on it.
+3288	3290	Keep an eye on Clark.
+3290	3293	He was close to that dog.
+3293	3296	Yeah. Yeah.
+3299	3302	Mac, we need Blair's help. He's the only one...
+3302	3305	- who knows what this organism is capable of. - He's too far gone, Fuchs.
+3305	3308	But get the rest of his notebooks and start going through them.
+3320	3324	Garry! Hey, you guys, come here!
+3324	3326	What?
+3326	3329	- Somebody got to the blood! - What?
+3329	3331	- Where's Clark? - Right here.
+3331	3334	Wait a minute, wait a minute. Was this broken into?
+3334	3336	No, the lock is undamaged.
+3336	3339	- Somebody opened it, closed it, then locked it. - Great.
+3339	3341	Who's got access to it?
+3345	3347	I guess I'm the only one.
+3347	3350	And I got the only key.
+3353	3355	Would that test have worked, Doc?
+3355	3358	- Oh, I think so, yes. - Somebody else sure as hell thought so.
+3358	3362	Well, who else could have used that key?
+3362	3365	Nobody! I just give it to Copper whenever he needs it!
+3365	3368	- Could anybody have gotten it from you, Doc? - I don't see how.
+3368	3371	As soon as I'm finished, I return it right away.
+3373	3375	Great.
+3375	3379	- When was the last time you used it? - A day or so ago.
+3381	3383	I suppose somebody could have lifted it off me...
+3383	3386	Oh, come on! That key ring is always hooked to your belt.
+3388	3389	Accusing everybody...
+3390	3393	Stop it now! It ain't worth it!
+3393	3395	- Copper's the only one who's got any business with it. - Wait a minute!
+3395	3398	- You've been in here on several occasions! - Doc thought of the test.
+3398	3401	- That clears him? Bullshit! - Why would he take...
+3401	3403	- Shut up, man! - Windows! - Windows!
+3416	3418	Put that down.
+3418	3422	- No. - I'll put this right through your head.
+3422	3426	You guys gonna listen to Garry, let him give the orders?
+3426	3428	He could be one of those things!
+3428	3431	Windows, wait a minute. Just take it easy.
+3432	3434	Put the gun down. Put it down.
+3434	3436	- Garry, you don't want to hurt anybody. - Get back.
+3436	3439	On the floor.
+3452	3455	It's on the floor.
+3461	3463	I don't know about Copper,
+3463	3466	but I give you my word, I did not go near that blood.
+3474	3478	But I guess you'll all feel a little easier...
+3478	3481	if somebody else was in charge.
+3481	3485	Norris, I can't see anybody objecting to you.
+3488	3491	I'm sorry, fellas, but I-I-I'm not up to it.
+3491	3495	- I'll take it. - Like hell you will.
+3495	3499	It should be somebody a little more even-tempered, Childs.
+3508	3510	All right.
+3531	3534	I know I'm human.
+3536	3540	And if you were all these things, then you'd just attack me right now.
+3540	3543	So some of you are still human.
+3543	3545	This thing doesn't want to show itself.
+3545	3548	It wants to hide inside an imitation.
+3549	3551	It'll fight if it has to,
+3551	3554	but it's vulnerable out in the open.
+3554	3557	If it takes us over,
+3557	3561	then it has no more enemies,
+3561	3563	nobody left to kill it.
+3563	3566	And then it's won.
+3568	3571	There's a storm hitting us in six hours.
+3571	3574	We're gonna find out who's who.
+3574	3578	All right, Doc, Garry and Clark move over there away from the others.
+3590	3594	Norris, you and Childs shoot 'em up with morphine. Tie 'em down and watch 'em.
+3594	3596	- Fuchs, you start workin' on a new test. - I need Doc's help.
+3596	3599	Yeah, you don't want to drug me.
+3599	3601	Mac, I'm not a prisoner!
+3621	3624	Here, let me do it. You're gonna break the needle in my arm.
+3624	3627	No, Doc. He's doin' a real fine job.
+3634	3638	I'm gonna hide this tape when I'm finished.
+3638	3642	If none of us make it, at least there'll be some kind of record.
+3642	3646	Storm's been hitting us hard now for 48 hours.
+3646	3649	We still have nothing to go on.
+3660	3661	One other thing.
+3662	3666	I think it rips through your clothes when it takes you over.
+3667	3671	Windows found some shredded long johns, but the name tag was missing.
+3671	3675	They could be anybody's.
+3675	3678	Nobody...
+3678	3682	Nobody trusts anybody now.
+3682	3684	And we're all very tired.
+3691	3693	Nobody trusts anybody now.
+3697	3699	There's nothing else I can do.
+3700	3702	Just wait.
+3704	3709	R.J. MacReady, helicopter pilot, U.S. Outpost Number 31.
+3723	3724	You come up with anything yet?
+3725	3727	One or two ideas.
+3730	3732	But, MacReady, I've been thinking.
+3732	3737	If a small particle of this thing is enough to take over an entire organism,
+3737	3739	then everyone should prepare their own meals.
+3739	3741	I suggest we only eat out of cans.
+3742	3744	All right.
+3776	3779	Who's that?
+3813	3815	Anybody see Fuchs?
+3817	3820	Somebody blew out a fuse in the lab.
+3820	3823	Lights were out for an hour. Any one of us could have gotten to him.
+3823	3825	All right, we gotta find him.
+3825	3828	Nauls, why don't you come with me and we'll look outside.
+3828	3830	Palmer, you and Windows check the inside.
+3831	3833	I ain't goin' with Windows.
+3833	3836	I ain't goin' with him. I'll go with Childs.
+3836	3840	- Hey, fuck you, Palmer! - I ain't goin' with you!
+3840	3842	- Who says I want you goin' with me? - All right, cut the bullshit!
+3845	3847	Windows, you come with us. Norris, you stay here.
+3847	3851	Any of them move, you fry 'em. You hear anything at all, you cut loose on the sirens.
+3851	3855	We all meet back here in 20 minutes, regardless!
+3855	3857	And everybody watch whoever you're with,
+3857	3859	real close.
+3880	3882	Hey, Blair!
+3884	3886	Blair, have you seen Fuchs?
+3889	3894	I don't want to stay out here anymore. I want to come back inside.
+3895	3899	Funny things. I hear funny things out here.
+3899	3901	- Have you come across Fuchs? - It ain't Fuchs.
+3905	3907	It ain't Fuchs.
+3907	3910	I'm not gonna harm anybody, and there's nothing wrong with me.
+3911	3913	And if there was, I'm all better now.
+3913	3917	I'd like to come back inside. You got my promise.
+3918	3921	We'll see.
+3921	3924	Hey, wait a minute. Wait a minute, man.
+3924	3928	I want to come back inside. Don't you understand?
+3928	3932	I'm all right. I'm much better. I won't harm anybody.
+3932	3935	You gotta let me come back inside.
+3941	3943	Hold it!
+3957	3959	Is it Fuchs?
+3965	3967	Yeah.
+3967	3970	Why would it burn him?
+3970	3973	Flare. Maybe he tried to burn it.
+3976	3978	Maybe he burned himself...
+3978	3981	before it could get to him.
+3986	3990	Great! Now what are we gonna do?
+3991	3994	You go inside. Tell the others we found Fuchs.
+3994	3996	We'll be in as soon as we can.
+3996	3998	- Where are we goin'? - Up to my shack.
+3998	4003	- What the hell for? - 'Cause when I left, I turned the lights off.
+4024	4027	How long have they been out there?
+4027	4029	Forty, forty-five minutes.
+4029	4032	We better start closing off the outside doors.
+4063	4066	Hey! All of you come here!
+4081	4085	Open up! Open up this door! Open up! Open up!
+4087	4089	Close that door.
+4089	4093	Where's MacReady?
+4093	4097	- I cut him loose of the line up by his shack. - Cut him loose?
+4097	4100	Yeah. We were up checkin' around his place.
+4100	4102	I found this.
+4102	4104	Look.
+4104	4107	It was stashed in his own oil furnace.
+4107	4109	Wind must have dislodged it, but I don't think he saw me find it.
+4109	4113	I made sure I got ahead of him on the towline on the way back.
+4113	4115	I cut him loose.
+4115	4118	- MacReady? - He's one of them.
+4118	4120	- When did it get to him? - I don't know.
+4120	4123	It could have been anytime, anywhere.
+4123	4126	- If it did get to him. - Look, Childs, come on!
+4126	4128	- When the lights went out! - That would have been the perfect time.
+4128	4131	Right! You said guys were missing. And, Windows, where were you?
+4131	4133	Palmer, I told you to shut the fuck up!
+4133	4135	Where were you when the lights when out?
+4135	4138	That's what it wants: To pit us against each other!
+4138	4140	Guys! It's MacReady.
+4140	4142	Shh!
+4144	4146	- Let's open it. - Hell no!
+4146	4149	- Do you think he's changed into one of those things? - He's had plenty of time.
+4149	4152	- Nothing human could have made it back here without a guideline. - Let's open it now!
+4152	4154	- Why are you so damn anxious to let him in here? - 'Cause it's so close!
+4154	4156	- May be our best chance to blow it away! - No!
+4156	4161	- Just let him freeze to death outside. - What if we're wrong about him?
+4161	4164	Why, then we're wrong!
+4164	4166	Supply window!
+4166	4170	All right, all right. We got no choice now!
+4172	4175	Damn it! He's got the keys!
+4175	4177	What's goin' on? The towline snapped.
+4177	4180	That's bullshit, Childs. He knows damn well I cut it.
+4183	4185	You're a dead man, MacReady!
+4185	4188	Or a dead whatever the hell you are!
+4198	4202	Anyone messes with me and the whole camp goes.
+4202	4204	Come on, Childs, burn me.
+4205	4208	Put those torches on the floor and back off.
+4216	4219	Back off. Way off.
+4228	4230	- You asshole. - You'd have done the same thing.
+4230	4232	Don't argue with him.
+4234	4235	Where's the rest?
+4239	4241	So help me, I mean it!
+4241	4243	It's cool, MacReady. It's cool, man! Come on!
+4244	4246	Yeah, yeah, man. Just relax.
+4246	4250	Anybody touches me, and we go.
+4261	4263	He's not breathin'!
+4263	4266	Go untie the doc.
+4266	4270	Get him in here. And bring the others.
+4273	4276	From now on, nobody gets out of my sight.
+4284	4287	Lay him there.
+4290	4292	So you sweethearts...
+4292	4295	were about to have yourselves a little lynching party, huh?
+4295	4300	I might just have to put an end to you on general principles, Nauls.
+4300	4304	Did it occur to the jury that anybody could have stuck some of my clothes up the furnace?
+4304	4306	We ain't buyin' that.
+4306	4308	Quit that bickering over there!
+4308	4310	Windows, wheel that defibrillator over here!
+4310	4313	Put some gel on those paddles!
+4313	4315	You're gonna have to sleep sometime, MacReady.
+4315	4318	I'm a real light sleeper, Childs.
+4320	4322	If anyone tries to wake me...
+4322	4324	Uh-uh.
+4326	4327	Clear!
+4335	4336	- Clear! - Clear.
+4393	4395	- We're on fire, MacReady! - Get back! Just wait!
+4395	4396	- We're on fire! - Just wait!
+4404	4406	All right, go!
+4426	4429	Windows! Windows, get in here!
+4452	4456	You gotta be fuckin' kidding.
+4474	4477	- What do you got in mind, MacReady? - A little test.
+4477	4481	Windows, you and Palmer tie everybody down real tight.
+4481	4483	- What for? - For your health.
+4483	4485	Let's rush him! He's not gonna blow us all up!
+4489	4491	No, no, wait a minute. Wait a minute.
+4491	4495	Let's do what Mac says.
+4495	4498	I mean, he wasted Norris pretty quick, didn't he?
+4498	4500	That's close enough, Clark.
+4500	4504	- He ain't tyin' me up. - Then I'll have to kill you.
+4504	4507	Then kill me.
+4515	4517	I mean it.
+4523	4525	I guess you do.
+4536	4539	- This is bullshit, Mac! - Finish it, Palmer.
+4539	4541	They're dead, Mac!
+4546	4549	- Windows? - Yo?
+4549	4552	You tie up Palmer over here.
+4555	4559	We're gonna draw a little bit of everybody's blood.
+4561	4563	'Cause we're gonna find out who's the thing.
+4564	4568	Watching Norris in there gave me the idea that...
+4568	4572	maybe every part of him was a whole.
+4572	4576	Every little piece was an individual animal...
+4576	4580	with a built-in desire to protect its own life.
+4581	4585	You see, when a man bleeds,
+4585	4587	it's just tissue.
+4589	4593	But blood from one of you things won't obey when it's attacked.
+4593	4596	It'll try and survive;
+4596	4600	crawl away from a hot needle, say.
+4620	4622	Now you.
+4644	4645	That's good.
+4646	4649	All right, move back. Over there.
+4694	4697	I guess you're okay.
+4698	4703	All right, put that on and watch them.
+4710	4714	Now I'll show you what I already know.
+4717	4720	That's a crock of shit.
+4720	4722	Let's try the Doc and Clark.
+4739	4741	Now Clark.
+4750	4752	Then Clark was human, huh?
+4752	4755	Which makes you a murderer, don't it?
+4755	4757	Palmer now.
+4764	4767	This is pure nonsense. It doesn't prove a thing.
+4767	4769	I thought you'd feel that way, Garry.
+4769	4771	You were the only one that could have got to that blood.
+4771	4774	We'll do you last.
+4776	4779	Get away from me! MacReady, burn it!
+4779	4783	What is it?
+4783	4785	Get him, get him! Just shoot!
+4796	4800	MacReady, shoot!
+4800	4802	- Get it, Mac! - Get it!
+4806	4808	Windows! Blast him!
+4811	4813	Get me outta here!
+4842	4843	Windows!
+4863	4865	Damn! Get me outta here!
+4885	4886	MacReady!
+4886	4888	- Get in here! - Quick, come on! Hurry up!
+4888	4891	It's coming back! Burn it! Burn it, for God's sake!
+4891	4894	- Burn it! Burn it! - Hurry up, MacReady!
+4926	4927	Let's do it.
+4940	4944	Get me outta here! Cut me loose!
+4944	4946	Cut me the hell... Come on, get me outta here!
+4947	4949	Come on, get me outta here! Cut me loose, damn it!
+4967	4970	I know you gentlemen have been through a lot,
+4971	4973	but when you find the time,
+4973	4976	I'd rather not spend the rest of this winter...
+4976	4979	tied to this fucking couch!
+4999	5001	Childs...
+5001	5003	we're goin' out to give Blair the test.
+5003	5006	If he tries to make it back and we're not with him,
+5006	5008	burn him.
+5026	5029	Mac, the door is open.
+5042	5046	How'd he get out? The door was bolted from the outside.
+5088	5090	Blair?
+5093	5096	Hey, Blair! You down there?
+5096	5098	We got something for ya!
+5108	5112	Blair's been busy out here all by himself.
+5120	5124	- What is it? - Something he's been making.
+5124	5127	It's a ship of some kind.
+5127	5129	He stole the parts from the helicopter.
+5129	5133	Smart s. o. b. He put it together piece by piece.
+5133	5136	Where was he tryin' to go?
+5136	5139	Anyplace but here.
+5176	5179	Hey, you guys, come here. Come here.
+5185	5189	I think I saw Childs outside the main entrance of the camp.
+5189	5191	- What's he doing outside? - I don't know.
+5202	5204	Got a flare?
+5206	5210	He got back inside and blew the generator.
+5211	5214	In six hours, it'll be 100 below in here.
+5214	5216	Well, that's suicide!
+5216	5218	Not for that thing.
+5219	5221	It wants to freeze now.
+5221	5225	It's got no way outta here. It just wants to go to sleep until the rescue team finds it.
+5227	5230	What can we do? What can we do?
+5231	5236	Whether we make it or not, we can't let that thing freeze again.
+5236	5240	Maybe we'll just warm things up a little around here.
+5243	5246	We're not gettin' outta here alive...
+5248	5250	but neither is that thing.
+5355	5357	Generator room.
+5421	5423	Generator's gone.
+5423	5426	Any way we can fix it?
+5426	5430	It's gone, MacReady.
+5437	5443	All right. We gotta bring this whole place right down into the ice.
+5443	5446	Garry, plant yours in the old storage room.
+5446	5449	Nauls, down by the generator.
+5497	5499	Oh, God.
+5566	5570	How's it comin' in there?
+5570	5573	I said, "How's it... "
+5673	5676	Yeah, fuck you too!
+5756	5759	You the only one who made it?
+5759	5762	Not the only one.
+5763	5764	Did you kill it?
+5766	5769	Where were you, Childs?
+5769	5771	Thought I saw Blair.
+5771	5774	I went out after him...
+5775	5778	and got lost in the storm.
+5786	5790	Fires got the temperature up all over the camp.
+5791	5793	Won't last long though.
+5793	5797	Neither will we.
+5797	5801	How will we make it?
+5801	5805	Maybe we shouldn't.
+5807	5810	If you're worried about me...
+5810	5813	If we've got any surprises for each other,
+5814	5818	I don't think we're in much shape to do anything about it.
+5821	5825	Well... what do we do?
+5825	5829	Why don't we just...
+5829	5833	wait here for a little while,
+5833	5836	see what happens.
+5836	5839	Yeah.

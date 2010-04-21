@@ -1,0 +1,950 @@
+241	243	[Beeping]
+263	266	[Beeping Stops]
+381	383	[Chattering, Indistinct]
+397	400	[Parker] What you say? You got any biscuits over there?
+400	402	[Ripley] I keep seeing corn bread.
+405	407	- I am cold. - Still with us, Brett?
+407	409	Right.
+409	411	Oh, I feel dead.
+411	414	Anybody ever tell you you look dead, man?
+415	419	- [Mouthing Words] - [Parker] Oh, yeah, right.
+419	421	Now, I just forgot something, man.
+421	423	Before we dock...
+423	425	I think we oughta discuss the bonus situation.
+425	427	- Right. - Brett and I, we think we oughta...
+427	429	- We deserve full shares, right, baby? - You see, Mr. Parker and I...
+429	433	feel that the bonus situation has never been on an equitable level.
+433	436	Well, you'll get what you're contracted for like everybody else.
+436	438	- Yes, but everybody else gets more than us. - [Monitor Beeping]
+438	440	Dallas, Mother wants to talk to you.
+441	444	Huh? Yeah, I saw it. Yellow light's for my eyes only.
+445	447	Okay, get dressed, huh?
+447	450	- Parker, come on. - Can I finish my coffee? Thank you.
+450	453	It's the only thing good on this ship.
+486	488	[Machine Whirring]
+504	507	[Dallas] Good morning, Mother.
+512	514	[Beeping, Whirring]
+532	535	[Voice Over Radio, Indistinct]
+535	538	- Right. - Okay.
+538	541	Plug us in.
+542	544	Thank you.
+547	550	- Where's Earth? - You should know.
+550	553	It's not our system.
+553	555	Scan.
+557	560	[Sighs] I can't believe this.
+560	562	Contact Traffic Control.
+564	566	[Ripley] This is commercial towing vehicle Nostromo...
+567	568	out of the Solomons, registration number...
+568	572	1- 8-0-niner-2-4-6-0-niner.
+572	576	Calling Antarctica Traffic Control. Do you read me? Over.
+576	579	Commercial towing vehicle Nostromo out of the Solomons...
+579	584	registration number 1- 8-0-niner-2-4-6-0-niner.
+586	588	- Nothing. - [Kane] Keep trying.
+588	592	Calling Antarctica Traffic Control. Do you read me, Antarctica? Over.
+592	597	I found it. Just short of Zeta II Reticuli.
+597	599	We haven't reached the outer rim yet.
+599	602	That's hard to believe.
+602	604	[Lambert] What the hell are we doing out here?
+606	609	I don't know. What the hell are you talking about?
+609	612	- That's not our system. - I know that.
+612	616	[Parker] Listen, do you ever notice how they never come down here?
+616	618	I mean, this is where the work is, right?
+618	621	Well, it's the same damn reason we get a half share to their one.
+621	623	Our time is their time. That's the way they see it.
+623	625	- But-But... - Same old shit, man.
+625	627	But I think I know why they don't come down here.
+627	629	It's because of you. You don't have no personality.
+631	634	Wonder what they want now. What's going on down here?
+636	639	- Um, you happen to be in my seat. - Yes, of course.
+639	642	- Thank you. - I'm sorry.
+647	649	[Parker] What's happenin'now, baby?
+650	654	Well, some of you may have figured out we're not home yet.
+654	657	- We're only halfway there. - What?
+657	660	Mother's interrupted the course of our journey.
+660	662	- Why? - Yeah.
+662	665	She's programmed to do that should certain conditions arise. They have.
+665	668	- [Ripley] Like what? - It seems she has...
+668	670	intercepted a transmission of unknown origin.
+670	673	- She got us up to check it out. - A transmission? Out here?
+673	676	- Yeah. - What kind of a transmission?
+676	680	Acoustical beacon. It repeats at intervals of 12 seconds.
+680	682	- S.O.S? - I don't know.
+682	684	Human?
+684	686	- Unknown. - [Brett] Well, so what?
+686	688	Well, we are obligated under section eight...
+689	691	I hate to bring this up, but, uh...
+691	693	this is a commercial ship, not a rescue ship.
+693	697	- Right. - And it's not in my contract to do this kind of duty.
+697	700	Now, what about the money? If you wanna give me some money, I'll be happy to oblige.
+700	703	- The man's right. - Let's go over the bonus situation.
+703	705	I'm sorry. Can I say something?
+705	706	Let's talk about the bonus more.
+707	709	There is a clause in the contract which specifically states...
+709	712	any systematized transmission indicating a possible intelligent origin...
+712	714	- must be investigated. - I don't wanna hear it.
+714	716	- We don't know if it's intelligent. - I wanna go home and party.
+716	718	Parker, will you just listen to the man?
+720	725	On penalty of total forfeiture of shares. No money.
+726	728	You got that?
+730	731	- [Chuckling] Well, yeah. - All right, we're going in.
+731	733	Yeah. We're goin' in, aren't we?
+740	741	[Lambert Over Radio] Approaching orbital apogee.
+741	743	[Lambert Over Radio] Approaching orbital apogee.
+744	746	Mark 12, 11...
+746	749	Equatorial orbit nailed.
+749	752	Nine. Eight seconds on descension.
+752	755	- [Kane] Grids energized. Fields focused. - Five. Four.
+755	759	Three. Two. One.
+763	766	- D.O.R.'s in line. - How's the status on the lifters?
+766	769	Give me an A.C. Pressure reading.
+775	777	Forty-eight seconds and counting.
+778	780	[Lambert Over Radio, Indistinct]
+780	783	Prepare to disengage from platform.
+783	785	Twenty seconds.
+785	787	Eighteen, 17...
+787	791	Twelve, 11, 10...
+791	794	nine, eight, seven...
+794	798	six, five, four...
+798	801	three, two, one, lock.
+801	803	Disengage.
+808	809	[Ripley] Umbilicus clear.
+814	817	Money's safe. Let's take her down.
+824	826	[Kane] Roll 92 degrees port yaw.
+826	828	[Ripley] Prime the port.
+848	851	[Voices Over Radio, Indistinct]
+859	862	[Dallas Over Radio, Indistinct]
+866	868	[Ripley] Turbulence.
+869	871	[Voices Over Radio Continue]
+875	878	Locked and floating. You can drop us anytime. We'll catch you.
+878	883	Inertial damping's going off. Hold on, people. There's gonna be a little bump.
+887	889	[Metal Creaking Loudly]
+889	892	What the hell was that?
+892	894	Pressure drop in intake three. Must've lost a shield.
+894	896	Let's go with it.
+897	899	[Voices Over Radio Continue]
+902	905	[Grunts] Dropping off now.
+908	910	Still dropping.
+911	913	Here we are. We've got it.
+913	916	Take her down.
+922	924	Navigation lights on.
+931	935	We've got 5-3 still out. No problem. Just down 11%.
+935	937	[Lambert] Keep it coming. Keep it coming.
+956	957	[Lambert] We go in eight.
+958	961	Eight, seven, six...
+961	965	five, four, three...
+965	967	two, one.
+967	969	Kill drive engines.
+980	982	[Alarm Blaring]
+987	989	What the hell happened?
+989	993	- [Alarm Blaring] - Somebody give me a straight answer!
+993	997	- Is the hull breached? - I don't see anything. We've still got pressure.
+997	1001	- Hit the screen. - Right.
+1001	1003	[Wind Howling]
+1007	1011	[Parker Over Radio] Secondary load sharing unit...
+1011	1013	is out.
+1013	1016	Three to four cells are gone.
+1018	1021	- Is that it? - No, hold on.
+1022	1025	We can't fix it out here anyway, and we need to reroute...
+1025	1028	- a couple of these ducts, wouldn't you say, Brett? - Dry dock time.
+1028	1030	Dry dock. Tell her we need to dry-dock.
+1031	1032	Look, we couldn't fix it out here anyway.
+1032	1034	We gotta reroute all these ducts...
+1034	1037	and in order to do that we've got to dry-dock.
+1037	1039	[Sighs] What else?
+1039	1041	[Parker Over Radio] Some fragments caked up...
+1041	1043	and we've got to clean it all out and repressurize it.
+1043	1046	[Ripley Over Radio] How long before we're functional?
+1046	1050	- Look, what is... What... - It's 17 hours, tell her.
+1050	1053	- At least 25 hours. - Yeah.
+1053	1055	[Ripley] Get started on the floor panel. I'll be right down.
+1055	1057	What the hell's she comin' down here for?
+1057	1059	She better stay the fuck out of my way, I'll tell you that.
+1060	1062	I'd like to see what she's gonna do when she gets here.
+1063	1066	[Wind Howling]
+1072	1075	- Any response yet? - [Ash] No. Absolutely nothing.
+1075	1078	Except the same transmission every 12 seconds.
+1078	1080	All the other channels are dead.
+1085	1088	- [Clicks Switch] - Kick on the floods.
+1102	1106	- We can't go anywhere in this. - Mmm.
+1106	1108	Well, Mother says the sun's coming up in 20 minutes.
+1108	1111	- How far are we from the source of transmission? - Uh, northeast.
+1112	1114	Just under 2,000 meters.
+1114	1116	Walking distance?
+1116	1119	- [Laughs] - Well...
+1119	1122	- Can you give me an atmospheric? - Yes.
+1125	1127	[Ash] Oh.
+1128	1130	It's almost primordial.
+1130	1132	There's inert nitrogen...
+1132	1135	high concentration of carbon dioxide crystals, methane.
+1135	1137	I'm working on the trace elements.
+1137	1139	- Anything else? - Yes.
+1139	1141	There's...
+1141	1143	rock, lava base...
+1143	1145	and deep cold.
+1145	1149	- Well below the line. - Mm-hmm.
+1149	1151	[Kane] I'll volunteer to be in the first group to go out.
+1152	1154	Yeah, it figures.
+1154	1157	You too, Lambert.
+1157	1160	- Swell. - You better break out the weapons.
+1162	1164	[Wind Howling]
+1189	1191	[Wind Howling]
+1231	1234	[Lambert] I can't see a goddamn thing.
+1236	1238	[Dallas] Ash, are you receiving?
+1238	1240	[Voices Over Radio, Indistinct]
+1240	1242	[Mouths Words]
+1242	1244	[Ash] Good contact on my board.
+1245	1249	[Dallas Over Monitor] Clear and free. Keep the line open. Let's go.
+1262	1265	Hey, Ripley.
+1265	1267	Hey, Ripley, I wanna ask you a question.
+1269	1272	If they find what they're lookin' for out there, does that mean we get full shares?
+1272	1276	Don't worry, Parker. You'll get whatever's coming to you.
+1276	1279	Look, I'm not gonna do any more work...
+1279	1282	- till we get this straightened out. - Brett...
+1282	1285	- you're guaranteed by law to get a share. - [Parker] What?
+1285	1288	- Why don't you just fuck off. - What?
+1288	1291	[Brett] What'd you say, Rip?
+1291	1294	If you have any trouble, I'll be on the bridge.
+1300	1302	[Chuckling]
+1303	1306	- Son of a bitch. - What's the matter?
+1316	1318	[Lambert] Can't see a goddamn thing.
+1318	1321	- [Kane] Quit griping. - I like griping.
+1321	1323	[Dallas] Come on. Knock it off.
+1333	1335	- [Clicks Switch] - How's it going?
+1337	1339	All right.
+1339	1341	Have you tried putting that transmission through E.C.I. U?
+1341	1344	[Ash Over Radio] No. Mother hasn't identified it yet.
+1345	1347	- You mind if I give it a shot? - Please do.
+1347	1349	[Clicks Switch]
+1357	1358	[Calculating]
+1402	1405	[Breathing Through Oxygen Apparatus]
+1420	1422	Ash, can you see this?
+1422	1424	Yes, I can.
+1427	1429	I've never seen anything like it.
+1438	1440	[Dallas] It's very bizarre.
+1443	1445	[Kane] You said it.
+1454	1456	[Dallas] All right.
+1456	1458	Moving on to second... position.
+1459	1461	[Lambert] What is it?
+1463	1465	Let's get out of here.
+1465	1467	[Kane] We've come this far. We must go on.
+1467	1469	We have to go on.
+1472	1476	Will you say that again? Shit.
+1477	1481	[Dallas] Ash, as you can see, it's kind of hard to describe.
+1481	1484	I'm going back to the console.
+1489	1492	[Voices Continue Over Monitor, Distorted]
+1498	1500	[Dallas, Faint] It seems to be solid.
+1500	1503	To walk... You can on it.
+1510	1513	[Dallas Continues, Voice Distorted]
+1529	1532	[Dallas Continues, Indistinct]
+1534	1537	Dallas?
+1540	1542	Dallas?
+1544	1546	[Breathing Through Oxygen Apparatus]
+1592	1596	- What's happening? - Come on down here. Something different down here.
+1596	1599	I don't know what it is, but...
+1599	1600	See if we can get up that wall. If we can get up that wall, we can find out.
+1666	1668	Amazing.
+1670	1672	[Dallas] Alien life form.
+1674	1677	Looks like it's been dead a long time.
+1677	1679	Fossilized.
+1679	1682	Looks like it's growing out of the chair.
+1697	1699	Bones are bent outward...
+1699	1702	like he exploded from inside.
+1707	1710	[Lambert] I wonder what happened to the rest of the crew.
+1713	1717	Let's get the hell out of here.
+1728	1730	Hey, Dallas, Lambert, come on over here.
+1734	1736	Come on.
+1743	1745	- What do you got? - See what you make of this.
+1753	1755	- [Clicks Switch] - Ash?
+1755	1758	That transmission... Mother's deciphered part of it.
+1758	1761	- It doesn't look like an S.O.S. - What is it, then?
+1761	1764	Well, l... It looks like a warning.
+1764	1766	- I'm gonna go out after them. - What's the point?
+1769	1772	I mean, by the time it takes to get there, you'll...
+1772	1775	they'll know if it's a warning or not, yes?
+1775	1777	[Clicks Switch]
+1778	1780	[Exhales Deeply]
+1801	1803	[Dallas] You okay down there?
+1807	1810	- Can you see anything? - I don't know... a cave.
+1811	1814	A ca... A cave of some sort. But l...
+1815	1817	Well, I don't know, but it's like the goddamn tropics in here.
+1820	1823	What the hell is this?
+1858	1861	The cave is completely enclosed...
+1861	1863	and it's full of...
+1864	1867	leathery objects, like eggs or something.
+1884	1887	There's a layer of mist...
+1887	1891	just covering the eggs that reacts when broken.
+1894	1896	[Dallas Over Radio] Kane? You all right?
+1897	1899	I'm okay. All right.
+1901	1903	I'm okay. I just slipped.
+1923	1925	It appears to be completely sealed.
+1950	1952	Wait a minute. There's movement.
+1954	1957	It seems to have life. Organic life.
+1981	1984	[Screeching]
+2007	2009	[Computer Calculating]
+2020	2022	- [Dallas Over Radio] You there, Ripley? - I'm right here.
+2026	2028	[Beeping]
+2028	2031	- Okay, Ripley, I'm at the inner lock hatch now. - Right.
+2041	2043	- Hey, Ripley. We're clean. Let us in. - Right here.
+2043	2046	- What happened to Kane? - Something has attached itself to him.
+2046	2049	- We have to get him to the infirmary right away. - What kind of thing?
+2049	2052	- I need a clear definition. - An organism. Open the hatch.
+2052	2054	Wait a minute. If we let it in, the ship could be infected.
+2054	2058	You know the quarantine procedure... 24 hours for decontamination.
+2058	2060	He could die in 24 hours. Open the hatch.
+2060	2062	Listen to me. If we break quarantine, we could all die.
+2063	2067	Look, would you open the goddamn hatch? We have to get him inside.
+2068	2070	No. I can't do that.
+2070	2073	And if you were in my position, you'd do the same.
+2073	2074	Ripley, this is an order. Open that hatch right now.
+2075	2076	- Do you hear me? - Yes.
+2076	2078	Ripley, this is an order! You hear me?
+2079	2081	Yes, I read you. The answer is negative.
+2084	2086	Inner hatch opened.
+2087	2089	[Whirring]
+2112	2113	My God.
+2124	2126	What the hell is that?
+2128	2129	How is he?
+2132	2135	How are we gonna get that off of him?
+2135	2138	- How are we gonna get it off? - Let me get some instruments.
+2142	2144	Oh, God.
+2146	2150	All right. I'll make an incision here.
+2150	2155	- I'll try and remove one of the digitals from... - You're gonna do what?
+2155	2158	Finger. I'm gonna try and get his finger off. Just a minute.
+2158	2161	[Continues, Indistinct]
+2167	2172	It's not coming off without tearing his face off with it.
+2172	2174	We'll have to take a look at him inside. Right.
+2176	2179	How come they don't freeze him?
+2179	2182	How come you guys don't freeze him?
+2197	2199	All right, you can take your mask off.
+2217	2221	- What's it got down his throat? - I would suggest it's feeding him oxygen.
+2223	2227	Paralyzes him, puts him in a coma, then keeps him alive.
+2227	2230	Now what the hell is that?
+2230	2232	- We gotta get it off of him. - Just a minute.
+2232	2234	Just a minute.
+2234	2236	I mean, let's not be too hasty.
+2236	2238	We don't know anything about...
+2238	2240	it.
+2240	2243	Now, we're assuming it's feeding him oxygen. If we remove it...
+2245	2247	it could kill him.
+2249	2251	I'm willing to take that chance. Let's cut it off him now.
+2251	2255	- You take responsibility? - Yes, I'll take responsibility. Get him out of there.
+2256	2259	[Dallas] Where do you wanna do this?
+2259	2262	We'll make an incision just below the knuckle there.
+2262	2263	- Right here. - Stand by.
+2267	2269	[Whirring]
+2277	2280	[Dallas] That crap's gonna eat through the hull.
+2282	2284	That thing's gonna eat through the goddamn hull. Come on!
+2284	2287	What's going on?
+2287	2289	This way.
+2296	2298	Next deck.
+2314	2317	- [Sizzling] - [Parker] There it is.
+2319	2321	Don't get under it! Don't get under it.
+2326	2328	Looks like it's stopping.
+2331	2333	- Take a look at this, Brett. - Yeah.
+2333	2336	Brett, give me... What do you got, a pen there? Give it to me, quick.
+2336	2338	Come on! Come on!
+2343	2344	[Brett] Don't get any on your arm.
+2351	2354	It stopped.
+2354	2358	I haven't seen anything like that except, uh, molecular acid.
+2358	2361	It must be using it for blood.
+2361	2363	It's got a wonderful defense mechanism.
+2363	2365	You don't dare kill it.
+2365	2367	What about Kane?
+2369	2372	- Here's your pen back. - [Brett] What do we do now?
+2372	2375	Leave Kane to Ash. You get back to work.
+2378	2379	Well, what... what...
+2379	2382	[Electrical Crackling]
+2387	2390	Okay.
+2390	2394	- Try it. - [Machine Cranking]
+2397	2399	Damn it. I thought for sure that was it.
+2399	2402	- Try it again. - [Machine Cranking]
+2402	2404	I feel like I've been in this place a month.
+2406	2408	We shouldn't have landed in this place in the first place.
+2410	2413	Shouldn't have landed on this damn ball, I know that.
+2413	2414	Shouldn't have landed on this damn ball, I know that.
+2414	2418	Well, the sooner we patch this thing up and get out of here, the sooner we can go home.
+2419	2420	This place gives me the creeps.
+2481	2484	That's amazing. What is it?
+2485	2488	I'd say it's, um...
+2488	2490	I don't know yet.
+2493	2496	- [Coughs] - Did you want something?
+2496	2498	Yes. I, uh...
+2500	2503	I'd like to have a little talk. How's, uh... How's Kane?
+2503	2505	He's holding. No changes.
+2505	2509	And, uh, our guest?
+2510	2513	- Well... - Hmm?
+2513	2515	Well, as I said, I'm still...
+2515	2516	collating, actually.
+2517	2520	But, uh, I have confirmed that he's got an outer layer of protein polysaccharides.
+2522	2524	He has a funny habit of shedding his cells...
+2524	2528	and replacing them with... polarized silicon...
+2528	2530	which gives him a prolonged resistance...
+2530	2534	to adverse environmental conditions.
+2534	2536	- Is that enough for you? - That's plenty.
+2536	2539	- What does it mean? - Please don't do that. Thank you.
+2539	2542	I'm sorry.
+2542	2544	Well, it's an interesting combination of elements...
+2544	2549	making him a tough little son of a bitch.
+2549	2551	And you let him in.
+2551	2553	I was obeying a direct order, remember?
+2553	2557	Ash, when Dallas and Kane are off the ship...
+2557	2559	I'm senior officer.
+2560	2562	Oh, yes. I forgot.
+2562	2566	You also forgot the science division's basic quarantine law.
+2566	2568	- No, that I didn't forget. - Oh, I see.
+2568	2570	You just broke it. Huh?
+2571	2574	Look, what would you have done with Kane? Hmm?
+2574	2577	You knew his only chance of survival was to get him in here.
+2577	2580	Unfortunately, by breaking quarantine...
+2580	2582	you risk everybody's life.
+2582	2585	Maybe I should've left him outside.
+2585	2588	Maybe I've jeopardized the rest of us, but it was a risk I was willing to take.
+2589	2591	That's a pretty big risk...
+2591	2593	for a science officer.
+2593	2596	It's, uh, not exactly out of the manual, is it?
+2597	2600	I do take my responsibilities as seriously as you, you know.
+2602	2603	You do yourjob...
+2604	2606	and let me do mine, yes?
+2640	2644	- [Ripley] Where's Dallas? - [Ash] In the shuttle.
+2646	2649	[Clicks Switch]
+2649	2651	- Dallas. - [Ash] I think you should have a look at Kane.
+2651	2655	- Why? - Something's happened.
+2655	2658	- Serious? - Interesting.
+2662	2664	Ripley, meet me in the infirmary right away.
+2668	2670	[Ripley] Where is it?
+2670	2673	[Ash] Well, I don't know. I mean, we oughta try and find it.
+2673	2675	[Dallas] Yeah, let's check it.
+2700	2703	Dallas, please be careful.
+2739	2742	[Gasps]
+2742	2744	Sorry.
+2775	2779	No, not in the corner. Psst. Have one of these.
+2780	2782	Just in case.
+2794	2797	Kane? Dallas? [Screams]
+2801	2804	- You okay? - I didn't see it. Was it in the overhead?
+2805	2808	- What? It was up there somewhere. - My God.
+2811	2814	It's alive!
+2814	2816	That's a reflex action.
+2818	2819	Well, we've gotta have a look at this.
+2831	2833	Excuse me.
+2839	2842	- [Ash] Seems dead enough. - [Ripley] Well, good. Let's get rid of it.
+2843	2846	Ripley, for God's sake...
+2846	2849	this is the first time that we've encountered a species like this.
+2849	2852	It has to go back. All sorts of tests have to be made.
+2852	2854	Ash, are you kidding? This thing bled acid.
+2854	2857	Who knows what it's gonna do when it's dead.
+2857	2860	I think it's safe to assume it isn't a zombie.
+2860	2863	Dallas, it has to go back.
+2863	2865	Well, I'd as soon...
+2865	2868	as not burn it at the stake, but you're the science officer.
+2868	2870	- It's your decision, Ash. - Dallas.
+2870	2873	How come I've got to change my mind? The decision's been made.
+2873	2875	I'm not trying to change your mind, Dallas. I just want you to listen...
+2875	2876	Will you listen to...
+2877	2879	[Groans]
+2879	2881	Just tell me how you can leave that kind of decision to him.
+2881	2883	Look, I just run the ship.
+2883	2886	Anything that has to do with the science division, Ash has the final word.
+2886	2889	- How does that happen? - It happens because that's what the company wants to happen.
+2889	2892	Since when is that standard procedure?
+2892	2894	Standard procedure is to do what the hell they tell you to do.
+2894	2896	Did you ever ship out with Ash before?
+2896	2899	I went out five times with another science officer.
+2900	2903	They replaced him two days before we left Thedus with Ash. Hmm?
+2903	2906	- I don't trust him. - I don't trust anybody.
+2908	2911	- What's happening with the repairs? How's it going? - They're pretty much finished.
+2912	2913	Why the hell didn't you tell me so?
+2914	2916	- Because there's still some things left to do. - Like what?
+2919	2921	- The reserve power system's blown... - That's a bunch of horseshit.
+2921	2924	- We can take off without that. - Yeah, we can. You think that's a good idea?
+2924	2927	Look, I just wanna get the hell out of here, all right?
+2950	2953	Dust in the intakes again. Number two's overheating.
+2953	2955	Spit on it for two minutes, would you, for Christ's sake?
+2956	2959	[Ripley] We're hot. We're getting hotter.
+2961	2965	Engine room, red clip status?
+2965	2969	- One kilometer on ascension. - [Ripley] Engage artificial gravity.
+2969	2972	- Engaged. - I'm altering the vector now.
+2977	2978	[Dallas] Inhibit CNG control.
+2981	2986	- Struts retract. - [Parker] Struts retracted.
+2986	2989	- [Lambert] Max stress to fifth overload. - [Dallas] Ease it back.
+2994	2996	[Dallas] She's great. Beautiful.
+3007	3010	Walk in the park. When we fix something, we stay fixed...
+3010	3012	- don't we, Brett baby? - [Brett] Right.
+3027	3029	[Parker] What I think we should do is just freeze him.
+3029	3031	Lfhe's got a disease, why don't we stop it where it is?
+3031	3033	He can always get to a doctor when we get back home.
+3033	3035	Right.
+3038	3040	- Right. - [Sighs]
+3043	3046	- Just like a regular parrot. - Yeah. Shape up.
+3046	3049	- What are you, some kind of parrot? - Right.
+3049	3052	Come on. Knock it off. Kane's gonna have to go into quarantine.
+3052	3054	- That's it. - Yes, and so will we.
+3055	3057	Well, how about a little something to lower your spirits?
+3057	3059	Thrill me, will you, please?
+3059	3061	Well, according to my calculations...
+3061	3063	based on time spent getting to and from the planet...
+3063	3066	- Just give me the short version. How far to Earth? - Ten months.
+3066	3068	- Oh, God. - Great.
+3068	3070	- [Monitor Buzzes] - Yes.
+3070	3072	[Ash] Dallas, I think you should come and see Kane.
+3072	3075	- Has his condition changed? - It's simpler if you'djust come and see him.
+3075	3078	We're on our way.
+3078	3081	Right.
+3081	3083	[Laughter]
+3083	3085	[Lambert] How are you doing?
+3088	3090	- [Coughs] Thank you. - How you doin'?
+3090	3093	Um, terrific. Next silly question.
+3093	3094	[Laughter]
+3096	3098	Oh, thank you.
+3100	3102	Do you remember anything about the planet?
+3105	3107	What's the last thing you do remember?
+3109	3111	- Huh? - [Sighs]
+3114	3116	I remember some...
+3116	3119	horrible dream about... smothering.
+3119	3120	And...
+3121	3123	And... Anyway, where are we?
+3123	3125	- Right here. - We're on our way home.
+3125	3127	Back to the old freezerinos.
+3129	3132	Could I have something to eat before we go back?
+3132	3133	L-I need something myself.
+3133	3137	Yeah, right. One more meal before beStime. I'm buyin'.
+3137	3140	- Hey, that's a break. - BeStime.
+3140	3144	[Chattering]
+3148	3150	[Chattering Continues]
+3159	3161	The first thing that I'm gonna do when I get back...
+3161	3163	is to get some decent food.
+3163	3166	I can dig it, man. Let me tell you, I've eaten worse food than this...
+3166	3169	- but I've tasted better, you know what I'm sayin'? - The other one over there.
+3169	3172	Well, you pound down the stuff like there's no tomorrow.
+3172	3175	I'd rather be eatin' something else, but, uh, right now I'm thinkin' food.
+3175	3179	[Kane] Well, you should know. You know what it's made of.
+3179	3182	No, man, I don't wanna talk about what it's made of.
+3182	3184	- I'm eatin' this just to... - [Gagging]
+3185	3187	What's the matter?
+3187	3189	- The food ain't that bad, baby. - What's wrong, Kane?
+3189	3191	- [Gagging, Retching] - Are you choking?
+3191	3193	What's wrong?
+3195	3197	- [Coughing, Gasping] - What? What?
+3197	3200	- This is serious. - Kane, what's the matter?
+3200	3204	- [Gagging, Gasping] - It's okay!
+3204	3207	- Hold him down! - Hold him...
+3210	3213	- [Groaning] - Damn it!
+3213	3215	- Get it into his mouth! - I'm trying!
+3215	3217	[Screaming]
+3225	3227	[Screaming]
+3227	3229	[Screams]
+3230	3232	[Convulsing]
+3240	3242	- [Screeching] - [Screaming]
+3252	3255	- No! - Don't touch it! Don't touch it!
+3260	3262	[Screeching]
+3273	3276	- [Brett] Dallas? - [Dallas] Yeah.
+3276	3280	- Anything? - No. You?
+3280	3282	Nothing.
+3282	3285	- You see anything? - No.
+3317	3318	- [Loud Clank] - [Dallas] Inner hatch sealed.
+3322	3325	Anybody wanna say anything?
+3360	3364	This is just an ordinary prod, like a cattle prod.
+3364	3366	It's got a portable battery.
+3366	3368	It's insulated all the way here, all the way up to here.
+3368	3372	Just make damn sure nobody puts their hand on the end of it.
+3375	3376	It shouldn't damage the little bastard...
+3377	3379	unless its skin is thinner than ours.
+3379	3383	But it will give him a little incentive.
+3383	3385	Now we just have to find it.
+3385	3389	I've taken care of that. I've designed this tracking device.
+3389	3392	You just set it to search for a moving object, like so.
+3393	3396	Hasn't got much of a range, but when you get within a certain distance...
+3396	3398	it'll start to give off a signal.
+3398	3401	What's it key off?
+3401	3404	Micro changes in air density.
+3404	3407	Give me a demo.
+3408	3412	- [Whirring] - See?
+3412	3414	Got ya.
+3414	3418	Two teams. Ash, Lambert and I.
+3418	3419	Ripley, you take Parker and Brett.
+3421	3423	Now, anyone see this thing, you catch it in the net...
+3423	3426	that Parker's holding on his lap.
+3426	3428	Parker, I don't want any heroics out of you, all right?
+3429	3432	Catch it, put it in the air lock, get rid of it.
+3432	3434	The channels are open on all decks.
+3434	3438	I want you to communicate and keep in touch at all times, all right?
+3438	3440	Let's go.
+3453	3455	I thought you fixed 12 module.
+3455	3457	[Brett] We did.
+3458	3459	I don't understand it.
+3462	3464	[Parker] The circuits must have burned out.
+3476	3479	- What do we got here? - Damn it! Hold your light over here, would you?
+3479	3481	Yeah, that's it.
+3481	3485	I don't know if this is gonna work.
+3485	3487	If I couldjust put this... put this in there.
+3487	3490	- Right. - Oh, damn it.
+3493	3495	Check the insulation.
+3495	3497	Oh, shit!
+3509	3513	[Tracking Device Whirring]
+3519	3521	- Steady. - According to this, it's within five meters.
+3523	3525	Open the door.
+3530	3532	Changes in the density, my ass.
+3537	3540	It's within five meters.
+3540	3541	[Parker] Be careful.
+3570	3572	[Parker] Don't creep up on me with that thing.
+3572	3573	[Ripley] You guys, stick together.
+3585	3589	[Louder Whirring]
+3589	3593	- Don't fail me now. - [Parker] What?
+3593	3595	- What is it? - Parker, Brett, it's in this locker!
+3595	3597	Where?
+3597	3599	Here, take this.
+3599	3602	Get over here and get the net.
+3602	3604	- Get it? - I got it. I got it. I got it.
+3604	3607	Wait. Wait.
+3608	3611	All right, Parker. When I say.
+3612	3615	All right. Now.
+3615	3617	Easy.
+3619	3620	[Hissing]
+3620	3623	- [All Chattering] - Wait! Don't let him go!
+3623	3625	What the hell are you doing, man?
+3625	3627	It's the cat.
+3627	3630	[Laughing]
+3633	3636	Hey, look, now. We had to bag it, man.
+3636	3639	Now we might pick it up on the tracker again.
+3639	3641	- I'll... I'll... I'll... - Go and get it, man.
+3643	3645	All right. You get him. We'll go on.
+3647	3649	- [Sighs] - [Scoffs]
+3655	3658	Here, kitty!
+3658	3660	Here, kitty, kitty!
+3661	3663	Well, kitty crap.
+3663	3666	Jones.
+3667	3668	Jonesy?
+3668	3670	Here, Jonesy.
+3672	3675	[Meowing]
+3678	3680	Jonesy?
+3685	3687	Here, kitty, kitty, kitty.
+3688	3690	[Meowing]
+3693	3695	Here, Jonesy.
+3707	3708	Jonesy?
+3709	3711	[Faint Meowing]
+3719	3721	Here, kitty, kitty.
+3728	3730	[Meowing]
+3805	3807	Kitty, kitty, kitty.
+3809	3811	Here, Jonesy.
+3812	3813	Jonesy.
+3816	3817	Kitty, kitty.
+3864	3866	Jonesy?
+3872	3875	Hey. Hey. Come on, Jonesy.
+3875	3877	Come on, baby. That's a kitty.
+3878	3881	That's a kitty. Come on, baby.
+3881	3884	- That's a kitty. - [Hisses]
+3884	3887	Hey, hey. I'm not gonna hurt you.
+3887	3889	Come on.
+3894	3896	[Snarling]
+3909	3912	[Screaming]
+3924	3926	Whatever it was, it was... it was big and...
+3930	3932	You're sure it took him into the air shaft?
+3932	3934	It disappeared into one of the cooling ducts.
+3935	3938	No question, it's... it's using the air ducts to move around.
+3941	3943	Could he want Brett alive?
+3944	3946	- What? - Could Brett be alive?
+3946	3949	No. I mean, I don't think so.
+3949	3953	Well, this air shaft may work to our advantage.
+3953	3958	Here it leads up to and comes out in the main air lock.
+3958	3960	All right. There's only one big opening along the way.
+3960	3963	We can cover that up, and then we...
+3963	3966	drive it into the air lock and zap it into outer space.
+3966	3968	This son of a bitch is huge!
+3974	3976	Come on, Ash. The science department should be able to help us.
+3976	3979	What can we do to drive it?
+3979	3981	Yes, well, it's adapted remarkably well to our atmosphere...
+3981	3983	considering its nutritional requirements.
+3983	3986	- The only thing we don't know about is temperature. - What about temperature?
+3986	3988	- What happens if we change it? - Let's try it.
+3988	3991	I mean, most animals retreat from fire. Yes?
+3991	3994	Fire, yeah. Parker, can you rig...
+3994	3996	three or four incinerator units?
+3996	3999	Give me about 20 minutes. I'll do it.
+4000	4001	- Who gets to go into the vent? - I do.
+4003	4007	No. You and Ash...
+4007	4009	take the main air lock.
+4009	4013	Parker, Lambert, you cover up that maintenance opening, please.
+4108	4111	- [Dallas] I'm at the firstjunction. - Dallas, I'm right here.
+4111	4115	- Parker? - Yeah? - Lambert?
+4115	4117	We're in position. I'm just trying to get a reading here.
+4117	4120	- The air lock is open. - Okay, Ripley.
+4120	4122	Ready.
+4131	4134	All right. I've got a reading on you now.
+4134	4135	[Computer Beeping]
+4170	4173	Uh, open the hatch to the thirdjunction.
+4188	4190	[Dallas] Okay, I'm through.
+4191	4192	- Ripley? - Yes.
+4192	4195	Close all the hatches behind me.
+4195	4197	I'm moving on.
+4211	4214	[Lambert] Dallas, hold it a minute. I think I got it.
+4214	4218	- Yes, I've got it. - [Dallas] Where?
+4218	4222	It's somewhere around the thirdjunction.
+4222	4224	Okay, moving on.
+4242	4246	It is right around there. Now, Dallas, you're gonna have to be careful.
+4255	4260	All right. I've reached...
+4261	4264	the third junction, and I'm going down.
+4281	4284	What the hell's the matter with that box?
+4284	4288	Dallas, you're gonna have to hold your position for a minute. L...
+4288	4290	I've lost the signal.
+4290	4292	What? You sure?
+4293	4297	Look around. Are you sure it's not there? It's got to be around there somewhere.
+4300	4304	[Dallas] Check that out, Lambert. You may be getting interference.
+4304	4309	[Lambert] Dallas, are you sure there's no sign of it? I mean, it is there.
+4310	4312	It's gotta be around there.
+4312	4317	- Dallas? - God, what is happening?
+4317	4320	All right.
+4324	4328	Uh, am l... am I clear? I want to get the hell out of here.
+4330	4333	[Lambert] Oh, God. It's moving right towards you.
+4335	4336	Um...
+4340	4345	Move! Get out of there! Behind you! Move!
+4355	4358	- Dallas? - No. - Take it easy.
+4358	4360	[Parker] Dallas?
+4366	4368	We found this laying there.
+4369	4371	No blood.
+4372	4375	No Dallas. Nothing.
+4381	4383	- How come I don't hear nobody saying nothing? - I'm thinking.
+4386	4390	Unless somebody has got a better idea...
+4391	4393	we'll proceed with Dallas's plan.
+4393	4396	What? And end up like the others?
+4397	4399	Uh-uh. No, you're out of your mind.
+4399	4403	- You got a better idea? - Yes. I say that we abandon this ship.
+4403	4405	We get the shuttle and just get the hell out of here.
+4405	4408	We take our chances and just hope that...
+4408	4410	- somebody picks us up. - Lambert.
+4410	4414	- The shuttle won't take four. - Then why don't we draw straws and see if...
+4414	4417	I'm not drawin' any straws. I'm for killing that goddamn thing right now.
+4417	4419	[Ripley] Okay.
+4419	4421	- Well, let's talk about killing it. - [Parker Grumbling]
+4421	4424	We know it's using the air shafts... Will you listen to me, Parker?
+4424	4427	- Shut up! - Let's hear it.
+4427	4429	Let's hear it.
+4429	4432	It's using the air shafts.
+4432	4435	- We don't know that. - That's the only way.
+4435	4438	We'll move in pairs. We'll go step by step...
+4438	4440	and cut off every bulkhead and every vent...
+4441	4444	until we have it cornered, and then we'll blow it the fuck out into space.
+4444	4446	Is that acceptable to you?
+4446	4451	- If it means killing it, yeah. - Obviously it means killing it.
+4451	4454	But we have to stick together.
+4454	4457	- How are our weapons? - The weapons are fine.
+4457	4461	- This one needs refueling. - Will you get it, please?
+4461	4465	- Ash, go with him. - No, no. I can manage, Ash.
+4465	4467	Don't follow me.
+4470	4472	Ash?
+4474	4476	Any suggestions from you or Mother?
+4478	4482	No, we're still collating.
+4482	4484	You're what?
+4484	4486	You're still collating?
+4487	4489	I find that hard to believe.
+4491	4494	- What would you like me to do? - Just what you've been doing, Ash.
+4494	4497	Nothing. I've got access to Mother now...
+4497	4500	and I'll get my own answers, thank you.
+4502	4505	All right.
+4528	4531	[Beeping, Whirring]
+4543	4545	[Typing]
+4558	4561	[Typing]
+4610	4613	There is an explanation for this, you know.
+4613	4617	Is there really? I want an answer, not an explanation!
+4619	4622	I want... I want...
+4624	4624	[Sobbing] I want...
+4626	4628	Oh!
+4640	4643	Parker. Lambert?
+4652	4654	Ash, open the door.
+4664	4665	Ash...
+4669	4671	Will you open the door?
+4675	4677	- Let me by, Ash. - [Giggling]
+4682	4684	[Screams]
+4706	4709	[Jingling]
+4711	4712	- Yaah! - [Groans]
+4745	4747	[Muffled Shouts]
+4755	4757	What are you doing?
+4761	4764	[Muffled Shouting Continues]
+4764	4766	Aah!
+4774	4778	Get her up. Get her up. Get her up. Get her up. Get her up. Get her up.
+4803	4805	[Screeching]
+4805	4807	Jesus!
+4815	4817	God!
+4819	4823	[Parker] Oh!
+4823	4825	Holy shit!
+4825	4829	Help! Help me get this fucking thing off!
+4829	4831	[Screaming]
+4833	4835	Aah!
+4837	4839	God! Jesus! Oh, God! Oh, God!
+4843	4846	[Parker] How come the company sent us a goddamn robot?
+4846	4850	[Ripley] All I can think of is they must've wanted the alien for their weapons division.
+4850	4853	He's been protecting it right along.
+4853	4855	Parker, will you plug it in?
+4855	4860	- [Parker] I don't know why... - Because he may know how to kill it.
+4886	4887	[Ripley] Ash, can you hear me?
+4891	4893	Ash?
+4900	4903	[Computer Voice] Yes, I can hear you.
+4907	4911	- What was your special order? - You read it. I thought it was clear.
+4912	4916	- What was it? - Bring back life form.
+4916	4921	Priority one. All other priorities rescinded.
+4924	4928	The damn company! What about our lives, you son of a bitch?
+4928	4932	I repeat: All other priorities are rescinded.
+4932	4934	[Ripley] How do we kill it?
+4935	4938	There's got to be a way ofkilling it. How... How do we do it?
+4938	4941	You can't.
+4941	4946	- That's bullshit! - You still don't understand what you're dealing with, do you?
+4948	4950	A perfect organism.
+4952	4956	Its structural perfection is matched only by its hostility.
+4956	4958	You admire it.
+4962	4964	I admire its purity.
+4968	4970	A survivor...
+4972	4976	unclouded by conscience...
+4976	4980	remorse or delusions of morality.
+4982	4984	[Parker] Look, l... I've heard enough of this...
+4984	4987	and I'm asking you to pull the plug.
+4987	4990	- [Ash] Last word. - What?
+4992	4995	I can't lie to you about your chances, but...
+4999	5001	you have my sympathies.
+5003	5006	We're gonna blow up the ship.
+5006	5009	We'll take our chances in the shuttle.
+5009	5011	- Blow up the ship. - Good.
+5011	5013	Come on.
+5038	5042	- When we throw the switches, how long before the ship blows? - Ten minutes.
+5042	5044	- No bullshit. - If we ain't outta here in ten minutes...
+5045	5047	we won't need no rocket to fly through space.
+5048	5051	We're gonna need coolant for the air support system.
+5063	5066	You two go down and get all the coolant you can carry.
+5066	5069	I'll get the shuttle ready. I'll give you about...
+5069	5071	about seven minutes.
+5071	5073	Come back up here. I'll shut the switches off...
+5073	5075	and we'll blow this fucker off into space.
+5075	5077	Okay. All right. Come on.
+5077	5079	- Ready? - Take care of yourself.
+5079	5081	Seven minutes.
+5116	5118	- [Typing] - [Parker's Voice] Take it easy.
+5121	5124	- [Jones Meows] - Jones.
+5159	5162	[Cylinders Hiss]
+5169	5171	Jones?
+5204	5206	Okay, check the bottles.
+5219	5220	Jones?
+5225	5227	- How you doin'? - Fine.
+5233	5235	Jones?
+5239	5242	Psst! Psst! Psst! Psst! Kitty, kitty, kitty, kitty, kitty, kitty.
+5242	5244	Come here, Jones. Come here.
+5245	5246	Jones?
+5251	5253	Come here, boy.
+5253	5254	Come here.
+5255	5257	Nice kitty.
+5257	5259	Jones?
+5259	5261	- [Rattling] - Jones?
+5265	5268	Come here. Come here, sweetheart.
+5269	5271	Jones.
+5278	5280	Jones? Jones?
+5283	5285	Jones?
+5285	5287	- [Snarls] - [Gasps]
+5290	5292	Jones! Goddamn it!
+5296	5298	Now I got you.
+5303	5306	Here, sweetie. Nice kitty.
+5326	5330	- [Gasps] - Oh, my God.
+5342	5344	[Ripley] Lambert...
+5351	5354	Get out of the way, Lambert!
+5354	5357	[Lambert Sobbing]
+5357	5360	Lambert? Lambert? Parker?
+5388	5390	Get outta the room!
+5405	5408	[Lambert Screaming]
+5413	5416	- [Alien Roaring] - [Lambert Screaming]
+5427	5429	Parker?
+5439	5441	[Shuddering]
+5448	5452	[Ripley Grunting]
+5466	5468	[Breathing Heavily]
+5518	5522	- [Mother] Danger. The emergency destruct system... - [Alarm Sounding]
+5522	5525	Is now activated.
+5528	5531	Ten minutes.
+5531	5534	The option to override automatic detonation...
+5539	5542	[Alarm Continues]
+5548	5551	[Alarm Continues]
+5595	5599	[Mother] The option to override automatic detonation...
+5601	5604	three minutes.
+5636	5639	[Mother] The option to override...
+5639	5642	automatic detonation expires...
+5646	5648	[Alarm Continues]
+5653	5656	Twenty-nine, 28, 27...
+5656	5660	26, 25, 24...
+5660	5663	23, 22...
+5663	5666	21, 20 seconds.
+5666	5668	Nineteen, 18...
+5668	5671	17, 16...
+5671	5675	15, 14, 13...
+5675	5679	12, 11, 10 seconds.
+5679	5683	- Nine, eight, seven... - [Gasps]
+5683	5687	Six, five, four...
+5687	5691	- Come on! - three, two, one.
+5691	5694	Option to override detonation procedure...
+5695	5696	has now expired.
+5698	5702	Mother? I've turned the cooling unit back on.
+5702	5705	Mother!
+5705	5707	[Mother] The ship will automatically destruct...
+5712	5715	You bitch!
+5715	5718	[Screams]
+5730	5732	You bitch!
+5732	5733	Goddamn it!
+5821	5823	Jonesy.
+5859	5861	[Gasping]
+5868	5871	You now have one minute to abandon ship.
+5871	5874	The ship will automatically destruct...
+5904	5906	Twenty-nine, 28...
+5906	5908	27, 26...
+5909	5911	25, 24...
+5911	5916	23, 22, 21...
+5916	5918	20 seconds.
+5918	5920	Nineteen, 18...
+5920	5922	17, 16...
+5922	5925	15, 14, 13...
+5925	5929	12, 11, 10 seconds.
+5929	5932	Nine, eight, seven...
+5932	5933	six, five...
+5935	5938	four, three, two, one.
+5985	5987	I got you...
+5989	5991	you son of a bitch.
+6026	6028	[Meows]
+6032	6034	Shh, shh, shh, shh, shh.
+6034	6036	It's all right.
+6044	6047	- Shh, shh, shh. - [Meows]
+6047	6049	Shh, shh, shh.
+6049	6051	Shh, shh, shh. It's all right.
+6059	6062	- [Meows] - All right. It's nice to see you too.
+6062	6064	Shh, shh, shh, shh, shh, shh, shh.
+6064	6066	It's okay.
+6143	6145	[Screams]
+6148	6151	[Gasping]
+6279	6281	[Air Lock Hisses]
+6325	6327	Come on. Come on.
+6327	6330	You are...
+6330	6333	my lucky star.
+6333	6337	You... are my...
+6337	6339	lucky star.
+6340	6342	You...
+6342	6345	Lucky, lucky, lucky, lucky, lucky.
+6345	6347	Okay.
+6354	6356	Well, come on. You...
+6357	6359	are my...
+6359	6362	lucky star.
+6362	6364	You...
+6364	6369	- [Screeching] - You are my lucky star.
+6370	6374	You are my lucky star.
+6374	6378	You are my... [Mumbling]
+6378	6381	- [Screeching] - Oh, my God.
+6381	6384	[Screeching]
+6398	6401	My... My lucky... [Breathing Heavily]
+6401	6404	You... are my...
+6404	6406	[Gasping]
+6409	6413	You are my...
+6413	6416	[Gasping]
+6416	6418	Lucky... [Gasping]
+6424	6427	[Screaming]
+6434	6436	[Screeching]
+6480	6484	[Ripley] Final report of the commercial starship Nostromo.
+6484	6487	Third officer reporting.
+6487	6490	The other members of the crew...
+6490	6492	Kane, Lambert...
+6492	6495	Parker, Brett...
+6495	6499	Ash and Captain Dallas... are dead.
+6499	6503	Cargo and ship destroyed.
+6503	6507	I should reach the frontier in about six weeks.
+6507	6510	With a little luck, the network will pick me up.
+6510	6515	This is Ripley, last survivor of the Nostromo...
+6516	6518	signing off.
+6524	6526	Come on, cat.

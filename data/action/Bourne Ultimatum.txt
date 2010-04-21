@@ -1,0 +1,781 @@
+142	143	Send him back.
+156	158	Will you commit to this program?
+160	161	I can't.
+172	174	Will you commit to this program?
+183	185	Will you commit to this program?
+187	189	I can't.
+253	255	There's no placeit won't catch up to you.
+255	257	It's how every story ends.
+257	261	It's what you are, Jason, a killer.
+261	263	You always will be.
+263	266	Go ahead, go on, go on!Do it! Do it!
+269	273	She wouldn't want me to,that's the only reason you're alive.
+273	275	Who is "she"?
+275	278	Marie Kreutz, his girlfriend.
+278	279	She was killed in India.
+280	282	The director of operationsWard Abbott arranged it.
+286	290	So we have a dirty section chiefwho kills Bourne's girl.
+290	295	Bourne comes back for revenge, tapes Abbott'sconfession, and Abbott commits suicide...
+295	300	Now Bourne's gunnin' for us.You couldn't make this stuff up.
+302	306	Bourne's last confirmed locationwas Moscow, six weeks ago.
+307	309	- Right.- He's on the run, he's dangerous...
+309	312	Now, Sir, with respect, I think,something else could be going on here.
+312	314	What... what's he after?
+315	318	The reason that Bourne went to Moscowwas to see the daughter of his first target.
+318	319	What's your point Pam?
+319	321	Maybe he was retracing his steps.
+321	324	Just looking for something...something in his past.
+325	328	Maybe he hasn't found it yet.We need to know, what it is.
+328	331	You're telling me, he's not athreat to this agency?
+331	333	I think if he wanted to hurt us he could have sent the tape to CNN...
+334	335	Maybe he still will.
+337	341	My number one rule is "hope for the best, plan for the worst. "
+343	348	As far as I'm concerned, Bourne's stilla serious threat, until proven otherwise.
+349	351	- Let's keep looking!- Yes, Sir.
+394	396	This one's from three years ago.
+396	398	He had half of INTERPOL after him.
+398	403	He turned up in Naples, Berlin,Moscow, disappeared again.
+405	407	Girl that he was on the run with.
+407	409	Marie Kreutz.
+409	412	She was found dead in a river,halfway round the world.
+412	414	She'd been shot in the head.
+416	418	What connects the dots?
+430	431	Turn off the tape recorder.
+480	482	Where is my sister?
+487	488	Why don't you sit down?
+500	501	Where is she?
+506	507	She's dead.
+510	511	She was killed.
+514	515	I'm sorry.
+526	528	I knew this can end this way.
+533	535	- It was always gonna end this way.- I didn't believe that.
+544	546	And how did she die?
+550	551	She was shot.
+554	556	We were together inIndia.
+559	560	He came for me.
+564	565	You killed him?
+568	569	Yes.
+571	572	And now what?
+575	579	Someone started all of this.And I'm gonna find him.
+591	591	Hey, It's me.
+592	595	Yeah.He knows the whole story.
+597	598	Bourne's just the tip of the iceberg.
+598	600	Have you heard aboutOperation Blackbriar?
+602	605	I'm gonna get my head around this and type it up.I'll see you first thing. Ok.
+621	625	I have a hit on Echelon - Blackbriar.I repeat, Blackbriar.
+626	629	Looks like it's coming from a European signal.
+629	631	NSA please confirm, your receipt.
+635	636	Sir!
+636	637	What've you got?
+637	640	We intercepted a call inLondon, keyword "Blackbriar".
+640	642	Ok, send it to New York right away.
+661	662	Track the phone?
+662	664	Registered to a London reporter named Simon Ross,
+665	666	works at The Guardian newspaper.
+666	667	You're tracking him?
+667	668	Uh, yeah. Thanks, Mike.
+668	673	We have a survey team covering him at work,and a sneek-and-peek's on their way to his apartment.
+673	675	Now, who talked to him?How did he find about Blackbriar?
+676	679	I don't know, we've pulled his background andwe've run a crosscheck on known anomalies...
+679	682	We come up with nothing, but I thinkif we follow Ross we're going to be able...
+682	686	Ross is easy,we want the source.
+702	704	Have you heard aboutOperation Blackbriar?
+704	705	Do you have details?
+705	709	I'm gonna get my head around this and type it up.I'll see you first thing. Ok.
+709	713	- That all?- Yeah.
+713	718	I want rendition protocols and putthe asset on stand by just in case.
+720	723	People, listen up! This isa full priority situation.
+723	726	- Jimmy, gimme Ross's profile on one.- Yes, sir.
+728	732	Our target is a British national.Simon Ross, a reporter.
+732	736	I want all his phones,his blackberry, his apartment, his car,
+736	739	bank accounts, credit cards,travel patterns,
+739	741	I want to know what he's gonna thinkbefore he does.
+741	743	Every dirty little secret he has.
+743	747	And, most of all, we want the name andthe realtime location of his source.
+747	751	This is NSA priority level 4.Any questions?
+753	756	Alright, let's get do it.
+758	762	Rogue CIA agent kills six peopleAgency probes identity of Jason Bourne
+762	764	Simon RossSecurity Correspondent
+764	767	Who is Jason Bourne?Part 3 of a special report
+767	769	His code name was Jason Bourne, but hehad many identities, each one seemingly
+769	772	more deadly then the next. To the worldhe was invisible - One of the CIA's secret...
+772	775	Germany's BND are working with policein southern India on an investigation into
+775	777	the death of a German woman, believedto be an accomplice of Bourne's, who
+777	780	drowned in January in a river after her carskidded off a bridge.
+780	784	Victim Marie Kreutz
+786	789	What?
+791	794	Will you commit to this program?
+797	800	I can't.
+850	853	Copy that. Mr. Wills, subject is enteringhis office.
+853	856	- Get some eyeballs out on the street.- Where is my picture, please?
+856	859	Comingon-line. On-line, now.
+861	862	Jimmy, how're you doin' withthe phone line?
+862	865	Ah yeah, we have an office line, we'reworking on his cell.
+865	867	- How long?- One hour, sir.
+868	870	That's too long.
+870	872	So how do we know he's notspinning for someone?
+872	874	- There was more, he was scared.- Scared about what?
+875	876	Blackbriar.
+877	879	- Sorry, call for you.- Who is it?
+879	880	Won't give his name.
+881	883	Excuse me.
+884	886	- He's on my line.- Thanks.
+889	891	Simon Ross.
+892	893	Why aren't we hearing this?
+893	896	Jimmy! That's a hard line,Jimmy, why don't we have it?
+896	898	We have his linesir, he's not on it.
+898	899	He's using a different phone.
+899	902	I've been reading your stories.
+902	904	- Who is this?- This is Jason Bourne.
+904	909	Waterloo station, south entrance,30 minutes. Come alone.
+916	917	Ok guys,let's work, come on.
+918	920	Where is he going?
+920	922	- He is the move.- Give me eyeballs on the street.
+936	938	- Subject's exiting the building.- Find out where he is going.
+944	946	- Mobil 1, I need audio.- Audio engaged.
+948	950	Mobil 1, should have it, Mobil 1,should have it. Get Mobil 1 on it.
+950	953	Let me know when you hear it.
+953	955	Waterloo station,south entrance.
+955	958	Mr. Wills. - Keep going. -destination is Waterloo Station.
+958	961	Ok, Waterloo Station. Give meeyes at Waterloo. Put everyone in play.
+961	964	Let's activate the asset.
+983	985	- Do we have the bridge yet?- Not yet, sir.
+985	987	Ok, Mobil 3, tell 'em to stay back.
+987	990	Sir. Please, maintainvisual contact.
+1003	1006	A prepaid phone.
+1007	1009	There you go.
+1016	1019	Mobil 1, give me thesubject's current location.
+1022	1027	Copy that. Sir, subject is arrivingto the South Entrance at Waterloo Station.
+1071	1073	Hello?
+1074	1075	Jimmy, I need that phone.
+1075	1078	I want you to listen very carefullyto what I'm about to tell you.
+1078	1079	What the hell's going on?
+1079	1080	At 10:00, to your left,across the street,
+1080	1084	there's a silver Chrysler Voyager, there'sa surveillance team inside.
+1085	1091	Directly cross the street, 12:00 noon, there's aman on the second storey, static post, he's watching you.
+1091	1095	and there's a bus stop, 50 meters to your left.I want you to walk towards it.
+1095	1097	Jimmy, I need thatphone. I need it yesterday.
+1097	1099	He's on the move,he's on the move.
+1099	1101	- That's not his phone,sir.- Say again.
+1101	1103	That's not his phone,sir.
+1103	1107	Where the hell didhe get another phone?
+1107	1110	- Grab Team B, stand by.- Grab Team B, we're in position.
+1111	1116	Alright, there's a man in a blue hooded sweat-shirt,he's talking on a phone. Walk directly to him and stop.
+1116	1118	Jimmy, we need thecall, I need that cellphone!
+1118	1120	Do not let himget out of sight.
+1121	1124	Alright, turn around.
+1127	1131	- Ok, who's the guy in the blue hood?- Is that his contact?
+1134	1137	There's a bus coming, it'll be there in 10 seconds.When it stops, I want you to walk directly...
+1137	1141	to your left, there is an overpass.Go up the stairs, stop at the newsstand.
+1141	1144	- You'll get further instructions- Ok, Ok.
+1144	1146	Get ready to move.
+1146	1147	Watch that bus, watch that bus!
+1148	1150	What is going on? Somebody tell me,did we lost the feed!
+1150	1151	Grab Team B, intercept the contact and stay with Ross.
+1151	1153	Stop!
+1158	1161	Mobil 1, target's on the move!
+1163	1164	Ok, he is on the move.Do not lose Ross!
+1164	1167	Blue hood, onthe ground, now!
+1172	1174	Oh, shit!
+1177	1180	What the hell was that?
+1180	1184	Sir, we've lost allcommunication with Mobil 1.
+1188	1191	Alright,heading west, let us know when you have a visual!
+1192	1195	- What was the last known position, please?- On the walkway, heading straight to concourse, sir.
+1197	1201	Surveillance nightmare, it'sthe busiest terminal in London.
+1201	1205	- Give me all of CCTV eyes.- I'm on it, sir.
+1232	1233	Who's your source?
+1233	1235	What's his name?What's your source's name?
+1235	1237	Look, what's going on? Whyare these people after me?
+1237	1241	Because you found something. You talkedto someone inside Treadstone.
+1241	1243	Someone who wasthere at the beginning. Who is it?
+1243	1246	- You know I can't tell you that.- You have no idea what you're into here.
+1246	1248	These people will kill youif they have to.
+1248	1251	- Was it Blackbriar? Is that what this is?- Blackbr... What's Blackbriar?
+1251	1255	A Treadstone upgrade. Mysource told me it all started with you.
+1255	1258	He said you were squareone. The dirty little secret.
+1259	1260	He said heknows, who you are.
+1264	1266	Alright, we have to move.
+1267	1268	Answer your phone.
+1275	1278	Where the hell is he, people?
+1280	1281	Do exactlyas I say.
+1281	1285	When you move up to your right. Firstescalator on the right.
+1299	1303	Tie your shoe, tie your shoe,right now, tie your shoe!
+1310	1314	Wait. Wait.
+1318	1322	I'm gonna walk by you, I want you tomove along to fore wall to your left.
+1322	1327	In 4, 3, 2, 1,stand up. Ok.
+1331	1332	Where the hell is he?
+1332	1335	We cannot afford tolose this guy, people.
+1338	1341	Alright, that line you're on is good. Stay on thatline. Stay on that one.
+1345	1348	Oh no, the big man, I thinkhe's one of them.
+1348	1350	Garbage man? Negative.
+1350	1353	Oh, Jesus. Jesus,he's reaching for something.
+1353	1357	- Ah, God! He's got a gun, he's got a gun.- Stay on the line. Do not deviate.
+1361	1363	Ok, there he is. Here we go.Grab Team A, go.
+1363	1364	He's stilltalking to somebody.
+1365	1370	He's getting instructions.Jimmy, gimme the conversation.
+1371	1372	Hurry Ross?You've got to move.
+1372	1384	Move through this crowd, Move through this crowd,get in cover right now, move through this crowd.
+1385	1387	Get in the store. There's someone on your tail. Get in the store.
+1387	1393	You're going to proceed out the right exitthat's to your right as you come into the store.
+1400	1405	Head into the liquor store in front of you.Go to the back and lock the door.
+1405	1406	Mobil 4 is down.
+1406	1410	- This guy has got help.- Tell me when the asset is in the nest.
+1417	1420	Give me a feed in there.I want Grab Team C there.
+1420	1423	Tell me what's going on!
+1469	1472	Jesus Christ!
+1472	1473	That's Jason Bourne.
+1474	1477	He's picking us apart. Do you think he's the source?
+1477	1480	He's gotta be.
+1481	1486	Block all the exits. Givethe asset a green light.
+1486	1489	Take them both out.
+1505	1508	Stay there.
+1508	1512	I'm gonna get us outta here. You gottado exactly what I say.
+1512	1516	Listen. This isn't some storyin a newspaper, this is real.
+1516	1518	Did you understand me?
+1518	1521	Ok.
+1531	1535	Pull all of agents back. Give Bourne's location at the back of the store to the asset.
+1535	1537	Yes, sir.
+1554	1557	Kill the cameras.
+1562	1564	- Bourne.- Wait, something's not right.
+1564	1569	I can see the entrancefrom here. If I go now I can make it.
+1572	1574	- Bourne.- Just stay where you are.
+1574	1576	I don't think we should wait.
+1578	1580	I think somebody is coming.
+1580	1582	- I am going for it.- No, not.
+1685	1688	We have a situation...
+1694	1696	- Yes?- Director Kramer would like to see you.
+1696	1700	- You need to get those warrants...- He said it's urgent.
+1757	1762	What the police will tell me is that they believethat the victim is 35 year old Simon Ross,
+1763	1767	a well known journalist basedhere in London, with Guardian newspaper.
+1767	1771	It appears that her was gunned down right in the middle of Waterloo Station, of course, 
+1771	1772	around the 15:45 this afternoon,
+1772	1774	in full view of hundredsof commuters...
+1813	1815	- Good morning. Can I take your order?- Yes. I'll have...
+1815	1819	the heart healthy omelet with goat's cheese and peppers, please.
+1819	1821	- Anything for you, ma'am?- Only coffee, please.
+1821	1824	- Sure? I'm buying.- I'm good.
+1826	1829	So, when the director calledand it was suggested that we bring you...
+1830	1833	Suggested? Are you sureit was just a suggestion?
+1839	1845	It's funny how different things look, depending on where you sit, right?
+1845	1848	I look at this as afavour for you, Pam.
+1848	1851	I am giving you an opportunityto complete some unfinished business.
+1851	1854	- Meaning...?- Bourne.
+1854	1858	He's here. He's athreat. And we both want the same thing.
+1858	1863	- And we both go about it in two very different ways.- Past is passed, Pam.
+1865	1868	- You were careless in Stockholm.- So what was Waterloo? Just careless again?
+1868	1871	We had a leak. A serious national security situation.
+1871	1874	Bourne showed up on our surveillanceand we had very little time to react.
+1874	1876	And a reportergot killed.
+1876	1879	Bourne saw us coming. The questionit is: what was he doing there?
+1879	1884	No, the real question is: how you managed toget into a fire-fight at a public train station?
+1884	1887	You know, as well as I do, decisionsmade in realtime are never perfect.
+1887	1892	Don't second guess anoperation from an armchair.
+1894	1899	I'll see you at the office. Enjoy your egg whites.
+1919	1920	People!
+1921	1924	Pamela Landy and herassociate, Tom Cronin.
+1924	1928	She's going to be quarter-backing the search effort. Say your name and state your specs please.
+1928	1930	Well let's do names later, ok?
+1930	1932	What's Bourne's last fixed postion?
+1932	1934	London, 12:00 noon.
+1934	1936	Status: What is he,armed, wounded?
+1936	1938	Alive, mobile andunknown.
+1939	1940	- Do you have an Echelon package?- Yes.
+1940	1941	Why isn't it on?
+1941	1944	- We were waiting.- Waiting for what?
+1944	1947	Listen. People, do youhave any idea who you are dealing with?
+1948	1949	This is Jason Bourne.
+1949	1952	You are 9 hours behind the toughest target have ever tracked.
+1953	1956	I want everyone to sit down,strap in and turn on all you've got.
+1957	1961	That would mean now!Thank you!
+1961	1963	Give me a team deployment plan.
+1963	1966	I want everything you've got on Ross on Screen 1.
+1988	1990	Sir, I think we have something.
+1990	1993	We just hacked Ross's e-mail account at the Guardian.
+1993	1997	We found a round-trip ticket to Turin, Italy, yesterday08:00 arrival, 12:05 departure.
+1998	2001	I think can be pretty certain thatBourne is not your source, then.
+2001	2002	How?
+2002	2005	Ross's call to his editor, where he said he'd just met the source...
+2005	2008	took place just after his Turin flight landed.
+2008	2009	He met his source in Turin
+2010	2011	- So?- So what,
+2011	2013	Bourne met Ross inTurin for the breakfast,
+2013	2015	then, the sameday, Bourne calls Ross...
+2015	2016	to demand him meet at Waterloo?
+2016	2019	Maybe they were even on the same flight.
+2019	2024	Cross-check the secure cellphone usage of everyone with SCI clearance.
+2024	2027	Yes, all calls going in and out of Turin, Italy, the morning that Ross was there.
+2027	2030	The guy you're after is aCIA operative, with clearance above top secret,
+2030	2033	he's committing treason by talking to Ross.
+2033	2036	Do you really think while doing that he's going to use a cellphone that he knows we can track?
+2036	2039	- Zero results on the cross check.- So you got any better ideas?
+2040	2042	Yeah, look at all the people whose cellphones were switched off...
+2042	2044	the entire period Rosswas in Turin.
+2044	2048	I mean if your people are on their phones as much as mine, the list should be pretty small.
+2052	2056	Three names: Tom Brewster,Jack Boulin and Neal Daniels.
+2057	2059	Now check everything in Ross's apartmentagainst those names.
+2059	2063	Check for common patterns. Anything that indicates who Ross met.
+2064	2067	Pull it up. Is that documents?
+2070	2072	Over here. Who's that?
+2073	2075	Right there. Initials.
+2075	2076	Hold that. Bring that up on main.
+2081	2086	Neil Daniels. He's station chief in Madrid, isn't he?
+2090	2093	Call the RSO at the embassy and take Daniels...
+2093	2096	into custody if he is there. Anna,get Grab Teams for...
+2096	2097	Calle Norte safe house.
+2097	2100	Send them in heavy. Tell them we'll assist with the entry.
+2100	2103	- Heavy? Daniels is not it...- I am worried about Bourne.
+2103	2108	If he is not the source, then he is after the source. The same as we are.
+2142	2145	- ETA team 2?- Three minutes to the destination, sir.
+2169	2173	Your mission will saveAmerican lives.
+2177	2181	Will you give yourself to this program.
+2181	2183	I can't.
+2183	2184	Again.
+2222	2225	Sir, they're at the front door.
+2243	2245	- Five seconds.- Bring it up live.
+2254	2254	We're in.
+2259	2259	The alarm is down.
+2261	2263	That's gotta be Bourne.
+2275	2278	- The safe is empty.- Shit!
+2278	2279	Looks like he left in a hurry.
+2279	2282	Track Daniels'spassports.
+2340	2343	Damn it. Get a backup team in there.
+2353	2356	Get me a secure line. Get the second team over there now.
+2366	2369	What are you doing here?
+2369	2374	I was posted here after Berlin.
+2375	2378	Where's Daniels?
+2379	2382	Where is he?
+2405	2406	Hello?
+2406	2407	Who is this?
+2407	2411	This is Nicky Parsons.
+2412	2413	She was Treadstone, logistics.
+2413	2416	She was with us whenwe hunted Bourne in Berlin.
+2421	2426	Nicky, I need to do an ID challenge. Code-in: Sparrow.
+2436	2439	Response: Everest.
+2442	2445	Nicky, this is Noah Vosen.How long have you been on site?
+2446	2448	I just walked in.
+2448	2454	We have two officers on site.Are you in contact with them?
+2455	2460	They are down. Unconscious,but alive.
+2463	2466	- Any sign of Neal Daniels?- No.
+2467	2471	Nicky this isPam Landy.
+2471	2475	We have reason to believe there is a connection between Neal Daniels and Jason Bourne.
+2476	2480	Bourne? You're still looking for Bourne?I thought that case was closed.
+2480	2483	No. Some people are convinced he's still a threat.
+2483	2485	I disagree, but to find outI need to talk to him.
+2485	2487	Hold on, Nicky.
+2488	2491	- What the hell are you doing?- Trying to send him a message.
+2491	2493	You don't think Bourne is a threat? He just took out two more of my men.
+2493	2496	The only way this has a happy ending Noah is if we bring him in alive.
+2496	2497	He is going after Daniels.
+2499	2502	He wants revenge Pam and the only realistic way to end this is to eliminate the threat.
+2502	2504	How long until backup?
+2505	2508	Nicky, I need that youto stay put and secure the premises.
+2508	2512	Backup will be arriving in approximatelyone hour, do you copy?
+2515	2517	Copy, sir.
+2521	2523	- How long do I have?- Three minutes.
+2526	2531	My car is outside.I know where Daniels is.
+2541	2543	Operator, whereis the emergency?
+2550	2551	Come on.
+2553	2554	2 minutes to destination, sir.
+2556	2558	- Where was Daniels headed?- At 8:00 this morning...
+2558	2561	He wired US $100,000to a bank account in Tangier.
+2562	2566	That's 300 miles away. If we hurry we can make the morning ferry.
+2567	2570	- Where are you parked?- To the right. About 20 meters.
+2570	2571	Near side of the street.
+2577	2579	- They are coming.- Keep moving.
+2580	2584	Two subjects seen exiting safe house.
+2595	2598	What the hell is this?
+2606	2607	- Understood.- What the hell just happened?
+2607	2610	- We've lost visual contact with the subjects, sir.- Christ!
+2613	2617	Issue a standing kill order on Jason Bourne, effective immediately.
+2618	2620	Send a system wide alert to all Spanish contacts.
+2620	2625	I want all air and ground border exits shut down.
+2646	2649	What's going on?
+2650	2653	What has Daniels got?
+2654	2657	What is operationBlackbriar?
+2658	2662	You want to tell me or should I call Kramer and ask him?
+2665	2668	- For Christ's sake Pam, are in the middle of an operation.- Bullshit.
+2670	2675	You want JasonBourne? Level with me.
+2682	2686	Operation Blackbriar started as an NEAT surveillance program.
+2686	2687	What is now?
+2687	2689	It is now the umbrella program for all our Black ops.
+2690	2693	Full envelope intrusion, rendition, experimental interrogation.
+2693	2697	It is all run out of this office.
+2697	2702	We are the sharp end of thestick now, Pam.
+2702	2704	Lethal action?
+2704	2707	If we have to, sure.
+2708	2712	That's what makes us special No more red tape.
+2712	2714	No more getting the bad guys caught on our sites, then watching them escape...
+2714	2718	while we wait for somebodyin Washington to issue the order.
+2719	2720	Oh, come on!
+2723	2725	You saw the raw intel, Pam. You know how real the danger is.
+2725	2728	We need theseprograms, now.
+2728	2730	What's the connectionto Daniels?
+2731	2734	He ran all of our operationsin Southern Europe and North Africa.
+2734	2736	So he has everything.
+2736	2741	Names, dates, ghost sites, who's cooperating with us abroad - every operation.
+2741	2744	Do you want that stuff in Bourne's hands?Out on the market to the highest bidder?
+2744	2747	I don't think so.
+2748	2752	Bourne's not after money. He's after Daniels for a reason.
+2752	2755	Well, what does it matter what Bourne is after?
+2755	2759	When we find Daniels, andbelieve me, we'll find him,
+2759	2764	if you're right,we get Bourne too.
+2791	2794	Why did you come back?
+2796	2799	Why are you looking for Daniels?
+2808	2811	Do you know who that is?
+2811	2813	That's Daniels.
+2815	2817	I don't know who that is. Who is he?
+2823	2826	He was there at the beginning.
+2826	2829	I remember meeting him.
+2830	2835	The first day. Danielsbrought me to him.
+2837	2840	That's where it all started for me.
+2840	2845	Something happened with me.I need to know what it was.
+2846	2849	Or I will never befree of this.
+2849	2854	Daniels said thetraining was experimental.
+2854	2858	Behaviour modification.
+2858	2863	They had to break down the agents before they became operational.
+2863	2867	He said you were the first one.
+2869	2872	Why you helping me?
+2881	2886	It was difficult forme... with you.
+2902	2906	You really don't remember anything?
+2907	2910	No.
+2918	2921	We have to move.
+2929	2934	Sir, Mr. Wills. You're gonna want to look at this.
+2943	2946	He is in Tangier.
+2952	2955	Noah Vosen.
+2964	2967	We have found Daniels.
+2970	2973	They just tracked Daniels' passport to a hotel in Tangier,
+2973	2975	they are holding up a bank transfermade keep him in place...
+2975	2977	while they bring anasset up from Casablanca.
+2977	2980	They're going to take him out?
+2988	2992	- Yes?- It is Pam Landy, she says it's urgent.
+2992	2995	- Tell her I'm unavailable.- Yes, sir.
+3050	3055	Sir, assethas arrived at the airport.
+3075	3077	Give me the subject's location.
+3078	3082	Subject is now on foot andentering Hotel Velásquez.
+3082	3084	Hotel is the2.2km from the bank.
+3085	3087	I want an elevation and a floorplan tic-tac-toe.
+3087	3089	Locate the room.
+3089	3094	Give the asset subject location and the route between the subject's hotel and the bank.
+3109	3111	- Do we have that room yet?- Yes, sir. Room 117.
+3112	3115	Get a hold of the hotel trunk line.
+3115	3119	Run all calls through here with an iso. on on room 117.
+3133	3135	His location's being blocked the firewall.
+3135	3138	No, they found Daniels,they know where he is.
+3138	3141	- They will order one of the operatives to terminate him.- Find out who.
+3145	3147	Desh.
+3148	3151	Tell him you're going to meet him and you have a new phone for him.
+3151	3154	If you stop Desh,they will just get someone else
+3154	3155	We're not going to stop him, we're going to follow him.
+3155	3157	He'll take us right to Daniels.
+3195	3199	Sir, the asset is deviating off course.
+3200	3203	Let it play.
+3234	3237	Asset unscheduled stop.
+3267	3269	Sir, asset is on the move. En route to subject.
+3269	3272	Sir, we have an unauthorized breech.
+3272	3275	Someone with active system knowledge penetrated in our protocol.
+3275	3279	Instructions were sent to theasset at 14:11 local time.
+3279	3284	The trace is confirmed and valid. I came from a computer belonging to Nicky Parsons.
+3288	3290	Where did the course deviation occur?
+3290	3293	South to Rue de Belgique. Stationary Place de France.
+3294	3296	That's where Parsons is.
+3296	3298	When we're finished with Daniels, send the asset after her.
+3298	3299	Yes, sir.
+3299	3302	If we find Parsons, we find Bourne.
+3302	3304	Noah, what are you doing?
+3304	3306	- Not now.- I want to know that is going on.
+3306	3307	I said not now.
+3307	3309	What basis are you continuing this operation on?
+3309	3312	On the basis that Nicky Parsons has compromised a covert operation,
+3312	3313	she is up to her neck in this.
+3313	3316	- This is about Daniels, not Nicky.- She betrayed us.
+3316	3320	- You don't know the circumstances, Noah.- She is in league with Jason Bourne for Christ sake!
+3320	3323	You do not have the authority to kill her.
+3323	3326	Oh yes I do. And you had better get on board.
+3326	3328	Noah, she's one of us.
+3328	3331	You start down this path, where does it end?
+3331	3334	It ends when we've won.
+3347	3350	When we're finished withDaniels, send the asset after them.
+3350	3352	Yes, sir.
+3373	3379	- Two minutes, sir.- Tell to the bank to release the funds.
+3393	3394	Hello?
+3394	3398	Mr. Daniels, themoney is available.
+3403	3405	He's on the move.
+3443	3445	- We are ready to fall in.- 200 meters.
+3445	3448	Ok, come on, I want the latest preliminary tracking.
+3456	3458	Stop!
+4160	4163	Go do it. We needto be dead.
+4170	4174	Sir, asset confirms both targets are dead.
+4184	4185	I want to be sure about this.
+4186	4189	Ask the station chief from Rabat to confirm the deaths...
+4189	4189	and do a Sub Rosa collection of the bodies.
+4190	4191	I want to tie this thing off completely.
+4192	4195	And keep an eye on Landy.
+4204	4207	- Hello?- Bourne and Nicky Parsons are dead.
+4207	4208	Are you sure of that?
+4208	4211	Our station chiefin Rabat is confirming.
+4213	4216	I cannot afford to have this come back to me.
+4216	4219	Don't worry,you are protected.
+4219	4223	Just remember why we put Landy there.
+4223	4228	If Blackbriar goes south, we'll roll it up and hang it around her neck and start over.
+4295	4298	I can seetheir faces.
+4303	4307	Of everyone I ever killed.
+4308	4312	I just don't know theirnames.
+4326	4329	Marie used to try that.
+4330	4333	And alone I remember the names.
+4345	4348	I've tried to apologise...
+4348	4351	for what I've done...
+4354	4356	for what I am...
+4358	4363	but nothing makes it any better.
+4376	4380	They're gonna come for you again.
+4384	4387	You're gonna have to run now.
+4470	4472	We should go.
+4501	4504	It gets easier.
+4519	4523	Those are the belongingsof Sr. Daniels.
+4523	4527	- That is everything.- Yes.
+4527	4529	Let to see me that.
+4565	4567	The station chiefin Rabat just called.
+4567	4569	They found a body.
+4571	4574	- Bourne?- Desh.
+4580	4583	Pam, you need to see this.
+4590	4593	A passport for Gilberto dePiento just cleared immigration.
+4593	4596	It is early Treadstone identity registered to Jason Bourne.
+4596	4599	But he never used itand it never went to the grid.
+4599	4602	Bourne's alive.
+4609	4610	They don't know?
+4610	4613	If they knew, Voson wouldn't bein this office right now.
+4613	4615	It's a hell of a risk.
+4616	4618	Maybe Bourne wantsus to know.
+4618	4620	Just like Naples.
+4620	4622	Maybe he's communicating...
+4623	4625	Maybe he's tryingto communicate with you.
+4625	4628	Then we should communicate back.
+4628	4632	I think I know what Bourne is looking for.
+4639	4644	Gilberto Del Piento. Gilberto Del Piento.Your party is waiting for you.
+4736	4737	Pamela Landy.
+4738	4741	I hear that you'restill looking for me.
+4743	4744	Bourne?
+4744	4747	What do you want?
+4749	4753	- Yes?- Better get in here, we've got a situation.
+4756	4760	I wantedto thank you for the tape.
+4760	4763	It's all tied off, it's over.
+4764	4767	I thinkI owe you an apology.
+4767	4769	Is that official?
+4769	4771	No, off the record. You know how it is.
+4772	4774	- Tracing this?- 50 seconds trace.
+4774	4777	- Good-bye.- Wait, wait!
+4779	4783	David Webb. That's your real name.
+4784	4788	You were born the 04/15/71 in Nixon, Missouri.
+4788	4792	Why don't you come in and we'll talk about it.
+4792	4795	Something is very wrong here.
+4797	4799	Bourne?
+4800	4801	Get some rest, Pam.
+4801	4803	You look tired.
+4805	4808	He is lookingright at her.
+4810	4812	People, listen up!
+4812	4815	This is a national security emergency. We have an imminent threat.
+4816	4817	I'm going out there.
+4817	4820	I will show myself,he'll find me.
+4820	4821	Jason Bourne is alive.
+4821	4825	And is at large in New York city, and we believed within 1,000 yards of this building.
+4825	4827	I want an immediate 12 block lockdown of the area.
+4827	4832	Send a flash message to Langley, prep for local backup assistance.
+4834	4836	Landy just left the building.
+4836	4839	Stay with her telephone.
+4854	4858	She is using her cell.It's an incoming text.
+4858	4860	- Get it. How many do we have on Landy?- 6 men and more on the way.
+4861	4865	I've got, sir, coming up on the screen now.
+4868	4871	Anyone not on Landy goes directly to Tudor City.
+4871	4875	Get the vehicles, we're going mobile.
+4919	4922	There's only one way out of there. Whywould he do that? He's trapping himself.
+4922	4924	Bad place to meet. It's too exposed.
+4925	4928	He would not have chosen it, if he didn't have a reason.
+4932	4934	Subject is en route.
+4934	4938	- Rear 4-3, let me know when you have a visual.- Rear 4-3 standing by.
+4945	4948	- Standing by.- Ok folks, here we go.
+4948	4950	Fox, 200 meters.
+4950	4952	- Visual on leader?- Point 3 ground in position.
+4954	4957	As soon as you have eyes onLandy, I want to know.
+4971	4975	- Here we go.- Copy that, I see her.
+4986	4990	- Any sign of Bourne?- Negative.
+4990	4993	No sign of target.
+5003	5005	Noah Vosen.
+5006	5008	This is Jason Bourne.
+5009	5011	I was wondering when you were going to make this call.
+5011	5013	How do you get this number?
+5013	5019	You didn't actually think I was coming to Tudor City, did you?
+5019	5020	No, I guess not.
+5020	5025	But if it's me you want to talk to, perhaps we can arrange a meet.
+5025	5027	Where are you now?
+5028	5031	I sitting in my office.
+5031	5033	I doubt that.
+5033	5035	Why would you doubt that?
+5035	5040	If you were in your office right now,we'd be having this conversation face to face.
+5047	5048	Noah Vosen.
+5051	5053	This is a code 10 abort.
+5053	5057	I want everyone back in the vehicles. This is a code 10 abort.
+5057	5060	Move it!
+5079	5080	Yeah?
+5080	5083	Wills, checkmy office.
+5087	5089	Damn.
+5096	5098	 - He's got everything.- God damn it.
+5098	5101	 Alright, set a four block perimeter around the building.
+5101	5105	I want the entire building searched. Every room, every hallway, every closet,
+5105	5109	every god damn air duct,do you understand? I want him found.
+5112	5113	What just happened?
+5113	5119	Bourne broke into CRI. He got into Vosen's safe.
+5119	5123	- Where to?- 415 East 71st Street.
+5123	5127	4-15-71? Jesus, Pam!
+5152	5154	Target in sight.
+5167	5168	He's headed east in the Port Authority.
+5169	5173	All agents have shoot on sight authorization.
+5239	5241	- Sir, he drove off the roof.- What?
+5241	5243	He drove off the roof.
+5244	5247	He's on foot, he's running.
+5257	5259	Police, freeze!
+5259	5262	Put your handsin the air!
+5296	5299	Sir, sir, take a look at this. Bourne's birthday, sir.
+5299	5301	- What about it?- Check that out!
+5301	5305	Landy told Bourne that his birthdaywas 04/15/71.
+5306	5308	13/09/70My god, it's a code.
+5308	5311	Everything stops, Everything stops! Listen up!
+5311	5315	04-15-71, new assignment.Numbers. What does it mean?
+5315	5320	Sir, if you plug them in as variables of longitude and latitude you get... Cameroon.
+5320	5324	41571 is a ZIP CODEfor Barny, Kentucky.
+5326	5330	- What date did she give?- 04-15-71.
+5330	5332	I don't believe it!
+5332	5336	SRD isat 415 East 71st Street.
+5336	5338	 She just gave him the training facility.
+5338	5341	- Christ!- Bring all the teams in behind us.
+5460	5463	Hurry up! Somebody call911.
+5497	5500	The asset lost Bourne. We lost him.
+5507	5510	- Hello?- Albert, it's Vosen.
+5510	5512	Bourne knows everything.
+5512	5515	 He's on his way to you right now.
+5515	5517	He is cominghome, Noah.
+5518	5519	 How longdo I have?
+5519	5523	I don't know, justget the hell out of there.
+5523	5525	No, I'm going to stay.
+5525	5529	 He'll head for the training wing. That's what he knows.
+5529	5531	I will keep him in play...
+5532	5534	until you get there.
+5583	5586	They'll kill you forgiving me this.
+5586	5589	4-15-71 isn't much of a code.
+5589	5592	My guess is Vosenis on his way already.
+5592	5594	Why'd you do it?
+5594	5597	Because this isn't what I signed up for.
+5597	5599	What did toyou... Blackbriar...
+5599	5601	This isn't us.
+5603	5605	Then dosomething about it.
+5605	5608	Everything that you need is in there.
+5611	5613	Everything.
+5614	5615	David.
+5615	5617	Why don't you come in with me?
+5617	5619	It will be better ifwe do this together.
+5619	5620	No.
+5622	5627	This is where it started forme... this is where it ends.
+5640	5641	That's Landy.
+5653	5658	Alright, lock this building down. Set a secure perimeter of one block.
+5664	5667	Hello, here it is Pamela Landy, I havesend a classified document.
+5667	5670	Get a team to SRD after Bourne.
+5670	5672	And put somebody in everypublic area of this hospital.
+5672	5674	- Ok. Elevator, shafts...- Let's go!
+5681	5683	South bank, go.
+5683	5686	Gentlemen,this is a priority situation,you will give us your full co-operation.
+5686	5692	Give me playback for the entire thebuilding for the last 3 minutes.
+5701	5703	Go, go!
+5708	5711	This one here. Where is this?
+5711	5712	First floor.
+5712	5714	I'll take Landy on my own.
+5749	5753	You'd better yourself a good lawyer.
+5778	5781	... we finish with you, youwill no longer be David Webb.
+5784	5786	 He may not evenremember who he was.
+5789	5792	 Do you know why we are treating you like this?
+5794	5796	Hello, Jason.
+5798	5801	I believe you'vebeen having problems.
+5801	5804	Put the gun down.
+5804	5809	I wouldn't be here if I didn't want to talk.
+5810	5813	I've spent three years running.
+5813	5815	Three years.
+5815	5817	Trying to find outwho I am.
+5817	5820	But still not got it all back have you?
+5820	5823	Still not filled in the pieces.
+5823	5825	It was always you.
+5826	5828	I'm unarmed, Jason.
+5828	5832	Why me? Why did you pick me?
+5832	5835	You really don't remember, do you?
+5837	5841	We didn't pick you, you picked us.
+5844	5846	You volunteered.
+5847	5849	Right here.
+5852	5855	Even after you were warned.
+5863	5864	 Captain Webb.
+5865	5866	 good morning.
+5872	5874	You came in here.
+5876	5880	You didn't even blink, Jason.
+5884	5887	You just handed me these.
+5893	5896	 Has everything been was explained?
+5897	5899	 Yes, sir.
+5901	5904	You said thatyou wanted to serve.
+5905	5908	 Your missions will save American lives.
+5908	5911	 I understand, sir.
+5912	5915	You said I'd be saving American lives.
+5915	5917	You were.
+5917	5921	I waskilling... for you.
+5922	5923	For them.
+5924	5927	You knew exactly what it meant for you...
+5927	5929	if you chose to stay.
+5929	5933	 When we have finished with you,you will no longer be David Webb.
+5933	5936	 I will be whoever you need me to be, sir.
+5938	5940	You can't outrun what you did, Jason.
+5941	5944	You made yourself into who you are.
+5944	5947	Eventually you're going to have to face the facts.
+5947	5950	You chose right here...
+5950	5953	to become Jason Bourne.
+5958	5962	 You haven't sleptfor a long time, David.
+5966	5968	 Have you made a decision?
+5973	5977	 This can't go on, you have to decide.
+5980	5985	 - Who is he?- We've been through that that.
+5987	5989	 What did he do?
+5990	5992	 it doesn't matter.
+6006	6009	 You came to us.
+6010	6013	 You were volunteered.
+6013	6017	 You said you'd do anything it takes...
+6017	6020	 to save American lives.
+6020	6022	 You're not a liar are you?
+6023	6028	 Or too weakto see this through?
+6030	6032	 This is it.
+6032	6036	 Let go of David Webb.
+6041	6046	 Will you give yourself to this program?
+6070	6074	 You're no longerDavid Webb.
+6076	6080	 from now on you will be known as Jason Bourne.
+6081	6084	 Welcome to the program.
+6097	6099	Do you remember, now?
+6107	6110	I remember.
+6111	6113	I remember everything.
+6115	6118	I'm no longer Jason Bourne.
+6118	6121	So now you're going to kill me?
+6122	6124	No.
+6125	6129	You don't deserve the star thatthey give you on the wall at Langley.
+6143	6145	 He's headed for the roof.
+6191	6193	Why don't you take the shot?
+6202	6206	Do you even know why you're supposed to kill me?
+6215	6217	Look at us.
+6219	6223	Look what they make you give.
+6273	6274	Good morning, senators.
+6274	6277	If I may, I would like to begin...
+6277	6280	making a statement for the record.
+6282	6286	 The file indicates thatEzra Kramer, authorized...
+6286	6290	 The President convened an emergency Cabinet meeting, today,
+6290	6295	 to discuss the growing scandal over an alleged Government assassination program code-named Blackbriar.
+6296	6299	 CIA director, EzraKramer, is under criminal investigation
+6299	6301	 for authorizing the program.
+6301	6305	 Which several cases may have even targeted American citizens.
+6309	6312	 Two Agency officials have already been arrested.
+6312	6316	 Dr. Albert Hirsch, the alleged mastermind of the Blackbriar program,
+6316	6321	 and CIA deputy-director,Noah Vosen, the programs operational chief.
+6324	6326	 Meanwhile, a mysterysurrounds the fate of David Webb,
+6326	6328	 also knownas Jason Bourne,
+6328	6331	 the source behind theexposure of the Blackbriar program.
+6331	6335	 It's been reported that Webb was shot andfrom a Manhattan rooftop...
+6335	6337	 into the East River, 10 stories below.
+6337	6339	 However, after a three day search,
+6340	6344	 Webb's body has yet to be found.

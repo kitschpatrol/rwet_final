@@ -1,0 +1,975 @@
+8	11	Death to he who sets a leprechaun free.
+11	16	Steal his gold, it will corrupt your soul, you see.
+16	20	For many a moon, the legend has grown.
+20	25	Death toll increases, solution unknown.
+26	30	Beware the evil wanderer, in search of his loot.
+30	34	Lest ye suffer the wrath of his golden flute.
+35	39	Flee while you can, the future's not good...
+39	44	For no one is safe from a lep in the hood.
+183	185	This map you bought was bullshit.
+185	188	Man, it got to be down here somewhere.
+188	189	Do you see any gold, fool?
+192	195	The burger's probably still good.
+195	198	The burger's probably good, huh?
+198	199	What you talking about, man?
+206	209	What the fuck?
+209	211	Holy shit!
+211	215	You midget Midas motherfucker.
+215	217	Yo, Slug, look at this shit.
+224	225	Oh, shit.
+230	233	That's it. It's all here, baby.
+240	243	That's all I want, right here.
+244	247	You collect the rest of this stuff, man.
+252	256	Now we're moving on up to the East Side.
+278	281	Yeah, that's it. That's all I needed.
+333	336	Ah... free at last. Free at last.
+336	339	Thank God almighty. Free at last.
+347	349	Goddangit.
+367	369	Come on, come on. I'll knock you...
+393	395	Stealing me gold is a sure way to grow old.
+399	404	Now me little room will become your tomb.
+434	436	Got your ass.
+440	443	Motown, here I come.
+451	454	Ain't nothin' in this world gonna be for free...
+454	457	Everybody's comin' up, but not like me.
+457	460	Somebody's gotta win, but somebody's gotta lose...
+460	463	Live your life right, good choices choose.
+463	466	Let no one try and hold me back...
+466	469	I'm rippin' up the stage, Butch rippin' up the track.
+469	471	Postmaster P, that's me, you see...
+472	475	The P's for , and that's my guarantee.
+475	478	I got no time for negativity...
+478	481	Smooth is my groove, and fresh my recipe.
+481	483	Postmaster P, y'all, positivity...
+484	487	A positive flow to your speakers is what I'm bringin', see.
+487	490	The crew and me, we all got unity...
+490	493	We keep the crowd hyped, positively.
+493	495	Oh, shit!
+503	505	Damn, what the hell happened?
+505	507	What the fuck y'all did to the stage?
+507	510	Too much ammonia? Not enough nitrogen?
+510	513	So, whuddup wit' the gig? We on the bill?
+513	515	Don't worry about the bill. You'll get that.
+515	517	This is our shot out, man.
+517	520	If we win this contest, we're going to the Vegas Hip-Hop Cafe.
+521	522	We're talking video promo, publishing rights...
+522	523	record deals. All that shit.
+523	527	Only record deal you're getting is with the the L.A.P.D.
+527	530	If you get your shit right, I might give you another audition.
+530	532	Now get the fuck out of here.
+534	538	Shit, I almost get my ass blown to bits by a virgin.
+538	542	Shut up, fool. I should have never told you I was a virgin.
+542	544	I know you don't know nothing about no pussy...
+544	547	but I thought you knew about that nitrogen trimesteride.
+547	551	That's nitrogen tri-iodide, fool! Tri-iodide.
+551	554	It's an iodine/ammonia compound.
+554	556	Fool, you're going to wind up in a compound.
+556	558	The hell with it, we fucked up.
+558	561	See, Stray, you're thinking with a spirit of failure.
+561	563	You really do need to hook up some Tony Robbins.
+563	565	That big, white goofy-lookin' mo'fo'?
+565	567	Always talking about <if a tree fall in the bathroom...
+567	569	take time to stop and smell the forest>...
+570	571	That ain't right.
+571	573	See, our unconscious beliefs control our behavior.
+573	577	Only through daily positive, positive affirmation can we overcome.
+577	581	Yeah, well, affirmate this, motherfuckers.
+581	584	If we don't get this equipment fixed...
+584	586	we ain't winning no contest...
+586	589	we ain't going to no Vegas and we ain't ever leaving Compton.
+589	591	The guy said we could audition again, right?
+591	593	What'd it take to get our shit fixed?
+593	596	This shit? A whole lot of money.
+596	598	We're fucked.
+598	600	We just got to think positive.
+605	606	Jimi Hendrix.
+606	610	The real Jimi Hendrix.
+610	612	Boy, where you get this guitar?
+612	614	It was my Uncle Junior's.
+614	617	Yeah, yeah, he got it from Jimi Hendrix.
+617	620	Yeah, that's right, when they used to play together.
+620	623	Your Uncle Junior used to play with Jimi?
+623	627	At Psychedela-Palooza in 1971.
+627	630	Yeah, that's right. That's, that's Jimi's guitar.
+631	633	Psychedela-Palooza?
+637	638	I never heard of that one before.
+638	639	So?
+640	643	Wait a minute. '71? Didn't Jimi die in 1970?
+643	646	No, no, that was Paul McCartney.
+646	650	So, what'cha give us for this piece of music history?
+650	653	I'll give you about five seconds to get out of my shop.
+653	656	Come in here bullshitting with this piece of crap.
+656	658	Hey, man, ain't nobody bullshitting you.
+658	660	...
+660	663	Boy, you ain't no gangster.
+663	668	And . What is that shit?
+668	670	You ain't ever been in the military.
+670	674	It's Postmaster P, 'cause I deliver a positive message, that's all.
+674	676	Positive message? - Yeah.
+676	678	is more like it.
+678	679	And Butch...
+680	683	Boy, you need to get yourself some pussy...
+683	686	before you blow off your dick fucking with those chemicals.
+686	688	Now, get up out of my shop.
+689	690	This ain't no charity.
+693	695	How much you give us for it, Chow?
+695	698	Is this Jimi signature for real?
+698	701	Yeah, who else you know signs his name like that?
+703	706	I look stupid? Everybody know Jimi die in 1970.
+706	710	You try bullshit Chow? Get the fuck out.
+710	712	Damn, Chow. Come on, man.
+712	715	Hey, don't touch. Don't touch.
+717	720	You leave Chow's store. Go on!
+720	722	Hip and Hop your black ass home.
+722	723	Hula, hula, go, go, go.
+729	732	What are we supposed to do now? Rob somebody?
+732	735	No, man, we ain't robbin' nobody.
+735	737	There goes Mack Daddy O'Nasses right there.
+737	740	Why do they call him ?
+740	742	He don't look Greek to me.
+742	744	He was a pimp, man.
+744	747	Back in the day, Mack Daddy .
+747	750	So now he's got his own little hip-hop thing goin'.
+750	752	Yeah--gangster hip-hop.
+752	755	Man,  ain't all my man knows.
+765	767	If it ain't the  of Compton rap.
+767	770	I heard you guys were sampling chipmunk tracks now.
+775	777	The machine broke, man, that ain't no chipmunk track.
+777	781	Yo, we got some new shit. It's hot, man. You should hear it.
+781	783	What's in it for me?
+784	787	What's in it for you? - Moolah.
+788	790	You could be reppin' us, man.
+790	793	After we win that contest in Vegas, we gonna be the hottest act around.
+796	799	Get in. Better not be wastin' my time.
+803	805	Oh, shit--!
+805	808	Uh... we tight...
+808	811	Uh... that's right.
+811	814	Uh... we tight...
+814	817	Postmaster P, y'all, positivity...
+817	820	a positive flow to your speakers is what I'm bringin', see.
+820	823	The crew and me, we all got unity.
+823	826	We keep the crowd hyped, positively.
+826	828	Do what you gotta do, comin' from the hood...>
+834	837	It's not much, but it's not the worst.
+837	840	You guys seem hungry. I'm sure I can do something with you.
+843	844	We got to change some things.
+844	847	Like what?
+847	849	This bullshit, all right?
+849	852	I ain't with that  bullshit...
+852	856	. That shit is wack, all right?
+856	859	This label, we rap about Uzis, blowing motherfuckers' heads off.
+859	861	You know what I'm saying? Smack your bitch up.
+861	866	Shoot your motherfuckin' homeboy in the face type of shit.
+866	869	Yeah, but Mack Daddy, that's not what we do, man.
+869	871	We try to send out a positive message.
+871	874	Yeah, I mean, really, the shit is sellin'--
+877	878	What?
+881	883	Man, they wanna change everything.
+883	885	Hey, you wanna be large? - Yeah.
+885	887	All right then, you gotta do what he says.
+887	890	So you wanna change everything we did?
+890	892	Who gives a shit? If we're large?
+895	898	Hey you... get the fuck away from that. Is that yours?
+898	900	Stop touchin' shit.
+900	902	Go over there with your fuckin' friends.
+904	907	You fuckin' up. Watch this fuckin' kid.
+908	911	Hey, you, you listen to me.
+911	912	You don't wanna fuck with me, okay?
+912	915	I hope you had sex last night 'cause I'm gonna cut off your dick.
+916	917	Then, I'm gonna feed it to my pit...
+917	921	then I'm gonna burn the shit when it comes out of my dog's ass.
+921	923	You hear me? Don't fuck with me, bitch!
+925	927	What are you guys gonna do?
+928	931	Yo, Mack Daddy, I don't know--
+931	933	You don't know? Get the fuck outta here.
+933	936	Hold up, Mack, look... - Get the fuck outta here!
+936	939	Let me talk to my boy, he's trippin'--
+939	940	You motherfuckers are wastin' my time.
+940	943	I got chumps lined up tryin' to be down with this label.
+943	946	You get no second chance. Get the fuck out.
+946	948	Please, let me talk to him. We wanna do this...
+948	950	What's the matter with you, kid? You deaf?
+950	952	Or are you just dumb, like your mom...?
+952	954	I gotta bitch-smack you like I used to do to her?
+954	957	Let me tell you something... - Check yourself, kid.
+957	959	Don't even fuck around. Just get out.
+959	963	You and your homeboys, fucked up. This is real.
+963	965	Get these fuckin' losers out.
+968	970	Man, fuck him. I ain't no loser.
+973	975	Man, this shit broker than we is.
+975	978	Unless one of y'all big head niggas win the lotto tomorrow...
+978	981	we can forget about the contest, and goin' to Las Vegas.
+981	984	Now you talkin', motherfucker.
+984	986	The lotto.
+986	988	The lotto's hangin' around that yard jockey's neck at Mack's.
+989	990	I've been thinkin'...
+990	993	everybody knows Mack be out partyin' every night, right?
+993	998	We bust in there, grab the gold piece off that yard jockey, huh?
+1000	1003	Oh, we just gonna break into Mack's, huh?
+1003	1005	We gonna bust in there and steal his shit, right?
+1005	1008	Stick 'em up, motherfucker! Mack, gimme your shit.
+1008	1010	Yo, I'm serious, goddamnit!
+1010	1012	That shit got to be hot.
+1012	1016	We take that shit, we pawn that shit, and get some new gear.
+1016	1018	Stray, we can't do that, man.
+1019	1021	He ain't gonna report that stolen. That shit got to be hot.
+1021	1024	Stray, if we do that, we ain't no better than Mack is.
+1025	1030	It's okay to play a bullshit scam on Jackie Dee and Chow--
+1030	1034	but you too high and mighty when it comes down to the real deal.
+1034	1036	Look, man, that was different, and you know it.
+1036	1038	How you think that motherfucker got where he is?
+1038	1042	He's done worse shit than us, keepin' us brothers down...
+1042	1044	controlling who gets out and who don't...
+1044	1047	It's time somebody took something back, took some action.
+1047	1049	Kinda like Robin Hood...
+1049	1052	Instead, we gonna be
+1052	1054	Only with Uzis and AK's, baby.
+1057	1060	We talking about guns, now, too?
+1060	1062	You tell me, Post-- how else we gonna do it?
+1064	1067	Fuck that, man. I'll see y'all on .
+1072	1075	We meet at MacKenzie Park, 6:30.
+1076	1079	We just playin' the cards we're dealt, man.
+1080	1083	Like Mack said,
+1083	1085	Business in the hood.
+1088	1093	You ain't scared? - Hell, no, I ain't scared.
+1093	1095	Ready to do this? - Yeah, I'm ready to do this.
+1095	1098	Let's do this.
+1098	1100	My nigga, man. - I love you, man.
+1100	1103	Shit. Let's go to Vegas. - Word. Let's do this, homie.
+1110	1112	Who the fuck is that?
+1112	1114	It's Post, man. - Post?
+1114	1117	So what's the deal? We gonna do this shit, or what?
+1120	1122	My nigga!
+1124	1126	Let's do this. I love you, my friend.
+1126	1128	Look at this, y'all!
+1128	1129	Let's get money, baby.
+1129	1132	Yeah, baby. - Yeah!
+1155	1157	Hey Post, look in that desk.
+1177	1179	Yo, Post!
+1180	1181	Clear. We goin' hot!
+1185	1187	What the fuck...?
+1188	1191	Oh, shit!
+1199	1201	Oh, shit, you done killed that motherfucker!
+1204	1206	Get the gold off that motherfucker, man.
+1235	1237	Unhand me gold, you thieving hoods.
+1237	1240	You got more loot than Tiger Woods.
+1240	1242	What the fuck is that? - I don't know...
+1242	1244	Chuckie on crack! Shoot that motherfucker!
+1259	1261	Come on, y'all!
+1286	1288	Come hither, me hand. Come here.
+1288	1292	Together we will shake them with fear.
+1303	1305	A lot of time has come and passed.
+1307	1311	But still I see, you're a big, fat ass.
+1320	1322	Goddamn phone.
+1323	1325	This is Mack. I'm at the Parrot.
+1325	1327	Bring your ass down here and bring some fuckin' guns.
+1327	1330	Big shit. Ugly shit. Machine guns. It's goin' down.
+1330	1332	This shit is real. Come, now!
+1333	1336	Get the hell outta here.
+1343	1344	Cool out.
+1352	1354	Shit... calm down.
+1368	1373	Nigga... get you some, okay?
+1373	1375	That's what you need; you need chronic.
+1375	1377	Take it easy, bro'.
+1378	1381	You need to relax... cool out.
+1383	1385	Smoke a joint.
+1388	1391	Yeah.
+1393	1395	Curious aroma.
+1410	1412	Interesting blend.
+1412	1415	, bullshit. That's the bomb, right there.
+1416	1418	?
+1423	1426	Ahh... the bomb.
+1428	1431	A friend with weed, is a friend, indeed.
+1433	1437	But, a friend with gold, is the best, I'm told.
+1447	1448	Knock, knock. - Who's there?
+1448	1450	Gold. - Gold, who?
+1450	1452	Gold finger.
+1458	1461	Now, find me gold in record time...
+1461	1465	or you'll suffer a bloody, hideous crime.
+1468	1469	I'm gonna kill that little green motherfucker.
+1469	1472	Look at my fuckin' finger! I'll kill his fuckin' ass!
+1478	1483	God-damn! You little ugly motherfucker.
+1483	1487	On the ghost of Jack Sprat, you must be trippin'!
+1492	1494	Mother-fuck it!
+1496	1500	What's that?
+1500	1501	It's rap.
+1501	1502	?
+1502	1506	Rap, as in: I'm gonna take this...
+1506	1509	and wrap it around your scrawny, little, ugly ass!
+1529	1533	This is my prime gear.
+1533	1536	This better be the best you got in this sorry motherfucker.
+1537	1539	Look at it. You see what it is.
+1539	1540	Come on, look.
+1541	1543	How much for all of this?
+1543	1545	Tell you what I'll do.
+1545	1548	I'll give you all this gear for everything you got in that bag.
+1550	1553	Nah, we need gear, operating funds...
+1556	1560	You're drivin' a hard bargain. I'll tell you what...
+1560	1566	I'll give you all this gear, and $500.
+1566	1567	Six. - 525.
+1568	1569	575. - 550.
+1569	1570	Deal.
+1573	1574	What about my warranty?
+1575	1579	You don't get no warranty. You're lucky you don't get a warrant.
+1608	1611	What...?
+1614	1616	Are we done, or what?
+1616	1618	Uh... yeah.
+1623	1626	Yeah, pack that shit up, man. We'll take it.
+1634	1636	Yeah. You like that, huh? Smell that.
+1636	1640	Back up, motherfucker... before I smack the shit outta you.
+1640	1645	Chow, we need some party supplies. We wanna celebrate.
+1645	1647	Like the big dogs we is.
+1647	1649	You strike it rich.
+1649	1652	Hell, yeah, we struck it rich. What do you think?
+1652	1656	I told you we would. Time to get some poontang.
+1656	1658	You get down and jiggy with bitches and ho's?
+1658	1660	That's right, Chow.
+1660	1663	What? You big time funky hip-hop rappers now?
+1663	1666	You know, just about. - What does it look like?
+1666	1669	We're goin' to Vegas. We're about to win a contest.
+1669	1671	You do rap video yet?
+1671	1675	You do video, Chow dance. Chow dance.
+1675	1680	No, I don't think we'll be having you in our video, but...
+1683	1684	Chow know many dances.
+1684	1687	Chow do the "Funky Peasant".
+1687	1690	Chow get down hard with his bad self.
+1690	1692	Shake his nasty groove thing.
+1695	1696	Chow no fake the funk, uh-uh.
+1696	1698	Chow keep it real.
+1701	1703	Chow have the music in me.
+1728	1730	What...?
+1731	1732	We done here, or what?
+1738	1740	Yeah...
+1740	1742	Hey, Chow...
+1742	1745	Bring that shit out, man.
+1746	1747	No dead shit, man.
+1747	1750	Chow one nasty mother.
+1750	1752	That's right, you nasty.
+1757	1761	In a matter of time, the flute will be mine.
+1766	1768	The party's over for those stealin' motherfuckers.
+1768	1770	I'm gonna kill them all.
+1770	1773	Then, I got something for that little green piece of shit.
+1777	1779	Fuck, they got the flute.
+1779	1783	We gotta get that back or our party's over... fuck.
+1784	1786	What are you doin' just standin' there?
+1786	1788	Go get with them motherfuckers.
+1799	1801	What do you know?
+1801	1804	They dropped something.
+1805	1809	Little bastards are in for more shit than they ever dreamed.
+1816	1818	Kinda scared me there, boy.
+1820	1822	I ain't buyin' Hallowe'en costumes...
+1822	1824	so you better trick-or-treat your little ass on outta here.
+1824	1827	I'm here to claim me gold and shillings.
+1827	1831	Now, give 'em back, or there might be killings.
+1831	1836	Don't make me laugh. You tryin' to rob Jackie Dee?
+1836	1839	What gang you belong to? ?
+1860	1862	Jackie Cee?
+1866	1868	Jackie Dee...
+1868	1871	Come here, my big, strong man.
+1871	1873	Baby, you look beautiful.
+1873	1876	It's been too long, Jackie... too long.
+1876	1879	But, I don't understand. - You don't have to. Don't.
+1881	1883	I just want you to love me, baby.
+1888	1891	Oh, baby, I've missed you so bad.
+1892	1895	Ooh, Jackie, I want you to just love me.
+1897	1901	Jackie, I've missed you so much.
+1903	1907	Oh, baby. Yes, Jackie.
+1909	1911	Baby, I missed you so bad.
+1922	1926	Love me, Jackie.
+1951	1953	Post...
+1958	1960	What the hell? You shook the spot, man.
+1962	1964	This shit ain't right, y'all.
+1966	1970	We partyin' with money we robbed from a motherfucker we killed.
+1972	1975	I killed.
+1975	1977	Post, it ain't like we planned that shit at Mack's.
+1977	1981	That shit just got--hectic, know what I'm sayin'?
+1982	1984	I don't know, man...
+1984	1986	but the bottom line is...
+1987	1988	it's over.
+1990	1992	Things will be different now, I swear.
+2000	2001	All right, man.
+2007	2009	What's up, little bitches?
+2011	2014	Y'all niggas' asses is mine.
+2017	2020	Shoot me with my own gun? Steal my shit?
+2021	2023	Bust up my motherfuckin' spot?
+2023	2025	Man, I'm sorry...
+2030	2033	You can die right here, or you can jump...
+2033	2035	I don't give a fuck, but you are gonna tell me one thing.
+2035	2038	Where's my fuckin' flute? - What flute?
+2038	2039	Man, we ain't got no flute.
+2039	2041	Don't fuckin' play with me! Where's the goddamn flute!
+2041	2043	We don't have no flute, Mack.
+2043	2046	You motherfuckers think I'm bullshittin'.
+2047	2049	I'll blow their motherfuckin' heads off.
+2049	2052	Aw, shit--! My finger!
+2055	2057	Kill those motherfuckers!
+2063	2065	Come on, y'all!
+2065	2066	Let's get outta here.
+2081	2083	Fuck, fuck. Y'all believe that shit?!
+2083	2085	That motherfuckin' ground was sparkin' and shit.
+2085	2088	Fucked my knee up, man.
+2088	2091	Mack Daddy, his ghost came back to get our ass, man.
+2091	2092	Shut up.
+2093	2095	How is somebody smart as you gonna believe in ghosts?
+2095	2097	I told you before, straight...
+2097	2100	there be the physical, then there be the metaphysical.
+2100	2103	That was some meta-fuckin'-physical shit back there!
+2103	2106	I bet them bullets he was shootin' was some physical shit.
+2106	2108	Who gives a fuck? Physical? Metaphysical? Who cares?
+2108	2111	Mack Daddy's after our asses, y'all.
+2112	2114	And he wants this.
+2114	2117	Why didn't you give him that shit back, Post?
+2117	2121	Nigga, I was scared... shit.
+2122	2123	Fuck, man, what are we gonna do?
+2123	2127	What can we do? Lay low.
+2127	2130	We just get get to the audition, win that motherfucker...
+2130	2132	and be in Vegas for the big payoff.
+2132	2135	We can keep our gear with us. Go from place to place...
+2135	2137	stay with someone different every night.
+2137	2140	Who the fuck we gonna stay with? Mack knows everybody in this town.
+2143	2148	So, what is it I can do for you, ?
+2150	2153	, and... Butch?
+2155	2157	We're gonna be goin' on the road soon...
+2157	2161	gettin' practice, goin' from place to place...
+2163	2165	We thought we'd stay at your place tonight, then move on.
+2165	2171	We need to set up our equipment, so we could have rehearsal.
+2171	2173	Get our groove on.
+2173	2176	You know I like to get my groove on. I love me some company.
+2178	2181	I also love me some cash. You know the drill. Hand it over.
+2181	2183	Ain't no scrubs up in here.
+2185	2191	Every little bit helps Miss Fontaine get her operation.
+2191	2195	Go get your stuff. Go put it out back. Let me hear you jam.
+2203	2205	Who's there?
+2209	2214	Counting ill-gotten gains will cause you suffering and pain.
+2215	2217	Who's there?
+2254	2258	They call me Stray. You know that I can pull it with no delay.
+2258	2262	I'm a waistband...don't you know I'm from the wasteland...
+2262	2264	From the dome, I roam through the chromozome...
+2264	2267	Come around, I pound you in the head with red--
+2271	2273	Turn that shit off!
+2273	2275	Cut that shit off, man.
+2275	2278	What's the matter with you? People tryin' to sleep here.
+2278	2280	Fuckin' assholes.
+2280	2282	That's what's wrong with your bighead ass.
+2282	2284	Y'all don't understand good-ass music.
+2284	2287	Yeah, the hell with you!
+2290	2291	Motherfucker.
+2294	2296	Fuck this, man.
+2296	2300	Where are you going? You ain't gonna defend my honor?
+2300	2304	Come back here, you sissy motherfuckers.
+2310	2312	We really fuckin' suck.
+2315	2318	Shit.
+2351	2353	Play some more.
+2358	2361	Yo, yo, you gotta do what you gotta do.
+2361	2363	Whack the Daddy Mack, now we ain't got jack.
+2363	2366	Butch in full effect, no, we ain't goin' back.
+2366	2368	No more wannabes, no more .
+2368	2371	Now, we're the big cheese, who'd wanna say please.
+2371	2373	Dope is the track. Gold got it back...
+2373	2376	Better get lost, next step, that's a fact.
+2376	2378	This be the story, ain't got no glory...
+2378	2381	No place to go but up, that's where it's at!
+2381	2382	Yeah.
+2382	2384	Here we go.
+2384	2387	Here we-- here we go, y'all.
+2387	2388	Here we go...
+2388	2391	Here we-- here we go.
+2392	2393	Time for the show.
+2393	2397	Do what you gotta do.
+2410	2413	Do what you gotta do.
+2440	2443	Oh, handy...
+2447	2449	Yeah!
+2449	2452	Did we rock that shit? - Rocked that shit.
+2452	2454	Homie, they couldn't get enough of us.
+2454	2456	I could have got me some pussy.
+2457	2459	Straight to Vegas, baby.
+2462	2464	With Mack Daddy on our ass. - Aw, fuck him.
+2464	2466	By the time he finds us...
+2466	2468	we're already gonna be large.
+2470	2472	He ain't gonna stop until he gets this.
+2472	2474	Shit, give it to him.
+2474	2476	We can't.
+2478	2482	Shit, you boys was too, too fine tonight.
+2485	2487	Good night, boys.
+2489	2492	Who was he talkin' to? - He was talkin' to your ass.
+2492	2495	He was talking to you. - He was talkin' to Post.
+2495	2497	Fuck that.
+2497	2499	You wanna hit that, Post?
+2514	2517	Couldn't find your way out, baby?
+2517	2520	Or, you just didn't wanna leave?
+2520	2525	I didn't come to play with fruit. I only seek me magic flute.
+2525	2528	That's such a musical way of putting it.
+2530	2532	You just the right size, too...
+2532	2535	for Miss Fontaine.
+2540	2544	I hope you ain't a screamer 'cause I got me some company.
+2544	2547	So get your ass up in there. Come on now.
+2553	2556	Why you think Mack Daddy wants it back so bad?
+2556	2558	That ain't no magic flute. My ass.
+2563	2564	What the fuck was that?
+2569	2573	That's probably Fontaine havin' a nightmare.
+2596	2599	Mr. Funny-Boy got company.
+2604	2606	Man, I'm gonna be sick, man.
+2624	2627	Shit--that little green motherfucker's out there, man.
+2634	2638	Ohh, shit! He ain't dead.
+2638	2641	Meta-fuckin'-physical, man.
+2641	2644	What are we gonna do? - I don't know, man.
+2647	2649	What the fuck is we gonna do, y'all?
+2651	2654	Flute... where's me flute?
+2657	2660	See, the mix of a douche...
+2665	2667	and a jelly...
+2667	2671	is very, very, very combustible.
+2674	2676	Combustability...
+2677	2678	plus electricity...
+2681	2683	equals flammability.
+2683	2685	Damn, you smart, man.
+2705	2706	Post...
+2706	2709	go over there and cut the light on when he comes in here.
+2712	2715	Stray...
+2715	2718	go and get the little motherfucker in here, man.
+2722	2725	Come on, man. - All right.
+2730	2734	Yo, shorty, you ain't even as big as my dick.
+2752	2754	Now, Post, now!
+2781	2784	I don't get it. This piece of shit?
+2784	2786	Y'all still don't get it?
+2786	2788	We fuckin' with the spiritual world, man.
+2788	2792	We unleashed a whole supernatural universal wack-pack.
+2792	2795	Sanctuary's against that shit.
+2795	2798	That's what we need right now, some sanctuary.
+2798	2801	We need to go to Rev. Hanson's church.
+2801	2804	We could slide him some Benjamins, and stay there for the night.
+2805	2807	I gotta see my grandmother, make sure she's all right.
+2807	2810	Post, is that you?
+2810	2812	Yeah, it's me, Grandma. I lost my keys.
+2812	2814	Oh, all right.
+2819	2821	Hey, Grandma.
+2821	2824	Boy, where you been?
+2824	2826	I needed somebody to massage my bunions.
+2826	2829	I had stuff to do with Stray and Butch, that's all.
+2829	2833	Them lazy-ass hood boys. You know they ain't good for nothin'.
+2836	2842	Oh, hello, Stray. How's your mama? - She's good, Mrs. Smith.
+2842	2846	She still sneakin' around with Jackie Dee?
+2853	2856	That you, Butch? - Yes, ma'am.
+2856	2860	Boy, is you still a virgin? - Yes, ma'am.
+2860	2861	What's wrong with you, son?
+2862	2865	Big ol' strappin' boy like you? You got bad teeth or something?
+2865	2867	No, ma'am.
+2868	2870	There's hot soup over there on the stove...
+2870	2872	with plenty of hot sauce just like y'all like it.
+2874	2876	Why motherfuckers want this so bad?
+2876	2879	I'm tellin' you, man. It's magical.
+2879	2881	Bullshit.
+2881	2884	Watch this. Cover your ears.
+2893	2895	Butch?
+2897	2901	Sanctuary, man. We need sanctuary... quick.
+2925	2927	The Lord, I say...!
+2927	2930	... is good.
+2930	2933	For he has delivered unto me...
+2933	2935	the worst of Satan's sinners.
+2936	2937	Praise God.
+2937	2940	Reverend Hanson, we need sanctuary in your sanctuary.
+2940	2944	We tryin' to hide from Mack Daddy. He's about to go on a killin' spree.
+2944	2946	We're the spree he's tryin' to kill.
+2946	2950	You're saying you need a place to slither away and hide out?
+2950	2952	Yeah, just for one day, then we're outta here.
+2953	2958	Let's see... hotel rates run about...
+2958	2960	We give you $50 dollars, and we square.
+2964	2968	That's nice, real nice. But there's one more thing.
+2968	2971	What?
+2971	2975	Our musical entertainment for this morning got cancelled.
+2975	2978	Seems, the lead singer got his ass arrested again.
+2979	2982	I know you boys are musically inclined...
+2982	2985	and I suspect you might be available for...
+2985	2986	one song.
+2989	2990	It's so good...
+2991	2993	to see a full house, in the Lord's house.
+2995	2998	Amen.
+2998	3002	As we pass the collection plate...
+3003	3004	I want you to remember one thing.
+3004	3007	The Lord, I say...
+3007	3009	the Lord, sees everything.
+3011	3014	The Lord don't like cheap.
+3015	3019	So I want you to dig deep into your pockets, now...
+3019	3020	and show your love.
+3021	3025	But first, about our musical entertainment for today...
+3027	3030	We have three young lads coming to you...
+3030	3033	straight from the Southside of Jerusalem.
+3033	3036	I said, the Southside of Jerusalem.
+3036	3039	I want you to make these boys feel welcome today.
+3039	3042	Bring 'em on down, and show some love.
+3046	3048	Lord works in mysterious ways...
+3048	3050	Amen, man.
+3052	3053	The Lord is good.
+3058	3063	Jesus loves me, this I know...
+3065	3069	If he don't, I'll find a... ho'.
+3077	3080	His mama's name was--
+3080	3084	Mary... Jo.
+3088	3091	And his disciples was--
+3091	3095	... some bad mo' fo's...
+3099	3102	That's fine, fellas, that's fine.
+3102	3106	The Lord has heard many a strange tongue in this house.
+3106	3109	And we have learned not to judge what we see...
+3110	3113	but to the content, and the fiber of a young--
+3140	3142	Yo, that's... Coolio.
+3146	3149	Jesus loves me, this I know...
+3149	3151	If he don't, I find a ho'.
+3151	3154	His mama's name, was Mary Jo...
+3154	3156	His disciples was some bad mo' fo's.
+3156	3158	Little ones, goin' out to the crack house...
+3158	3161	They're all weak, Jesus gave a shout out...
+3161	3164	<Try to stay strong, 'cause we belong...
+3164	3166	To the fold, we gone before long.>
+3166	3169	Jesus loves me... - I don't know...
+3169	3171	Jesus loves me... - The hell if I know.
+3171	3174	If Jesus loves me, then it's my day.
+3174	3177	We better pray... - Or he'll make us pay.
+3177	3179	The Lord's name, I take it in vain.
+3179	3182	Why don't you, Jesus, come stop the pain?
+3182	3184	Jesus works in a mysterious way.
+3184	3187	That ain't no answer, I'm gonna do it my way.
+3187	3189	Jesus loves us, we don't know...
+3189	3192	Jesus loves us? The hell if we know.
+3192	3194	Jesus works in a mysterious way...
+3194	3197	That ain't no answer. We gonna do it our way.
+3197	3199	Yeah.
+3202	3203	Three bad boys.
+3203	3205	Give it up, come on, now.
+3217	3219	Damn.
+3219	3220	You believe me now?
+3222	3225	No wonder Mack Daddy was so pissed off.
+3225	3227	This is fortune, right here.
+3227	3228	That's right.
+3231	3233	You thinkin' what I'm thinkin'?
+3235	3237	That's the key, man.
+3237	3239	The key to everything we ever wanted.
+3239	3242	Man, that's the key to our goddamn coffin.
+3242	3245	Y'all must be forgettin' Mack Daddy gonna kill our ass...
+3245	3247	if he don't get that shit back.
+3247	3249	We went in his house, fucked his shit up...
+3249	3254	You think he'll let us live, 'cause we gave him his flute back?
+3256	3258	Aw, shit, man. We're about to find out.
+3261	3263	Oh, shit.
+3263	3265	I'm sure the motherfuckers is up there.
+3281	3283	We don't go down without a fight.
+3285	3287	Right? - Right.
+3287	3289	Right?
+3289	3291	Right.
+3291	3294	Right? - Right.
+3314	3316	Freeze, you little stealin' motherfuckers!
+3320	3323	I finally got your ass. Where's my goddamn flute?
+3323	3326	I got your flute. I don't have it on me, but I know where it is.
+3326	3328	Stop fuckin' with me! Gimme the goddamn flute, now!
+3328	3331	I can get the flute, but if you kill me then you can't have it.
+3333	3336	What about Mr. Leprechaun? The flute belongs to him, anyway.
+3336	3338	Fuck that little motherfucker. I should've killed him a long time ago.
+3339	3340	Fuck him.
+3340	3342	You need to figure out what you're going to do about him...
+3342	3345	because he's right behind your ass.
+3345	3346	I'm supposed to fall for that shit?
+3347	3349	That's the oldest trick in the book. You gotta come better than that, nigga.
+3349	3351	Blow this motherfucker's head off.
+3351	3353	With pleasure.
+3353	3355	Did somebody say, ?
+3356	3357	Hallelujah.
+3377	3379	You were sayin'?
+3388	3390	I'll get back with you niggas later.
+3393	3394	All right, dammit, what the hell is goin' on...?!
+3400	3402	What the hell you boys think you're doin'?
+3402	3404	Man, we got the whole world after our ass.
+3404	3407	? - Only the bad motherfuckers.
+3422	3424	Why don't you give the little bastard his flute...
+3424	3426	and let's get up outta here, man?
+3448	3450	We dealin' with some evil supernatural shit here, man.
+3470	3471	I got an idea.
+3486	3490	All kidding aside... it's time to die.
+3506	3508	Damn...
+3508	3510	What kinda voodoo shit you boys into?
+3529	3534	You can stop that goddamned yelling. This is the Lord's house!
+3534	3536	Ain't nobody in here afraid of your ass.
+3540	3542	I don't hear nothin'.
+3542	3543	Let's try it again.
+3555	3559	It's hooked up right, man. We can't sample it.
+3559	3561	It won't record.
+3561	3563	Fuck it. We gotta use the real deal.
+3564	3566	Either way, we're going to Vegas for the big money.
+3566	3568	Straight up. Let's get this show on the road.
+3569	3570	Let's do this shit.
+3570	3572	Vegas? What the fuck y'all talkin' about, "Vegas"?
+3572	3574	Nobody goin' nowhere with that thing locked up in my office.
+3574	3578	You know what? Just keep that safe locked.
+3578	3581	You expect me to babysit the goddamn Devil, huh?
+3581	3584	He's up there sittin' on my operating funds.
+3584	3586	Reverend, we're about to hit the jackpot.
+3586	3588	When we come back, we'll split the pot with you.
+3588	3590	Then, we'll figure out what to do with that fuckin' devil.
+3590	3593	Just make sure his ass don't get out.
+3593	3595	Let's get out of here, man.
+3595	3599	What about Mack Daddy, man?
+3608	3610	What about Mack Daddy?
+3610	3613	Youngblood, how'd you know about my gun?
+3613	3615	Aw, man, who don't know about your gun?
+3618	3622	From the depths of the nether world, I summon you...
+3622	3624	me zombie fly girls.
+3642	3644	Hit the ground, hit the ground... run...
+3644	3648	Hit the ground, run... hit the ground...
+3648	3650	Here come the man, he got no school...
+3652	3654	Brought an AK, he ain't gonna lose...
+3654	3656	Smoke the motherfucker, from the moment we cruise.
+3656	3658	Karma, drama, now we're on the run...
+3658	3660	Motherfucker don't stay down, you're done.
+3660	3662	Pop-pop, bang-bang, here we come again...
+3662	3664	We hit the ground, runnin' while we can.
+3664	3673	Hit the ground, Hit the ground--running...
+3675	3677	Toke to the joint, we can take no more...
+3677	3679	Posse, partyin', drinks and whores...
+3679	3681	Chillin', thrillin', pump up the stereo...
+3681	3683	Boom, goes the door, fucked-up scenario.
+3683	3685	We go runnin', bullets keep comin'...
+3685	3687	We hit the ground, the joint keep burnin'...
+3687	3689	Me and my partner, we gonna get free...
+3689	3691	Just gotta pass this motherfuckin' D.
+3691	3695	Hit, hit, hit the ground running.
+3699	3701	... hit the ground, runnin'!
+3705	3707	Yeah, yeah, yeah, man.
+3714	3717	Sweet Jesus.
+3717	3719	Another sinner.
+3720	3722	Come, my child.
+3725	3727	Come and let me lay hands upon your...
+3727	3729	sinful creature.
+3732	3734	And pass on to you...
+3734	3737	the blessings of the Lord.
+3737	3740	Do you have the gift of healing, Reverend?
+3740	3743	Oh, yes, my child.
+3743	3745	Indeed, I do.
+3745	3748	But, my specialty...
+3748	3753	is the gift of tongues.
+3765	3770	I know the evil serpent beast when I see him.
+3771	3774	Now, get thee hence from the house of the Lord.
+3774	3776	Now, begone from the--
+3790	3795	Praise thee, good Reverend. Now, give up me golden flute.
+3798	3800	Stray bullet to the heart...
+3800	3803	Then you start bullshittin' with time and space.
+3803	3805	Rap moves at the drop of a dime, any motherfuckin' place...
+3806	3807	Leave you in a puddle of your warm blood...
+3808	3810	I go home...
+3818	3820	I'm the hardest you ever saw--you're my target.
+3820	3824	Stray Bullet to the heart.
+3840	3844	Stray Bullet to the heart.
+3855	3858	Stray Bullet to the heart-- what's the matter, bitch?
+3860	3862	Hell, yeah! That's what I'm talkin' about!
+3864	3868	They loved us, loved us, we rocked the show.
+3875	3879	Berry Grady, vice president of A&R for Dope Discs Productions.
+3879	3881	The biggest hip-hop label in history?
+3882	3884	Guilty as charged, homeboy.
+3884	3886	Hope you're ready for the finals. - The finals?
+3886	3888	You made it. You are going to Vegas.
+3890	3893	Ain't in it but to win it, know what I'm sayin'?
+3893	3895	Your music's got a real special quality.
+3895	3897	And the kids are down with it.
+3897	3900	We're just keepin' it real. The shit is sellin'.
+3900	3902	You perform in Vegas like you did tonight...
+3902	3905	you're a stone bet to win.
+3905	3910	Tuesday night, 8pm, be at LAX. Congratulations, fellas.
+3910	3913	Thank you, Mr. Grady.
+3913	3914	We goin' to Vegas...!
+3920	3924	Yeah, baby, we goin' to Vegas, cha-ching, cha-ching, cha-ching!
+3926	3928	Hey, party in here?
+3929	3931	Oh, shit... hell, yeah!
+3931	3934	If y'all partyin'... this is it!
+3951	3954	The crowds were impressed, they loved every note.
+3954	3958	But how will you sound from the bottom of me moat?
+3958	3961	Give me the flute. - Hell, no!
+3972	3975	Uncomfortable, lad? I'm sorry.
+3981	3983	Is this better?
+3984	3988	I'll give you a choice. Me patience is drained.
+3988	3992	Give me the flute... or I paint the wall with his brains.
+3992	3994	Okay, okay...
+3995	3998	Post, give it up, man.
+3998	4000	Give him the goddamned flute, Post.
+4002	4004	Post, give him the motherfuckin' flute!
+4030	4032	Now, let them go.
+4035	4040	As they say, lad,
+4040	4045	Now live with the thought. You were almost a star.
+4048	4050	Ladies...
+4053	4055	Fuck you.
+4077	4079	No, Post... no.
+4081	4083	No!
+4126	4127	Man, we gotta go.
+4130	4132	It wasn't supposed to be like this.
+4134	4137	We was gonna make the climb with the positive shit.
+4138	4140	That was a long time ago.
+4143	4145	So, it's over?
+4147	4149	Stray died for nothing?
+4150	4154	A stinkin' corpse in a shitty car to be found by some wino?
+4154	4159	Man, it's over. What are we gonna do?
+4164	4166	I don't know.
+4167	4169	It's over, Post.
+4171	4173	Go home, man.
+4173	4178	Go home.
+4206	4209	Does she meet with your approval?
+4226	4228	She's the bomb.
+4258	4260	Who's that?
+4274	4278	You must be one of Post's little friends.
+4278	4281	You must want some of that food I made.
+4283	4285	Ooh, child.
+4285	4289	You got the arthritis real bad.
+4289	4292	Your little hands is all knotted up...
+4292	4296	You need some good food in your stomach.
+4296	4298	That's what you need.
+4298	4301	Now, go on, and go wash up.
+4301	4305	Go on, go wash them filthy little hands.
+4305	4308	Let some hot water run down over them.
+4328	4332	I'm gonna feed you, on account of your hands is knotted up...
+4332	4335	and you can't hold these here utensils.
+4353	4354	Good. - Thank you.
+4373	4375	Stray...
+4392	4396	We goin' to Vegas, baby! We gonna be large!
+4411	4413	Stray...
+4426	4429	Yo, Post, it's all right. It's me.
+4429	4431	Butch... what's up, man?
+4432	4434	I don't want you goin' by yourself, man.
+4434	4435	Goin' where?
+4435	4438	To get the Leprechaun. To get that flute back.
+4438	4441	How do you know I'm goin'? - Ain't you?
+4444	4446	Yeah, I guess I am.
+4447	4449	What the hell is that around your damn head?
+4449	4452	I got a plan, man.
+4452	4454	Yo, Post
+4454	4456	I was reading earlier...
+4456	4458	Leprechauns is rumored to be the dark elves of Satan.
+4459	4461	Each with his own pot of gold.
+4461	4464	They so small, peeps are always tryin' to capture 'em.
+4464	4467	The gold is the ransom for their freedom.
+4467	4470	Anybody fuckin' with their shit...
+4470	4473	is hunted down and killed in a most brutal manner.
+4473	4475	Yeah, no shit.
+4475	4477	So, what's your plan?
+4482	4484	This.
+4485	4486	Weed?
+4486	4489	Man, this ain't just weed, Post.
+4489	4492	This weed's got clovers in it. Four-leaf clovers.
+4492	4493	What?
+4493	4496	According to this book...
+4496	4499	a leprechaun can lose his powers temporarily...
+4499	4502	if he's hit with the essence of a four-leaf clover.
+4502	4504	How are we supposed to find the Leprechaun?
+4504	4506	I was sneaking around the Golden Parrot.
+4506	4509	The Leprechaun got a goddamn room upstairs.
+4509	4511	He got them zombie ho's hypnotizing people.
+4512	4515	Taking them up to him, every night.
+4515	4517	Word? What for? - I don't know...
+4517	4520	but they don't be comin' back downstairs after they go up.
+4520	4522	I think he's fuckin' 'em to death.
+4522	4526	We gotta get in there, get him stoned off these clovers...
+4526	4529	grab the flute, and run like hell while he's still trippin'.
+4531	4533	That's a good plan, Post.
+4534	4536	How are we supposed to get close to his ass?
+4536	4539	Only one way, bro'.
+4583	4586	Remember, Mack Daddy's still out there.
+4586	4588	he gonna be comin' after our ass, too.
+4593	4595	Fuck Mack Daddy.
+4596	4598	Ain't nothin' but a hip-hop thang.
+4600	4602	Business in the hood.
+4603	4605	Let's do this.
+4633	4638	Lep in the hood... come to do no good.
+4642	4644	What happened?
+4644	4646	Tell me where the Leprechaun is.
+4646	4649	It's okay, just tell me where he is, and I'll let you go.
+4661	4664	Damn, Post. You look good, for real.
+4664	4667	Fuck you, nigga. You ready for this shit?
+4667	4670	I'm ready for this shit, man. Let's do it.
+4685	4688	Mr. Leprechaun?
+4689	4691	Mr. Leprechaun?
+4692	4694	Yo... Mr. Leprechaun!
+4697	4699	Gotcha some new, fresh, ho' meat...
+4700	4703	and some special weed.
+4706	4710	Come closer, come closer my fresh young lass.
+4712	4718	Let me take a look at you, before I tap your ass.
+4732	4736	Sit down, sit down, my healthy filly.
+4737	4739	You're about to meet a club named, .
+4756	4759	They say in the hood, you're never down...
+4759	4765	unless you've the courage to go downtown.
+4801	4803	Come on, man.
+4810	4812	On to Vegas, baby. - All the way for Stray, man.
+4818	4821	Butch...?
+4825	4828	Not in a dress, Post...
+4829	4832	You're gonna be okay, man.
+4836	4839	Is there pussy in heaven, Post?
+4845	4847	Okay, little girls, come on out!
+4847	4850	You can't hide. It's goin' down.
+4853	4856	Come on out, bitches. Mack Daddy wants his flute.
+4874	4875	What's up, ?
+4875	4878	Man, I must say, you are fine.
+4879	4883	Are you finished playing? Gimme the goddamn flute.
+4883	4885	Fuck you, motherfucker.
+4886	4887	Oh, yeah, fuck me...
+4887	4889	You look real tough, you got a gun and everything...
+4890	4891	but you ain't about to kill shit.
+4891	4894	Plus, you're forgetting about the little motherfucker upstairs.
+4896	4899	There's only one way to deal with him, and that's me.
+4901	4904	I got the one thing that can put that leprechaun on ice forever.
+4904	4907	So, what you gonna do, tough guy? You gonna try to kill me...
+4907	4909	or are we gonna work together and kill this motherfucker?
+4909	4911	'Cause you ain't no motherfucking gangster.
+4911	4914	I'm supposed to trust you now?
+4914	4919	I wouldn't advise you to trust me; that'd be the worst thing you could do.
+4919	4922	But right now, we got no options.
+4922	4925	And you really ain't got no options.
+4925	4928	You ain't no motherfucking gangster.
+4932	4935	Get that gun out of my face. You ain't about to kill nothin'...
+4965	4967	Cross-dressing impostor!
+4983	4986	For a foe of mine, you've done quite well.
+4986	4991	Now, I'll take me flute, and send you to hell.
+4991	4995	If this is to be Post's last stand...
+4995	4999	you'll have to take this flute from me cold, dead hand.
+5000	5003	I'll take it from you, homie, you'll see...
+5003	5008	'cause you know the Lep is the real O.G.
+5014	5017	What are you gonna do about Mack Daddy?
+5017	5019	Behind me?
+5022	5025	A valiant try, and right on cue...
+5025	5030	but if I fall for that, I'm as stupid as you.
+5030	5031	Mack Daddy ain't dyin' today.
+5039	5040	Motherfucker.
+5064	5069	Ladies and gentlemen, please welcome Postmaster P!
+5069	5072	The king of the world, yeah, yeah, that's me...
+5072	5074	I'm finally the man that I've been strivin' to be.
+5074	5077	I passed the test, they fucked my nest...
+5077	5080	but I made it to the top, put your fears to rest.
+5080	5083	The king of the world, yeah, yeah, that's me...
+5083	5085	I'm finally the man that I've been strivin' to be.
+5086	5088	I passed the test, they fucked my nest...
+5088	5091	but I made it to the top, put your fears to rest.
+5091	5094	The king of the world, yeah, yeah, that's me...
+5094	5096	I'm finally the man that I've been strivin' to be.
+5097	5099	I passed the test, they fucked my nest...
+5099	5102	but I made it to the top, put your fears to rest.
+5102	5105	The king of the world, yeah, yeah, that's me...
+5105	5108	I'm finally the man that I've been strivin' to be.
+5108	5110	I passed the test, they fucked my nest...
+5111	5114	but I made it to the top, put your fears to rest.
+5138	5141	I taught him everything he knows.
+5155	5157	I come from the land of the Irish spring.
+5157	5159	Dublin's the place where I learned my thing.
+5159	5161	From the Emerald lsle to your place in the hood...
+5161	5164	I'm the man of green, come to do no good.
+5164	5168	Lep in the hood, come to do no good.
+5168	5170	Blunt is dope, this place is hype.
+5170	5173	There's a lassie, she's just my type.
+5173	5175	I hate to resort so soon to magic...
+5175	5177	Haven't been laid so long, it's tragic.
+5180	5182	I'm so bad, I'm good.
+5183	5185	I'll show you what to do, so lend an ear...
+5185	5188	don't worry, little lassie, you've got nothin' to fear.
+5188	5190	Sit with a lad who's lean and green...
+5190	5192	and let me show you why I'm a love machine.
+5195	5197	... come to do no good.
+5199	5201	I'm a wee green guy, who's new to town...
+5201	5203	Show me what you do when you get down.
+5203	5205	I'll go up, you go down...
+5205	5208	We'll all see your love green.
+5209	5210	Lep in the hood, come to do no good.
+5210	5213	Lep in the hood, when we're bad, we're good.
+5214	5216	From the cliffs of more to your front door...
+5216	5218	Better turn out the lights and pray some more.
+5218	5220	Gonna party through the night until the dawn...
+5220	5222	and you and I are gonna get it on.
+5223	5228	Lep in the hood, come to do no good.

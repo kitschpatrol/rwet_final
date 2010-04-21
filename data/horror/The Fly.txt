@@ -1,0 +1,803 @@
+120	121	What am I working on?
+122	124	Something that will change the world...
+125	126	...and human life as we know it.
+127	130	Change it a lot or just a bit? Be more specific.
+131	133	You want me to be more specific here with...
+133	137	...half the scientific community eavesdropping?
+137	138	Where else?
+140	143	You could come back to my lab.
+144	145	I'll make cappuccino.
+145	147	I have a Faema of my own.
+148	150	It's not the dilettante's plastic model.
+150	155	It's a restaurant espresso machine with an eagle on top.
+156	158	Somehow I get the feeling you don't get out much.
+158	161	-You can tell that? -Yes.
+171	174	You're making a mistake. I think you really want to talk to me.
+174	177	Sorry. I have three other interviews before this party is over.
+177	180	But they don't have something that will change the world.
+180	181	They say they do.
+183	184	Yeah but they're lying.
+185	186	I'm not.
+192	193	Are you sick?
+194	196	No-- Sure.
+197	199	You're not a very good drunk.
+200	202	No, I'm always like this. It's the...
+203	208	...motion sickness. When I was a kid, I puked on my tricycle.
+209	211	I hate vehicles.
+211	212	Should I drive slowly?
+213	215	No. Turn left. We're almost there.
+232	233	This is it?
+233	236	It's cleaner on the inside.
+246	247	Please.
+276	279	Listen. Maybe this is a bad idea.
+280	282	Too late.
+283	286	You've already seen them. You can't leave here alive.
+289	290	I haven't seen anything.
+292	293	Those.
+298	300	Designer phone booths.
+301	303	Very cute.
+304	307	I bet you have a really neat jukebox in here too.
+307	308	Over there?
+309	310	No.
+312	314	No. This is the...
+315	319	...prototype of those. The first one I had made.
+320	324	It works, but it's clunky.
+336	338	I call them telepods.
+339	340	They're controlled by this.
+341	343	Thank God for that.
+344	347	What do these phones booths do?
+347	348	Telepods.
+353	356	Okay, I need an object.
+358	361	Do you have something that is...
+361	364	...personal I can use? Something uniquely you?
+365	366	An item of clothing or jewelry?
+367	369	You kidding?
+369	370	No, I'm serious.
+374	376	Okay. Here it goes.
+394	396	I don't wear jewelry.
+403	405	It's nice.
+417	420	Brundle, Seth.
+438	440	Watch the stocking.
+468	469	Well?
+470	472	Great.
+472	476	A giant microwave oven. I'm glad I didn't give you my Rolex.
+476	477	If I had a Rolex.
+477	480	You're missing the point. Look.
+487	489	Teleportation?
+490	492	Please.
+507	509	Wait a minute.
+510	511	Is that a hologram?
+512	515	-Where's my stocking? -That's it.
+516	517	Pick it up.
+529	531	I don't get it.
+532	533	What happened?
+533	536	You get it but you can't handle it.
+537	541	Your stocking has just been teleported...
+541	544	...from one pod to another.
+545	547	Disintegrated there and reintegrated there.
+548	549	Sort of.
+550	553	It will change the world as we know it, right?
+562	563	This is incredible.
+563	565	It's not possible, is it?
+566	567	How have you kept this quiet?
+568	569	Please sit down.
+570	572	How could you do this alone?
+572	574	I don't work alone.
+574	577	There's stuff in there I don't understand. I'm really a...
+577	579	...systems manager. I farm out...
+579	582	...pieces to men more brilliant than I. I say:
+582	587	"Design me a molecular analyzer, " and they do. I just assemble it.
+587	589	None of them knows what the project really is.
+593	596	And the money? Bartok Science Industries financed this?
+597	599	But they leave me alone because I'm not expensive.
+600	603	They know they'll own whatever it is.
+603	604	You haven't told them?
+605	606	When I'm ready.
+607	609	Wait a second.
+611	611	What's that?
+613	614	To get the quotes right.
+615	617	Quotes? No.
+617	619	This was personal. Don't write about it.
+620	623	What do you mean? I'm a journalist.
+623	626	-Oh, no. -You knew that.
+627	631	I made a mistake. I shouldn't have shown you this. I'm very sorry.
+631	636	Partcle Magazne sent me to get a story.
+636	638	This is the most exciting story ever.
+638	641	No. Absolutely not. I must have that tape.
+641	642	-Please. -You can't do that.
+643	644	Don't write a story.
+644	646	I'd never have told this stuff to a journalist.
+646	650	-But you told it to me. -I suppose I did but--
+650	652	-Sure did. -Now wait a minute.
+653	655	Come here. What about your stocking?
+655	657	Keep it for good luck.
+668	671	I say: "Desgn me a molecular analyzer, " and they do.
+671	672	I just assemblet.
+673	675	None of them knows what the project reallys.
+678	680	And the money? Bartok Scence Industres fnanced ths?
+680	683	But they leave me alone because I'm not expensve.
+684	687	They know they'll own whateverts.
+688	690	Well, that's it.
+692	693	What do you think?
+693	694	It's a joke.
+695	695	What?
+696	697	He's conning you.
+697	700	It's an old nightclub routine. The two cabinets.
+700	703	-You fell for it. -Wait a minute.
+703	705	-That was no-- -Are we having lunch?
+706	709	That was no nightclub routine. I was there. I saw it.
+715	716	Sure.
+716	718	Send him in.
+719	721	You must have made an impression.
+722	723	What do you mean?
+723	726	Your magician followed you here.
+728	731	I'm Stathis Borans, editor of Partcle Magazne.
+731	734	-Seth Brundle. -I know who you are.
+736	739	Why don't you two use my office? I've gotta run.
+739	742	If you plan to make anything disappear, let me know.
+743	746	I have an assistant editor who's outlived his usefulness.
+751	752	You didn't waste time.
+753	755	I'm not getting any younger.
+757	759	He wasn't impressed by your tape?
+761	762	He thinks you're a con man.
+765	766	Excellent.
+767	769	Let's see what the people at Omnthink about it.
+770	772	No, no. Listen, Veronica....
+774	776	I've come here to say one magic word.
+777	778	Yeah?
+779	780	Cheeseburger.
+785	788	I've been working alone too long.
+789	792	I have a strong urge to talk about what I'm doing.
+793	796	But if this gets out now...
+796	798	...Veronica, it'll kill me.
+799	801	The Bartok people and my colleagues will kill me.
+802	804	It's not ready yet.
+804	805	It works okay.
+806	808	No, something important's missing.
+808	809	Yeah?
+810	811	Yeah.
+813	814	What?
+817	819	I can only teleport inanimate objects.
+822	824	What happens when you teleport living things?
+826	827	Not while we're eating.
+828	830	Can't be worse than this.
+833	836	You're not doing a good job of convincing me.
+836	839	I think I should tell the world about this now.
+840	842	You should tell it...
+844	846	...but not yet. What do you have so far?
+847	848	Enough to make you nervous.
+848	852	Why not get more? Make me your major project, a book.
+852	854	Not a magazine article.
+854	857	Follow me and my work, day by day in detail.
+858	862	I have no life, so there's nothing for you to interfere with.
+862	865	Research the background. Cover the process.
+867	870	"The complete record of the most earth-shattering invention ever.
+870	873	The one that ended all concepts of transport...
+874	876	...of borders and frontiers, of time and space."
+879	882	The book will end with me...
+882	885	...transporting myself from one telepod to another.
+885	886	That's what's missing.
+890	891	Wait for me that long?
+937	939	What are you doing here?
+939	942	I was in the neighborhood. Felt a bit scummy.
+944	945	Rough day.
+956	957	How'd you get in?
+958	960	I have a key, remember?
+961	962	You gave it to me.
+962	964	I should've changed the lock.
+965	966	You didn't.
+970	973	That's because unconsciously...
+975	978	...you still want me to come back, move in again.
+978	979	No.
+980	984	That's because, consciously, I'm lazy and disorganized.
+990	991	Your new playmate's interesting.
+992	993	What playmate?
+993	995	The nightclub act.
+997	998	Brundle.
+999	1001	-Yeah? -Yeah.
+1003	1006	I was wrong. He's really quite brilliant.
+1008	1011	He led the F32 team. Remember that?
+1013	1016	An inch away from the Nobel Prize for physics.
+1016	1018	He was only 20 at the time.
+1019	1023	I'm not going to do Brundle. Maybe the Psychology Today gig.
+1023	1024	That's not like you.
+1026	1028	Are you getting out or am I?
+1030	1033	I'll go. Shall I return later and tuck you in?
+1034	1036	No. Key.
+1038	1039	I'll keep it...
+1040	1041	...for old time's sake.
+1044	1046	You're a petty schmuck.
+1066	1068	Initiate in 5 seconds.
+1145	1148	I've got to do this, Seth.
+1148	1150	Talk to the tape. Get in the habit.
+1150	1152	The world will want to know what you're thinking.
+1152	1154	"Fuck" is what I'm thinking!
+1154	1155	Good.
+1156	1158	The world will want to know that.
+1159	1161	What else? Why didn't it work?
+1162	1165	I think it turned the baboon inside out.
+1168	1170	Why?
+1171	1175	It can't deal with the flesh, only inanimate objects.
+1178	1179	It must be my fault.
+1180	1181	Why?
+1184	1186	Computers only know what you tell them.
+1188	1191	I don't know enough about the flesh. I have to learn.
+1196	1198	I don't want to talk now.
+1216	1218	Do you ever change your clothes?
+1220	1221	What?
+1222	1225	You're always wearing the same clothes.
+1228	1232	No, these are clean. I change my clothes every day.
+1241	1243	Five sets of exactly the same clothes?
+1244	1245	Learned it from Einstein.
+1246	1248	This way I don't have to...
+1248	1252	...expend any thought on what to wear. I grab the next set on the rack.
+1259	1262	I bought some steaks. Can I make you one?
+1263	1265	We could go out.
+1266	1267	Cheeseburger?
+1270	1273	No, we don't have to go there.
+1282	1285	You're very cute. You know that?
+1286	1287	Am I?
+1325	1327	-What happened? -On my back.
+1329	1331	Something's stuck to your back.
+1331	1333	Pull it off.
+1341	1342	Sorry.
+1344	1346	I wondered where this was.
+1346	1350	-Do you have any disinfectant? -No, that's okay.
+1350	1352	I'll kiss it for you.
+1360	1364	Sorry. I just want to eat you up.
+1365	1368	That's why old ladies pinch babies' cheeks.
+1369	1372	It's the flesh. It makes you crazy.
+1374	1375	Ronnie. Ronnie.
+1380	1382	You want to try an experiment?
+1383	1384	Sure.
+1434	1437	Eat this. I need an objective opinion.
+1446	1450	It could use some finesse, but it tastes like a steak.
+1456	1458	Now try this teleported half.
+1459	1463	-A monkey just came apart in there. -Baboon. Eat.
+1468	1469	It tastes funny.
+1469	1472	-Funny how? -It tastes...
+1473	1474	...synthetic.
+1478	1479	What have we proved?
+1480	1485	The computer is giving us its interpretation...
+1485	1489	...of a steak. It's translating it, rethinking it...
+1489	1491	...rather than reproducing it.
+1491	1494	Something gets lost in the translation.
+1495	1497	Me. I'm lost.
+1498	1499	The flesh.
+1500	1504	It should make the computer crazy. Like old ladies pinching babies.
+1505	1506	But it doesn't yet.
+1507	1511	I haven't taught the computer to be made crazy by the flesh.
+1511	1513	The poetry of the steak.
+1514	1516	So I'll teach it now.
+1582	1583	I knew it.
+1583	1585	What are you doing here?
+1585	1587	I followed you.
+1587	1592	Psychology Today, my ass. You stayed with Brundle all night.
+1593	1594	Why didn't I believe you?
+1597	1600	I think he'd look great in this. Don't you?
+1604	1607	For your Tme magazine cover, you have to look good, right?
+1608	1610	Don't you get it? I am finally onto something big.
+1611	1613	-Huge. -Yeah? What? His cock?
+1614	1617	Crude, Stathis. Very crude.
+1617	1618	You're too perfect.
+1620	1622	You're a goddess.
+1622	1624	Thanks for making my paranoid fantasies come true.
+1624	1627	I don't have to report to you, you creep.
+1627	1630	Ronnie? You have to talk to me.
+1630	1632	No, I don't! We're finished.
+1632	1634	I'll spend the night anywhere I damn well please.
+1635	1637	Sorry. I'll take this too.
+1670	1672	I think it's time for champagne.
+1679	1681	Oh, God, Seth.
+1681	1683	It really happened. You did it!
+1683	1687	-You'll never be carsick again. -Or airsick or seasick.
+1687	1689	I know. Or tricycle-sick.
+1693	1694	What's next?
+1695	1698	Send the baboon out for tests, see if he's okay.
+1698	1699	How long will that take?
+1700	1701	Could be weeks.
+1702	1703	Really?
+1704	1705	Yeah, why?
+1707	1711	I was thinking that we could take a holiday.
+1711	1712	We could?
+1713	1715	Yeah. Like an old married couple.
+1715	1718	Old man's got a couple weeks off, so...
+1718	1720	...they go to Florida, someplace warm.
+1721	1722	Just you and me?
+1723	1726	Is there someone else you want to bring along?
+1726	1728	No, no, I just....
+1729	1731	Is this a romance we're having?
+1733	1735	Yeah. Could be a romance.
+1736	1737	Come here.
+1743	1745	I have a great idea.
+1750	1751	You like Chinese food?
+1752	1753	Yes.
+1755	1757	We'll have a romantic dinner here.
+1763	1764	What's this?
+1765	1768	From your editor. It was under the door.
+1769	1771	Victor, it's Seth Brundle.
+1773	1774	Yeah, I'll wait.
+1777	1779	What's that?
+1782	1786	Nothing. It's just personal bullshit.
+1787	1791	Old married couples share everything to stay old and married.
+1792	1796	Listen, Seth, don't rush it.
+1797	1799	I have to go out for a few hours.
+1800	1803	No, Ronnie, spicy eggplant, champagne.
+1803	1804	Just a few hours.
+1805	1807	I have the residue of another life.
+1807	1811	I have to scrape it off my shoe and get rid of it, once and for all.
+1834	1836	What's this supposed to mean?
+1836	1839	I'm your editor and I'm shaping your material into a story.
+1840	1843	You told me there was no story. You said Brundle was a con man.
+1844	1847	I've decided to trust your journalistic instincts.
+1847	1850	Thanks very much. But this is not your story.
+1850	1851	It's mine.
+1852	1853	Says who?
+1853	1856	I sent you to the Bartok party to see what you could find.
+1856	1858	Your discovery is my discovery.
+1859	1862	I have a lot of background on Brundle.
+1863	1864	He's worked on this for six years.
+1865	1867	There's material to find if you dig deep.
+1868	1870	-I dug. -Stathis....
+1870	1873	All transportation is going to become obsolete.
+1873	1876	And I'm in the middle of it.
+1876	1879	-The only inside recorder of the event. -Okay.
+1886	1890	Look, just keep me informed. All right?
+1890	1891	As a friend?
+1892	1894	As a professional confidante?
+1896	1898	That's all?
+1901	1903	I don't want you to disappear from my life.
+1909	1911	Okay.
+1914	1915	What about sex?
+1916	1920	I'm not saying love or affection. Just stress-relieving sex.
+1920	1921	You and me.
+1923	1924	You're disgusting.
+1924	1926	As always.
+1930	1931	Couldn't disappoint you.
+1933	1935	Residue means your old boyfriend, doesn't it?
+1937	1939	Stathis Borans is her old boyfriend.
+1941	1943	"From the desk of Stathis Borans."
+1944	1946	How about, "Under the desk of Stathis Borans"?
+1947	1951	She works for her old boyfriend and runs out late at night to see him.
+1951	1953	Is this the Ronnie game?
+1957	1959	I'm catching on. I'm catching on.
+1961	1965	I didn't mean to kill your brother, but he didn't die in vain...
+1965	1967	...if that's any comfort.
+1968	1972	I wouldn't ask you to do anything that I wouldn't do myself.
+1975	1976	You're all right.
+1977	1979	I can tell you're okay.
+1983	1985	What are we waiting for? Let's do it.
+2080	2081	How you doing?
+2082	2084	Now, you tell me.
+2084	2086	Am I different somehow?
+2087	2089	"Is it live or is it Memorex?"
+2091	2093	It's too bad Ronnie missed it.
+2152	2153	I missed you last night.
+2154	2157	It's still night. I came back.
+2158	2161	You had to celebrate without me. I'm sorry.
+2162	2163	I went through last night.
+2165	2167	You went through?
+2167	2169	Without testing the baboon?
+2171	2174	I was drunk. I was a bit upset.
+2175	2177	You could've killed yourself.
+2186	2188	Are you sleeping with Stathis?
+2189	2190	What are you talking about?
+2191	2194	I don't know. I just get that feeling.
+2198	2199	That's why you were upset?
+2202	2203	I got jealous.
+2204	2209	Oh, God. Seth, you don't have to be jealous.
+2210	2211	He's an old boyfriend.
+2212	2214	He taught college. I was a science major.
+2215	2217	He got me started in journalism.
+2218	2219	Does he love you?
+2221	2222	How could he not?
+2228	2230	You went through and I wasn't there.
+2232	2233	I taped it for you.
+2235	2236	You did?
+2529	2533	I asked the computer if it improved me, but it didn't understand.
+2533	2537	That made me think about what I'm feeling and why. I'm thinking...
+2537	2541	...that process of being taken apart atom by atom and reassembled--
+2542	2546	It's like filtering coffee. It's a purifying process. It's cleansed me.
+2546	2549	I think it's going to allow me to realize...
+2550	2554	...the personal potential I've been neglecting all these years...
+2554	2557	...that I've been obsessively pursuing goal after goal.
+2558	2561	Do you take coffee with your sugar?
+2563	2566	I've never given me a chance to be me.
+2566	2569	Interestingly, when I achieved...
+2569	2571	...what will prove to be my life's work...
+2572	2574	...I've become the real me, finally.
+2574	2576	So, listen...
+2576	2578	...not to wax Messianic...
+2578	2583	...but the synchronicity of the two events may blur the individual effect.
+2583	2586	But it is, nevertheless, also certainly true.
+2586	2590	I will say now, however subjectively, human teleportation...
+2590	2594	...molecular breakdown and reformation is inherently purging.
+2594	2596	It makes a man a king.
+2596	2598	Since I left the pod, I feel great.
+2598	2601	I think I will have a cannoli after all. Waiter!
+2601	2604	What an accomplishment. But what have I really done?
+2604	2606	I've said to the world:
+2606	2609	"Let's go. Move. Catch me if you can." Waiter.
+2610	2611	Jesus Christ!
+2627	2628	Oh, God.
+2631	2632	What?
+2633	2635	How can you keep going?
+2636	2640	You can't have any fluid left in your body.
+2640	2642	We've been doing this for hours.
+2642	2644	I'm not ready to quit yet.
+2646	2647	Come on.
+2653	2654	Hey. What's this?
+2655	2657	It's an attempt to distract me.
+2657	2659	Really, what is it? It's like...
+2661	2664	-...hairs or something. -I don't know, it's....
+2664	2667	It happens when you get older, weird hair.
+2667	2669	They're really coarse.
+2670	2674	I've never been hairy enough. Know what I mean? Always too boyish.
+2675	2676	I look forward to a hairy body.
+2677	2680	It's one of the compensations of old age. Where are you going?
+2711	2714	Not my new hairs. What are you doing?
+2714	2715	Relax.
+2716	2719	You don't want a body covered with these.
+2719	2722	God! They're really tough!
+2725	2726	Listen.
+2727	2730	I want you to go through. I want to teleport you right now.
+2730	2734	I hardly need to sleep and I feel wonderful.
+2734	2736	It's like a pure, benign drug.
+2736	2738	The power I feel surging inside me--!
+2738	2741	We'll be the perfect couple. The dynamic duo. Come on.
+2741	2743	-Right now. -Hey, wait.
+2743	2746	Don't give me that born-again teleportation. I'm scared.
+2746	2749	What do I have to say? I'm not gonna do it!
+2750	2752	You're a fucking drag, you know?
+2755	2759	Something went wrong. When you went through, something went wrong.
+2765	2767	No? Not you?
+2767	2771	If you're too chickenshit to be in the dynamic duo club...
+2771	2774	...I'll find somebody else who can keep up with me.
+2774	2776	Listen to me--
+2776	2778	You're afraid to dive in the plasma pool.
+2778	2781	You're afraid to be destroyed and re-created.
+2781	2783	Think you woke me up about the flesh?
+2783	2786	You only know society's straight line about the flesh.
+2787	2791	You can't penetrate society's sick gray fear of the flesh.
+2792	2796	Drink deep, or taste not the plasma spring. See what I'm saying?
+2796	2799	This is not just sex and penetration, but penetration...
+2799	2801	...beyond the veil of the flesh.
+2802	2805	A deep, penetrating dive into the plasma pool.
+2846	2848	I'll have a scotch.
+2851	2852	Who's winning?
+2854	2855	I don't know.
+2856	2858	I hope it's Marky.
+2860	2862	-How come? -Because.
+2863	2864	I like Marky tonight.
+2865	2866	I like you tonight.
+2868	2869	Maybe I'd better get involved.
+2873	2875	Hey, pal, you're disturbing us.
+2876	2878	$100 says I can beat either of you.
+2881	2883	Take a hike, asshole.
+2886	2888	Here's my hundred.
+2889	2891	I get to take her home if I win.
+2891	2893	Says who?
+2893	2895	Do I look like a hooker?
+2895	2898	Tawny, it's an easy hundred. Let's get it over with.
+2902	2906	-Watch out. He eats chocolate bars. -So I noticed.
+2953	2955	Are you a bodybuilder?
+2955	2959	I build bodies. I take them apart and put them back together.
+2959	2961	Well, you sure took Marky apart.
+2961	2964	-Let's go to my place. -Your place?
+2965	2968	Well, okay. I live with my mother anyway.
+2968	2971	But could we go to a few more bars first?
+2972	2974	-It's too early to quit. -Sure, a few more bars.
+2999	3001	Great place.
+3009	3011	There's no elevator.
+3012	3014	-I can't make it. -There's an elevator.
+3017	3019	There, don't you feel elevated?
+3068	3070	Are you a magician?
+3074	3076	Yes.
+3102	3105	So, are we going to breakfast or not?
+3108	3109	It's your turn.
+3110	3112	-To do what? -To go through.
+3112	3114	No. I don't want to try that.
+3114	3116	It'll make you feel sexy.
+3116	3118	I already feel sexy.
+3120	3121	How about...
+3122	3124	...a nice...
+3124	3127	-...alcohol rub? -Don't do that! It hurts.
+3129	3131	Sorry, hon.
+3132	3134	I didn't know you had the skin of a princess.
+3135	3137	-You're sensitive. -Okay!
+3137	3139	That's it. You're going to like it.
+3139	3142	-I don't want to. I'm afraid. -Don't be afraid.
+3142	3143	No.
+3144	3146	Be afraid. Be very afraid.
+3147	3149	Who's this?
+3150	3152	Oh, I live with my mother too.
+3152	3153	Mom, meet Tawny.
+3155	3157	I gotta go.
+3162	3164	Thanks for a wonderful time.
+3173	3176	Why'd you scare her off? Jealous?
+3178	3179	You're changing.
+3180	3182	Everything about you is changing.
+3183	3184	You look bad.
+3185	3186	You smell bad.
+3187	3188	I've never bathed much.
+3191	3195	Those weird hairs that grew out of your back, I took them to a lab.
+3196	3197	I had them analyzed.
+3201	3202	The hairs?
+3203	3205	The hairs?
+3206	3209	Oh, yeah. That's a strange thing to do.
+3209	3211	Not as strange as the results.
+3212	3214	The guy had trouble identifying them.
+3215	3218	He finally concluded that they were definitely not human.
+3221	3223	-Very good. -Not human, Seth.
+3224	3227	In fact, very likely insect hairs.
+3228	3230	That's ridiculous.
+3230	3231	Look.
+3232	3234	There's more. Look at your face.
+3235	3236	Something happened.
+3237	3239	You need help. You must be sick.
+3239	3241	You're jealous!
+3244	3246	I've become free and you can't stand it.
+3247	3249	You'll do anything to bring me down.
+3250	3253	Does this look like a sick man to you?
+3255	3256	No, stop it!
+3257	3258	Can a sick man do that?
+3259	3262	The deal is off. I don't need you anymore.
+3263	3265	Seth, please, wait. Seth!
+3265	3267	Don't come back.
+3268	3269	Oh, God....
+3397	3398	Oh, no.
+3400	3402	What's happening to me? Am I dying?
+3405	3407	Is this how it starts? Am I dying?
+3410	3412	Brundle, Seth.
+3413	3415	Give me a disc.
+3416	3418	I need the first teleportation: S. Brundle.
+3453	3454	Run sequence.
+3563	3564	Hello.
+3568	3569	Seth.
+3571	3575	Seth, I've been trying to reach you. Where are you?
+3575	3577	I've been afrad to see you.
+3577	3581	Now I'm afrad not to.
+3582	3583	Are you at home?
+3583	3585	You don't know how rght you were.
+3585	3587	I've gotten...
+3587	3590	...much, much worse.
+3590	3592	Please come see me.
+3593	3594	Please come now.
+3618	3619	Seth?
+3620	3621	I'm here.
+3621	3622	Stop!
+3629	3631	You were right.
+3631	3633	I'm diseased...
+3634	3636	...and it might be contagious somehow.
+3637	3639	I wouldn't want to infect you.
+3642	3644	And it's been accelerating.
+3644	3648	It's unrelenting. Every day there are changes.
+3648	3651	Every time I look in the mirror, I'm someone different, repulsive.
+3652	3653	What happened?
+3653	3657	I know an old lady who swallowed a fly Perhaps she'll de
+3657	3660	Seth, please.
+3661	3665	I was not pure. The teleporter insists on purity. I was not pure.
+3667	3669	I don't know what you mean.
+3671	3673	A fly...
+3674	3678	...got into the transmitter pod with me that first time when I was alone.
+3682	3684	The computer got confused.
+3685	3688	There weren't supposed to be two genetic patterns.
+3688	3691	And it decided to splice us together.
+3692	3694	It mated us, me and the fly.
+3694	3696	We hadn't been properly introduced.
+3700	3703	My teleporter turned into a gene splicer.
+3704	3707	A very good one. I'm not Seth Brundle anymore.
+3709	3712	I'm the offspring of Brundle and a housefly.
+3714	3717	Oh, God. Oh, God, Seth!
+3717	3719	You look so pretty.
+3719	3721	What will happen?
+3722	3725	I think it's showing itself as a bizarre form of cancer.
+3725	3730	General cellular chaos and revolution. I'm just gonna disintegrate.
+3730	3732	In a novel way, no doubt.
+3733	3734	Then I'll die.
+3735	3738	-And then it will be over. -No, I don't accept that.
+3739	3742	There must be something we can do, someone to go to, tests to be done.
+3742	3747	No! I won't be just another tumorous bore...
+3747	3751	...talking about his hair falling out and his lost lymph nodes.
+3752	3754	What do you want me to do? Why did you call me?
+3771	3772	That's disgusting.
+3782	3783	My...
+3784	3786	...ear. No!
+3787	3788	I'm scared.
+3792	3793	Help me.
+3794	3797	Please, please, help me.
+3805	3809	-Don't go back to him. -That's it?
+3809	3810	That's your advice?
+3810	3813	It could be contagious. It could become an epidemic.
+3813	3815	I have to go back to him.
+3815	3819	-I don't believe this. -lf you saw him, Stathis....
+3819	3822	If you saw how scared and angry and desperate he is--
+3823	3825	I'm sure Typhoid Mary was nice when you saw her socially.
+3826	3828	-I do not want-- -I don't care!
+3828	3830	All right, fine, okay.
+3843	3845	Do I have permission to claim your body when this is over?
+3846	3848	Oh, God....
+3851	3853	Look, how about this?
+3855	3858	You say, if only I saw him.
+3859	3860	Show me.
+3861	3862	Tape him. Show me.
+3863	3865	Let me think about it.
+3867	3868	I'll come up with something.
+3894	3896	Seth?
+3902	3903	Seth?
+3903	3905	No, no, no. Up here.
+3909	3910	I've gotten pretty good at it.
+3911	3913	Yeah, it's almost second nature.
+3914	3916	I stopped biting my nails.
+3921	3923	Look at this. What's this?
+3924	3926	I don't know.
+3929	3933	I seem to be stricken by a disease with a purpose, wouldn't you say?
+3937	3940	Maybe not such a bad disease after all.
+3941	3942	I can't stay.
+3943	3944	No, no, no.
+3945	3947	Why not? Why can't you?
+3947	3949	I can't take it. It's too much.
+3949	3952	Why? The disease has revealed its purpose.
+3952	3956	We don't have to worry about contagion. I know what it wants.
+3957	3958	What does it want?
+3958	3962	It wants to turn me into something else.
+3963	3966	Most people would give anything to be something else.
+3966	3967	Turned into what?
+3967	3971	What do you think, a fly? Am I becoming a 185-pound fly?
+3972	3975	No, I'm becoming something that never existed.
+3975	3977	I'm becoming "Brundlefly."
+3979	3980	That's worth a Nobel Prize.
+3982	3983	Here.
+3984	3987	I want to give a demonstration...
+3987	3992	...that I think you'll want to record for posterity.
+3993	3995	I think you must chronicle...
+3995	3998	...the life and times of Brundlefly, don't you?
+3999	4003	At the very least, it should make a fabulous children's book.
+4003	4004	You seem tired.
+4006	4007	You got me there?
+4013	4015	How does Brundlefly eat?
+4015	4018	He found out the hard way that he eats like a fly eats.
+4018	4020	His teeth are now useless.
+4020	4023	Although he can chew up solid food, he can't digest it.
+4024	4027	Solid food hurts. So, like a fly...
+4027	4031	...Brundlefly breaks down solds wth a corrosve enzyme...
+4032	4034	...playfully called "vomt drop. "
+4034	4037	He regurgtates on hs food. It lquefes.
+4037	4039	And then he suckst back up.
+4040	4042	Ready for a demonstraton, kds?
+4043	4044	Heret goes.
+4046	4048	Oh, my God.
+4049	4051	My God!
+4058	4059	Hey, Ronnie.
+4063	4064	Ronnie!
+4072	4073	What is it?
+4080	4081	I'm pregnant.
+4083	4084	Oh, no.
+4087	4089	Oh, no.
+4091	4093	I'm pregnant with Seth's baby.
+4102	4103	What do you want to do?
+4106	4107	I don't know.
+4110	4112	I just....
+4112	4113	I don't know.
+4140	4143	-Stathis, I'm scared. -It's going to be all right, Ronnie.
+4144	4146	It's going to be fine.
+4146	4148	I don't think I want to lose it.
+4148	4152	-Why am I losing it? -It's better this way. You'll see.
+4153	4155	It's the best thing that could happen.
+4156	4161	She's expelling it. It's coming out. I don't think we'll have to go in.
+4161	4164	It's gonna be easy. Don't worry, honey.
+4165	4168	No. Please, no.
+4168	4170	It'll be over soon. Here we go.
+4174	4177	A little suction here. A little suction.
+4180	4182	Hold on a minute. There's more in there.
+4182	4186	-There's more? -Yeah, I mean a lot more. Okay.
+4187	4189	You're gonna have to help us. Push.
+4189	4191	Push it out. Come on, push.
+4192	4195	-That's it. Come on, push. -No, wait.
+4195	4198	Give us a push. You can push it out. Come on.
+4198	4200	No, wait, wait. No.
+4200	4201	You can do it.
+4202	4203	Wait.
+4205	4206	No!
+4275	4278	I want a disc. Give me preliminary integration.
+4278	4280	I want a dsc. Gve me prelmnaryntegraton.
+4323	4327	You're relics. Yes, you are. You can't deny it.
+4327	4332	Vestigial, archaeological, redundant.
+4335	4337	Artifacts of a bygone era.
+4337	4340	Of historical interest only.
+4361	4363	You've missed some good moments.
+4364	4366	Is that why you're here? To catch up?
+4371	4372	I wanted....
+4378	4380	My teeth have begun to fall out.
+4382	4386	The medicine cabinet's now the Brundle Museum of Natural History.
+4386	4387	Want to see it?
+4388	4390	No.
+4392	4393	Then...
+4395	4396	...what do you want?
+4399	4402	I came to tell you....
+4407	4409	I just....
+4411	4413	I wanted to see you...
+4414	4415	...before....
+4424	4425	You have to leave now...
+4427	4428	...and never come back here.
+4433	4437	Have you heard of insect politics?
+4439	4440	Neither have I.
+4444	4448	Insects don't have politics.
+4449	4451	They're very brutal.
+4453	4454	No compassion.
+4454	4456	No compromise.
+4458	4460	We can't trust the insect.
+4462	4464	I'd like to become...
+4465	4468	...the first insect politician.
+4470	4471	I'd like to...
+4474	4475	...but I'm afraid....
+4476	4479	I don't know what you're trying to say.
+4480	4481	I'm saying....
+4489	4492	I'm saying I'm an insect...
+4493	4497	...who dreamt he was a man and loved it.
+4497	4499	But now the dream is over...
+4499	4501	...and the insect is awake.
+4502	4504	No, Seth.
+4505	4507	I'm saying...
+4510	4512	...I'll hurt you if you stay.
+4550	4552	Let's go. Let's do it now.
+4552	4555	Now? Wait. Wait a minute. What did he say?
+4555	4558	I couldn't tell him. Let's go, damn it.
+4558	4561	No! I think we should wait a few days.
+4561	4563	You're not in the right state of mind.
+4563	4566	I want it out of my body now. You should have seen him.
+4566	4568	There could be anything in here, in me, in my body.
+4569	4572	I don't know if I can arrange it now, tonight.
+4572	4573	Why do we have to--?
+4573	4578	I don't want it. Understand? I don't want it in my body!
+4611	4613	Well, okay, what's the story?
+4616	4618	She's pregnant and she wants an abortion.
+4619	4620	In the middle of the night?
+4622	4624	We have good reason to think that...
+4625	4628	...this child will be deformed.
+4628	4631	-Yeah, but in the middle of the night? -Look, Brent.
+4633	4634	Please.
+4637	4638	Is it your child?
+4639	4639	No.
+4643	4647	It's the child of a man who is deformed.
+4648	4650	I don't mean to interfere...
+4650	4654	...but I detect a certain uncertainty here.
+4654	4657	There are tests we can do to determine whether--
+4657	4661	I don't want tests. Tests can't guarantee anything.
+4661	4664	The baby could start off normal, then become....
+4667	4669	I want an abortion.
+4672	4674	I'll do it myself if I have to.
+4675	4679	If you'll slip into that, we'll be on our way in no time.
+4704	4705	No.
+4709	4711	Wait, Seth, no.
+4735	4738	Why did you want to kill Brundle?
+4739	4744	The baby might be all that's left of the real me.
+4746	4748	Please don't kill me.
+4749	4752	I can't have it. I'm afraid.
+4753	4756	Please, have the baby.
+4757	4758	I can't.
+4759	4760	I can't.
+4762	4764	Too bad.
+4768	4770	Too bad.
+4906	4907	Jesus!
+4973	4976	No, don't. Don't, please.
+4977	4978	Please.
+5000	5001	Help me.
+5002	5003	Help me be human.
+5005	5006	How?
+5014	5015	Well....
+5018	5020	I go there...
+5022	5024	...and you go there.
+5028	5030	We come apart...
+5031	5035	...and then we come together there.
+5038	5040	You, me and the baby.
+5042	5043	Together.
+5059	5060	No....
+5061	5063	We'll be the ultimate family.
+5064	5068	A family of three, joined together in one body.
+5069	5071	More human than I am alone.
+5073	5075	No, no!
+5096	5098	Oh, God. Please!
+5110	5113	Oh, God, please!
+5321	5323	No, I can't.
+5325	5326	I can't.

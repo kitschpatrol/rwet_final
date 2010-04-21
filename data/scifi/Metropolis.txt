@@ -1,0 +1,746 @@
+1	4	Downloaded From www.AllSubs.org
+84	91	Every epoch dreams its successor. - Jules Michelet
+137	139	Presently, we...
+139	142	...as a nation, are about to touch the heavens!
+143	146	I am thrilled to have the honour of announcing...
+147	151	...the culmination of mankind's history of scientific achievement!
+153	155	Our power will shine across the world...
+155	157	...across the universe!
+158	162	May you be eternal! Our Ziggurat!
+260	264	Robots are so insolent these days! It's just outrageous!
+264	268	Our economic future is inconceivable without robots.
+268	272	The problem is friction between robot and human labourers.
+272	275	I heard that an enemy nation has a new weapon.
+275	281	That is why Metropolis needs a stronger, more charismatic leader!
+288	290	Congratulations! Congratulations!
+296	300	Congratulations on the Ziggurat. Will you be going into politics?
+300	302	What a thing to say!
+302	306	If President Boon remains healthy and in office...
+306	308	...our nation is secure.
+308	310	There's nothing left for me to do.
+311	314	Any requests for Duke Red to go into politics?
+314	316	Don't egg him on like that.
+316	320	I'm no match for Duke Red in popularity.
+323	327	There are rumours that the Ziggurat is actually a military facility.
+328	331	May we have a word from the mayor about this?
+332	335	Address that to Skunk, the minister of state!
+336	338	Hurray for Ziggurat!
+339	341	Hurray for Metropolis!
+344	348	Say, Uncle, what is the "Ziggurat"?
+348	350	I'm not sure.
+352	354	Hey, look at that!
+354	355	What is that?
+362	365	Marduk. The sign of the Marduk.
+377	378	Damn!
+380	381	Hey! He's over there!
+416	420	Oh, I see, I see...
+439	442	It's supposed to be ready tonight, Dr. Laughton!
+442	443	Well...
+444	447	I provided you with money and top facilities...
+447	450	...just as you asked! You've failed me!
+450	454	Please allow a little more time. I'm almost finished.
+455	457	I'm tired of the same old excuse!
+458	459	I'll see it tomorrow night.
+460	464	But it's not a place worth your trouble to visit.
+464	466	And besides, it's a mess.
+466	469	I'll see you tomorrow night!
+483	484	It's Rock.
+484	487	There was commotion in the plaza.
+488	490	Yes, a robot was out of his zone.
+491	494	No excuses. You're in charge of security.
+494	495	Yes, Father.
+496	500	You idiot! I am not your father!
+500	504	I took you in, you were an orphan from the last war!
+504	506	- You assume too much! - Yes, sir.
+509	511	An accident has occurred in District 45!
+511	514	All cars, please rush to the site immediately!
+514	517	Car 3 here.
+517	521	Pursuing a robot believed to be outside his zone.
+521	525	All cars in the airport area, take precautions and standby.
+528	530	HQ, HQ! Car 8 here...
+530	534	I am Shunsaku Ban, a private detective from Japan.
+534	539	Where's Superintendent Notarlin? I have a letter from the police commissioner.
+547	548	I see.
+549	552	So this Dr. Laughton is...
+552	554	...hiding here in Metropolis?
+556	558	Is that what you're saying?
+566	567	Exactly.
+567	572	I heard from an organ smuggler who's had dealings with him.
+572	576	And the international defender of human rights...
+577	581	...has issued arrests for the use of live animals in experiments...
+581	583	...and trafficking organs.
+583	587	I would very much like your cooperation on this.
+587	590	This is my first time here...
+590	593	...and I have no idea which way is what.
+595	597	Of course, I'd like to help you...
+597	599	...but the celebration for the Ziggurat...
+600	602	...will continue for another week.
+602	605	It's very busy amidst all this hubbub...
+605	608	...and we're short-handed as it is.
+608	611	I have no one to help you on such a case.
+611	615	I have no men, but if you'd be fine with a robot...?
+615	616	A robot?!
+618	621	Yes, a robot. It's a very excellent robot.
+621	624	It has no authority to arrest humans...
+625	629	...but it can investigate, so I think it'd be useful to you.
+633	637	I don't have to return it with a full tank, do I?
+639	642	No, it needs refuelling every five years.
+648	651	Soon they won't need humans anymore.
+652	654	I'm Kenichi. Nice to meet you.
+655	661	I am Model 803-D, RP, DM, 497-3C.
+663	667	- Nice to meet you. - Nice to meet you.
+676	679	Soon, with the completion of the Ziggurat...
+679	682	... we'll lead in industry and culture.
+682	686	From this day forward...
+687	690	... it can be said that this is the birth...
+690	693	... of a 1000-year nation.
+694	697	I'm thrilled to have the honour of announcing...
+697	702	... the culmination of mankind's scientific achievement!
+703	705	Our power will shine across the world...
+705	707	... across the universe!
+708	712	May you be eternal! Our Ziggurat!
+718	724	Now, where should we begin? 803...
+725	729	D, RP, DM, 497-3C.
+730	732	Don't you have an easier name?
+733	736	We are not given names like people.
+736	739	Some fear it would infringe on human rights.
+744	745	Oh, I know!
+745	748	Starting now, your name is Pero! Pero!
+748	751	That sounds like he's a dog.
+751	754	Yeah, it's the name of a dog I had.
+755	756	He was a fine dog!
+757	761	In my opinion, I believe there is no place...
+761	764	...for a criminal to hide in Metropolis.
+764	768	What are you talking about? I heard he's here.
+768	772	If Dr. Laughton is in hiding, he is unmistakably in Zone 1.
+773	774	Zone 1?
+774	778	- It's the underground world. - That's your detective's intuition?
+778	783	Just a matter of probability calculated by my electronic brain.
+806	809	We robots each have our own occupation.
+809	812	Our activities are restricted accordingly.
+812	814	That robot...
+814	818	...was prohibited from any activity at surface level.
+826	831	But who are those people dressed like fascists?
+831	833	The Marduk Party.
+834	836	They handle robots outside their zone.
+836	840	Traffic between levels is limited according to rank.
+841	846	People and robots not marked for certain zones may come and go.
+846	849	- So that robot we saw was marked? - Correct.
+849	851	There's a gate for every block, but...
+852	855	...smugglers guide others through passageways...
+855	857	...so incidents happen.
+857	860	Such a system shouldn't exist anyway!
+864	869	Well, well, I suppose light creates shadows.
+869	873	This level is still not that dangerous...
+873	875	...but depending on the location...
+876	879	...there are areas without police, so be careful.
+879	881	That's all right.
+881	884	We didn't come here to be tourists.
+896	898	Hurry up and come home!
+898	900	Where in the world did that child go?!
+901	904	I was outside for a while, so I wasn't at home.
+905	906	Where'd you go?
+907	909	I've come back with some stories.
+942	944	Duke Red.
+944	946	Let's see it, Laughton.
+964	966	She looks perfect.
+966	968	You're sure she's not finished?
+969	974	Well, her fuel system is not stable, so...
+975	978	Did you use organic machinery?
+978	982	Not at all! I would never use illegal means!
+982	987	Organic machinery is a quick fix, but it doesn't last long.
+987	990	I've created her from mechanical parts.
+990	994	She is the greatest work of my life!
+999	1002	- When will she be complete? - Within the week.
+1002	1004	If I activate her too soon...
+1004	1008	...she could overload and might even blow up.
+1012	1014	My little Tima.
+1054	1057	I'm not going to hand you over to anyone.
+1057	1059	I'll put the finishing touches on now...
+1060	1064	...and you're gonna escape with me.
+1080	1081	I know you. You're Rock!
+1082	1083	How'd you find my lab?
+1083	1087	Guarding Father is one of my many duties.
+1087	1088	Father?
+1089	1092	I don't believe Duke Red has any children.
+1092	1094	Wasn't the child he lost a girl?
+1095	1096	Shut up!
+1096	1098	I know what you're up to.
+1099	1103	You're trying to trick Father with your technology!
+1105	1109	A mere puppet like this could never touch Father's heart.
+1111	1112	What are you gonna do?
+1112	1116	I am working on Tima at Duke Red's request!
+1117	1120	He has plans for her. The last piece for the Ziggurat.
+1120	1124	He will place her on the throne!
+1124	1125	That's a lie!
+1125	1129	Father would never have a mere robot rule the Ziggurat!
+1130	1133	Then ask him yourself.
+1134	1137	You'll shoot her? Knowing that "your" father...
+1137	1139	...is waiting for his little angel?
+1144	1148	I won't allow Father to be seduced by a robot!
+1154	1157	No. Don't. Don't do it!
+1165	1168	Oh, God, give me courage!
+1169	1174	Give me the strength to guard my father from the evil machines!
+1232	1234	A fire! There's a fire!
+1235	1238	There's a fire! A fire! A fire!
+1264	1266	A Marduk set the fire!
+1267	1269	I saw him with my own eyes! I saw him!
+1270	1273	Even the Marduks are trying to kill us!
+1275	1277	Atlas is right!
+1277	1280	They give us as much thought as they do trash!
+1281	1284	Take up your weapons! Now is the time to fight!
+1285	1287	Everyone, please calm down.
+1287	1290	Work will soon extinguish the fire.
+1291	1294	It's dangerous here! Please evacuate!
+1294	1296	This is no place for a robot!
+1298	1301	We lost our jobs because of you bastards!
+1301	1305	- And now you're giving orders! - This is no time to be fighting!
+1310	1312	What the...?!
+1357	1360	Hey, Atlas, why'd the Marduks set fire to a factory?
+1360	1364	An old guy was always coming and going from there.
+1365	1367	Is this the guy?
+1368	1371	- Yeah, that's him. - Thanks!
+1381	1383	There's someone inside!
+1385	1386	Oh, my goodness!
+1386	1388	- You go around back. - Okay!
+1388	1390	Hurry!
+1446	1450	- Hang in there, Laughton! - My notebook.
+1452	1454	You want that notebook?!
+1455	1456	Laughton!
+1494	1496	Laughton's laboratory burned down?!
+1497	1498	It was an experiment.
+1499	1501	The fire burned very quickly.
+1501	1502	Everything was lost.
+1502	1506	- What happened to Dr. Laughton? - They found his remains.
+1508	1510	And not much else.
+1511	1514	He was a criminal with many warrants...
+1514	1517	...so perhaps it was a dangerous experiment?
+1519	1523	What's wrong? Did you have business with Dr. Laughton?
+1523	1524	Shut up! Leave me!
+1525	1526	Let me be alone.
+1626	1628	Where am I?
+1639	1643	Man, that was a terrible fire!
+1643	1646	Terrible? I don't care about a factory.
+1646	1648	We got rid of something we didn't need.
+1652	1656	Something's wrong. No matter how much the place burned...
+1656	1660	... that robot was quality. Its skeleton should've remained.
+1663	1665	Who is that man?
+1665	1666	Rock of the Marduk Party.
+1668	1671	He's young, but he's influential.
+1671	1674	They say that Duke Red trusts him.
+1674	1675	Duke Red?
+1676	1679	How is Duke Red connected with the Marduk?
+1679	1681	Duke Red is the founder of the Party.
+1682	1684	They appear to be unrelated...
+1684	1687	...but their funding comes from Duke Red.
+1689	1694	It's a secret, but they do it so openly, everyone knows about it.
+1699	1702	Where does this sewage go?
+1703	1706	It dumps into Zone 2 up ahead...
+1706	1709	...and goes to a disposal plant in Zone 3.
+1709	1714	If they got that far, they won't be alive. They'd be treated as waste.
+1715	1719	A normal human will always return to the site of the crime.
+1720	1723	People had some good sayings back then.
+1723	1727	Let us carefully look for Mr. Kenichi again.
+1745	1747	Who in the world are you?
+1748	1750	Who in the world are you?
+1750	1754	No. Listen, you refer to yourself as "I."
+1756	1758	Who am "l"?
+1760	1761	"I am."
+1761	1763	You are I.
+1763	1765	No, listen.
+1766	1770	You are "I." I am "you." Wait...
+1772	1773	Who am I?
+1774	1777	Right, right! And I'm Kenichi.
+1778	1779	Kenichi.
+1780	1781	Kenichi.
+1783	1787	Well, just take your time remembering everything.
+1787	1792	Your name, your home and your mother and father.
+1792	1795	Home. Father.
+1808	1813	Thanks. I know that's food, but it's already gone bad, so...
+1814	1815	Food.
+1815	1819	Yeah, you put it in your mouth like this and...
+1819	1821	That's how you eat it...
+1821	1826	Oh, no! If you eat that stuff, you'll get sick!
+1826	1829	No? I can't eat? Sick.
+1846	1847	Disengaging dome.
+1847	1850	Time to radiation position: 40, 39, 38, 37...
+1850	1854	The power system, cooling system, control system are all normal.
+1887	1889	Final stage. Taking aim.
+1890	1892	Magnetic aim, deviation error, 0.25.
+1901	1904	Radiation mechanism, fixing final position.
+1906	1908	Radiation time is three minutes.
+1909	1913	It won't affect humans, but robots working on the surface...
+1913	1915	...may malfunction.
+1916	1918	We will record everything.
+1919	1921	The data will be invaluable.
+1922	1924	Start at Level 3.
+1925	1927	Yes, sir.
+1936	1938	Commencing irradiation.
+1964	1967	3 seconds. 2 seconds. 1 second.
+1969	1972	Omotenium fusion! Sunspot region expanding!
+1972	1975	- Fraunhofer from the spectrum. - Positive 2 levels.
+1976	1979	35,000. 40,000. 45,000...
+1979	1982	Sunspot flare at point R, 49 observed.
+1983	1986	Sunspot density at 800 and still rising.
+1986	1990	There is a disturbance in Earth's ionization. No communication.
+2004	2006	What are you doing?
+2059	2061	Level 3 radiation complete.
+2061	2064	Main control, discharging system.
+2066	2068	It's a success!
+2071	2074	The world will be in an uproar over this.
+2074	2078	After all, you have the power of God in the palm of your hand.
+2082	2087	If Dr. Laughton finished Tima, she now could have taken the throne.
+2093	2096	It's a new weapon, sir. It creates sunspots...
+2096	2099	...that bathes the Earth in radiation.
+2100	2103	How dare they develop such a thing on their own?
+2104	2106	It changes the balance of power!
+2106	2109	Even with the Marduks hunting the robots...
+2109	2112	...the rebels are screaming for human rights...
+2112	2116	...instigating citizens by proclaiming change in Robot Laws.
+2116	2120	Even civilian groups in favour of robots...
+2120	2123	...are protesting...
+2123	2125	...causing minor skirmishes.
+2128	2130	This is a golden opportunity!
+2130	2134	We could put the law for treason to good use.
+2138	2141	Do we have control of the military?
+2141	2143	Some units are aligned with Duke Red...
+2144	2146	...but it should be fine.
+2151	2156	All right, leak some stories. Stir up anti-Duke Red sentiment...
+2156	2159	...then we will have him arrested.
+2161	2166	If you meet any resistance, mobilize the military!
+2175	2178	I believe that he's the one who killed Laughton!
+2178	2182	I don't understand the connection between him and Laughton.
+2182	2187	What in the world was Laughton experimenting on, I wonder?
+2188	2190	What do you intend to do?
+2191	2196	Now that Laughton's been killed, I should report why he was killed.
+2196	2199	It's the least I can do for my client.
+2217	2220	- Where does he think he's going? - Zone 2, I believe.
+2221	2225	There are more underground levels? What is up with this city?
+2226	2230	Zone 2 is the area for Metropolis' power plants.
+2230	2235	Zone 3, below that, is the sewage disposal plant.
+2235	2237	Sewage disposal plant?
+2237	2239	Actually, he was investigating...
+2239	2242	...the water drainage behind the rundown factory.
+2245	2248	I'll go to headquarters and get permission to go below.
+2249	2252	I'll also submit a search request for Kenichi.
+2252	2253	Okay.
+2254	2256	You bastard! You're too old for this!
+2256	2257	How much?
+2260	2263	Well, sure, if there was a strange guy down here, we'd know.
+2263	2266	The administration keeps a sharp watch.
+2268	2271	- How often are you down here? - Twice a week.
+2272	2274	For robot inspection and repairs.
+2283	2286	These are the Albert II models.
+2286	2289	They're the last group to get inspected.
+2308	2310	Is anyone here?
+2317	2322	No, this place always smells horrible!
+2323	2326	We humans wouldn't last a day down here.
+2339	2340	What's the matter?
+2340	2343	- Someone's here. - You must be joking!
+2344	2346	Hey, what are you doing there?
+2347	2349	This area is off-limits!
+2350	2352	- They're alive after all. - What?
+2352	2353	Hey!
+2355	2357	What are you doing?
+2357	2360	It doesn't matter. He's a criminal.
+2360	2362	Tell us where the exit is!
+2365	2369	Stop it! You might hit the equipment!
+2378	2380	Are you okay?
+2385	2386	Damn!
+2396	2399	What'll we do? He's trying to kill us.
+2420	2421	Damn.
+2435	2437	Move! Move! You're in the way!
+2438	2440	Move, you blockhead!
+2442	2443	Move!
+2475	2477	Is it okay now?
+2500	2501	This place looks okay.
+2515	2516	What's wrong?
+2522	2526	I see. Fifi can't go through the gate.
+2527	2530	Thanks for everything, Fifi. Let's meet again.
+2532	2533	Move!
+2536	2538	It's him!
+2569	2572	Carrying firearms is prohibited! Your I.D.?
+2573	2575	I'm Rock of the Marduk!
+2578	2581	Demonstrations during holidays are prohibited.
+2581	2583	Please break up immediately.
+2584	2588	I repeat, demonstrations during holidays are prohibited.
+2589	2590	Please break up.
+2590	2593	- Wait, Kenichi! - Stop!
+2595	2596	Pay up!
+2629	2632	- I got some good stuff. - No, I don't want it.
+2633	2634	Just try some out!
+2728	2732	- They're nowhere! - Impossible! Search the entire area!
+2764	2766	That means everywhere!
+2795	2798	What's going on, Atlas? There was no signal!
+2798	2802	We're cancelling today. Those Marduk bastards are everywhere.
+2803	2807	- Have we been ratted out? - No, it's because of them.
+2808	2810	Rock is looking for them.
+2811	2812	Hurry up, you two!
+2812	2816	We saw them during the factory fire, didn't we?
+2829	2832	What are your names? Where are you from?
+2832	2833	My name is Kenichi.
+2834	2837	- I came from Japan with the detect... - What?
+2837	2842	My uncle is a reporter, I'm helping him.
+2844	2848	- Why is Rock after you? - I don't know.
+2848	2850	He just started shooting.
+2850	2853	Are we supposed to believe you? We should kill them.
+2854	2855	Cool it!
+2856	2858	We're not a gang.
+2858	2860	You heard him, he's a reporter.
+2861	2865	He can let the world know about Metropolis.
+2866	2868	That's more than we could have hoped for.
+2868	2870	It's a time of life or death.
+2870	2874	We have no time to get our pictures taken!
+2876	2879	But we've got the right to choose how we die.
+2879	2882	I want to die as a revolutionary.
+2921	2922	Hey, look at that.
+2923	2924	She's like an angel.
+2925	2927	Yeah, she's an angel.
+2935	2939	Around here, two or three families live to a room.
+2940	2942	No schools and no work, either.
+2943	2945	We live on rations...
+2945	2948	...but with the celebration for the Ziggurat...
+2948	2950	...we don't even get those.
+2952	2954	What does "Ziggurat" mean?
+2956	2959	It's the name of a tower built in Babylon.
+2959	2964	The most famous was the Tower of Babel. You know what happened to that.
+2965	2968	The king of Babylon angered the gods and it was destroyed.
+2970	2974	But history repeats itself. Duke Red will suffer the same fate.
+2974	2978	And this time, we'll destroy it, not the gods.
+3003	3005	Did I make a mistake?
+3010	3012	No, that's not it.
+3013	3016	Just that your hair has grown.
+3017	3020	What kind of hair do you like?
+3020	3023	What? I like it the way it is.
+3025	3028	Come on, let's practice.
+3028	3030	- Okay, next is... - Tima.
+3030	3031	What? What's that?
+3032	3035	Tima. My name.
+3038	3041	I see! You remembered!
+3041	3045	That's great, Tima. Soon, you'll remember more stuff.
+3047	3050	Thank you, Kenichi.
+3057	3062	Oh, I'd forgotten. I borrowed these from Atlas.
+3068	3069	Kenichi.
+3076	3077	I see.
+3077	3080	It would be good if the military helps us.
+3080	3083	Most of the underground is in favour of action...
+3083	3087	...but everyone's hesitant. We're unsure of our strength.
+3087	3092	The last celebration for the Ziggurat begins with the Marduk parade.
+3092	3097	That's when we'll crush them, and I want you to storm the Ziggurat.
+3098	3101	The president will make an announcement...
+3102	3104	...that Duke Red's been arrested for treason.
+3105	3107	We'll invoke the right of command...
+3107	3110	...and place the military under President Boon.
+3112	3117	With that, Metropolis will have a normal government.
+3117	3123	And we will be able to participate as a new political party.
+3127	3129	Of course, my dear Atlas.
+3130	3133	The president will welcome you all.
+3135	3137	Damn, I can't believe myself!
+3137	3140	I'd finally found him and look what happens.
+3141	3145	I am sorry for not being more helpful.
+3145	3147	What are you saying?
+3147	3152	You've been helpful in this place, I don't know east from west.
+3152	3154	Don't worry about Kenichi.
+3154	3158	He might not look like much but... What?
+3160	3162	Stop that!
+3167	3170	What a terrible thing to do!
+3188	3191	Be...
+3191	3195	... careful.
+3196	3200	Hide robots. Hide... Coup d'état.
+3210	3211	"Be careful.
+3211	3215	Robots, hide. There will be a coup d'état."
+3215	3218	What?! A coup d'état?
+3268	3270	Watch closely, Kenichi.
+3270	3274	I want you to tell the world everything!
+3291	3294	Oops! I'm out of breath.
+3301	3303	We better get out of here, Pero.
+3303	3306	This isn't something we can handle.
+3306	3308	Please request backup from HQ.
+3308	3311	Wait! I can't just go and leave you here.
+3312	3316	The first thing that crowd will do is go after robots like you.
+3318	3320	I'll be fine.
+3320	3323	- What?! - More importantly...
+3323	3327	...I must ensure your safety, since you're not from here.
+3327	3329	All right!
+3329	3333	Try not to provoke them until I get back! Got it, Pero?!
+3348	3349	What's this?
+3349	3352	You think you can guard this gate alone?
+3352	3356	Demonstrations are prohibited during the celebration.
+3356	3357	Please disperse.
+3358	3359	Can't do that.
+3359	3361	It's almost time.
+3361	3366	Why do humans use violence to resolve issues?
+3368	3370	Good question.
+3370	3374	It's true that's a source of our troubles: Emotions.
+3375	3379	We have no choice but to make progress in spite of them.
+3379	3383	Because without them we are nothing.
+3406	3409	It is almost time for the rally.
+3410	3413	When should we announce it?
+3413	3416	Things will be settled by 1 p.m.
+3416	3419	Perhaps around 3:00 or 3:30.
+3425	3427	What is it, minister?
+3429	3431	Can't sit still?
+3431	3433	Actually, Mr. President, yes.
+3433	3435	I have been given an unpleasant task...
+3440	3442	What is this?!
+3442	3446	Bastards! You're working for Duke Red now!
+3448	3452	I am a fair man. To history, that is.
+3455	3459	Wait, I can explain...
+3510	3511	Why?
+3515	3518	Why do robots always get hurt by humans?
+3525	3527	They call this a revolution?
+3533	3535	The coup d'état has failed.
+3535	3540	Metropolis is under martial law in the name of Duke Red.
+3540	3545	Disarm yourselves and surrender immediately.
+3545	3548	I repeat. The coup d'état has failed.
+3548	3553	Metropolis is under martial law in the name of Duke Red.
+3553	3557	Disarm yourselves and surrender immediately.
+3561	3563	Kenichi!
+3563	3566	Hey, Kenichi!
+3572	3573	Uncle!
+3577	3580	So, you're safe! I'm glad, I'm glad.
+3581	3583	Are you okay too, Uncle?
+3583	3585	Oh, this is nothing.
+3587	3588	Who's that?
+3592	3593	Her name is Tima.
+3594	3598	She's from the lab, and we've been on the run together.
+3598	3601	Tima, let me introduce you. This is my uncle.
+3602	3603	Uncle.
+3615	3616	Atlas!
+3619	3623	We were set up...
+3631	3633	So, we meet at last.
+3634	3636	Don't move!
+3643	3644	Don't resist.
+3645	3649	If you hand her over, you might be able to go home alive.
+3650	3654	Shut up! You won't keep your word! I know what you're up to.
+3665	3667	Why, you little...
+3668	3670	Tima, get the gun!
+3693	3696	Now, let's have it back.
+3696	3699	Don't give it to him!
+3713	3715	You sure you can shoot me?
+3716	3718	I'm a human, you know!
+3722	3723	Rock!
+3739	3742	What is going on here?
+3743	3745	What have you been doing?
+3761	3764	You survived?
+3766	3768	What is the meaning of this?!
+3769	3772	You said Tima burned in the fire!
+3772	3774	You said there were no survivors!
+3775	3778	And how do you know about Tima?!
+3778	3780	Answer me!
+3787	3788	With all due respect...
+3789	3793	...you must be the one to sit on the throne.
+3794	3796	We can't trust the Ziggurat to a robot!
+3796	3799	- We cannot hand the future of... - You fool!
+3801	3802	A robot.
+3803	3806	Did you think you could manipulate me?!
+3807	3811	I trusted you. You took advantage of me! On your feet!
+3823	3825	Never show your face around me again!
+3830	3833	So, you hired Laughton.
+3833	3835	What of it?
+3835	3839	I came from Japan to arrest him.
+3839	3842	My name is Shunsaku Ban...
+3854	3856	Now, get in.
+3857	3860	- What about Kenichi? - When our business is done.
+3893	3896	I need to see Superintendent Notarlin.
+3896	3900	He's been reassigned. There's no replacement yet.
+3901	3902	To tell the truth...
+3902	3907	...the Marduk Party took my nephew by mistake...
+3907	3910	Then make a statement through your embassy!
+3932	3937	Presently, we as a nation, are about to touch the heavens!
+3938	3941	I'm thrilled to have the honour of announcing...
+3941	3945	... the culmination of mankind's scientific achievement!
+3946	3948	Our power will shine across the world.
+3957	3958	Sake.
+3959	3961	Make it a hot one.
+3962	3965	We have hot whiskey or gin, Mr. Japanese Detective.
+3966	3968	Hot whiskey in a 3l4- pint bottle.
+3969	3970	Coming right up.
+3970	3974	Idiots, idiots, idiots! To hell with the Ziggurat!
+3974	3978	The Marduks are dog shit! Those shits!
+3978	3980	Here you go.
+3984	3986	Hey, that was Rock.
+3987	3989	I heard he left the party.
+3989	3991	Never thought he'd be around here.
+3992	3994	- Thanks. - Take care.
+4035	4039	A man asked me to give this to you.
+4040	4044	I refused. He asked me without telling Duke Red or anyone.
+4044	4048	I told him I couldn't, but he said his name was Kenichi.
+4048	4050	I just couldn't help myself.
+4054	4059	"Dear Tima, I'm sorry I can't deliver this in person...
+4060	4062	...but I can't move around.
+4062	4065	I'll be leaving the country in a little while...
+4066	4069	...so I want to see you just one more time."
+4100	4102	What is going on, Enmy?
+4103	4106	Really, please send her back right away.
+4106	4110	If anyone finds out about this, I'll be in trouble!
+4110	4113	Don't worry. This won't take long.
+4116	4117	I didn't want to do this.
+4118	4119	I'll be going now.
+4122	4124	You tricked me.
+4125	4129	This is the only way I could talk to you.
+4130	4131	Where is Kenichi?
+4132	4134	Please, let me see him.
+4138	4139	Uncanny.
+4142	4146	Talking to you, it's hard to believe you're a robot.
+4153	4157	There was good reason why Father chose Laughton.
+4157	4160	What are you talking about?
+4160	4162	You being a robot.
+4162	4166	You're wrong. I'm not a robot.
+4166	4169	Then what are you? A human?
+4173	4174	Then who's your father?
+4175	4176	Where is he?
+4176	4179	My father is... Kenichi.
+4198	4202	And they think a puppet like you could sit on a throne?!
+4209	4214	If you don't know anything about Kenichi, then I'm going back now.
+4224	4226	What? Tima is gone?
+4226	4227	Yes, sir!
+4236	4238	You idiot! Watch it!
+4286	4290	Let's see the secret behind this superhuman...
+4290	4292	...that Father wants so much.
+4323	4325	Hang in there, Laughton!
+4326	4328	My notebook.
+4330	4332	You want that notebook?!
+4410	4415	Don't worry. I punished Rock a little.
+4416	4417	What about?
+4418	4420	I'm looking for Kenichi too.
+4420	4423	And that's where I'm going to need your help.
+4423	4424	Need?
+4424	4429	I think he's being held inside the Ziggurat.
+4429	4431	If you connect to the Ziggurat's network...
+4432	4435	...you can find out where he is.
+4435	4437	I can do that?
+4457	4459	Now try putting out your hand.
+4526	4527	How was it?
+4527	4531	I know where Kenichi is. Inside the tower.
+4531	4534	You did it! So he's there, just as I thought!
+4537	4539	What did I just do?
+4540	4543	Oh, that's right. You don't know what you are.
+4544	4545	What do you mean?
+4552	4555	Yes, sir. As soon as we find out.
+4556	4557	Duke Red?
+4559	4560	How is it?
+4561	4563	We'll be able to trace the signal.
+4563	4567	The power was so intense, the line splitter was burnt out.
+4570	4572	- Found it! - Where is it?
+4573	4576	Zone 1, South Block 17, "Hotel Coconuts."
+4581	4585	Please tell me. Am I a human? Or am I...?
+4586	4591	It's true, you're different from the other robots.
+4592	4593	No, I'm a human.
+4595	4597	A human, just like Kenichi.
+4597	4600	Right. Of course you are.
+4601	4604	In any case, we have to rescue Kenichi first.
+4635	4637	We've been searching for you.
+4650	4652	Where were you going?
+4652	4655	Explain or I'll have you arrested for kidnapping!
+4655	4658	You're asking the wrong man!
+4658	4661	Ask your son if you want the real answer.
+4663	4665	I don't know what you're up to...
+4666	4669	...but I believe you were definitely working...
+4669	4671	...with Dr. Laughton.
+4671	4675	And his murder was probably instigated by you or Rock.
+4676	4678	To keep your secret.
+4684	4687	- Take him in. - Yes, sir!
+4688	4690	Come this way!
+4718	4721	This is the throne that was built just for you.
+4722	4725	Soon, you will rule the entire world from here.
+4726	4727	I will?
+4728	4729	Why?
+4729	4734	Because that is your destiny. You will soon understand.
+4754	4756	Hang in there, Kenichi!
+4756	4759	It's me! Look at me! Hey, Kenichi!
+4764	4767	You bastards! What did you do to him?
+4767	4768	He's not dying.
+4768	4773	We just quieted him down a little.
+4777	4781	I'll submit a protest through my embassy regarding this!
+4781	4783	- It'll be a diplomatic crisis! - Really?
+4784	4788	I had no idea you were such an important figure.
+4788	4791	You have my most sincere apology.
+4791	4796	But no matter where you are from, everyone will bow before Tima.
+4796	4800	- She's growing the way we estimated. - Make Kenichi the way he was.
+4802	4805	What's wrong, Tima? Who cares about a little boy?
+4806	4809	You possess the power to rule the entire world.
+4811	4813	What is my power?
+4813	4815	Am I a human?
+4817	4820	Or am I a machine just like those poor robots?
+4821	4823	What a silly thing to say!
+4824	4827	How could you be like those pieces of junk?
+4827	4831	Then, I am human, same as Kenichi?
+4832	4836	What are you saying?! You are no mere human!
+4836	4840	You are not inferior, ruled by emotions...
+4840	4842	...confused by love and morality.
+4845	4847	You are a superhuman!
+4848	4850	Then, I really am.
+4851	4854	I have brought Miss Tima's new clothes.
+4855	4857	It is true, you are a robot.
+4858	4862	You are the greatest, most sublime creation ever!
+4868	4869	That is a lie.
+4869	4872	I have the love and emotions that you say are human.
+4872	4875	You are still not complete.
+4875	4880	You just need time. The fluctuations of your power...
+4880	4883	...are taking the shape of love and emotions.
+4884	4887	One day, you'll merge with that superhuman throne...
+4887	4891	...and become a computer weapon that'll rule the world!
+4892	4896	Then all your emotions and memories will be completely erased!
+4897	4900	And where did you get that information?
+4901	4903	I'm still a detective.
+4909	4913	It's time to change, Miss Tima.
+4915	4918	Father, please open your eyes.
+4925	4927	How in the...?
+4928	4931	What is the meaning of this?
+4934	4937	You must sit on that throne.
+4939	4942	You are the only one that can be our leader, Father.
+4946	4947	What are you...?
+4987	4989	So you're awake.
+5013	5016	I am an artificial human.
+5016	5019	A machine created to ruin the world.
+5021	5024	No, not to ruin! To rebuild!
+5024	5025	Stop it!
+5088	5092	- Who threw the switch? - It just started by itself!
+5092	5097	- Switch to manual and cut the power! - Controls are not responding!
+5113	5115	Dr. Ponkotz!
+5116	5120	- What's the meaning of this alarm? - The generator is out of control!
+5121	5123	- What's going on, doctor? - Well...
+5165	5168	Stop this, Tima! You'll destroy the Ziggurat!
+5171	5174	This is punishment for fooling with robots.
+5178	5181	Tima's memories are merging with our database.
+5181	5183	She's beginning to go crazy.
+5184	5188	And God's wrath descended on the Tower of Babel.
+5190	5194	Don't! She's not Tima anymore!
+5204	5206	All right, I understand.
+5206	5209	If we don't stop the omotenium generator...
+5209	5212	...we will be done for!
+5218	5222	In one hour, the probability of mankind's survival will be 30°/°.
+5224	5227	I control the Ziggurat, and all Earth weaponry...
+5227	5230	...will be activated within 30 minutes.
+5230	5231	Oh, my goodness!
+5232	5233	Attack targets...
+5233	5237	...are the world's major cities and 7586 facilities.
+5240	5245	Destruction of humans through irradiation and weapons will occur...
+5246	5249	...in 17 hours and 27 minutes.
+5251	5254	Did you hear that, Duke Red?
+5256	5260	Your superhuman is saying it has no need for humans!
+5262	5264	Don't go!
+5412	5415	Doctor, we've lost control...
+5417	5418	How can this be?
+5438	5442	Get out! Robots aren't allowed in here!
+5448	5450	Tima, it's me!
+5460	5463	Kenichi! It's Kenichi!
+5499	5501	Stop!
+5503	5505	I won't...
+5506	5509	...let pieces of junk like you...
+5510	5512	...kill my father!
+5683	5685	Tima, grab my hand!
+5687	5691	- I'm Kenichi. Who in the world are you? - Who in the world are you?
+5691	5696	No. Listen, you refer to yourself as "I."
+5699	5701	Hurry, grab my hand!
+5701	5704	Who am I?
+5817	5820	Where did you find this?
+5835	5837	Fifi?
+5839	5840	Fifi!
+5881	5883	Uncle!
+5900	5901	Uncle?
+5903	5906	I'd like to stay for a while longer.
+5977	5979	Who am I?
+6246	6247	Subtitles by Filou ;-)
+3	13	Downloaded From www.AllSubs.org

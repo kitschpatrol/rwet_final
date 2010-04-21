@@ -1,0 +1,458 @@
+2	4	Aah! Oohh!
+9	11	Be back one hour after sundown.
+11	12	No later.
+15	17	Ohh.
+17	19	Bye.
+21	22	Aah!
+22	24	Gertie, come here. Come on.
+37	38	Trick or treat.
+44	46	Trick or treat.
+63	64	Runff.
+83	85	Home. Home.
+115	118	Home. Home. Home.
+118	120	Home. Home. Home.
+189	192	Be back one hour after sunset.
+209	210	No later.
+253	256	i'll try as fast as I can, Mike.
+264	266	You got to cover me.
+282	284	Well, come on. Help me.
+309	311	We'll be waiting for you, Elliott.
+318	320	So come back for sure.
+332	334	It's too bumpy.
+340	343	We'll have to walk from here!
+348	350	E.T.!
+386	389	Not so high! Not so high!
+389	389	Ah ha!
+389	391	Don't crash, please.
+392	394	Ugh!
+394	398	I really can't believe you did this.
+398	399	Your father,s going to hear about this one.
+399	399	Mexico.
+400	402	Where's Elliot?
+403	405	i'm asking you a question.
+405	408	Anyways, why would Elliot go to the forest?
+408	409	Why would he do such a thing?
+409	411	Get in the car.
+411	413	Get in the car now.
+415	416	Runff.
+420	422	Oh.
+420	470	E.T., it's working.
+422	423	It's working!
+424	426	Home.
+426	427	You did it!
+428	430	It's working!
+430	433	Home.
+433	436	E.T., it's working!
+436	439	We have to go now, E.T.
+439	440	We're so late already.
+441	443	We have to go home now, E.T.
+443	492	Hmm?
+444	447	You should give them some time.
+465	467	Ouch.
+475	477	You could be happy here.
+477	480	I could take care of you.
+480	481	I wouldn't let anybody hurt you.
+481	483	We could grow up together, E.T.
+484	486	Home.
+486	488	Home.
+488	492	Home.
+492	492	Home.
+492	493	E.T.?
+493	494	E.T.?
+494	498	Uh, how was he dressed when last seen?
+498	499	He was dressed as a...
+499	499	hunchback.
+504	505	Hunchback.
+520	522	Is there anything to indicate
+547	549	that he might have run away?
+549	553	Any family problems or recent arguments?
+553	556	Um...my husband and I just separated recently,
+556	558	and it hasn't been easy on the children, but...
+558	559	But run away, I...
+558	608	My father,s in Mexico.
+559	561	Where would he have gone?
+561	561	Elliott.
+561	564	Oh, Elliott!
+564	570	Don't ever do this again, Elliott!
+570	618	Oh, my. You,re so hot.
+572	575	Run up and draw him a bath. Quick, Gert.
+575	577	Sorry I yelled at you.
+577	579	Um...thanks very much for all your trouble.
+579	629	Is he here?
+581	583	You,ve got to find him, Mike.
+583	584	Where is he?
+586	588	In the forest.
+588	590	At the bald spot.
+590	591	You,ve got to find him.
+592	593	E.T.!
+594	596	E.T.!
+596	596	E.T.!
+605	606	No!
+606	607	No!
+614	617	Mom, would you come with me?
+617	619	What is it?
+619	621	Mary, just come with me.
+621	621	Michael, what?
+621	623	Mom, remember the goblin?
+623	625	What are you talking about?
+627	630	Swear the most excellent promise you can make.
+629	631	That's terrific.
+630	679	Michael.
+631	634	Mom.
+634	637	We're sick.
+637	639	I think we're dying.
+639	689	Michael.
+639	641	Mom, it's O.K.
+643	643	Downstairs.
+659	662	He's not going to hurt you, Mom.
+701	703	He won't hurt you.
+709	711	Michael, get her downstairs.
+733	736	It's the man from the moon.
+736	737	The man from the moon!
+749	752	You don't know him! You don't know him!
+767	769	We can't leave him alone.
+769	770	Aah!
+839	841	This is my home!
+904	906	Home.
+908	909	Home.
+910	912	Check the north perimeter.
+912	915	Check the north perimeter.
+915	917	Is it fine? Tent O.K.?
+917	918	The collagen unit'
+918	921	report to the blue level immediately.
+922	925	Regulate oxygen level on countdown.
+925	927	Does he sleep at night?
+927	929	I don't know.
+929	931	What's the matter with Elliott?
+931	934	Have you noticed any surface sweating?
+934	983	No.
+934	936	Has it lost hair?
+936	938	He never had any hair.
+938	940	Are the children all right?
+941	943	Did it build or write anything?
+943	944	Uh, no.
+944	946	You say it has the ability
+946	947	to manipulate its own environment?
+948	951	He's smart. He communicates through Elliott.
+951	953	Elliott thinks its thoughts.
+953	954	No. Elliott...
+954	957	Elliott feels his feelings.
+958	960	We've identified his primary carrier protein.
+960	961	It's definitely notAlbumin.
+965	968	The testing shows no deficits on FNF and HTS testing.
+968	970	EEG analysis shows complete coherence and synchronization
+970	972	of brain wave activity between both subjects.
+972	973	There's no response at 20 per kilo.
+983	985	Let's move to hypertonic saline.
+990	992	Cut five per kilo.
+996	999	You have no right to do this.
+999	1000	You,re scaring him.
+1001	1003	You,re scaring him!
+1003	1004	Respiratory rate:12.
+1006	1009	Good air entry but decreased tidal volume on the boy.
+1009	1013	Put him on 0-2-5 liters and draw blood in 20 minutes.
+1013	1063	Get a hypothermia blanket and some warming rags.
+1014	1017	Leave him alone.
+1017	1020	Leave him alone. I can take care of him.
+1020	1021	Set me up for a 2-D cardiac echo.
+1021	1022	Skin is cool and diaphoretic.
+1022	1024	He's not refusing at all. He needs anatropic support.
+1024	1025	Ph is down to 7.03.
+1025	1029	He's got a metabolic acidosis. It could be sepsis.
+1030	1031	We've drawn two sets of blood cultures.
+1033	1036	He needs broad spectrum coverage.
+1037	1037	Elliott.
+1070	1072	i've been to the forest.
+1092	1094	He shouldn't talk now.
+1111	1114	Well, he has to talk now, Major.
+1114	1117	what does it do?
+1114	1164	Elliott' that machine...
+1117	1118	The communicator?
+1121	1124	Is it still working?
+1124	1125	It's doing something.
+1207	1208	What?
+1228	1231	I really shouldn't tell.
+1244	1246	He came to me.
+1297	1300	He came to me.
+1394	1397	Elliott' he came to me, too.
+1429	1431	i've been wishing for this
+1441	1443	since I was 10 years old.
+1443	1445	I don't want him to die.
+1447	1451	What can we do that we're not already doing?
+1451	1454	He needs to go home.
+1475	1478	He's calling his people...
+1508	1513	and I don't know where they are.
+1513	1513	He needs to go home.
+1514	1516	Elliott, I don't think
+1520	1523	that he was left here intentionally.
+1523	1526	But his being here is a miracle, Elliott.
+1533	1536	It's a miracle'
+1536	1539	and you did the best that anybody could do.
+1539	1540	i'm glad he met you first.
+1540	1589	He's got DNA.
+1540	1541	Incredible.
+1544	1546	He's got DNA!
+1548	1550	He doesn't have four nucleotides like we do.
+1551	1553	He has six. Desynchronization of the two brain waves.
+1557	1558	E.T.!
+1560	1562	The boy,s condition is stabilizing.
+1562	1564	Blood pressure's back up.
+1565	1567	E.T.
+1574	1576	Elliott.
+1576	1577	He's speaking. He's talking.
+1579	1582	E.T...
+1582	1585	stay with me.
+1585	1635	Please.
+1586	1589	Stay...
+1589	1591	Together.
+1603	1607	i'll be right here.
+1607	1609	i'll be right here.
+1609	1611	Stay...
+1611	1615	Elliott.
+1615	1665	Stay.
+1615	1618	Stay.
+1619	1623	Stay.
+1623	1625	Stay.
+1626	1628	The creature's pressure is bottoming out.
+1628	1630	How,s the boy?
+1630	1633	He's converting back to normal sinus rhythm.
+1633	1634	They,re separating.
+1636	1638	Boy and creature are separating.
+1638	1640	What does that mean?
+1640	1643	The boy,s coming back. We're losing E.T.
+1643	1647	E.T., answer me, please.
+1647	1647	Please.
+1648	1650	Just relax.
+1653	1654	No!
+1657	1659	E.T., don't go!
+1659	1660	No blood pressure.
+1662	1664	He's got no pulse or respiration.
+1664	1667	We can't get a pulse or blood pressure.
+1667	1668	It doesn't look like he's breathing.
+1673	1674	Leave him alone!
+1674	1676	You,re killing him!
+1676	1678	Leave him alone!
+1678	1680	Let's move it!
+1680	1682	Get the boy out.
+1683	1686	Stop it! You,re killing him!
+1686	1687	You,re killing him!
+1688	1690	Let's go. Move it out.
+1690	1692	You,re killing him! You,re killing him!
+1693	1696	You,re killing him! He came to me!
+1698	1700	Let's ventilate him. Any pulses?
+1700	1701	Move it.
+1702	1704	He came to me!
+1705	1706	Let's start.
+1707	1708	60 per minute.
+1713	1714	Minimal breath sounds.
+1718	1721	Calm down. Calm down. Calm...
+1721	1771	Let's try some bertyllium.
+1722	1724	Can we have some bertyllium?
+1726	1727	Getting a pulse?
+1727	1728	5 milligrams.
+1728	1730	Compressed air. Compressed air,s fine.
+1730	1732	Thank you.
+1732	1733	All IV push.
+1733	1735	He's not ventilating.
+1741	1744	His pupils are fixed and dilated.
+1750	1751	More drugs.
+1753	1754	Quiet.
+1756	1758	Defibrillate him.
+1758	1759	Losing him. We're losing him.
+1782	1784	Let's go.
+1787	1789	Everybody stand clear.
+1789	1790	Clear.
+1795	1796	We're losing him.
+1798	1800	One more time.
+1807	1808	Quiet!
+1810	1811	It's still defib.
+1812	1813	O.K., let's go.
+1814	1816	Let's go. Let's go.
+1829	1831	Elliott?
+1832	1833	Mom.
+1834	1836	He needs calcium in his body.
+1836	1837	Let's continue CPR, please.
+1838	1840	Would you people stand back?
+1841	1843	Something,s happening.
+1845	1847	Ooh, they,re going to die.
+1848	1849	Shut up, Greg.
+1852	1854	Something is definitely happening.
+1855	1856	Anybody have any ideas?
+1856	1858	EEG,s flat. EKG,s flat.
+1862	1864	O.K., i'm going to call it.
+1864	1864	I think he's dead.
+1865	1867	No. I don't know.
+1869	1871	What time do you have?
+1872	1873	36.
+1875	1878	15 hours, 36 minutes.
+1879	1881	O.K.
+1882	1884	Let's pack him in ice.
+1885	1886	Let's leave.
+1888	1891	Is he dead, mama?
+1891	1892	I think so, sweetheart.
+1892	1896	Can we wish for him to come back?
+1896	1897	Yeah.
+1900	1902	I wish.
+1902	1903	I wish, too.
+1905	1907	Come on, Gert.
+1907	1910	We'll wait for Elliott in the front room.
+1910	1912	Cardiac arrest was terminated
+1914	1917	at 1500 hours and 36 minutes.
+1917	1920	He received intravenous lidocaine'
+1920	1920	intravenous epinephrine
+1921	1922	on a lidocaine drip,
+1922	1925	2.7% sodium-chloride solution'
+1926	1928	catheters from the ""a', line.
+1932	1933	And the intravenous line
+1934	1937	should be sent for culture.
+1939	1941	He was monitored with a...
+1945	1949	EEG and an EKG,
+1949	1950	he was defibrillated.
+1952	1955	They,re going to have to take him away now.
+1955	1956	They,lljust cut him all up.
+1956	1959	Would you like to spend some time alone with him?
+1959	1963	Could we all step out for a minute, please?
+1963	1965	Look at what they,ve done to you.
+1965	1966	i'm so sorry.
+1967	1969	You must be dead...
+1969	1970	because...
+1972	1975	I don't know how to feel.
+1975	1978	I can't feel anything anymore.
+1978	1980	You,ve gone someplace else now.
+1980	1982	i'll believe in you all my life.
+1982	1982	Every day.
+1982	1983	E.T...
+1984	1985	I love you.
+1986	1988	Oh, my God.
+1989	1992	E.T. phone home.
+1992	1993	Ah ha!
+1993	1995	Phone home.
+1996	1997	Phone home.
+1999	2001	Does this mean they,re coming?
+2001	2003	Yes.
+2003	2004	Aah!
+2004	2006	E.T. phone home.
+2007	2008	E.T. phone home.
+2008	2009	Stay.
+2010	2012	Shut up.
+2012	2012	Phone.
+2015	2016	Phone home.
+2017	2018	Quiet!
+2021	2022	Phone! Phone!
+2025	2027	Would you shut up?
+2027	2028	Phone home.
+2030	2031	E.T. phone home.
+2033	2034	E.T. phone home.
+2034	2036	E.T. phone home.
+2036	2037	Phone home.
+2038	2039	Phone home.
+2039	2041	Phone home.
+2042	2043	Elliott.
+2044	2045	Elliott.
+2046	2047	Elliott.
+2048	2049	Stay.
+2052	2053	Stay.
+2066	2067	Elliott.
+2073	2075	Elliott' why don't you come with me?
+2075	2125	No.
+2078	2081	Why don't you come with me?
+2081	2081	No.
+2081	2082	No.
+2083	2084	No. No.
+2085	2086	It's all right.
+2086	2087	No!
+2088	2090	Would you like the flower?
+2090	2091	Aah!
+2091	2092	He's alive!
+2092	2094	He's alive!
+2094	2095	All right!
+2095	2097	It's glowing right here.
+2097	2099	Are they gone, mama?
+2099	2101	Who,s gone, honey?
+2103	2104	The boys.
+2107	2108	What boys?
+2109	2113	i'm supposed to give you this note when they,re gone.
+2113	2113	Give it to me now, Gertie.
+2113	2113	Oh, my God.
+2113	2116	Give me a hand with this.
+2116	2165	Aah!
+2118	2119	Where's your mask?
+2121	2121	Back here.
+2122	2124	Well, get it on!
+2124	2125	i'm trying!
+2126	2129	Hey, who are you?
+2129	2131	i'm driving.
+2132	2133	Open the door, son.
+2134	2136	Somebody,s here. What do I do?
+2142	2145	What are you waiting for? Let's go!
+2145	2145	Let's get out of here!
+2145	2148	i've never driven forward before!
+2149	2150	Aah!
+2152	2153	Get the bikes.
+2155	2157	Meet us at the playground
+2158	2161	at the top of the hill.
+2161	2164	We'll all die' and i'll never get my license.
+2164	2165	Where's the playground?
+2168	2170	It's near the preschool!
+2171	2172	Where's that?
+2173	2174	I don't know streets.
+2175	2177	Mom always drives me.
+2178	2180	Son of a bitch.
+2180	2181	Where are you going?
+2184	2185	To the spaceship.
+2187	2188	Shh!
+2188	2192	To the spaceship to the moon.
+2192	2193	Quiet!
+2197	2198	Oh, my God.
+2199	2201	Stop the van!
+2201	2202	Don't pull it off!.
+2203	2204	That did it!
+2204	2207	O.K. He's a man from outer space'
+2207	2208	and we're taking him to his spaceship.
+2208	2209	Well, can't he just beam up?
+2209	2210	This is reality, Greg.
+2210	2210	Keep her back!
+2238	2239	No!
+2240	2241	Hold her back!
+2255	2258	No! No! No! No!
+2281	2283	Where are they?
+2283	2285	There's nobody here.
+2287	2289	Runff runff.
+2289	2291	Where are we going?
+2291	2292	To the forest!
+2296	2298	Follow me!
+2298	2300	We got them at the hill.
+2300	2300	This is Unit 302.
+2300	2301	We've cut the kids off
+2302	2305	at the bottom of the hill.
+2307	2308	Runff.
+2310	2311	Let's split up.
+2316	2317	O.K.!
+2318	2320	Hang on!
+2320	2320	Runff.
+2321	2324	We made it!
+2324	2324	Whoa!
+2325	2327	Runff.
+2327	2327	Whoa!
+2328	2329	Whoa!
+2329	2332	Tell me when it's over!
+2332	2334	Home.
+2334	2335	Stop the car, Mama!
+2338	2339	They,re over there!
+2340	2342	They,re over there!
+2342	2347	I just wanted to say goodbye.
+2345	2347	Be good.
+2347	2395	He doesn't know goodbye.
+2347	2349	Yes.
+2350	2351	Ahh...
+2352	2353	Thank...
+2353	2355	you.
+2366	2368	You,re welcome.
+2368	2370	Come.
+2371	2372	Stay.
+2383	2384	Ahh...
+2385	2386	Ouch.
+2387	2389	Ouch.
+2389	2393	i'll be...
+2428	2430	right here.
+2430	2431	Bye.

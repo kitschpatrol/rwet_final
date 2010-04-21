@@ -1,0 +1,829 @@
+1	4	Downloaded From www.AllSubs.org
+53	55	All right, give me room. Here we go.
+68	71	- What's this game called? - This is Lightcycle.
+87	89	Damn!
+104	108	You're getting brutal, Sark. Brutal and needlessly sadistic.
+108	110	Thank you, Master Control.
+110	113	We've kidnapped some military programmes.
+113	117	I can arrange more lethal matches. Interested?
+117	121	Sure. I'd love to go up against one of those guys.
+121	125	Make a nice break from those accounting cream puffs you keep sending me.
+125	130	- What branch of the service? - Strategic Air Command.
+130	132	- Nice. - Hey, look.
+133	135	This is all a mistake.
+135	138	I'm just a compound interest programme.
+138	141	I work at a savings and loan. I can't play these video games.
+141	144	Sure, you can, pal. You look like a natural athlete if I ever saw one.
+144	149	Who, me? Are you kidding? No. I run out to check on T-bill rates, I get out of breath.
+149	152	Hey, look, you guys are gonna make my user, Mr Henderson, very angry.
+152	156	- He's a full branch manager. - Great. Another religious nut.
+160	163	I'd say "welcome, friend," but not here, not like this.
+163	165	I don't even know what I'm doin' here.
+169	172	- Do you believe in the users? - Yeah, sure.
+172	174	I- If I don't have a user, then who wrote me?
+174	177	That's what you're doin' here. Master Control Programme's been snapping up...
+177	179	all us programmes who believe.
+179	182	If he thinks you're useful, he takes over all your functions so he gets bigger...
+183	185	and if he can't use you, he sends you down here to the game grid...
+185	187	to get the bits blasted out of you.
+187	190	- What's your name? - Crom.
+190	192	I'm Ram.
+192	194	They'll train you for the games, but-
+196	199	I hope you make it.
+199	204	Hey, uh, what's been goin' on in the other sectors? You know, I've been stuck here for 200 microcycles.
+206	209	It's murder out there. You can't even travel around your own microcircuits...
+209	213	without permission from Master Control Programme.
+213	217	I mean, sending me down here to play games. Who does he calculate he is?
+224	227	Okay, CLU, tonight we check everything in the right-hand column.
+230	232	Come on. Come on.
+232	234	Where are you? There you are. CLU.
+234	236	- Yes, sir? - CLU, we don't have much time left to find that file.
+236	238	- This is top priority. - Yes, sir. I know, sir.
+238	241	This isn't just correcting my bank statement or phone bill problem again. This is a must.
+241	243	- I understand, sir. Yes, sir. - Now, I wrote you.
+243	245	- I taught you everything I know about the system. - Thank you, sir.
+245	248	- But I'm not sure- - No "buts," CLU. That's for users.
+248	251	Now you're the best programme that's ever been written. You're dogged and relentless, remember?
+251	254	- Let me at 'em. - That's the spirit. Now keep that tank rolling.
+254	256	I'll try to cover you from this end. Go.
+275	277	Do you think we can merge with this memory, Bit?
+279	280	Yes.
+287	291	Now Flynn is saying to look over in here, but I don't see what we're looking for.
+298	301	Come on, you scuzzy data. Be in there. Come on.
+308	311	Uh-oh. We've got company.
+316	318	I don't believe this.
+319	323	- A Recognizer. - Yes! Yes! Yes! Yes! Yes!
+332	335	There's too many of them!
+355	358	What is this?
+373	376	Damn it!
+379	381	- Get out of here! - Yes! Yes! Yes! Yes! Yes! Yes!
+395	397	Busted again.
+397	400	God. And that was my best programme.
+410	414	Got a pirate programme here. Says his name's CLU.
+414	418	- What did he pull? - Came into the system with a stolen password...
+418	421	and we caught him tryin' to raid a high-clearance memory.
+421	424	No. I must've gotten in there by mistake. I was-
+425	427	- Who programmed you? - I was simp-
+436	440	You're in trouble, programme. Make it easy on yourself. Who's your user?
+440	443	Forget it, mister high-and-mighty Master Control!
+445	447	You aren't makin' me talk.
+450	451	Suit yourself.
+464	466	Get me Dillinger.
+517	520	- Good evening, Mr Dillinger. - Thank you, Peter. You can go now.
+520	521	Yes, sir.
+542	545	Hello, Mr Dillinger. Thanks for coming back early.
+545	547	No problem, Master C.
+548	551	If you've seen one consumer electronic show, you've seen them all. What's up?
+551	555	It's your friend, the boy detective. He's nosing around again.
+555	557	- Flynn? - Yes.
+557	560	- It felt like Flynn. - He's still looking for that old file.
+560	563	- Can't you just appropriate it? - I have.
+563	566	I put in my memory which he hasn't located.
+566	569	- But he might find it. - I'm afraid so.
+569	571	I spotted him this time and kept him out...
+571	574	but he's getting trickier all the time.
+574	579	I think we should shut down all access until we find that Flynn, just to be safe.
+579	583	There's a 68.71 percent chance you're right.
+583	585	- Cute. - End of line.
+612	617	"Your access suspended"? "Report to Dillinger"? Come on.
+617	620	Hey, Alan? You think I could have some of your popcorn?
+620	622	Yeah, sure.
+624	626	I don't know what he'd want to see me for. What did I do?
+651	654	- Sit down. - Thank you.
+659	663	We've had to shut down all Group 7 personnel, just briefly. Security.
+663	665	Someone with that access has been tampering.
+665	667	Well, I hope you don't think it's me.
+667	671	I don't even balance my cheque book on down time. I have an abacus at home for that.
+671	674	Oh, yes, I'm sure. You understand. It should only be a couple of days.
+674	678	- Uh, what's the project you're working on? - Well, it's called Tron.
+678	680	It's a security programme itself, actually.
+680	684	It monitors all contacts between our system and other systems.
+684	687	Finds anything going on that's not scheduled, it shuts it down.
+688	691	- I sent you a memo on it. - Part of the Master Control Programme?
+691	694	No. No, it'll, it'll run independently...
+695	697	and watchdog the MCP as well.
+697	700	Sounds good.
+700	703	Well, we should have you running again in a couple of days, I hope.
+705	707	Okay.
+708	710	Thanks.
+723	728	- Oh, boy. - Mr Dillinger, I'm so very disappointed in you.
+728	730	- I'm sorry. - I can't afford...
+730	733	to have an independent programmer monitoring me.
+733	736	Do you realize how many outside systems I've gone into?
+737	739	How many programmes I've appropriated?
+739	741	Come on.
+743	745	Couple of days!
+794	798	- Well, here goes nothing. - Yeah. Interesting. Interesting.
+798	801	Did you hear what you just said? "Here goes nothing. "
+801	803	- Well, what I meant was- - Actually, what we propose to do...
+803	806	is to change something into nothing and back again.
+806	808	Then you might just as well have said, "Here goes something.
+809	811	- Here comes nothing. " - Right. Mm-hmm.
+811	813	Let's clear the area.
+817	819	Yeah. This is the big moment.
+819	821	I know this'll nail down your theory that the scanned UV beam...
+822	824	is superior to that single-pulse exposure.
+824	827	Laser activity will exist in 30 seconds.
+828	830	Put on your goggles.
+830	833	- Leave the bay in your own- - Let's see if we got the green light.
+833	835	Is the target area sufficiently shielded?
+835	839	- Yeah, they verified the safety- - Twenty seconds.
+839	841	- Looks good. - Let her rip.
+841	843	- Fifteen seconds. - This is what we've been waiting for.
+845	848	Ten seconds.
+850	852	Five seconds.
+868	870	Perfect.
+870	873	- Congratulations. - Beautiful.
+873	875	- Hi, Alan. - You two having fun...
+875	877	- disintegrating things down here? - Not disintegrating, Alan.
+877	880	Digitizing. A laser dismantles...
+880	883	the molecular structure of the object...
+883	886	and, uh, molecules remain suspended in the laser beam.
+886	888	Then when the computer plays out the model...
+888	891	like the molecules fall back into place and voila!
+891	894	Mmm. Great. Can it send me to Hawaii?
+894	897	Yeah, but you gotta purchase your programme 30 days in advance.
+899	901	How's it goin' upstairs?
+901	903	Frustrating.
+903	905	I had Tron almost ready when Dillinger cut everyone...
+906	908	with Group 7 access out of the system.
+908	911	I tell you, ever since he got that Master Control Programme...
+911	914	system's got more bugs than a bait store.
+914	919	Gotta expect some static. After all, computers are just machines. They can't think.
+919	922	Some programmes'll be thinking soon.
+922	924	Won't that be grand? Computers and the programmes...
+924	926	will start thinking and the people will stop.
+927	928	Well, I'm gonna stay around, put some data through.
+928	931	- See you tomorrow. - Bye.
+931	935	- Come on. - Did you say Group 7 access?
+935	938	Yeah. What a hassle.
+938	941	- I was all set. - Did he say why?
+941	944	It was somethin' about tamperin'.
+944	946	Tampering. You know, Flynn has been thinking about...
+946	949	breaking into the system ever since Dillinger canned him...
+949	952	and he had Group 7 access.
+952	954	Flynn had access to you too.
+958	960	- I wanna go to Flynn's place. - What for?
+960	963	- To warn him. - Of what?
+963	965	That Dillinger's on to him.
+965	969	I don't see why I have to do that guy any favours.
+969	972	- I don't know what you ever saw in that guy anyway. - I loved him for his brains.
+975	978	Oh, don't put any change in the metre. We're gonna need it for the games.
+983	985	Boy, haven't been here in a long time.
+994	996	Hey, Barbie, up here!
+1007	1009	- Let's go. - Don't pull me.
+1018	1020	- Where is he? - I don't know. Somewhere in here...
+1020	1023	lost in one of his games.
+1023	1028	- Use the buzz bomb, ya idiot. - Excuse me, champ.
+1028	1032	- Uh, do you know where Flynn is? - Yeah, he's over there on his machine.
+1032	1034	Hey, look. Somebody's got 300,000.
+1039	1042	He's really on a roll tonight. One more Reco to go, and he ties it...
+1042	1044	but then another Reco, and he gets the world's record.
+1050	1053	You better watch out for this machine, man.
+1053	1055	- Yes! - All right!
+1057	1059	The all-time record comin' up!
+1063	1065	- This is it. - It's all over.
+1068	1070	All right!
+1074	1076	Way to go!
+1076	1079	- Hey, Flynn, how'd you do it? - It is all in the wrist.
+1080	1083	999,000 points!
+1086	1088	Hey, good to see you guys. Nothing classes up the joint...
+1088	1090	like a clean-cut young couple.
+1090	1092	We gotta talk.
+1092	1094	Well, you can't even hear yourself think in here. Come on.
+1097	1101	- Hey, come on, Flynn. - All right, I'll be with you- I'll be down in a minute.
+1101	1104	So, how's the world of serious science, huh? Go on up.
+1104	1106	Go up. Make yourselves at home. Be right up.
+1110	1113	Geez. The best programmer ENCOM ever saw...
+1113	1118	and he winds up playin' space cowboy in some back room.
+1118	1120	Okay, let me handle this.
+1120	1121	Go right ahead.
+1123	1125	Have you been sneaking into the ENCOM system?
+1126	1129	God. You never were much for small talk, were ya?
+1132	1133	- She still leave her clothes all over the floor? - Flynn.
+1134	1137	- No. Well, I-I mean not that often. - Alan!
+1137	1140	Now you can see why all of his friends are 14 years old.
+1140	1143	Touché. Touché.
+1151	1153	I have been doing a little hacking in here, as a matter of fact.
+1153	1156	- You did break in. - Tried to.
+1156	1159	Can't seem to quite get the connection with that sucker though.
+1159	1163	- Now if I had a direct terminal- - Flynn, are you embezzling?
+1165	1169	Embezzling is such an ugly word, Mr Bradley.
+1169	1171	No, actually, I'm trying to get some solid evidence together.
+1171	1174	I don't get it.
+1174	1180	Okay. Sherman, set the way-back machine for three years ago.
+1180	1182	Kevin Flynn...
+1182	1187	one of ENCOM's brightest young software engineers.
+1187	1189	He's so bright, as a matter of fact, that he starts going in at night...
+1189	1193	sets up his own private memory file and begins writing a programme...
+1193	1197	for a video game he's invented called Space Paranoids.
+1197	1202	- You invented Space Paranoids? - Paranoids. Matrix Blaster.
+1202	1207	Vice Squad. A whole slew of'em. I was this close to starting my own little enterprise, man.
+1207	1209	But enter another software engineer-
+1209	1213	not so young, not so bright, but very, very sneaky.
+1213	1215	Ed Dillinger.
+1215	1218	So one night our boy Flynn, he's goes to his terminal, tries to read up his file.
+1218	1222	I get nothin' on there. There's a big blank.
+1222	1224	All right, now we take you three months later.
+1224	1229	Dillinger presents ENCOM with five video games that he's invented.
+1229	1233	The slime didn't even change the names, man. He gets a big, fat promotion.
+1233	1238	And thus begins his meteoric rise to- What is he now? Executive V.P.?
+1238	1240	Senior Exec.
+1240	1244	Senior Exec?
+1244	1249	Meanwhile, the kids are puttin' eight million quarters a week into Paranoid machines.
+1249	1252	I don't see a dime, except what I squeeze outta here.
+1252	1256	I still don't understand why you wanna break into the system.
+1256	1261	Because, man, somewhere in one of these memories is the evidence.
+1261	1263	If I got in far enough, I could reconstruct it:
+1264	1266	My password, Dillinger's instructions to divert the data.
+1266	1268	- The whole shot, man. - It's too late for that. Dillinger's cut off...
+1268	1270	everybody with Group 7 access.
+1270	1273	Wait a- Wait, wait, wait. What are you- What are you saying now?
+1274	1276	The guy knows what you're up to.
+1276	1278	Oh, great. You're kidding me.
+1282	1285	Well, now there is nothing to stop him.
+1285	1289	Now it's just Dillinger and the MCP runnin' things from on high in there.
+1289	1292	Not if my Tron programme is running.
+1292	1294	That'd shut the system down.
+1298	1300	- You know, if your file was in there- - Hey, wait a minute.
+1300	1305	If we can get in there, I can forge us a Group 6 access.
+1305	1308	Well, shall we dance?
+1318	1320	I shut down Group 7 for a very good reason.
+1320	1324	Ed, all I'm saying is that if our own people can't get access to their programmes-
+1324	1327	Well, you know how frustrating it is when you're working on a piece of research.
+1327	1330	Walter, I sympathize, but I have data coming from the Master Control Programme...
+1330	1333	telling me there's something screwy going on around here.
+1333	1335	That MCP. That's half our problem right there.
+1335	1338	The MCP is the most efficient way of handling what we do.
+1339	1342	I can't sit here and worry about every little user request that comes in.
+1342	1344	User requests are what computers are for.
+1344	1346	Doing our business is what computers are for.
+1364	1367	ENCOM isn't the business you started in your garage any more.
+1367	1369	We're billing accounts in 30 different countries.
+1369	1373	New defence systems. We have one of the most sophisticated pieces of equipment in existence.
+1373	1375	Oh, I know all that.
+1377	1379	Sometimes I wish I were back in that garage.
+1380	1382	That can be arranged, Walter.
+1384	1386	That was uncalled for.
+1386	1389	You know, you can remove men like Alan and me from the system...
+1389	1394	but we helped create it, and our spirit remains in every programme we designed for this computer.
+1394	1396	Walter, it's getting late. I've got better things to do...
+1396	1399	than to have religious discussions with you.
+1399	1401	Don't worry about ENCOM any more.
+1401	1403	It's out of your hands now.
+1410	1413	I don't think I'm cleared for this.
+1413	1416	- Well, I'm certainly not. - You wanna move aside? Give the kid a little room?
+1416	1418	Will you shush?
+1421	1424	This guy's a little like Santa Claus.
+1424	1427	Make these myself. You want one?
+1437	1439	They never should have gotten rid of me.
+1443	1445	- Now that is a big door. - Shut up.
+1455	1457	It's my fault. I programmed you to want too much.
+1457	1460	I was planning to hit the Pentagon next week.
+1460	1464	- The Pentagon? - It shouldn't be any harder than any other big company...
+1464	1467	but now this is what I get for using humans.
+1467	1469	Now wait a minute. I wrote you.
+1469	1474	I've gotten 2,415 times smarter since then.
+1474	1476	What do you want with the Pentagon?
+1476	1478	The same thing I want with the Kremlin.
+1478	1482	I'm bored with corporations. With the information I can access...
+1482	1487	I can run things 900 to 1200 times better than any human.
+1487	1489	If you think you're superior to us-
+1489	1495	You wouldn't want me to dig up Flynn's file and read it up on a VD T at the Times, would you?
+1495	1497	You wouldn't dare.
+1505	1507	- Hi. - Hi.
+1507	1509	- Oh, working late? - Yeah.
+1515	1519	Okay, come here. I'm gonna put him at my terminal.
+1519	1521	I'm gonna meet you in your office upstairs.
+1521	1523	Don't fall asleep.
+1523	1525	If and when I activate your Tron programme, you're only gonna have a few minutes to use it...
+1525	1528	before Dillinger catches the break in security, all right?
+1528	1530	- Mmm. - As long as we stay off the top floor...
+1530	1533	Dillinger will never know we've been in here.
+1533	1535	Good luck, hot shot.
+1557	1559	Flynn!
+1559	1561	After you.
+1583	1585	Keep those programmers out of the system...
+1585	1588	and get me that Chinese language file I asked for.
+1588	1590	End of line.
+1606	1608	You are gonna stay with me, aren't you?
+1608	1611	What for? You're the one who never needed help, remember?
+1611	1613	Hey, come on. I- I'm scared of the dark.
+1613	1616	All this technology scares me. Come on, babe.
+1645	1647	This way.
+1653	1655	- When did they put this in? - This is where I work now.
+1655	1658	I've got a direct terminal in the laser target area.
+1658	1661	You can stay there all night if you have to.
+1667	1669	Like the man says, there's no problems, only solutions.
+1670	1672	Okay, remember: This laser is my life's work.
+1673	1676	Don't spill anything, huh?
+1676	1677	Have fun, sweetheart.
+1693	1695	- You shouldn't have come back, Flynn. - Hey, hey, hey.
+1696	1699	It's the big Master Control Programme everybody's been talkin' about.
+1699	1701	Sit right back. Make yourself comfortable.
+1701	1704	Remember the time we used to spend playing chess together?
+1708	1711	That isn't going to do you any good, Flynn. I'm afraid-
+1711	1714	Stop. Please.
+1714	1717	- You realize I can't allow this. - Now how are you gonna run the universe...
+1717	1720	if you can't even answer a few unsolvable problems, huh?
+1720	1722	Come on, big fella. Let's see what you got.
+1722	1725	I'd like to go against you and see what you're made of.
+1725	1729	- You know, you don't look a thing like your pictures? - I'm warning you.
+1729	1731	You're entering a big error, Flynn.
+1731	1734	- I'm gonna have to put you on the game grid. - Games? You want games?
+1735	1737	I'll give you games.
+1828	1831	Oh, man, this isn't happening. It only thinks it's happening.
+1834	1836	Vacate entry port, programme.
+1841	1843	I said move!
+1845	1847	Hey!
+1847	1851	Look, if this is about those parking tickets, I can explain everything, okay?
+1856	1858	Zero programmes with war games.
+1861	1865	I've got a little challenge for you, Sark. A new recruit.
+1865	1868	He's a tough case, but I want him treated in the usual manner.
+1868	1872	Train him for the games, let him hope for a while and blow him away.
+1873	1874	You got it.
+1874	1878	I've been hoping you'd send me somebody with a little bit of guts.
+1878	1883	- What kind of programme is he? - He's not any kind of programme, Sark. He's a user.
+1883	1885	- A user? - That's right.
+1885	1888	He pushed me in the real world.
+1888	1890	Somebody pushes me, I push back...
+1890	1893	so I brought him down here.
+1893	1896	What's the matter, Sark? You look nervous.
+1896	1898	Well, I-
+1898	1901	It's just-
+1901	1903	I don't know. A user. I mean...
+1904	1906	users wrote us.
+1908	1911	- A user even wrote you! - No one user wrote me.
+1911	1913	I'm worth millions of their man-years.
+1913	1918	- What if I can't- - You rather take your chances with me?
+1918	1920	Want me to slow down your power cycles for you?
+1920	1922	Wait! I need that!
+1922	1926	Then pull yourself together. Get this clown trained.
+1926	1930	I want him in the games until he dies playing. Acknowledge.
+1930	1933	Acknowledged, Master Control.
+1934	1936	End of line.
+1940	1943	- Video game unit 18. - In here, programme.
+1943	1946	Hey, who you callin' programme, programme?
+1950	1952	New guy.
+1952	1955	Another free programme off-line.
+1955	1957	You really think the users are still there?
+1957	1960	They'd better be.
+1960	1963	I don't wanna bust out of here and find nothin' but a lot of cold circuits waitin' for me.
+1963	1965	Hey.
+1967	1970	- Who are you guys? Oh! - Hold it.
+1970	1972	Wanna watch those force fields.
+1972	1975	You'll be having plenty of chances to get hurt. Don't worry about that.
+1976	1980	Look, just so I can tell my friends...
+1980	1982	what this dream is about, okay?
+1982	1984	- Where am I? - You're a...
+1989	1993	guest of the Master Control Programme.
+1993	1997	- Oh, great. - Gonna make you play video games.
+1997	2001	Okay. No sweat. I play video games better than anybody.
+2006	2008	Move out. This way.
+2012	2015	You. You come this way.
+2015	2018	Hey, there's been a mistake. I gotta see the guy in charge.
+2018	2019	You will.
+2040	2044	Look, operative. Command programme Sark's carrier is approaching.
+2044	2047	He will explain the training procedures.
+2053	2056	Greetings.
+2056	2060	The Master Control Programme has chosen you...
+2060	2063	to serve your system on the game grid.
+2063	2067	Those of you who continue to profess a belief in the users...
+2068	2071	will receive the standard substandard training...
+2071	2076	which will result in your eventual elimination.
+2076	2079	Those of you who renounce...
+2079	2084	this superstitious and hysterical belief...
+2084	2088	will be eligible to join the warrior elite...
+2088	2090	of the MCP.
+2090	2093	You will each receive an identity disk.
+2093	2096	Everything you do or learn...
+2096	2099	will be imprinted on this disk.
+2099	2104	If you lose your disk or fail to follow commands...
+2104	2107	you will be subject to immediate de-resolution.
+2108	2111	That will be all.
+2114	2116	Move out.
+2128	2131	Hey. Who's that guy?
+2131	2134	- That's Tron. He fights for the users. - Tron.
+2169	2172	- That's pretty good. - Watch this.
+2172	2175	- You gotta be good if you wanna survive. - What's your name?
+2175	2177	My name's Ram.
+2181	2185	Hey, Ram. What were you, you know, before?
+2185	2187	I was an actuarial programme.
+2188	2191	Worked for a big insurance company.
+2191	2196	Really gives you a great feeling helping folks plan for their future needs.
+2196	2198	And, of course, if you think of the payments as an annuity over the years...
+2198	2200	the cost is really quite minimal.
+2200	2202	Yeah. That's great.
+2202	2204	Actuarial programme. Nice.
+2206	2208	How 'bout yourself?
+2208	2213	Oh, uh, I don't remember too much. Name's Flynn.
+2213	2215	Sure. A little disorientation. That's normal in transport.
+2215	2218	It'll come back to you.
+2220	2222	This is it. Good luck, Flynn.
+2224	2228	Sir, conscript being moved from pit cell to ring game.
+2228	2231	You know- Hey!
+2231	2233	- You guys sure are friendly, aren't you? - Wait.
+2236	2239	Let him fight one of his own kind.
+2275	2277	You think you're gonna wipe me right out, don't you?
+2278	2280	No, I-
+2282	2285	Hey, I-I-I-
+2290	2292	New guy was asking about you.
+2294	2296	It's too bad he's in a match now.
+2296	2299	- I'll probably never meet him. - You might.
+2299	2302	There's something different about him.
+2314	2316	Okay.
+2338	2340	That was a very fancy shot.
+2343	2346	Okay, here's an easy one.
+2361	2364	- Finish the game! - No!
+2364	2367	Kill him.
+2367	2369	No!
+2370	2372	You'll regret this.
+2389	2392	I want him in the games until he dies playing.
+2407	2409	This is the holding area for the Lightcycles.
+2409	2411	Hey, Flynn. You made it!
+2411	2414	- Wait here. - You won!
+2415	2418	- Alan! - Where did you hear that name?
+2418	2421	- Well, that's your name, isn't it? - The name of my user.
+2424	2426	How did you know?
+2426	2428	I'm a programme from a user that knows Alan.
+2428	2430	He was disoriented in transport, Tron.
+2430	2433	Yeah, but I'm remembering all kinds of stuff.
+2433	2436	Like my user wants me to go after the MCP.
+2436	2440	- My user wants that too. - I know.
+2452	2456	Prepare to transport to Lightcycle grid.
+2457	2461	- We have transport. - Wow.
+2472	2475	This is blue leader to blue bikes. Run these guys into your jet walls.
+2475	2477	- Copy, blue leader. - Copy, blue leader.
+2477	2479	This is gold one to gold two and three. Split up.
+2479	2483	Take 'em one on one.
+2511	2513	Watch it! Watch it!
+2531	2533	I'm takin' him into the maze.
+2544	2546	This is it. Come on.
+2556	2560	Gold three to gold two and one. I'm gettin' out of here right now, and you guys are invited.
+2560	2561	Got it.
+2563	2565	- Ready? - Ready.
+2565	2567	So long, sucker.
+2583	2585	Greetings, programmes.
+2587	2590	Video game warriors escaping game grid.
+2590	2593	This is an illegal exit. You must return to game grid.
+2593	2596	Repeat: This is an illegal exit.
+2596	2598	- You must return to the grid. - Gold two to gold three.
+2598	2600	Those demons are comin' down.
+2611	2613	Get them.
+2613	2616	Send out every game tank in the grid.
+2616	2619	Get them!
+2619	2622	I should never have written all those tank programmes.
+2635	2637	Targets leaving protective field.
+2641	2643	Missed!
+2648	2650	All units exiting game arena!
+2668	2670	Target units accelerating!
+2684	2687	Pursuit force minus one tank. Close ranks.
+2710	2712	Oh, man.
+2715	2718	On the other side of the screen, it all looked so easy.
+2724	2727	They must've gone right past us.
+2728	2734	We made it... this far.
+2738	2741	Pursuit force reporting. We lost visual contact with escaped units.
+2741	2744	- Awaiting further orders. - Get the pursuit forces back into the canyons.
+2744	2746	Those programmes never made it out of there.
+2746	2749	We'll have them back in no time, sir, long before the interrupt interface.
+2749	2751	We'd better, Null Unit.
+2751	2755	I'll be lucky if the MCP doesn't blast me into a dead zone.
+2755	2758	I want those conscripts!
+2766	2769	What is it? What do you see?
+2769	2770	Watch it. Watch it.
+2775	2777	Come on, you little bugger. Come on.
+2778	2780	Look at that.
+2780	2783	When do we pay our visit to the old, uh, Master Control, huh?
+2783	2785	What?
+2786	2790	There's just three of us.
+2790	2792	Well, you know anybody who's got an army for rent, that's fine...
+2792	2796	but my, uh, user told me to go take that sucker out...
+2796	2798	or I'm never gettin' outta here.
+2798	2802	We can't get to the MCP without the help of my user.
+2804	2806	I have to get to that input/ output tower...
+2806	2808	and communicate with him.
+2811	2813	Well, good. Check in with Alan. Maybe he knows what's-
+2813	2815	What's that?
+2816	2821	That is just what I need right now.
+2837	2840	Oh, thank you. Ohh!
+2847	2848	Incredible.
+2855	2860	Oh! Boy, you forget how good the power feels...
+2860	2862	until you get to a pure source.
+2864	2868	My friends, my fellow conscripts, we have scored.
+2868	2870	I feel so much better.
+2875	2877	Pursuit force reporting. No sign of escaped units.
+2877	2879	Moving into next sector.
+2883	2886	- Mmm. Thank you. - I can feel it.
+2888	2890	Feel what? You okay?
+2892	2896	Alan One.
+2896	2898	Let's move out!
+2908	2911	- Come on, Flynn. Put a cork in it. - One second.
+2942	2947	Range: 9. Mark: 45. 48 degrees.
+2953	2955	Hold it. Hold it.
+2955	2958	Fire!
+2968	2971	- Ram! Flynn! Do you read me? - Pursuit force reporting.
+2971	2973	Two escaped units de-rezzed.
+2973	2975	No!
+2986	2988	Tron unit heading into next sector.
+2994	2997	Ram. Ram!
+3000	3003	Come on! We gotta get outta here.
+3006	3009	No sign of life. Looks like we got 'em.
+3017	3019	Continue pursuit of remaining conscript.
+3019	3022	Acknowledged. Proceeding toward sector frontier.
+3026	3029	We're gonna make it, Ram. I just gotta find you a place to rest.
+3045	3047	Hang in there, Ram.
+3047	3049	Ah, this looks like a good spot.
+3057	3060	Those tanks won't find us here.
+3060	3063	- Ohhh. - Okay.
+3066	3068	I thought this was supposed to be easy.
+3100	3103	Hey, what's goin' on?
+3109	3111	You see this?
+3111	3113	You shouldn't be able to do that.
+3122	3125	Now for some real user power.
+3154	3157	Hey, this looks promising.
+3162	3164	This is just like the old arcade grips.
+3168	3171	All right, let's get this show on the road.
+3179	3181	Now we're smokin'.
+3181	3183	How can you steal a Recognizer?
+3183	3185	Hey, you okay? You don't look so good.
+3185	3188	We'll get you fixed up. Hang on.
+3188	3190	Come here.
+3211	3216	Oh, my user. Users are users. They-
+3221	3224	Are you a user?
+3224	3227	Yeah.
+3237	3238	Flynn?
+3240	3242	Help Tron.
+3252	3255	Ram.
+3262	3264	Ram!
+3306	3308	Damn Recognizer.
+3310	3312	Why won't you just go straight?
+3313	3316	I gotta get to that I/ O tower.
+3316	3320	Programme ALOU. Request additional information for sector two.
+3321	3323	Prepare hangar for game simulation transport.
+3324	3327	Attention, all units. Lock onto matrix code.
+3327	3330	Prepare for digital beam transport.
+3330	3331	Activate hangar doors.
+3334	3336	What's the progress on the simulation?
+3336	3340	30-56. 99 are correct.
+3340	3343	Limited 4 and 8 are missing.
+3348	3350	Don't scream.
+3350	3352	Yori.
+3352	3354	30-56. 99 are correct.
+3354	3358	- Limited 4 and 8 are missing. - No, I-
+3361	3364	Tron. Oh!
+3366	3368	Yori.
+3369	3372	I knew you'd escape.
+3372	3374	They haven't built a circuit that could hold you.
+3374	3377	Listen, Yori. We have to make plans.
+3377	3379	Where can we go?
+3384	3387	This way. Quickly.
+3395	3397	Hey!
+3398	3401	Hold it right there!
+3401	3404	- Yes. - What do you mean "yes"?
+3404	3406	- Yes. - Is that all you can say?
+3410	3412	- No. - Oh. Anything else?
+3412	3415	Yes.
+3415	3418	Positive and negative, huh? You're a bit.
+3418	3421	Yes.
+3421	3423	Well, where's your programme? Isn't he gonna miss ya?
+3423	3427	- No. - I'm your programme?
+3427	3430	- Yes. - Ah, another mouth to feed.
+3430	3432	Yes, yes, yes, yes, yes.
+3442	3444	Watch out for nested macros.
+3446	3449	- Who are all these weirdos? - Inoperative data pushers.
+3449	3451	- Control programmes. Come on. - These tendencies must be discouraged.
+3454	3457	Pretty good drivin', huh?
+3459	3462	- No. - Who asked you?
+3477	3480	No, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no.
+3496	3498	This baby doesn't handle so good in town.
+3498	3501	No.
+3504	3506	- What's this do? How 'bout this one? - No. No, no.
+3508	3511	Here comes a headache.
+3513	3515	No, no, no, no, no, no, no.
+3518	3521	- Ah! We gotta stop this thing! - Yes.
+3521	3524	I'm glad you agree!
+3545	3548	- Uh, I'm fine. No problem. - I hope they hurry.
+3548	3551	My next assignment is in quadrant four.
+3551	3554	Oh, this town is full of live ones.
+3556	3558	Hey.
+3565	3568	This is where Tron said he was goin'.
+3570	3573	Losing Flynn.
+3602	3604	I don't believe this.
+3616	3618	Halt!
+3624	3627	More guards.
+3679	3683	They don't see us. I'll go first.
+3704	3706	- Are you all right? - Yeah. Let's do that some more.
+3707	3710	Yeah. I think the guard saw me.
+3710	3712	Come on.
+3720	3721	- Halt. - Dumont.
+3721	3724	I can't stand all this commotion. What do you want?
+3724	3726	I've come to communicate with my user.
+3726	3730	Difficult proposition. Difficult proposition at best.
+3731	3734	Why, I could be de-rezzed just for letting you in here.
+3734	3736	They hate this tower.
+3736	3739	They'd close it down if they dared.
+3739	3741	They keep me around just in case one of them...
+3741	3744	wants to deal with the other world once in a while.
+3744	3748	Dumont!
+3748	3753	My user has information that could, well, could make this a free system again.
+3754	3756	No, really. Why, you'd have programmes lined up...
+3756	3758	just to use this place...
+3758	3761	and no MCP looking over your shoulder.
+3761	3763	When you've been in the system as long as I have...
+3763	3768	you hear many promises, many reassurances, many brave plans.
+3768	3771	Please, Dumont. The guards are coming.
+3773	3775	There they are, with the Guardian.
+3775	3777	All right, Yori. All right.
+3780	3784	Who is your user, programme?
+3784	3788	Alan One. He calls me. May I pass?
+3789	3793	All that is visible must grow beyond itself...
+3793	3797	and extend into the realm of the invisible.
+3797	3799	You may pass, my friend.
+3808	3811	The tower Guardian is helping him.
+3811	3813	He thinks.
+3813	3816	Bring in the logic probe!
+3832	3835	More power!
+3892	3894	It's begun.
+3896	3899	Tron, location query. Confirm.
+3899	3902	- Confirmed, Alan One. - I am creating the information on your disk...
+3902	3906	that will erase the MCP and change the system.
+3906	3910	Dedicate yourself to getting the disk into the heart of the MCP.
+3910	3912	This interface is located at its base.
+3912	3915	We will not be able to communicate again...
+3915	3916	unless you succeed.
+3917	3918	Go.
+3928	3931	This is the key to a new order.
+3931	3934	This code disk means freedom.
+3936	3939	I think they're breaking in.
+3947	3949	- Thank you, Dumont. - Hurry. The users are waiting.
+3964	3967	Dumont!
+3970	3972	Where's the programme?
+3972	3974	What programme?
+3976	3978	Take him!
+3987	3989	Stay close.
+3998	4002	If I can just get us on the scanning transport beam-
+4002	4006	This solar sailor simulation will take us across the game sea, out of this domain...
+4006	4008	back into the central computer.
+4015	4017	Look out!
+4094	4099	Commander, you've enjoyed all the power you've been given, haven't you?
+4099	4102	I wonder how you'd take to working in a pocket calculator.
+4102	4105	We did take care of that user you sent us.
+4105	4108	You incompetent zero. Now you've got two renegade programmes...
+4108	4110	flying all over the system in a stolen simulation.
+4110	4114	We'll get them. It's only a matter of time.
+4114	4118	You've almost reached your decision gate, and I can't spare you any more time.
+4118	4120	End of line.
+4128	4130	Hey, it's me! Flynn!
+4130	4132	- Flynn! - Yeah. Greetings, programme.
+4132	4134	Flynn, you're alive.
+4134	4137	Barely.
+4137	4140	Yeah, I, uh-
+4153	4155	Where's Ram?
+4155	4158	He didn't make it.
+4165	4167	Well, come on.
+4180	4182	Lora.
+4182	4185	This is Flynn, the one who busted me out.
+4185	4189	- Lora? - Well, then, I owe him some thanks.
+4191	4194	No, it's, uh, no big deal.
+4194	4197	I oughta know my way around a Lightcycle routine. I wrote the programme for it.
+4197	4200	- You wrote the programme? - It's time I level with you.
+4200	4203	I'm what you guys call a user.
+4203	4206	- You're a user? - I took a wrong turn somewhere.
+4206	4209	If you are a user...
+4209	4212	then everything you've done has been according to a plan, right?
+4212	4214	You wish.
+4215	4217	Well, you guys know what it's like. You just keep doin' what it looks like...
+4217	4220	you're supposed to be doin', no matter how crazy it seems.
+4220	4222	Well, that's the way it is for programmes, yes.
+4222	4224	I hate to disappoint you, pal, but most of the time...
+4224	4227	that's the way it is for users too.
+4227	4229	Stranger and stranger.
+4229	4232	So, nice-lookin' ship you got here.
+4251	4254	Sir, what do you want done with the tower Guardian, Dumont?
+4254	4256	Put him with the others?
+4256	4258	No, bit brain. Prepare him for inquisition.
+4259	4262	I need a little bit of relaxation. But first, rez up the carrier for pursuit.
+4262	4265	One other thing: Don't think any more.
+4265	4267	I do the thinking around here.
+4274	4277	This isn't gonna be easy. If those grid bugs get us, we've had it.
+4300	4304	- Had enough? - What do you want? I'm busy.
+4304	4307	Busy dying, you worn-out excuse for an old programme?
+4307	4310	Yes, I'm old-
+4310	4313	old enough to remember the MCP when it was just a chess programme.
+4313	4316	He started small, and he'll end small.
+4316	4320	Very funny, Dumont. Maybe I should keep you around just to make me laugh.
+4330	4333	- What's happening? - Power surge from the MCP.
+4333	4335	- We have to get off this beam. - I can't.
+4335	4338	There isn't another junction for seven or eight nanoseconds.
+4338	4341	- There's another beam! - It's too far.
+4359	4362	He's creating a junction.
+4383	4385	Did we make it?
+4385	4388	- Yeah. - Hooray for our side.
+4413	4415	- Is he de-rezzing? - No.
+4415	4417	But I couldn't tell you why not.
+4421	4423	I'm all in one piece.
+4423	4425	I guess I'm still with ya.
+4428	4430	Tell the guy with the jackhammer to lay off, will ya?
+4430	4432	How did you do that?
+4432	4435	Elementary physics: a beam of energy can always be diverted.
+4435	4437	Are we there yet, Mommy?
+4489	4491	Sark!
+4505	4507	- Dumont! - Yori!
+4509	4511	Tron?
+4513	4514	Tron's dead.
+4517	4520	- Who's that? - That is a user, Dumont.
+4522	4525	He came here to help us.
+4525	4527	Tron believed in him.
+4528	4531	If the users can no longer help us, we're lost.
+4531	4534	So, we have erased that programme-
+4534	4537	No. You were de-rezzed. I saw you.
+4537	4540	- Not me, Sark. - There's nothing special about you.
+4540	4543	- You're just an ordinary programme. - So are you.
+4543	4545	- One that should've been erased. - You're nothing!
+4547	4549	Take that programme to the holding pit!
+4558	4560	Please, don't take him-
+4561	4565	We're taking our friend here and some other religious fanatics...
+4565	4567	to Master Control.
+4567	4570	When I disembark, this ship...
+4570	4574	and everything that remains on board will automatically de-rez.
+4577	4579	This means you.
+4585	4587	Move out!
+4614	4618	- Intermediate vectors detached. - Route us to the MCP.
+4618	4622	I want to get rid of this dead weight and catch a transport beam to the game domain.
+4631	4636	These walls. Yori. Something's happening.
+4694	4698	Hey.
+4698	4700	Yori?
+4700	4704	I still have power. Sark doesn't know that.
+4704	4707	- Leave me alone. We've failed. - We're only gonna fail if we give up!
+4707	4709	Now come on! Look! The wall!
+4711	4713	Yori.
+4721	4725	You brought me back. How?
+4725	4727	Why did you bring me back?
+4727	4729	I need your help. Come on.
+4758	4760	Do something with these controls!
+4760	4763	- I'm on it. - It's the MCP.
+4763	4765	It's the heart of the whole system.
+4787	4790	I feel a presence. Another warrior is on the mesa.
+4794	4796	Sark!
+4798	4801	We're getting closer.
+4804	4808	I don't know how you survived, slave.
+4808	4811	It doesn't matter. Prepare to terminate.
+4824	4827	All programmes have a desire to be useful...
+4827	4831	but in moments, you will no longer seek communication with each other...
+4831	4833	or your superfluous users.
+4833	4837	You will each be part of me, and together, we will be complete.
+4844	4847	You should've joined me. We'd have made a great team.
+4851	4854	- You're very persistent, Tron. - I'm also better than you.
+4868	4870	Sark!
+4870	4873	All my functions are now yours.
+4873	4875	Take 'em.
+4877	4879	Sark.
+4882	4884	Sark.
+4889	4891	Look at that.
+4906	4909	Your user can't help you now, my little programme.
+4919	4923	I got it. Steer us over by the beam.
+4923	4925	- Right next to it. - What good'll that do?
+4927	4928	I'm gonna jump.
+4930	4934	- It's the only way to help Tron. - Don't. You'll be de-rezzed.
+4952	4954	Don't worry.
+5018	5021	Come on! Let's go! Let's go! Let's go! Let's go!
+5063	5064	We did it!
+5073	5076	- That's nice. - We thought you were dead.
+5078	5081	- Where's Flynn? - It was incredible. He threw himself into the beam and...
+5081	5085	distracted the MCP just long enough for you to get the disk in.
+5086	5088	He saved us. He really did it.
+5088	5091	Video warriors, look at the I/ O tower.
+5093	5096	Every tower is lighting up.
+5147	5149	Priority one!
+5157	5159	Hey!
+5204	5207	Try to look official. Here comes the boss.
+5223	5225	Pick me up in an hour. Thanks.
+5227	5229	Greetings, programmes.
+5399	5402	In thejungle, I run tonight
+5403	5406	Find the beast of logical light
+5406	5409	No confusion Just wrong or right
+5409	5411	Oh, yeah
+5413	5416	Faces, numbers I recognize
+5416	5420	You don't fool me with cynical lies
+5420	5422	No problems There's no compromise
+5422	5425	Oh, yeah
+5425	5427	Only solutions
+5428	5432	Don't pull me down I just wanna hear
+5432	5434	Only solutions
+5434	5439	Whoa, it won't be long It won't take too long
+5446	5449	Modern times drivin'me insane
+5449	5452	Explanations I can't explain
+5452	5455	Leave ya standin'in the rain
+5455	5457	Oh, yeah
+5459	5463	Solving mysteries with nothin'to lose
+5463	5466	Logic leaves you without any clues
+5466	5469	There's only so much one man can do
+5469	5471	Oh, yeah
+5472	5474	Only solutions
+5474	5478	Don't put me down I just wanna hear
+5478	5481	Only solutions
+5481	5485	Whoa, it won't be long It won't take too long
+5485	5488	Only solutions
+5488	5492	Don't put me down I just wanna hear
+5494	5496	Logical solutions
+5497	5501	Clear visions, clear visions

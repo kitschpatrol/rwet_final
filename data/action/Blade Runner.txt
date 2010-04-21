@@ -1,0 +1,800 @@
+273	276	Next subject: Kowalski, Leon.
+276	278	Engineer, waste disposal.
+279	282	File section: New employee, six days.
+283	284	Calling Mr. Webber...
+284	287	-Come in.-...please report to Zone A Sector 9.
+291	295	Replication Center Level 9,we have a B1 security alert.
+295	298	Stand by for ID check, please.
+299	300	Sit down.
+300	303	Replication Center Level 9,we have a B1 security alert.
+304	305	Stand by for...
+305	306	Care if I talk?
+307	308	I'm kind of nervous when I take tests.
+309	310	Just please don't move.
+312	313	Oh, sorry.
+317	320	I already had an IQ test.I don't think I've had one of these.
+320	322	Reaction time is a factor,so pay attention.
+322	325	Now answer as quickly as you can.
+325	327	Sure.
+328	329	1187 at Hunterwasser.
+330	331	That's the hotel.
+331	333	-What?-Where I live.
+333	335	-Nice place?-Yeah, sure, I guess.
+335	337	Is that part of the test?
+337	340	No. Just warming you up. That's all.
+340	343	It's not fancy or anything.
+344	346	You're in a desert,walking along in the sand, when--
+347	348	Is this the test, now?
+348	350	Yes. You're in a desert,walking along in the sand...
+350	352	-...when you look down---What one?
+352	354	-What?-What desert?
+354	357	Doesn't make any difference.It's completely hypothetical.
+357	360	-But how come I'd be there?-Maybe you're fed up.
+360	362	Maybe you wanna be by yourself.Who knows?
+363	364	You look down and see a tortoise.
+365	368	-It's crawling towards you---Tortoise? What's that?
+371	374	-You know what a turtle is?-Of course.
+374	375	Same thing.
+376	377	I've never seen a turtle.
+380	381	But I understand what you mean.
+382	384	You reach down,you flip the tortoise over on its back.
+384	387	Do you make up these questions,Mr. Holden?
+387	389	Or do they write them down for you?
+389	392	The tortoise lays on its back,its belly baking in the sun...
+392	395	...beating its legs,trying to turn itself over, but it can't...
+396	397	...not without your help.
+397	399	-You're not helping.-What do you mean I'm not?
+400	401	I mean, you're not helping.
+402	403	Why is that, Leon?
+411	414	They're just questions, Leon.
+414	417	In answer to your query,they're written down for me.
+417	422	It's a test designed to provokean emotional response.
+424	426	Shall we continue?
+427	431	Describe in single words only thegood things that come into your mind...
+432	434	...about your mother.
+434	436	-My mother?-Yeah.
+438	440	Let me tell you about my mother.
+456	460	A new life awaits youin the Off-world colonies.
+460	462	The chance to begin again...
+462	466	...in a golden land of opportunityand adventure.
+492	496	A new life awaits youin the Off-world colonies.
+497	499	The chance to begin again...
+499	502	...in a golden land of opportunityand adventure.
+506	510	The custom-tailored, geneticallyengineered humanoid Replicant...
+510	513	...designed especially for your needs.
+513	517	So come on, America.Let's put out....
+519	520	Give me four.
+522	524	No, four. Two, two. Four.
+528	529	And noodles.
+543	544	Hey.
+553	555	He say you under arrest, Mr. Deckard.
+556	557	Got the wrong guy, pal.
+563	564	He say you Blade Runner.
+565	566	Tell him I'm eating.
+566	567	Captain Bryant... .
+571	573	Bryant, huh?
+588	590	Yellow 3.
+590	593	Climb and maintain 4000.
+655	658	Final descent.
+658	661	Now on glide path. Mark course.
+661	663	Over the landing threshold.
+682	683	Hiya, Deck.
+683	684	Bryant.
+684	688	You wouldn't have comeif I just asked you to. Sit down, pal.
+689	693	Come on, don't be an asshole, Deckard.I've got four skin-jobs walking the streets.
+710	713	They jumped a shuttle Off-world,killed the crew and passengers.
+713	716	They found the shuttle driftingoff the coast two weeks ago...
+716	718	...so we know they're around.
+719	721	Embarrassing.
+721	724	No, sir, not embarrassing. No one's evergonna find out they're down here.
+724	727	Because you're gonna spot themand air them out.
+727	728	I don't work here anymore.
+730	731	Give it to Holden.
+731	733	-He's good.-I did.
+734	736	He can breathe okayas long as nobody unplugs him.
+737	740	He's not good enough.Not good as you.
+740	742	I need you, Deck.
+742	744	Now, this is a bad one, the worst yet.
+745	747	I need the old Blade Runner.
+747	749	I need your magic.
+750	753	I was quit when I come in here, Bryant.
+754	756	I'm twice as quit now.
+756	759	Stop right where you are.You know the score, pal?
+760	762	If you're not cop, you're little people.
+774	775	No choice, huh?
+777	779	No choice, pal.
+779	782	I already had an IQ test this year.
+782	784	I don 't think I've everhad one of these.
+785	787	Reaction time is a factor,so please pay attention.
+787	789	-Answer as quickly as you can.-Yeah, sure.
+790	793	1187 at Hunterwasser.
+793	794	Yeah. That's the hotel.
+794	797	-What?-Where I live.
+797	799	-Nice place?-Yeah, sure, I guess.
+799	802	There was an escape fromthe Off-world colonies two weeks ago.
+802	805	Six Replicants: three male, three female.
+805	807	They slaughtered 23 peopleand jumped a shuttle.
+808	810	An aerial patrol spottedthe ship off the coast.
+810	812	No crew, no sight of them.
+812	815	Three nights ago they tried to breakinto Tyrell Corporation.
+815	818	Two of them got fried runningthrough an electrical field.
+818	820	We lost the others.
+821	824	On the possibility they might tryto infiltrate as employees...
+825	829	...I had Holden go over and runVoight-Kampff tests on the new workers.
+829	831	Looks like he got himself one.
+831	835	So you look down and you seea tortoise. It's crawling towards you.
+835	836	-Tortoise?-That's Leon.
+836	838	Ammunition loaderon intergalactic runs.
+838	842	He can lift 400-pound atomic loadsall day and night.
+842	844	The only way you can hurt himis to kill him.
+844	849	I don't get it. What do they risk comingback to Earth for? That's unusual. Why...?
+849	852	What do they wantout of the Tyrell Corporation?
+852	855	Well, you tell me, pal.That's what you're here for.
+866	869	-What's this?-Nexus 6. Roy Batty.
+870	872	lncept date: 201 6.
+872	875	Combat model. Optimum self-sufficiency.
+876	878	Probably the leader.
+881	883	This is Zhora.
+883	885	She's trained foran Off-world kick murder squad.
+886	890	Talk about Beauty and the Beast.She's both.
+894	898	The fourth skin-job is Pris,a basic pleasure model.
+898	901	The standard item for military clubsin the outer colonies.
+903	907	They were designed to copy human beingsin every way except their emotions.
+907	909	The designers reckonedafter a few years...
+910	912	...they might developtheir own emotional responses.
+913	916	Oh, hate, love, fear, anger, envy.
+916	918	So they built in a fail-safe device.
+918	922	-Which is what?-Four-year lifespan.
+928	931	Now, there's a Nexus 6over at the Tyrell Corporation.
+931	936	-I want you to go put the machine on it.-And if the machine doesn't work?
+1027	1028	Do you like our owl?
+1032	1034	It's artificial?
+1035	1036	Of course it is.
+1038	1039	Must be expensive.
+1041	1044	Very. I'm Rachael.
+1045	1046	Deckard.
+1048	1052	It seems you feel our workis not a benefit to the public.
+1053	1058	Replicants are like any other machine:They're either a benefit or a hazard.
+1058	1060	If they're a benefit, it's not my problem.
+1061	1063	May I ask you a personal question?
+1065	1067	Sure.
+1071	1073	Have you ever retired a humanby mistake?
+1076	1077	No.
+1077	1081	-But in your position, that is a risk.-Is this to be an empathy test?
+1082	1085	Capillary dilationof the so-called blush response?
+1086	1089	Fluctuation of the pupil.
+1090	1093	Involuntary dilation of the iris.
+1095	1097	We call it Voight-Kampff for short.
+1098	1100	Mr. Deckard, Dr. Eldon Tyrell.
+1101	1103	Demonstrate it.
+1104	1105	I wanna see it work.
+1105	1108	-Where's the subject?-I wanna see it work on a person.
+1108	1111	I wanna see a negativebefore I provide you with a positive.
+1111	1113	What's that gonna prove?
+1114	1116	Indulge me.
+1116	1117	On you?
+1118	1119	Try her.
+1124	1127	It's too bright in here.
+1164	1165	Do you mind if I smoke?
+1167	1168	It won't affect the test.
+1170	1173	All right, I'm gonna ask youa series of questions.
+1173	1177	Just relax and answer themas simply as you can.
+1184	1188	It's your birthday.Someone gives you a calfskin wallet.
+1188	1190	I wouldn't accept it.
+1190	1194	Also, I'd report the personwho gave it to me to the police.
+1195	1199	You've got a little boy.He shows you his butterfly collection...
+1199	1201	...plus the killing jar.
+1204	1206	I'd take him to the doctor.
+1212	1213	You're watching television.
+1213	1216	Suddenly you realizethere's a wasp crawling on your arm.
+1216	1218	I'd kill it.
+1221	1225	You're reading a magazine. You comeacross a full-page nude photo of a girl.
+1225	1228	Is this testing whether I'm a Replicantor a lesbian, Mr. Deckard?
+1228	1231	Just answer the questions, please.
+1235	1237	You show it to your husband.
+1237	1239	He likes it so muchhe hangs it on your bedroom wall.
+1240	1241	--bush outside your window?
+1241	1243	I wouldn't let him.
+1243	1244	--orange body, green legs?
+1244	1246	Why not?
+1246	1248	I should be enough for him.
+1252	1254	One more question.
+1255	1258	You're watching a stage play,a banquet is in progress.
+1258	1262	The guests are enjoyingan appetizer of raw oysters.
+1262	1265	The entrée consists of boiled dog.
+1282	1284	Would you step outfor a few moments, Rachael?
+1294	1296	Thank you.
+1297	1299	She's a Replicant, isn't she?
+1299	1301	I'm impressed.
+1301	1304	How many questionsdoes it usually take to spot one?
+1304	1307	-I don't get it, Tyrell.-How many questions?
+1307	1310	Twenty, thirty, cross-referenced.
+1310	1312	It took more than a hundred for Rachael,didn't it?
+1313	1314	She doesn't know.
+1315	1316	She's beginning to suspect, I think.
+1317	1319	Suspect?How can it not know what it is?
+1319	1322	Commerce is our goal here at Tyrell.
+1322	1324	"More human than human" is our motto.
+1325	1328	Rachael is an experiment, nothing more.
+1328	1333	We began to recognize in thema strange obsession.
+1333	1337	After all, they are emotionallyinexperienced, with only a few years...
+1337	1340	...in which to store up the experienceswhich you and I take for granted.
+1340	1346	If we gift them with a past, we createa cushion or a pillow for their emotions...
+1346	1349	...then consequentlywe can control them better.
+1349	1351	Memories.
+1351	1353	You're talking about memories.
+1363	1366	Reaction time is a factor,so please pay attention.
+1366	1368	-Now answer as quickly as you can.-Sure.
+1368	1371	- 1187 at Hunterwasser.-Yeah. That's the hotel.
+1371	1372	-What?-Where I live.
+1372	1374	-Nice place?-Yeah, sure, I guess.
+1374	1376	-Is that part of the test?-No.
+1406	1408	Kowalski.
+1516	1518	Time...
+1518	1519	...enough.
+1537	1540	Did you get your precious photos?
+1543	1545	Someone was there.
+1546	1548	Men?
+1552	1555	Policemen?
+1647	1650	Fiery the angels fell
+1650	1654	Deep thunder rolled around their shores
+1654	1657	Burning with the fires of Orc
+1660	1664	You not come here! Illegal!
+1667	1668	Hey! Hey!
+1670	1673	Cold! Those are my eyes! Freezing!
+1683	1685	Yes.
+1685	1687	Questions.
+1694	1696	Hey! Hey!
+1709	1714	Morphology. Iongevity. Incept dates.
+1714	1715	Don't know.
+1715	1718	I don't know such stuff.
+1720	1722	I just do eyes.
+1722	1725	Just eyes, just genetic design.
+1725	1727	Just eyes.
+1728	1731	You Nexus, huh?
+1731	1733	I design your eyes.
+1734	1736	Chew...
+1736	1741	...if only you could seewhat I've seen with your eyes.
+1741	1743	Now...
+1743	1745	...questions.
+1745	1747	I don't know answers.
+1747	1749	Who does?
+1753	1754	Tyrell.
+1754	1756	He knows everything.
+1758	1760	Tyrell Corporation?
+1760	1764	He big boss. Big genius.He design your mind.
+1764	1766	Your brain, huh?
+1767	1769	Smart.
+1771	1773	Very cold.
+1775	1779	Not an easy man to see...
+1780	1782	Give me coat.
+1783	1785	...I guess?
+1790	1792	Sebastian.
+1792	1796	He take you there.He take you there.
+1796	1799	Sebastian who?
+1801	1804	J.F...
+1804	1807	...Sebast... .
+1809	1810	Now...
+1813	1815	...where...
+1815	1818	...would we find this...
+1818	1822	...J.F. Sebastian?
+1822	1825	Let's continue, shall we?
+1825	1827	Describe in single words...
+1827	1831	...only the good things that comeinto your mind about your mother.
+1831	1833	-My mother?-Yeah.
+1833	1835	I'll tell you about my mother.
+1857	1860	Voice print identification.Your floor number, please.
+1860	1864	-Deckard, 97.-97. Thank you. Danke.
+1885	1887	I wanted to see you.
+1893	1894	So I waited.
+1895	1897	Let me help you.
+1900	1902	What do I need help for?
+1904	1906	I don't know whyhe told you what he did.
+1906	1907	Talk to him.
+1908	1910	He wouldn't see me.
+1922	1924	You want a drink?
+1927	1928	No?
+1935	1937	You think I'm a Replicant, don't you?
+1943	1945	Look.
+1945	1948	It's me with my mother.
+1949	1951	Yeah?
+1957	1960	Remember when you were 6?
+1960	1963	You and your brother snuck into an emptybuilding through a basement window.
+1964	1966	You were gonna play doctor?
+1967	1970	He showed you his, and when it gotto be your turn, you chickened and ran.
+1971	1972	Remember that?
+1974	1979	Did you ever tell anybody that?Your mother, Tyrell, anybody, huh?
+1981	1984	You remember the spider that livedin the bush outside your window?
+1985	1987	Orange body, green legs?
+1987	1990	Watched her build a web all summer?
+1990	1993	Then one day, there's a big egg in it.
+1993	1995	The egg hatched... .
+1995	1997	-The egg hatched...-And?
+1998	2001	...and a hundred baby spiders came out.
+2002	2003	And they ate her.
+2008	2010	Implants.
+2010	2013	Those aren't your memories,they're somebody else's.
+2013	2015	They're Tyrell's niece's.
+2023	2025	Okay.
+2025	2027	Bad joke.
+2027	2029	I made a bad joke.
+2029	2030	You're not a Replicant.
+2031	2032	Go home.
+2032	2034	Okay?
+2036	2039	No, really. I'm sorry.
+2039	2041	Go home.
+2054	2055	Want a drink?
+2057	2059	I'll get you a drink.
+2060	2062	I'll get a glass.
+2286	2287	Hey!
+2293	2295	You forgot your bag.
+2305	2307	I'm lost.
+2309	2311	Don't worry, I won't hurt you.
+2315	2316	What's your name?
+2316	2319	-Pris.-Mine's J.F. Sebastian.
+2320	2322	-Hi.-Hi.
+2325	2327	Oh, where were you going?
+2329	2331	Home?
+2332	2334	I don't have one.
+2337	2340	We scared each other pretty good,didn't we?
+2340	2342	We sure did.
+2347	2349	I'm hungry, J.F.
+2350	2352	I got stuff inside.
+2353	2354	You wanna come in?
+2354	2357	I was hoping you'd say that.
+2391	2393	Do you live in this buildingall by yourself?
+2393	2396	Yeah, I live herepretty much alone right now.
+2397	2399	No housing shortage around here.
+2401	2404	Plenty of room for everybody.
+2413	2415	Watch out for the water.
+2417	2420	Must get lonely here, J.F.
+2422	2425	Not really. I make friends.
+2425	2428	They're toys. My friends are toys.I make them.
+2429	2431	It's a hobby. I'm a genetic designer.
+2431	2433	Do you know what that is?
+2433	2435	No.
+2437	2438	Now.
+2443	2446	Yoo-hoo, home again.
+2451	2454	Home again, home again, jiggidy-jig.
+2454	2457	-Good evening, J.F.-Evening, fellas.
+2469	2471	They're my friends. I made them.
+2471	2473	Where are your folks?
+2473	2475	I'm sort of an orphan.
+2475	2477	What about your friends?
+2477	2480	I have some, but I have to find them.
+2480	2482	I'll let them know where I am tomorrow.
+2486	2490	Can I take those things for you?They're soaked, aren't they?
+2590	2592	Enhance 224 to 176.
+2610	2611	Enhance.
+2612	2613	Stop.
+2627	2629	Move in.
+2629	2630	Stop.
+2631	2633	Pull out, track right.
+2633	2635	Stop.
+2636	2638	Center and pull back.
+2641	2642	Stop.
+2644	2645	Track 45 right.
+2647	2649	Stop.
+2649	2650	Center and stop.
+2656	2659	Enhance 34 to 36.
+2669	2672	Pan right and pull back.
+2673	2674	Stop.
+2680	2681	Enhance 34 to 46.
+2693	2695	Pull back.
+2696	2697	Wait a minute. Go right.
+2699	2700	Stop.
+2701	2702	Enhance 57-19.
+2705	2707	Track 45 left.
+2709	2711	Stop.
+2712	2715	Enhance 15 to 23.
+2726	2728	Give me a hard copy right there.
+2785	2787	Fish?
+2802	2805	I think it was manufactured locally.
+2810	2814	Finest quality. Superior workmanship.
+2815	2817	There is the maker's serial number.
+2818	2824	9906947-XB71.
+2825	2826	lnteresting.
+2827	2831	Not fish. Snake scale.
+2831	2833	Snake.
+2833	2838	Try Abdul Ben Hassan.He make this snake!
+2899	2901	Abdul Hassan?
+2902	2906	I'm a police officer.I'd like to ask you a few questions.
+2906	2909	Artificial snake license XB71, that's you?
+2910	2913	This is your work, huh?Who did you sell it to?
+2913	2915	My work? Not too manycould afford such quality.
+2916	2917	How many?
+2917	2919	-Very few.-How few?
+2919	2921	-Look, my friend---Taffey Lewis' .
+2921	2925	Down in Fourth Sector, Chinatown.
+2926	2930	Cross now. Cross now. Cross now.
+2930	2935	Cross now. Cross now. Cross now.
+2935	2938	Cross now. Cross now.
+2961	2963	Bartender.
+2967	2968	Taffey Lewis?
+2969	2971	Thank you.
+2974	2976	-Taffey?-Yeah?
+2976	2979	I'd like to ask you a few questions.
+2979	2980	Blow.
+2982	2984	You ever buy snakesfrom the Egyptian, Taffey?
+2985	2986	All the time, pal.
+2989	2990	You ever see this girl, huh?
+2992	2993	Never seen her. Buzz off.
+2993	2995	Your licenses in order, pal?
+2996	2998	Hey, Louie.
+2998	3002	The man is dry. Give him oneon the house, okay? See?
+3045	3046	Hello?
+3048	3052	I've had people walk out on me before,but not when...
+3052	3054	...I was being so charming.
+3054	3058	I'm in a bar, here now,down in the Fourth Sector.
+3060	3061	Taffey Lewis is on the line.
+3061	3064	Why don't you come on down hereand have a drink?
+3065	3067	I don 't think so, Mr. Deckard.
+3068	3070	That's not my kind of place.
+3070	3071	Go someplace else?
+3087	3090	Ladies and gentlemen...
+3090	3095	...Taffey Lewis presentsMiss Salome and the snake.
+3095	3100	Watch her take the pleasurefrom the serpent...
+3100	3104	...that once corrupted man.
+3146	3149	Excuse me, Miss Salome,can I talk to you for a minute?
+3149	3153	I'm from the American Federationof Variety Artists.
+3153	3154	Oh, yeah?
+3154	3158	I'm not here to make you join.No, ma'am. That's not my department.
+3158	3160	Actually...
+3162	3167	...I'm from the Confidential Committeeon Moral Abuses.
+3168	3170	Committee of Moral Abuses?
+3170	3172	There's been reportsthat the management...
+3172	3174	...has been taking libertieswith the artists.
+3174	3176	I don't know nothing about it.
+3176	3179	Have you felt yourself to beexploited in any way?
+3179	3182	How do you mean "exploited"?
+3182	3184	Well, like to get this job.
+3185	3189	I mean, did you do, or were youasked to do, anything that's...
+3190	3192	...lewd or unsavory or...
+3192	3196	...otherwise repulsiveto your person, huh?
+3199	3201	-Are you for real?-Oh, yeah.
+3202	3205	I'd like to checkyour dressing room, if I may.
+3205	3208	-For what?-For holes.
+3208	3209	Holes?
+3209	3212	Well, you'd be surprisedwhat a guy would go through...
+3212	3215	...to get a glimpse of a beautiful body.
+3218	3219	No, I wouldn't.
+3219	3222	Little...
+3222	3227	...dirty holes they drill in the wallso they can watch a lady undress.
+3261	3264	-Is this a real snake?-Of course it's not real.
+3264	3268	Think I'd be working in a place like thisif I could afford a real snake?
+3282	3285	So if somebody does try to exploit me,who do I go to about it?
+3285	3290	-Me.-You're a dedicated man. Dry me.
+3316	3318	The only thing they care about--
+3318	3319	Hey!
+3406	3409	Cross now. Cross now.
+3409	3412	Cross now. Cross now.
+3412	3415	Cross now. Cross now.
+3415	3418	Cross now. Cross now.
+3418	3421	Cross now. Cross now.
+3422	3424	Don't walk. Don't walk.
+3424	3426	Don't walk. Don't walk.
+3427	3430	Don't walk. Don't walk. Don't walk.
+3444	3447	Cross now. Cross now.
+3448	3451	Cross now. Cross now.
+3451	3453	Cross now. Cross now.
+3454	3457	Cross now. Cross now.
+3457	3459	Cross now. Cross now.
+3459	3461	Move! Get out of the way!
+3567	3568	Deckard.
+3569	3570	B26354.
+3577	3579	Move on. Move on.
+3580	3582	Move on. Move on.
+3582	3585	Move on. Move on.
+3591	3593	A minute.
+3595	3596	Yeah, what do you want?
+3597	3598	Tsingtao.
+3606	3607	This enough?
+3608	3609	Yeah.
+3618	3620	Bryant.
+3640	3643	Christ, Deckard, you look almost as badas that skin-job you left on the sidewalk.
+3644	3645	I'm going home.
+3645	3647	Could learn from this guy, Gaff.
+3647	3650	He's a goddamn one-manslaughterhouse, that's what he is.
+3651	3652	Four more to go.
+3653	3654	-Come on, Gaff, let's go.-Three.
+3657	3658	There's three to go.
+3658	3661	There's four.
+3661	3664	That skin-job you VK'dat the Tyrell Corporation...
+3664	3668	...Rachael, disappeared, vanished.Didn't even know she was a Replicant.
+3668	3671	Something to do with a brain implant,says Tyrell.
+3671	3674	Come on, Gaff.Drink some for me, huh, pal?
+3719	3720	Leon.
+3720	3722	How old am I?
+3726	3728	I don't know.
+3730	3733	My birthday's April 10, 2017.How long do I live?
+3734	3735	Four years.
+3742	3744	More than you.
+3749	3751	Painful to live in fear, isn't it?
+3757	3760	Nothing is worse than havingan itch you can never scratch.
+3761	3763	I agree.
+3774	3776	Wake up. Time to die.
+3811	3813	Shakes?
+3814	3816	Me too.
+3820	3822	I get them bad.
+3827	3829	It's part of the business.
+3837	3838	I'm not in the business.
+3852	3854	I am the business.
+3947	3948	What if I go north?
+3952	3953	Disappear.
+3959	3960	Would you come after me?
+3962	3964	Hunt me?
+3969	3970	No.
+3973	3975	No, I wouldn't.
+3981	3982	I owe you one.
+3997	3999	But somebody would.
+4012	4013	Deckard...
+4016	4018	...you know those files on me?
+4019	4023	The incept date. The longevity.
+4023	4025	Those things.
+4027	4028	You saw them?
+4032	4034	They're...
+4034	4035	...classified.
+4035	4038	But you're a policeman.
+4038	4040	I...
+4040	4042	...didn't look at them.
+4044	4046	You know,that Voight-Kampff test of yours...
+4047	4050	...did you ever take that test yourself?
+4062	4064	Deckard.
+4214	4216	I dreamt music.
+4221	4224	I didn't know if I could play.
+4225	4228	I remember lessons.
+4229	4233	I don't know if it's me or Tyrell's niece.
+4238	4240	You play beautifully.
+4310	4312	Now you kiss me.
+4314	4315	I can't rely on my--
+4315	4318	Say, "Kiss me."
+4321	4323	Kiss me.
+4334	4336	I want you.
+4339	4341	I want you.
+4341	4342	Again.
+4343	4345	I want you.
+4348	4350	Put your hands on me.
+4432	4435	-What you doing?-I'm sorry. Just peeking.
+4439	4442	-How do I look?-You look better.
+4442	4445	-Just better?-Well...
+4446	4447	...you look beautiful.
+4451	4452	Thanks.
+4459	4460	How old are you?
+4462	4464	Twenty-five.
+4465	4468	-What's your problem?-Methuselah syndrome.
+4468	4469	What's that?
+4469	4472	My glands, they grow old too fast.
+4473	4478	-Is that why you're still on Earth?-Yeah. I couldn't pass the medical.
+4481	4482	Anyway...
+4482	4483	...I kind of like it here.
+4486	4488	I like you...
+4488	4490	...just the way you are.
+4493	4495	Hi, Roy.
+4495	4496	Hi.
+4496	4498	Gosh, you...
+4498	4501	...really got some nice toys here.
+4501	4503	This is the friend I was telling you about.
+4503	4506	This is my savior, J.F. Sebastian.
+4507	4508	Sebastian.
+4509	4512	I like a man that stays put.
+4513	4516	You live here all by yourself, do you?
+4517	4518	Yes.
+4529	4531	How about some breakfast?
+4532	4534	I was just gonna make some.
+4534	4535	Excuse me.
+4542	4544	Well?
+4546	4547	Leon... .
+4548	4550	What's going on?
+4554	4556	There's only two of us now.
+4558	4561	Then we're stupid and we'll die.
+4565	4567	No, we won't.
+4601	4602	No.
+4602	4604	Knight takes queen, see?
+4604	4606	Won't do.
+4615	4617	Why are you staring at us, Sebastian?
+4617	4618	Because...
+4619	4621	...you're so different.
+4622	4624	You're so perfect.
+4627	4629	Yes.
+4629	4631	What generation are you?
+4640	4641	Nexus 6.
+4642	4643	I knew it.
+4643	4647	Because I do genetic design workfor the Tyrell Corporation.
+4647	4649	There's some of me in you.
+4650	4652	Show me something.
+4652	4654	Like what?
+4654	4656	Like anything.
+4658	4662	We're no computers, Sebastian.We're physical.
+4664	4666	I think, Sebastian...
+4667	4669	...therefore, I am.
+4669	4673	Very good, Pris. Now show him why.
+4699	4701	We've got a lot in common.
+4701	4704	-What do you mean?-Similar problems.
+4704	4707	Accelerated decrepitude.
+4708	4711	I don't know much about bio-mechanics,Roy. I wish I did.
+4713	4716	If we don't find help soon...
+4716	4719	...Pris hasn't got long to live.
+4719	4721	We can't allow that.
+4723	4726	-Is he good?-Who?
+4726	4730	-Your opponent.-Oh, Dr. Tyrell?
+4730	4733	I've only beaten him once in chess.He's a genius.
+4736	4737	He designed you.
+4739	4742	Maybe he could help.
+4742	4744	I'd be happy to mention it to him.
+4746	4750	Better if I talk to him in person.
+4753	4758	But I understandhe's a sort of hard man to get to.
+4758	4760	Yes.
+4760	4762	Very.
+4765	4767	Will you help us?
+4768	4769	I can't.
+4770	4772	We need you, Sebastian.
+4772	4775	You're our best and only friend.
+4788	4790	We're so happy you found us.
+4792	4794	I don't thinkthere's another human being...
+4794	4797	...in the whole worldwho would've helped us.
+4846	4849	66,000 Prosser & Ankovich.
+4850	4852	Trade.
+4852	4855	-Trade at two---Blue entry.
+4856	4859	A Mr. J.F. Sebastian.
+4859	4863	16417.
+4864	4866	At this hour?
+4866	4869	What can I do for you, Sebastian?
+4872	4874	Queen to bishop six. Check.
+4879	4882	Nonsense.
+4882	4884	Just a moment.
+4887	4892	Queen to bishop six, ridiculous.
+4897	4899	Queen...
+4901	4903	...bishop six.
+4908	4910	Knight...
+4910	4913	... takes queen.
+4919	4922	What's on your mind, Sebastian?
+4922	4923	What are you thinking about?
+4925	4927	Bishop to king seven.
+4927	4929	Checkmate.
+4930	4932	Bishop to king seven.Checkmate, I think.
+4934	4937	Got a brainstorm, huh, Sebastian?
+4937	4940	Milk and cookies kept you awake, huh?
+4940	4942	Let's discuss this.
+4942	4944	You better come up, Sebastian.
+4962	4964	Mr. Tyrell?
+4966	4967	I...
+4968	4970	I brought a friend.
+4976	4980	I'm surprisedyou didn't come here sooner.
+4986	4990	It's not an easy thingto meet your maker.
+4990	4993	And what can he do for you?
+4994	4997	Can the maker repair what he makes?
+4998	5001	Would you like to be modified?
+5001	5003	Stay here.
+5008	5012	Had in mind somethinga little more radical.
+5012	5014	What...?
+5014	5017	What seems to be the problem?
+5017	5020	-Death.-Death.
+5021	5024	Well, I'm afraid that'sa little out of my jurisdiction. You--
+5024	5027	I want more life...
+5027	5028	...father.
+5033	5035	The facts of life.
+5037	5039	To make an alteration in the...
+5040	5042	...evolvement ofan organic life system is fatal.
+5042	5046	A coding sequence cannot be revisedonce it's been established.
+5046	5047	Why not?
+5047	5049	Because by the second dayof incubation...
+5049	5054	...any cells that have undergonereversion mutations...
+5054	5058	...give rise to revertant colonieslike rats leaving a sinking ship.
+5058	5060	Then the ship sinks.
+5060	5064	What about EMS recombination?
+5064	5066	We've already tried it.
+5066	5070	Ethyl methane sulfonate is analkylating agent and a potent mutagen.
+5070	5074	It created a virus so lethal the...
+5075	5077	...subject was deadbefore he left the table.
+5077	5080	Then a repressor proteinthat blocks the operating cells.
+5080	5084	Wouldn't obstruct replication, but itdoes give rise to an error in replication.
+5084	5089	So that the newly formed DNA strandcarries a mutation...
+5089	5092	...and you've got a virus again.
+5092	5097	But this, all of this, is...
+5097	5098	...academic.
+5099	5101	You were madeas well as we could make you.
+5101	5103	But not to last.
+5104	5107	The light that burns twice as brightburns half as long.
+5107	5111	And you have burnedso very, very brightly, Roy.
+5112	5114	Look at you.
+5114	5117	You're the prodigal son.
+5117	5120	You're quite a prize.
+5126	5127	I've done...
+5128	5129	...questionable things.
+5129	5131	Also extraordinary things.
+5132	5134	Revel in your time.
+5138	5143	Nothing the god of biomechanicswouldn't let you in heaven for.
+5195	5198	Sorry, Sebastian.
+5198	5201	Come. Come.
+5248	5252	Body identified with Tyrellis a 25-year-old male Caucasian.
+5253	5255	Name: Sebastian, J.F. Sebastian.
+5256	5260	Address: Bradbury Apartments,Ninth Sector, NF4675 1.
+5261	5262	I want you to go down there and--
+5266	5269	This sector's closed to ground traffic.What're you doing here?
+5269	5273	-I'm working. What are you doing?-Arresting you, that's what I'm doing.
+5273	5278	I'm Deckard, Blade Runner.26354. I'm filed and monitored.
+5278	5279	Hold on. Checking.
+5284	5287	Okay. Checked and cleared.Have a better one.
+5298	5300	-Hello.-Hi. Is J.F. there?
+5300	5303	-Who is it?-This is Eddie, old friend of J.F.'s.
+5307	5309	That's no way to treat a friend.
+5488	5490	Home again, home again, jiggidy-jig.
+5491	5494	Good evening, J.F.
+5504	5506	Tea?
+5507	5509	More tea?
+5510	5511	Tea?
+5521	5523	More tea?
+5525	5526	Tea?
+5528	5530	More tea?
+5532	5534	More tea?
+5546	5548	More tea?
+5733	5737	Not very sporting to fireon an unarmed opponent.
+5739	5742	I thought you weresupposed to be good.
+5743	5746	Aren't you the good man?
+5751	5755	Come on, Deckard.
+5756	5758	Show me...
+5759	5761	...what you're made of.
+5773	5775	Proud of yourself, little man?
+5782	5784	This is for Zhora.
+5786	5787	This is for Pris.
+5794	5796	Come on, Deckard.
+5796	5800	I'm right here,but you've gotta shoot straight.
+5801	5803	Straight doesn't seemto be good enough!
+5803	5805	Now it's my turn.
+5806	5810	I'm gonna give you a few secondsbefore I come.
+5811	5812	One.
+5812	5814	Two.
+5826	5828	Three.
+5829	5830	Four.
+5843	5844	Pris.
+5915	5919	I'm coming.
+5920	5921	Deckard!
+5924	5925	Four, five
+5928	5931	How to stay alive?
+5954	5956	I can see you!
+5982	5984	Not yet!
+5984	5985	Not... .
+6018	6020	Five.
+6023	6025	Five.
+6029	6030	Yes.
+6038	6039	You better get it up.
+6040	6042	Or I'm gonna have to kill you.
+6043	6045	Unless you're alive, you can't play.
+6045	6047	And if you don't play... .
+6057	6059	Six, seven
+6059	6061	Go to hell or go to heaven
+6068	6070	Good, that's the spirit!
+6111	6114	That hurt.
+6117	6119	That was irrational of you.
+6121	6122	Not to mention...
+6123	6125	...unsportsmanlike.
+6129	6131	Where are you going?
+6316	6320	Quite an experience to live in fear,isn't it?
+6321	6324	That's what it is to be a slave.
+6383	6385	I've...
+6385	6390	...seen thingsyou people wouldn't believe.
+6391	6397	Attack ships on fireoff the shoulder of Orion.
+6399	6401	I watched C-beams...
+6401	6405	...glitter in the darknear the Tannhäuser Gate.
+6409	6411	All those...
+6411	6414	...moments will be lost...
+6414	6417	...in time...
+6418	6420	...like...
+6421	6422	...tears...
+6424	6426	...in rain.
+6430	6432	Time to die.
+6498	6501	You've done a man's job, sir.
+6507	6509	I guess you're through, huh?
+6511	6513	Finished.
+6535	6538	It's too bad she won't live.
+6539	6541	But then again, who does?
+6575	6577	Rachael?
+6585	6586	Rachael?
+6600	6602	Rachael?
+6669	6670	Do you love me?
+6672	6673	I love you.
+6674	6676	Do you trust me?
+6677	6679	I trust you.
+6689	6690	Rachael?
+6730	6733	It's too bad she won't live.
+6733	6736	But then again, who does?

@@ -1,0 +1,950 @@
+77	81	Three billion human lives ended on August 29, 1997.
+83	85	The survivors of the nuclear fire...
+85	88	called the war "Judgment Day."
+88	91	They lived only to face a new nightmare...
+91	93	the war against the machines.
+171	175	The computer which controlled the machines, Skynet...
+175	178	sent two Terminators back through time.
+178	182	Their mission: to destroy the leader of the human resistance.
+182	185	John Connor, my son.
+189	191	The first Terminator was programmed to strike at me...
+191	193	in the year 1984...
+193	196	before John was born.
+196	198	It failed.
+198	201	The second was set to strike at John himself...
+201	203	when he was still a child.
+206	211	As before, the resistance was able to send a lone warrior...
+211	213	a protector for John.
+213	216	It was just a question of which one of them would reach him first.
+471	474	I need your clothes, your boots and your motorcycle.
+483	486	You forgot to say please.
+501	503	Get him off me!
+524	526	Pull it out!
+546	548	Take it.
+574	577	Can't let you take the man's wheels, son.
+577	580	Now, get off before I put you down.
+589	592	That's it, goddamn it.
+652	654	R-31 David, Sherman Code 6...
+655	658	at the Sixth Street Bridge and Santa Fe on electrical disturbance.
+660	662	Ten-four, R-31 David.
+730	734	"JMA Query: Connor, John"
+759	762	John, get in there and clean up that pigsty of yours.
+773	775	Your foster parents are kind of dicks, huh?
+775	779	I swear, I have had it with that goddamn kid.
+779	782	- He won't even answer me anymore. - Honey, move.
+782	785	Would you get off your butt and help me?
+785	787	- Todd! - What?
+788	791	He hasn't cleaned that room of his in a month.
+791	794	Oh, it's an emergency. Hang on. I'll get right on it.
+802	804	Come on.
+804	807	Get your ass inside. Do what your mother tells you.
+808	811	She's not my mother, Todd.
+837	839	This next patient is interesting.
+839	842	I've been following the case for years.
+842	844	A 29-year-old female...
+846	849	diagnosed as acute schizo-affective disorder.
+849	852	The usual indicators: depression, anxiety, violent acting out...
+852	854	delusions of persecution.
+860	864	The delusional architecture is fairly unique.
+864	867	She believes that a machine called the Terminator...
+867	870	which looks human, was sent back through time...
+870	872	to kill her. - That's original.
+872	875	And also that the father of her child...
+875	879	was a soldier sent back to protect her.
+879	881	He was from the future too.
+881	886	The year 2029, if I remember correctly.
+886	888	And here we are.
+889	890	Morning, Sarah.
+894	898	Good morning, Dr. Silberman. How's the knee?
+900	902	Fine, Sarah.
+903	905	She stabbed me in the kneecap...
+905	909	with my pen a few weeks ago.
+909	910	Repeated escape attempts.
+921	923	Let's move on, shall we?
+923	926	I don't like to see the patients disrupting their rooms like this.
+926	930	- See she takes her Thorazine. - Sure. I'll take care of it.
+953	955	Are you the legal guardian of John Connor?
+956	959	That's right, Officer. What's he done now?
+959	962	- Could I speak with him, please? - You could if he were here.
+962	965	He took off on his bike this morning. He could be anywhere.
+965	967	Do you have a photograph of John?
+968	969	Yeah. Hold on.
+971	974	Gonna tell me what this is about?
+974	977	I just need to ask him a few questions.
+978	982	He's a good-looking boy. Do you mind if I keep this picture?
+982	985	No, go on. There was a guy here this morning looking for him too.
+985	987	Yeah, a big guy on a bike.
+988	990	Has that got something to do with this?
+993	996	I wouldn't worry about him.
+996	999	Thanks for your cooperation.
+1000	1003	Please insert your stolen card now.
+1011	1012	PIN number.
+1014	1015	Hurry up. This is taking too long.
+1015	1017	Go, baby.
+1018	1020	All right.
+1020	1024	- PIN number 9003. - Where'd you learn this stuff from?
+1024	1026	From my mom. My real mom, I mean.
+1026	1030	Withdraw 300 bucks.
+1031	1033	Come on, baby. Come on!
+1033	1036	- Yes! - Hey, it worked.
+1036	1039	All right. Easy money. Come on!
+1042	1044	Yes! Piece of cake.
+1049	1052	- ls that her? - Yes.
+1053	1054	She's pretty cool, huh?
+1054	1057	No, she's a complete psycho.
+1057	1059	That's why she's at Pescadero. It's a mental institute.
+1061	1064	She tried to blow up a computer factory but got shot and arrested.
+1064	1066	No shit.
+1067	1070	She's a total loser.
+1070	1072	Come on. Let's go spend some money.
+1087	1091	It's like a giant strobe light...
+1091	1094	burning right through my eyes.
+1098	1100	Somehow I can still see.
+1106	1108	Oh, God.
+1111	1115	We know the dream's the same every night.
+1115	1118	- Why do I have to... - Please continue.
+1122	1125	Children look like burnt paper.
+1126	1129	Black.
+1129	1131	Not moving.
+1132	1135	And then the blast wave hits them.
+1144	1147	And they fly apart like leaves.
+1149	1150	Dreams...
+1150	1152	of cataclysm, the end of the world...
+1152	1154	are very common.
+1156	1160	It's not a dream, you moron. It's real.
+1160	1164	- I know the date it happens. - I'm sure it feels real to you.
+1164	1166	On August 29, 1997...
+1167	1170	it's gonna feel pretty fuckin' real to you too!
+1170	1176	Anybody not wearing two-million sunblock is gonna have a real bad day. Get it?
+1176	1179	God, you think you're safe and alive.
+1179	1181	You're already dead. Everybody!
+1181	1184	Him. You. You're dead already.
+1184	1187	This whole place, everything you see is gone!
+1187	1191	You're the one living in the dream, 'cause I know it happened!
+1191	1193	It happened!
+1204	1207	I feel much better now.
+1207	1209	Clearer.
+1209	1212	Yes, your attitude has been...
+1212	1214	much improved lately.
+1223	1226	It's helped me to have a goal...
+1226	1229	something to look forward to.
+1229	1230	What is that?
+1231	1233	Well, you said...
+1233	1237	that if I showed improvement after six months...
+1237	1240	you would transfer me to the minimum security wing...
+1240	1242	and I could have visitors.
+1244	1247	Well, it's been six months...
+1247	1248	and...
+1249	1251	I was looking forward to seeing my son.
+1253	1254	I see.
+1257	1261	Let's go back to what you were saying about those Terminator machines.
+1263	1266	Now you think they don't exist?
+1266	1268	They don't exist.
+1268	1270	I know that now.
+1270	1273	But you've told me on many occasions about how you crushed one...
+1273	1276	in a hydraulic press.
+1277	1280	If I had, there would have been some evidence.
+1280	1283	They would have found something at the factory.
+1283	1285	I see.
+1285	1288	So you don't believe anymore that the company covered it up?
+1291	1293	No. Why would they?
+1294	1297	Let's try a new position right there.
+1307	1310	Mr. Dyson?
+1310	1313	The materials team is running another...
+1313	1314	- Mr. Dyson. - Yes?
+1315	1318	The materials team is running another series this afternoon.
+1318	1321	You have to sign for the... it.
+1321	1323	- You have to sign it out. - Okay. I'll get it.
+1325	1330	I know I haven't been here long, but I was wondering if you know...
+1330	1331	Know what?
+1331	1334	If you know where 'it' came from.
+1334	1337	I asked them the same question once. You know what they told me?
+1337	1339	Don't ask.
+1345	1348	- Good morning, Mr. Dyson. - How's it going?
+1348	1351	Insert key. Left on three.
+1351	1354	Two, one, turn.
+1357	1360	- How are the wife and kids? - Great. Thanks.
+1387	1390	So what do you think, Doctor?
+1391	1393	Haven't I shown improvement?
+1394	1397	Well, Sarah, here's the problem.
+1398	1401	I know how smart you are.
+1401	1403	You're just telling me what I want to hear.
+1404	1407	I don't think you really believe what you're telling me today.
+1407	1411	If I put you in minimum security, you'll just try to escape again.
+1416	1418	You have to let me see my son.
+1419	1421	Please.
+1425	1428	He's in great danger. He's naked without me.
+1429	1431	If I could make a phone call...
+1431	1433	I'm afraid not. Not for a while.
+1436	1438	I don't see any choice but to recommend to the review board...
+1438	1441	that you stay here for another six months.
+1444	1447	I'll kill you, you son of a bitch!
+1448	1450	You son of a bitch!
+1452	1456	Ten CCs of sodium amobarbital, stat!
+1456	1457	You don't know what you're doing!
+1457	1459	Get some restraints in here now!
+1460	1464	You don't know what you're doing!
+1468	1470	Model citizen.
+1509	1512	You just missed him. He was here 15 minutes ago.
+1512	1515	- He was going to the galleria. - Yeah.
+1515	1517	The galleria?
+1562	1565	I'm gonna get some quarters. I'll be back, all right?
+1580	1583	- Oh, no! - Girls, do you know John Connor?
+1587	1590	Hey, do you know this guy?
+1590	1592	Nah, I don't know him.
+1597	1600	- John. - Not now.
+1600	1603	There's this cop scoping for you. Check it out.
+1606	1608	- He's right over there. - Split, man.
+1608	1610	- Just go. - Yeah.
+1615	1616	I saw that kid...
+1631	1633	You're not supposed to be in here!
+1659	1660	Get down.
+1731	1733	Mister, are you all right?
+1734	1736	You all right?
+1751	1752	Come on!
+1792	1793	Goddamn!
+2073	2075	Okay, time-out. Stop the bike.
+2075	2078	Time out. Come on, stop the bike.
+2091	2094	Holy shit. Now, don't take this the wrong way.
+2094	2096	- You are a Terminator, right? - Yes.
+2096	2099	Cyberdyne Systems, Model 101.
+2111	2113	Holy shit.
+2114	2117	You're really real.
+2117	2119	I mean...
+2121	2124	You're like a machine underneath, right?
+2124	2126	But alive outside?
+2126	2128	I'm a cybernetic organism.
+2128	2131	Living tissue over metal endoskeleton.
+2145	2148	This is intense.
+2148	2150	Get a grip, John. Okay.
+2153	2155	You're not here to kill me.
+2155	2159	I figured that part out for myself. So what's the deal?
+2159	2162	My mission is to protect you.
+2162	2165	Yeah? Who sent you?
+2166	2167	You did.
+2167	2169	Thirty-five years from now, you reprogrammed me...
+2169	2172	to be your protector here, in this time.
+2172	2175	Oh, this is deep.
+2177	2180	So this other guy, he's a Terminator like you, right?
+2180	2184	Not like me. A T-1000, advanced prototype.
+2185	2187	More advanced than you are?
+2187	2190	Yes. A mimetic poly-alloy.
+2190	2192	What the hell does that mean?
+2192	2194	Liquid metal.
+2195	2196	Where are we going?
+2196	2200	We have to get out of the city immediately and avoid the authorities.
+2200	2202	I gotta stop by my house. I wanna pick up some stuff.
+2203	2207	Negative. The T-1000 would definitely try to reacquire you there.
+2207	2210	- You sure? - I would.
+2221	2223	Look, Todd and Janelle are dicks...
+2226	2227	but I gotta warn'em.
+2227	2230	Shit. You got a quarter?
+2238	2241	- Hello. - Janelle, it's me.
+2242	2244	- John? - ls everything all right?
+2244	2246	- Are you guys okay? - Sure, honey, everything's okay.
+2246	2250	- Are you all right? - Yeah, I'm fine.
+2250	2253	John, it's late. I was beginning to worry about you.
+2253	2256	If you hurry home, we can sit down and have dinner together.
+2256	2258	I'm making beef stew.
+2258	2261	Something's wrong. She's never this nice.
+2261	2263	Where are you?
+2263	2265	What the hell is the goddamn dog barking at?
+2266	2269	Hey, shut up, you worthless piece of shit!
+2269	2270	The dog's really barking.
+2270	2273	You were gonna tell the kid to get rid of that mutt.
+2277	2279	John, it's late. Please don't make me worry.
+2279	2281	Could he already be there?
+2282	2284	Are you okay?
+2284	2288	- I'm right here. I'm fine. - Are you sure you're all right?
+2288	2291	- What's the dog's name? - Max.
+2291	2294	Hey, Janelle. What's wrong with Wolfie?
+2294	2296	I can hear him barking. ls he okay?
+2296	2300	Wolfie's fine, honey. Wolfie's just fine.
+2300	2302	Where are you?
+2303	2305	Your foster parents are dead.
+2342	2344	I need a minute here.
+2344	2349	You're telling me that this thing can imitate anything it touches?
+2349	2352	Anything it samples by physical contact.
+2352	2353	Get real.
+2353	2357	It could disguise itself as a pack of cigarettes?
+2357	2359	No, only an object of equal size.
+2359	2362	Why not just become a bomb or something to get me?
+2362	2364	It can't form complex machines.
+2364	2367	Guns and explosives have chemicals, moving parts.
+2367	2368	It doesn't work that way.
+2368	2371	- But it can form solid metal shapes. - Like what?
+2371	2373	Knives and stabbing weapons.
+2374	2376	These were taken by a video surveillance camera...
+2376	2380	at the West Highland Police Station in 1984.
+2381	2384	He killed 17 police officers that night.
+2386	2388	Men with families...
+2389	2391	children.
+2392	2395	These were taken at a mall in Reseda...
+2395	2397	today.
+2398	2401	Miss Connor, we know you know who this guy is.
+2404	2408	I just sat here and told you that your son is missing...
+2408	2411	that the foster parents have been murdered.
+2411	2413	We know this guy's involved.
+2414	2418	Doesn't that mean anything to you? Don't you care?
+2422	2424	We're wasting our time.
+2424	2426	Let's go.
+2426	2429	Sorry, guys.
+2429	2433	She's grown more disconnected from reality as time goes on.
+2433	2435	I'm afraid she can't help us now.
+2435	2439	If she clears at all and can give us anything, I'll call you.
+2439	2440	Sure.
+2440	2443	Douglas, take her back to her room.
+2443	2445	Yes, sir.
+2446	2448	Come on, sweetheart. Let's go.
+2448	2451	You see...
+2451	2454	we spent a lot of time in Nicaragua and places like that.
+2455	2459	For a while there, she was with this crazy ex-Green Beret guy...
+2459	2461	running guns.
+2461	2464	Then there were some other guys.
+2464	2466	She'd shack up with anybody she could learn from...
+2466	2469	so she could teach me how to be this great military leader.
+2471	2473	Then she gets busted.
+2473	2477	It's like, 'Sorry, kid, your mom's a psycho. Didn't you know?'
+2479	2483	Like everything I've been brought up to believe is all made-up bullshit.
+2483	2486	I hated her for that.
+2489	2491	But everything she said was true.
+2493	2495	She knew...
+2497	2499	and nobody believed her...
+2501	2503	not even me.
+2505	2506	Listen. We gotta get her out of there.
+2507	2510	Negative. The T-1000's highest probability for success now...
+2510	2513	will be to copy Sarah Connor and wait for you to make contact with her.
+2513	2515	Great. What happens to her?
+2515	2518	Typically, the subject being copied is terminated.
+2518	2521	Shit! Why didn't you tell me? We gotta go right now!
+2522	2524	Negative. It's not a mission priority.
+2524	2526	Fuck you! She's a priority to me!
+2528	2532	Goddamn it! What's your problem? Help!
+2532	2534	This does not help our mission.
+2534	2536	Get this psycho off of me! Help!
+2536	2539	I'm being kidnapped! Get this psycho off of me!
+2539	2540	Let me go!
+2545	2547	Why did you do that?
+2547	2549	Because you told me to.
+2552	2553	What?
+2558	2560	You have to do what I say?
+2560	2562	That's one of my mission parameters.
+2564	2567	Prove it. Stand on one foot.
+2569	2571	Yes!
+2573	2577	Cool. My own Terminator. Wow.
+2578	2579	You okay, kid?
+2579	2581	Take a hike, bozo.
+2581	2583	Let's get outta here, man.
+2583	2585	Fuck you, you little dipshit!
+2586	2588	Dipshit?
+2590	2592	Put your leg down.
+2592	2597	- Did you call moi a dipshit? - Just trying to help this punk.
+2597	2599	Grab this guy.
+2600	2602	Get him off of me!
+2602	2604	Now who's the dipshit...
+2604	2606	you jock douche bag?
+2615	2618	Put the gun down now!
+2618	2621	- Get outta here! - Come on. Let's split!
+2628	2630	You were gonna kill that guy!
+2630	2632	Of course. I'm a Terminator.
+2634	2637	Listen to me very carefully, okay?
+2637	2640	You're not a Terminator anymore, all right?
+2640	2643	You got that?
+2643	2645	You just can't go around killing people.
+2645	2646	Why?
+2647	2649	What do you mean, why? 'Cause you can't.
+2650	2653	Because you just can't. Trust me on this.
+2659	2663	Look. I'm gonna go get my mom.
+2663	2666	I order you to help me.
+2813	2816	You have a Sarah Connor here?
+2816	2817	You're runnin' kind of late.
+2817	2820	They've been in there for an hour.
+2820	2822	Hold on a second. I'll buzz you in.
+2824	2828	Oh, here come your friends now.
+2890	2893	- Gwen, you want some coffee? - No, thanks.
+2893	2896	- How 'bout a beer? - Yeah, right.
+2920	2923	- Hey, I got a full house. - That's good, Louis.
+2924	2926	Must be my lucky day.
+3069	3071	You're right about number 24.
+3071	3074	Increase the medication to 250 milligrams.
+3074	3077	- Same kind? - Mm-hmm.
+3092	3094	You!
+3097	3099	You broke my arm.
+3099	3102	There are 215 bones in the human body.
+3102	3104	That's one. Now, don't move.
+3110	3112	What are you going to do?
+3115	3118	Why do we stop now?
+3119	3123	You gotta promise me you're not gonna kill anyone, right?
+3123	3125	- Right. - Swear?
+3125	3127	What?
+3127	3130	Just put up your hand and say, "I swear I won't kill anyone".
+3131	3134	I swear I will not kill anyone.
+3135	3137	All right. Let's go.
+3142	3144	Visiting hours is 10:00 to 4:00...
+3144	3147	Monday through Friday.
+3150	3151	What the hell are you doing?
+3152	3154	You son of a bitch! You shot me!
+3156	3157	Crazy bastard!
+3162	3164	Don't shoot me again. Don't kill me.
+3167	3169	He'll live.
+3184	3186	Son of a bitch!
+3187	3189	Let's try to remain calm.
+3189	3191	Open it, or he'll be dead before he hits the floor.
+3191	3193	There's no way, Connor. Let him go.
+3193	3196	- Open the door. - It ain't gonna happen.
+3196	3197	Take it easy, Sarah.
+3198	3201	It won't work. You're no killer. I don't believe you can do it.
+3201	3204	You're already dead. Everybody dies. You know I believe it.
+3204	3206	So don't fuck with me!
+3206	3208	Open the door!
+3214	3216	Back off!
+3216	3218	Get back!
+3218	3220	I'll pump him full of this shit. I swear!
+3221	3223	Don't move!
+3224	3225	Drop the shit!
+3225	3227	Do it!
+3227	3229	Get in the office.
+3229	3231	On the floor, face down. Not you!
+3232	3233	Open the door.
+3236	3238	On the floor. Hold it open.
+3238	3240	Face the wall!
+3255	3257	Get her!
+3285	3288	Hurry up! Open the door! The door's locked!
+3289	3291	Let's go! Open it!
+3293	3295	- She broke it off. - Open it!
+3301	3303	Let's go around! Come on! Move it!
+3335	3336	Mom, wait!
+3343	3344	Come back here!
+3349	3351	- Help her! - Wait here.
+3351	3353	- Hurry up! - He'll kill us all!
+3354	3356	Hold her.
+3357	3358	He'll kill us all!
+3381	3383	Mom, are you okay? Mom!
+3387	3390	Come with me if you want to live.
+3390	3392	It's okay, Mom. He's here to help.
+3417	3418	Go.
+3451	3453	What the fuck is it? What the fuck is going on?
+3468	3470	Get down.
+3506	3507	Out of the car!
+3509	3510	Right now!
+3534	3535	Go!
+3547	3548	I'm out.
+3555	3556	- Come on. - Here.
+3559	3561	Reload.
+3570	3572	Last one!
+3579	3581	Hang on.
+3607	3609	Ready!
+3622	3624	Here, drive.
+3677	3680	There's nobody behind us.
+3680	3682	- Are you all right? - Yeah.
+3684	3685	Can he see anything?
+3686	3688	I see everything.
+3691	3692	Cool.
+3696	3698	Come here.
+3703	3705	I said I was okay.
+3706	3709	John, it was stupid of you to go there.
+3710	3712	You have to be smarter than that.
+3712	3714	You were almost killed.
+3715	3717	What were you thinking?
+3718	3721	You cannot risk yourself, even for me.
+3721	3722	Do you understand?
+3722	3724	You're too important.
+3724	3727	Do you understand?
+3729	3731	But...
+3732	3736	I had to get you out of that place. I'm sorry.
+3737	3740	I didn't need your help.
+3747	3748	What's wrong with your eyes?
+3750	3752	Nothing.
+3762	3764	So, what's your story?
+3775	3776	You okay?
+3776	3777	Fine.
+3779	3782	Say, that's a nice bike.
+3805	3807	Watch it, lug nuts.
+3814	3818	Listen, do you know what you're doing?
+3818	3820	I have detailed files on human anatomy.
+3821	3823	I bet.
+3823	3826	Makes you a more efficient killer, right?
+3827	3828	Correct.
+3834	3836	Does it hurt when you get shot?
+3837	3840	I sense injuries. The data could be called "pain".
+3843	3845	John, help me with the light.
+3845	3847	- Will these heal up? - Yes.
+3847	3851	Good. If you can't pass for human, you're not much good to us.
+3851	3854	How long do you live? I mean, last. Whatever.
+3854	3857	A hundred and twenty years with my existing power cell.
+3857	3860	Can you learn stuff that you haven't been programmed with...
+3860	3862	so you can be...
+3863	3866	you know, more human...
+3866	3869	and not such a dork all the time?
+3870	3874	My CPU is a neural net processor, a learning computer.
+3874	3878	The more contact I have with humans, the more I learn.
+3878	3880	Cool.
+3911	3913	Are we learning yet?
+3926	3929	We have to get as far away from the city as possible.
+3932	3934	Just head south.
+3943	3944	Keep it under 65.
+3944	3947	- We don't want to be pulled over. - Affirmative.
+3951	3953	You gotta listen to the way people talk.
+3953	3957	You don't say 'affirmative' or some shit like that.
+3957	3959	You say, "No problemo".
+3959	3963	If someone comes off to you with an attitude, you say, "Eat me".
+3963	3967	And if you want to shine them on, it's "Hasta la vista, baby".
+3971	3973	Yeah, or "Later, dick-wad".
+3973	3976	If someone gets upset, you say, "Chill out".
+3976	3977	Or you can do combinations.
+3978	3980	Chill out, dick-wad.
+3981	3983	That's great. See? You're getting it.
+4000	4002	Want some of my fries?
+4012	4014	Need any help?
+4014	4016	No.
+4016	4018	- I got you! - No, you didn't!
+4026	4029	We're not gonna make it, are we?
+4031	4032	People, I mean.
+4035	4037	It's in your nature to destroy yourselves.
+4038	4041	Yeah. Major drag, huh?
+4041	4044	Break it up before I wring both of your necks.
+4046	4049	I need to know how Skynet gets built.
+4049	4051	Who's responsible?
+4051	4054	The man most directly responsible is Miles Bennett Dyson.
+4054	4056	Who is that?
+4056	4060	He's the director of special projects at Cyberdyne Systems Corporation.
+4063	4065	Why him?
+4065	4068	In a few months he creates a revolutionary type of microprocessor.
+4069	4071	Go on. Then what?
+4072	4075	In three years Cyberdyne will become the largest supplier...
+4075	4076	of military computer systems.
+4077	4080	All Stealth bombers are upgraded with Cyberdyne computers...
+4080	4082	becoming fully unmanned.
+4082	4085	Afterwards they fly with a perfect operational record.
+4085	4087	The Skynet funding bill is passed.
+4088	4091	The system goes on-line on August 4, 1997.
+4091	4094	Human decisions are removed from strategic defense.
+4094	4097	Skynet begins to learn at a geometric rate.
+4097	4101	It becomes self-aware at 2:14 a.m. Eastern time, August 29.
+4102	4105	In a panic, they try to pull the plug.
+4106	4108	- Skynet fights back. - Yes.
+4108	4111	It launches its missiles against the targets in Russia.
+4111	4114	Why attack Russia? Aren't they our friends now?
+4114	4117	Because Skynet knows that the Russian counterattack...
+4117	4119	will eliminate its enemies over here.
+4119	4121	Jesus.
+4123	4125	How much do you know about Dyson?
+4127	4129	I have detailed files.
+4130	4132	I want to know everything.
+4133	4138	What he looks like, where he lives, everything.
+4166	4168	Wait in the car.
+4206	4207	You're pretty jumpy, Connor.
+4228	4230	Hey, big John.
+4231	4232	What's up?
+4233	4234	He's cool, Enrique.
+4234	4235	He's with me.
+4236	4239	He's... Uncle Bob.
+4239	4241	Uncle Bob, this is Enrique.
+4241	4243	Uncle Bob, huh?
+4244	4245	Okay.
+4252	4253	Drink?
+4258	4260	"Uncle Bob"?
+4262	4265	You're pretty famous, all over the goddamn TV.
+4265	4268	Pictures of you, John, your big friend here.
+4268	4271	Cops are going nuts looking for you.
+4273	4278	I just came for my stuff. I need clothes, food and a truck.
+4278	4280	How about the fillings in my teeth?
+4280	4282	Now, Enrique.
+4283	4285	You two, you're on weapons detail.
+4285	4287	Let's go.
+4308	4310	One thing about my mom...
+4312	4314	she always plans ahead.
+4325	4326	Excellent.
+4336	4340	This is my best truck, but the starter motor's gone.
+4340	4342	You got time to change it out?
+4342	4345	Yeah. I'm gonna wait 'til dark to cross the border.
+4348	4350	I grew up in places like this...
+4350	4353	so I thought that's how people lived...
+4353	4356	riding around in helicopters, learning how to blow shit up.
+4362	4364	That's definitely you.
+4375	4378	Most of the guys my mom hung around with were geeks...
+4378	4382	but there was this one guy, he was kinda cool.
+4382	4384	He taught me engines.
+4384	4386	Hold here.
+4386	4388	Mom screwed it up, of course.
+4388	4391	She'd always tell 'em about Judgment Day...
+4391	4394	and me being this world leader.
+4394	4396	That'd be all she wrote.
+4397	4398	Torque wrench, please.
+4400	4402	Here.
+4402	4405	I wish I could've met my real dad.
+4405	4407	You will.
+4407	4409	Yeah, I guess.
+4409	4413	When I'm, like 45, I think.
+4413	4417	They sent him back through time to 1984.
+4417	4418	Man.
+4420	4422	He hasn't even been born yet.
+4424	4426	It messes with your head.
+4429	4432	- The other bolt. - Oh. Here.
+4438	4442	Mom and him were only together for one night.
+4442	4444	She still loves him, I guess.
+4444	4447	I see her crying sometimes.
+4447	4452	She denies it totally, of course, like she got something stuck in her eye.
+4456	4458	Why do you cry?
+4459	4460	- You mean people? - Yeah.
+4460	4462	I don't know.
+4462	4464	We just cry...
+4464	4466	you know, when it hurts.
+4473	4474	Pain causes it?
+4475	4478	No. It's different.
+4478	4481	It's when there's nothing wrong with you, but you hurt anyway.
+4481	4483	- You get it? - No.
+4484	4486	All right, my man!
+4487	4489	Give me five.
+4491	4493	Just put out your hand like this.
+4495	4499	All right! Now hit me. Give me five. Do the same thing.
+4504	4506	Okay, that's good. Up high.
+4507	4508	Five low.
+4509	4510	Too slow.
+4513	4515	I'm just kidding. One more time.
+4515	4518	Good. Now try it.
+4518	4520	Now do me. Give me five.
+4521	4526	Watching John with the machine, it was suddenly so clear.
+4526	4529	The Terminator would never stop.
+4529	4533	It would never leave him, never hurt him...
+4533	4536	never shout at him or get drunk and hit him...
+4536	4539	or be too busy to spend time with him.
+4540	4542	It would always be there...
+4542	4545	and it would die to protect him.
+4546	4549	Of all the would-be fathers who came and went over the years...
+4549	4551	this thing, this machine...
+4552	4554	was the only one who measured up.
+4555	4557	In an insane world...
+4557	4559	it was the sanest choice.
+4656	4658	Hey, let's try this one.
+4664	4666	There we go.
+4772	4775	She said go south with him like you planned.
+4775	4777	- She'll meet you tomorrow. - Mom!
+4779	4780	Mom, wait!
+4795	4797	"No fate".
+4798	4800	No fate but what we make.
+4803	4805	My father told her this.
+4807	4811	I made him memorize it in the future as a message to her.
+4813	4815	Never mind.
+4815	4818	Okay, the whole thing goes...
+4819	4821	The future's not set.
+4821	4825	There's no fate but what we make for ourselves.
+4825	4828	She intends to change the future.
+4828	4829	Yeah, I guess.
+4831	4833	Oh, shit!
+4833	4835	- Dyson. - Yeah.
+4835	4838	Gotta be. Miles Dyson.
+4838	4840	She's gonna blow him away.
+4841	4843	Come on! Let's go!
+4855	4857	This is tactically dangerous.
+4857	4858	Drive faster.
+4858	4861	The T-1000 has the same files that I do.
+4861	4864	It knows what I know. It might anticipate this move.
+4864	4867	I don't care. We gotta stop her.
+4867	4869	Killing Dyson might prevent the war.
+4869	4871	I don't care!
+4871	4873	Haven't you learned anything yet?
+4873	4876	Haven't you figured out why you can't kill people?
+4881	4884	Danny, I told you to go to bed. I'm not kidding.
+4885	4887	Just a couple of minutes, Mom!
+4896	4898	Danny, your time is up!
+4898	4901	Come brush your teeth and get to bed.
+4930	4932	Danny!
+4943	4945	Daddy!
+4945	4947	Danny, go! Go!
+4949	4950	Miles?
+4955	4957	- Tortsia, run! - Oh, my God!
+4965	4967	Just take Danny and run!
+4967	4968	Run!
+4968	4970	Oh, Jesus! Miles!
+4989	4990	Daddy!
+4991	4993	Nobody fucking move!
+4994	4995	Don't hurt my daddy!
+4995	4997	On the floor, bitch.
+4997	4999	Get down now!
+5000	5001	Move!
+5001	5002	Don't hurt him!
+5004	5006	Get on the floor now!
+5009	5011	Just let the boy go.
+5011	5012	Shut up. Shut up.
+5012	5014	Shut up!
+5014	5016	It's all your fault, motherfucker.
+5016	5019	- It's all your fault! - What?
+5019	5021	I'm not gonna let you do it.
+5073	5075	Shit! We're too late!
+5079	5081	Check them.
+5084	5086	Look at me, Mom.
+5086	5089	Are you hurt?
+5092	5094	I almost...
+5106	5108	It'll be okay.
+5108	5110	We'll figure something out. Okay?
+5112	5114	I promise.
+5117	5120	You came here to stop me.
+5121	5123	Yeah, I did.
+5125	5127	I love you, John.
+5129	5131	I always have.
+5133	5134	I know.
+5141	5143	Deep penetration.
+5145	5147	No shattered bone.
+5147	5150	Hold here. The pressure should stop the bleeding.
+5161	5162	Who are you people?
+5163	5164	Show him.
+5167	5171	Danny, I want you to come with me right now. Show me your room.
+5212	5213	Oh, my God.
+5213	5216	Now listen to me very carefully.
+5222	5226	Dyson listened while the Terminator laid it all down.
+5226	5230	Skynet. Judgment Day.
+5230	5232	The history of things to come.
+5233	5236	It's not every day that you find out you're responsible...
+5236	5239	for three billion deaths.
+5239	5241	He took it pretty well.
+5243	5246	I feel like I'm gonna throw up.
+5252	5254	You're judging me...
+5254	5256	on things I haven't even done yet.
+5260	5263	How were we supposed to know?
+5265	5267	Yeah.
+5267	5269	Right.
+5270	5272	How were you supposed to know?
+5273	5275	Fucking men like you...
+5275	5276	built the hydrogen bomb.
+5277	5279	Men like you...
+5279	5281	thought it up.
+5284	5286	You think you're so creative.
+5288	5291	You don't know what it's like to really create something...
+5291	5293	to create a life...
+5293	5295	to feel it growing inside you.
+5295	5298	All you know how to create is death and destruction.
+5298	5300	Mom!
+5300	5303	We need to be a little more constructive here. Okay?
+5303	5306	We still have to stop this from happening.
+5306	5308	But I thought...
+5309	5313	Aren't we changing things right now, changing the way it goes?
+5313	5317	That's right. There's no way I'm going to finish the new processor. Not now.
+5318	5321	Forget it. I'm out of it. I'll quit Cyberdyne tomorrow.
+5321	5323	That's not good enough.
+5323	5325	No one must follow your work.
+5325	5327	Right.
+5327	5331	All right, then we have to destroy all the stuff at the lab...
+5331	5333	the files, the disk drives...
+5333	5336	everything here.
+5336	5338	Everything.
+5338	5340	I don't care.
+5341	5342	The chip.
+5342	5344	- Do you know about the chip? - What chip?
+5344	5347	It's at Cyberdyne. It's from the other one like you.
+5347	5350	The CPU from the first Terminator.
+5350	5352	Son of a bitch! I knew it!
+5352	5355	They told us not to ask where they got it.
+5355	5357	Those lying motherfuckers.
+5357	5359	It's scary stuff. Radically advanced.
+5359	5360	It was smashed.
+5361	5364	It didn't work, but it gave us ideas, took us in new directions.
+5364	5366	Things we would've never...
+5368	5370	All my work was based on it.
+5371	5372	It must be destroyed.
+5375	5378	Can you get us in? Past security?
+5378	5380	I think so, yeah. When?
+5385	5386	Now?
+5390	5393	The future, always so clear to me...
+5393	5396	had become like a black highway at night.
+5396	5399	We were in uncharted territory now...
+5399	5402	making up history as we went along.
+5440	5442	Carl, right?
+5443	5447	Friends from out of town. I just thought I'd...
+5447	5449	take 'em upstairs and show 'em around.
+5449	5452	Mr. Dyson, you know the rules concerning visitors in the lab.
+5452	5454	I need written authorization...
+5455	5457	I insist.
+5457	5459	Don't even think about it.
+5470	5472	It's okay.
+5473	5476	It takes two keys, turned simultaneously, to open the vault.
+5476	5479	The other one is in a locker at the security station.
+5481	5482	Gibbons?
+5485	5487	Gibbons! Come on, man!
+5487	5490	You can't leave the desk like that!
+5495	5496	Oh, shit.
+5514	5516	My card should access this.
+5521	5523	- What is it? - Damn it.
+5523	5525	The silent alarm's been tripped.
+5531	5534	It's neutralized all the codes in the entire building.
+5534	5536	Nothing will open anywhere now.
+5537	5539	We have to abort.
+5542	5546	We go all the way. Okay?
+5548	5552	You guys get started on the lab. I can open this.
+5552	5554	- I think it's that guy from the mall. - It is.
+5554	5556	It's him and the woman.
+5558	5561	Just send everything you got in the area right now.
+5563	5566	I have a personal entry code for the lab. It may still work.
+5571	5572	It's no good.
+5572	5574	Let me try mine.
+5579	5581	John, fire in the hole!
+5593	5598	Wait! You can't go in there. The fire set off the Halon system.
+5605	5607	You have to wait until the gas clears.
+5610	5611	Put this on.
+5625	5627	All right, let's get to work.
+5649	5652	All units in the vicinity and all units able to respond...
+5652	5657	a 211 in progress, 2144 Kramer Street, the Cyberdyne building.
+5657	5659	Suspect one is white female...
+5659	5662	identified as last name Connor, first name Sarah.
+5662	5665	Escaped last night from Pescadero State Hospital.
+5665	5669	Suspect two: White male fitting description of the individual...
+5669	5672	wanted for the murder of police officers in 1984.
+5672	5674	Suspects are armed and considered extremely...
+5727	5728	All right.
+5728	5730	7-2-5-6.
+5737	5739	Easy money.
+5743	5745	Uh-oh.
+5748	5750	Oh, shit. Not good.
+5755	5757	How we doing?
+5757	5758	Primer cord is set.
+5758	5761	One more barrel, two more minutes.
+5765	5768	- How do we set them off? - Remote control.
+5768	5770	Piece of cake.
+5770	5772	- We got company. - Police?
+5772	5775	- How many? - All of 'em, I think.
+5775	5777	Go. I'll finish here.
+5779	5780	Come on.
+5781	5783	I'll take care of the police.
+5783	5785	Wait! You swore!
+5787	5789	Trust me.
+5802	5804	You at the window!
+5804	5807	Drop your weapon and place your hands on top of your head!
+5809	5811	Holy shit!
+5811	5812	That's a mini-gun!
+5834	5837	- Come on! - Oh, shit!
+5837	5838	Go! Go! Go!
+5886	5887	Fire!
+5905	5906	Same time, to the left.
+5906	5909	One, two, three, go.
+5921	5924	In order to get that out...
+5931	5933	We got Skynet by the balls now.
+5933	5935	Come on, let's book.
+5936	5938	Hold your fire!
+5963	5965	- Ready to rock? - Ready.
+5969	5970	Time to go.
+5970	5972	Now.
+5972	5975	- Take this. They'll use gas. - Come on.
+5975	5978	Get started on the door. Miles, hand me the detonator.
+6002	6005	Mom! Mom!
+6049	6050	Shit!
+6052	6055	She's in the clean room. There's no way outta there.
+6064	6065	Get down!
+6073	6074	Here.
+6100	6103	I don't know how much longer I can hold this.
+6107	6109	Fall back!
+6109	6111	Everybody out!
+6111	6113	Fall back now! Go! Go! Go!
+6148	6150	We got a war zone here!
+6182	6184	Shut your eyes.
+6190	6193	Stay here. I'll be back.
+6201	6203	Get down on the floor! Face down!
+6206	6208	On the floor now!
+6210	6212	Okay, drop him!
+6291	6293	Here, hold this.
+6310	6311	Holy shit!
+6326	6327	Go!
+6366	6367	Shit!
+6381	6382	Get out.
+6402	6403	Listen.
+6403	6406	No matter what happens, stay under these vests.
+6406	6407	- You got it? - Yeah.
+6407	6408	All right.
+6423	6424	Chopper's coming in!
+6424	6425	It's him.
+6483	6485	Shit!
+6487	6489	Stay down!
+6564	6565	Goddamn!
+6565	6566	You okay...
+6574	6576	Come on, Mom, we gotta get out.
+6578	6579	Take the shotgun.
+6583	6584	Are you hurt?
+6598	6598	Holy shit.
+6599	6600	Come on, Mom. Come on!
+6601	6602	We need your truck.
+6602	6603	Hurry!
+6608	6611	- Come on. Hurry. - Get in.
+6614	6621	Go!
+6621	6623	What the hell...
+6629	6632	- I'm bleeding bad. - Keep pressure on it.
+6633	6635	Here. This'll work.
+6641	6642	He's gaining.
+6645	6646	Step on it!
+6647	6649	- This is the vehicle's top speed. - I can run faster than this!
+6660	6662	Coming up, to the right.
+6664	6666	Watch it! Watch it!
+6688	6690	- Drive. - Where are you going?
+6698	6700	Take the off-ramp.
+6709	6711	Shit!
+6714	6715	Hold on!
+6761	6762	Don't stop!
+6770	6772	Go straight!
+6774	6775	Look out!
+6775	6776	Duck!
+6791	6793	Get the hell outta here!
+6798	6801	Get outta here! Let's go! Come on!
+6878	6881	Hasta la vista, baby.
+6930	6932	We don't have much time.
+6954	6956	Let's go.
+6957	6958	We gotta get outta here.
+6958	6960	Come on! Get up!
+6974	6976	Hand me the shotgun.
+6981	6983	Put your weight on me, Mom.
+6984	6986	Hurry!
+6989	6991	Come on, Mom.
+6997	6999	Get up!
+7015	7017	This way. Come on.
+7028	7031	Wait! No. No. It's too hot.
+7031	7032	Go back.
+7040	7042	- Go. Run. - No! We gotta stick together.
+7042	7044	John, you've got to go now.
+7044	7047	- John! - Go! Now!
+7121	7123	Get up the steps.
+7125	7126	Go.
+7130	7132	Get up.
+7133	7135	Come on, Mom. I got you.
+7169	7171	Grab the chain. Grab it.
+7173	7176	Grab it. Go. Go!
+7186	7189	Mom, come on! Mom!
+7238	7240	Call to John.
+7243	7245	I know this hurts.
+7247	7248	Call John.
+7265	7267	Call to John now.
+7269	7271	Fuck you.
+7469	7470	Help!
+7491	7492	Mom.
+7494	7496	Help me.
+7499	7500	Get out of the way, John.
+7500	7501	Shoot!
+7556	7558	Get down!
+7652	7654	Get up. Come on.
+7656	7658	Holy shit.
+7658	7660	I need a vacation.
+7674	7676	Is it dead?
+7677	7678	Terminated.
+7681	7683	Will this melt in there?
+7686	7688	Yes. Throw it in.
+7695	7697	And the chip.
+7712	7714	It's over.
+7721	7722	There's one more chip.
+7727	7729	And it must be destroyed also.
+7735	7736	Here.
+7736	7740	I cannot self-terminate. You must lower me into the steel.
+7753	7755	I'm sorry, John. I'm sorry.
+7755	7758	No, it'll be okay. Stay with us.
+7758	7760	- It'll be okay. - I have to go away.
+7760	7762	No, don't do it. Please, don't go.
+7762	7766	I must go away, John.
+7766	7767	No, wait.
+7767	7769	You don't have to do this.
+7769	7770	I'm sorry.
+7771	7773	No, don't do it! Don't go!
+7773	7775	It has to end here.
+7777	7780	I order you not to go!
+7788	7790	I know now why you cry.
+7792	7795	But it's something I can never do.
+7829	7831	Good-bye.
+7930	7933	The unknown future rolls toward us.
+7933	7937	I face it for the first time with a sense of hope.
+7937	7940	Because if a machine, a Terminator...
+7940	7943	can learn the value of human life...
+7943	7946	maybe we can too.

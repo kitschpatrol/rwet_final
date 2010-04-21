@@ -1,0 +1,1023 @@
+18	22	And that completes my final report until we reach touchdown.
+22	26	We're now on full automatic, in the hands of the computers.
+26	29	I've tucked my crew in for the long sleep
+29	31	and I'll be joining them
+31	33	soon.
+33	37	In less than an hour we'll finish our sixth month out of Cape Kennedy.
+37	40	Six months in deep space.
+40	42	By our time, that is.
+42	48	According to Dr. Hasslein's theory of time in a vehicle traveling nearly the speed of light,
+48	52	the Earth has aged nearly 700 years since we left it,
+52	54	while we've aged hardly at all.
+57	59	It may be so.
+59	61	This much is probably true.
+61	65	The men who sent us on this journey are long since dead and gone.
+66	69	You who are reading me now are a different breed.
+69	72	I hope a better one.
+72	75	I leave the 20th century with no regrets, but...
+75	77	one more thing.
+77	79	If anybody's listening, that is.
+79	83	Nothing scientific. It's... purely personal.
+84	86	Seen from out here,
+87	89	everything seems different.
+89	91	Time bends.
+91	94	Space is... boundless.
+94	97	It squashes a man's ego.
+98	101	I feel lonely.
+108	110	That's about it.
+112	114	Tell me, though...
+115	117	Does man, that marvel of the universe,
+118	121	that glorious paradox who has sent me to the stars,
+121	124	still make war against his brother,
+125	128	keep his neighbor's children starving?
+417	419	Are you all right?
+426	428	Stewart?
+430	431	Stewart?
+450	452	We're in the soup!
+452	455	She's sinking! Dodge, read the atmosphere!
+469	472	Landon, get out a last signal!
+472	474	What signal?
+474	477	To Earth! That we've landed!
+517	519	The air's OK!
+519	523	Blow the hatch before we lose all our power!
+530	532	It's no use! The power's gone!
+532	535	Forget it! Abandon ship!
+636	638	She's sinking.
+642	643	Going...
+645	647	Going...
+650	651	Gone.
+655	657	OK. We're here to stay.
+670	672	Well, where are we?
+673	675	Do you have any notion, skipper?
+675	678	We're some 320 light years from Earth
+678	683	on an unnamed planet in orbit around a star in the constellation of Orion.
+683	685	Is that close enough for you?
+686	688	That could be Bellatrix.
+688	691	It's too white for Bellatrix.
+691	694	You didn't have time to read the tapes.
+694	696	So you really don't know, do you?
+696	698	What went wrong?
+698	701	We weren't programmed to land in the water.
+701	705	The question is not so much where we are as when we are.
+705	708	We've had enough sleep to hold us for a while.
+709	711	Let's start earning all that back pay.
+748	750	Dodge, run your soil test.
+752	755	- Got your sensors? - Right.
+755	757	- Geiger counter? - Got it.
+760	762	Let's see. One pistol,
+762	767	20 rounds ammo, a medical kit, camera, TX9.
+767	771	We've got food and water enough for three days.
+771	773	How long is a day?
+773	775	That's a good question.
+775	776	Landon!
+776	778	Hey, Landon!
+778	780	Join the expedition.
+783	787	Sorry. I was thinking about Stewart. What do you suppose happened?
+787	789	Air leak. She died in her sleep.
+789	791	You don't seem very cut up about it.
+791	795	It's a little late for a wake. She's been dead nearly a year.
+795	798	That means we've been away from Earth for 18 months.
+798	800	Our time.
+801	803	You've gone gray.
+805	810	Apart from that you look pretty chipper for a man who's 2,031 years old.
+810	813	I read the clocks. They bear out Hasslein's hypothesis.
+813	817	We have been away from Earth for 2,000 years,
+817	819	give or take a decade.
+820	822	Still can't accept it?
+822	825	Time's wiped out everything you ever knew.
+825	827	It's all dust.
+827	829	Prove it.
+829	832	If we can't get back, it's still just a theory.
+832	836	It's a fact, Landon. Buy it. You'll sleep better.
+836	840	Nothing will grow here. There's just a trace of carbohydrates.
+840	843	All the nitrogen is locked into the nitrates.
+843	845	No dangerous ionization?
+845	847	No.
+848	849	Well...
+849	854	If there's no life here, we've got just 72 hours to find it.
+854	856	That's when the groceries run out. Let's go.
+857	859	Which direction?
+860	862	That way.
+862	864	Any particular reason?
+864	866	None at all.
+869	871	Come on...
+1033	1035	Everybody all right?
+1037	1039	Water check.
+1046	1047	Eight ounces.
+1054	1056	It doesn't add up.
+1056	1058	Thunder and lightning, and no rain.
+1058	1060	Cloud cover at night.
+1060	1063	That strange luminosity... yet there's no moon.
+1063	1065	If we could just get a fix.
+1065	1069	What would that tell you? I've told you where you are and when you are.
+1069	1071	All right, all right.
+1071	1075	You're 300 light years from your precious planet.
+1075	1079	Your loved ones are dead and forgotten for 20 centuries.
+1079	1084	20! Even if you could get back, they'd think you were something that fell out of a tree.
+1084	1086	Taylor, quit riding him.
+1086	1089	There is just one reality. We are here and it is now.
+1089	1091	You get hold of that, or you might as well be dead.
+1092	1094	I'm prepared to die.
+1096	1099	He's prepared to die.
+1099	1101	Doesn't that make you misty?
+1101	1104	Chalk up another victory for the human spirit.
+1111	1115	Clue me in on something, will you? Why did you sign on for this trip?
+1116	1118	You volunteered. Why?
+1118	1120	Never mind. I'll clue you in.
+1120	1123	You were the golden boy of the class of '72.
+1123	1127	When they nominated you for the big one, you couldn't turn it down.
+1127	1129	Not without losing your all-American image.
+1129	1131	Climb off, will you?
+1131	1134	Oh, and the glory. Don't forget that.
+1134	1138	There's a life-size bronze statue of you standing out there somewhere.
+1138	1142	It's probably turned green by now and nobody can read the nameplate.
+1142	1145	But never let it be said that we forget our heroes.
+1145	1149	- Taylor, I'm telling you to climb off my back. - And there's one last item.
+1149	1152	Immortality. You wanted to live for ever, didn't you?
+1152	1154	Well, you damn near made it.
+1154	1159	Except for me and Dodge, you've lived longer than anyone ever born.
+1159	1165	And with our lovely Lieutenant Stewart dead, it looks like you're the last of the line.
+1166	1170	You got what you wanted, tiger. How does it taste?
+1171	1173	OK. You read me well enough.
+1173	1175	But why can't I read you?
+1175	1177	Don't bother.
+1177	1179	Dodge, there. He's not like me at all.
+1180	1182	But he makes sense.
+1182	1184	He'd walk naked into a live volcano
+1185	1188	if he thought he could learn something that no other man knew.
+1189	1191	But you... You're no seeker.
+1191	1193	You're negative.
+1193	1197	- And I'm not prepared to die. - I'd like to know why not.
+1197	1201	You thought life on Earth was meaningless. You despised people.
+1201	1203	So what did you do? You ran out.
+1203	1206	No, no. It's not like that, Landon.
+1206	1208	I'm a seeker too.
+1208	1214	But my dreams aren't like yours. I can't help thinking somewhere in the universe
+1214	1217	there has to be something better than man. Has to be.
+1219	1221	Taylor, over here!
+1259	1260	Life.
+1274	1276	Where there's one, there's another.
+1277	1279	And another and another.
+1279	1281	Let's find 'em.
+1429	1431	Skipper!
+1433	1435	Look!
+1449	1451	Scarecrows?
+1452	1454	Let's see.
+1498	1500	To hell with the scarecrows!
+1579	1581	Taylor!
+1581	1583	Look at this.
+1607	1609	Taylor, look!
+1710	1712	They didn't leave much, did they?
+1741	1744	Well, at least they haven't tried to bite us.
+1745	1747	Blessed are the vegetarians.
+1752	1755	They look more or less human,
+1755	1757	but I think they're mute.
+1766	1769	We got off at the wrong stop.
+1770	1774	You're supposed to be the optimist, Landon. Look on the bright side.
+1774	1780	If this is the best they've got around here, in six months we'll be running this planet.
+2070	2071	Smile.
+2109	2112	Which one was wearing the strange clothes?
+2113	2115	This one.
+2117	2119	Will he live?
+2119	2121	I don't know.
+2121	2123	This beast has lost a lot of blood.
+2130	2132	There's no probe here. Find one!
+2132	2134	Yes, sir.
+2134	2136	This place is dirty, doctor.
+2136	2142	Doctor, these animals are dirty. They stink and they carry communicable diseases.
+2142	2145	Why aren't they cleaned up before they're brought here?
+2145	2150	- You don't sound happy in your work. - I'm little more than a vet in this laboratory.
+2150	2153	You promised to speak to Dr. Zaius about me.
+2153	2156	I did. You know how he looks down his nose at chimpanzees.
+2157	2159	But the quota system's been abolished.
+2159	2162	- You made it. Why can't I? - What do you mean - made it?
+2162	2166	I'm an animal psychologist, that's all. We have no authority.
+2166	2169	You do all right when it comes to getting space and equipment.
+2169	2173	That's because Dr. Zaius realizes our work has value.
+2173	2178	The foundations of scientific brain surgery are being laid right here
+2178	2180	in studies of cerebral functions of these animals.
+2182	2184	They're still dirty, doctor.
+2184	2187	And their bite is septic. There. Look at that.
+2188	2190	Hold his jaw.
+2215	2217	- Good morning, Dr. Zira. - Good morning, Julius.
+2217	2219	- How's our patient today? - No change.
+2220	2222	The minute you open the door, he goes into his act.
+2225	2226	Well!
+2227	2229	And what do we want this morning?
+2229	2231	Do we want something? Come on. Speak.
+2231	2233	Come on.
+2233	2234	Speak.
+2234	2236	Do we want some sugar, old-timer?
+2239	2241	You could get hurt doing that, doctor.
+2241	2243	Oh, don't be silly. He's perfectly tame.
+2243	2246	They're all tame until they take a chunk out of you.
+2246	2250	Well, Bright Eyes. Is our throat feeling better?
+2251	2253	Still hurts, doesn't it?
+2253	2256	See? He keeps pretending he can talk.
+2259	2262	That Bright Eyes is remarkable.
+2262	2264	He keeps trying to form words.
+2264	2267	You know what they say. Human see, human do.
+2272	2273	Now what?
+2276	2278	He seems to want something.
+2280	2282	I'd be careful, doctor.
+2282	2283	What did I tell you?
+2283	2285	Try that again and I'll break your arm!
+2287	2290	Good morning, Your Excellency.
+2290	2292	Dr. Zaius.
+2294	2296	Good morning, sir.
+2296	2298	Open up, please.
+2299	2301	I'm so glad you could come.
+2301	2303	Sir, he's over here.
+2305	2307	Bright Eyes...
+2308	2310	Show him. Go ahead.
+2310	2312	Do your trick.
+2312	2313	Speak.
+2313	2315	Go on. Speak again.
+2318	2321	There! Can you believe it?
+2321	2323	Yes, amusing.
+2323	2325	A man acting like an ape.
+2327	2331	Dr. Zaius, I could swear he's answering you.
+2331	2334	He has a definite gift for mimicry.
+2334	2336	Most unusual.
+2336	2339	He's using that old blanket as clothing.
+2340	2344	I wonder how he'd score on a Hopkins manual dexterity test.
+2344	2346	An animal?
+2346	2347	Look!
+2347	2349	He's moving his fingers.
+2349	2352	Only because he saw you moving yours.
+2352	2354	But perhaps he understood.
+2355	2358	Man has no understanding.
+2358	2361	He can be taught a few simple tricks. Nothing more.
+2362	2365	I'm afraid I must disagree.
+2365	2369	- According to my experiments... - Dr. Zira, I must caution you.
+2369	2373	Experimental brain surgery on these creatures is one thing,
+2373	2375	and I'm all in favor of it.
+2375	2379	But your behavioral studies are something else again.
+2379	2384	To suggest that we can learn anything about the simian nature
+2384	2386	from the study of man is sheer nonsense.
+2388	2390	Besides, man is a nuisance.
+2390	2393	He eats up his food supplies in the forest,
+2393	2397	then migrates to our green belts and ravages our crops.
+2400	2403	The sooner he is exterminated the better.
+2404	2407	It's a question of simian survival.
+2419	2421	Is this the one you wanted, doctor?
+2422	2424	Oh, yes. Thank you.
+2424	2428	Bright Eyes, I've got a present for you.
+2438	2440	Put her in with him.
+2491	2493	Cornelius! Up here.
+2494	2496	Do you have to work tonight?
+2497	2498	No.
+2498	2500	Neither do I.
+2504	2506	Oh, Cornelius.
+2521	2523	There's Bright Eyes.
+2524	2526	The one I was telling you about.
+2526	2529	What's so special about him?
+2529	2530	Watch.
+2530	2532	Hello, Bright Eyes.
+2532	2534	How's our throat today?
+2539	2541	- Look! She remembers! - Remembers what?
+2542	2544	The blood transfusion.
+2544	2545	Zira, really!
+2545	2547	You know, they can't... Watch out.
+2547	2549	Here comes number one.
+2549	2554	Something's bothering him. He's been prying around the lab for the last two days.
+2554	2556	Good morning, Dr. Zaius.
+2556	2560	- You know my... Dr. Cornelius, my fiancé? - Of course.
+2560	2565	The young ape with a shovel. I hear you're planning another archaeological expedition.
+2565	2569	- With the Academy's approval, sir. - The project will require my support.
+2569	2571	I hope I may count on it, sir.
+2571	2574	Cornelius, a friendly warning.
+2574	2579	As you dig for artifacts, be sure you don't bury your reputation.
+2592	2594	Guard!
+2594	2595	Guard!
+2617	2618	Stop!
+2618	2621	You'll hurt him!
+2621	2623	Take him inside.
+2625	2628	Cornelius! Cornelius, if you have a moment today,
+2628	2632	I'd like to discuss this expedition of yours in more detail.
+2632	2636	Certainly, sir. I'll pick up my notes and I'll come right over.
+2636	2639	I don't understand these animal psychologists.
+2640	2642	What's Dr. Zira trying to prove?
+2642	2645	That man can be domesticated.
+2682	2685	- What happened? - Oh, those fools and their torches.
+2685	2688	- Do you have any ointment? - I'll see.
+2692	2695	I'm sorry, Bright Eyes.
+2700	2701	Julius!
+2704	2706	I told you what you'd get!
+2706	2707	Julius, don't, don't, don't!
+2708	2709	It doesn't matter!
+2709	2711	Julius, don't hurt him!
+2714	2715	Julius!
+2721	2723	Natural-born thieves, aren't they?
+2735	2738	Get me a collar and leash.
+2739	2742	- I'm taking him out of here. - He's vicious, doctor.
+2742	2745	- Besides, it's against the rules. - Do as I say!
+2756	2760	You... you wouldn't hurt me, would you,
+2762	2763	Taylor?
+2780	2782	It's a stunt.
+2782	2784	Humans can't write.
+2784	2786	Dear, you're a scientist.
+2786	2788	Don't you believe your own eyes?
+2792	2794	Where did you learn to do this?
+2797	2799	"Jefferson
+2799	2802	Public School."
+2808	2810	"Fort Wayne,
+2810	2812	Indiana."
+2815	2817	Back on that planet you say you came from?
+2823	2825	Maybe he is intelligent.
+2825	2828	But he is also... crazy.
+2828	2830	Cornelius.
+2830	2832	Cornelius, please.
+2836	2839	"Dodge was killed in the hunt."
+2839	2842	"What happened to... Landon?"
+2844	2846	I don't know.
+2846	2849	They fell out of the sky with you?
+2853	2855	"Not fell. Flew."
+2855	2858	Flight is a scientific impossibility.
+2858	2861	And even if it weren't, why fly?
+2861	2863	Where would it get you?
+2879	2881	"Do you have maps?"
+2895	2898	We're here. You were captured here.
+2901	2903	You fell into the water here?
+2903	2905	You came ashore...
+2906	2908	Marched across the desert?
+2909	2910	Mountains?
+2911	2913	Many days and nights.
+2913	2916	And reached the jungle.
+2916	2918	Out of the question.
+2920	2923	Cornelius, why do you insist on provoking him?
+2923	2929	No creature can survive in the forbidden zone. I know. I've been there. I've seen it.
+2931	2933	"Then how do you account for me?"
+2934	2936	I don't.
+2936	2938	And I'm not going to try.
+2940	2943	But what about your theory?
+2944	2947	The existence of someone like Taylor might prove it.
+2947	2949	Do you want to get my head chopped off?
+2949	2953	Don't be foolish. If it's true, they'll have to accept it.
+2953	2955	No, they won't.
+2956	2959	Cornelius has developed the most brilliant hypothesis.
+2959	2961	But I'm probably wrong.
+2961	2965	That the ape evolved from a lower order of primate,
+2965	2967	possibly man.
+2967	2969	In his trip to the forbidden zone,
+2969	2973	he discovered traces of a culture older than recorded time.
+2973	2977	- The evidence was very meager. - You didn't think so then.
+2977	2981	That was before Dr. Zaius and half of the Academy said my idea was heresy.
+2981	2984	How can scientific truth be heresy?
+2984	2987	What if Taylor is exactly the proof you needed?
+2987	2989	A mutation.
+2989	2993	A missing link between the unevolved primate
+2993	2995	and the ape.
+2996	2999	Touchy, isn't he?
+3000	3002	"I am not a missing link."
+3002	3007	Well, if he were a missing link, the sacred scrolls wouldn't be worth their parchment.
+3007	3010	Well, maybe they're not.
+3010	3014	Oh, no, thank you. I'm not going to get into that battle.
+3014	3017	- Cornelius, show some strength! - Zira, listen to me!
+3018	3020	Now, we both have fine futures.
+3020	3022	Marriage, stimulating careers.
+3022	3024	I'm up for a raise.
+3025	3027	Dr. Zaius.
+3028	3031	Did you forget our appointment, Cornelius?
+3031	3034	No, sir. I was just collecting my notes.
+3034	3038	You know Dr. Maximus, of course. Our commissioner for animal affairs.
+3038	3041	Yes, sir. It's a pleasure to see you again.
+3041	3043	What is that?
+3043	3045	A man, Dr. Maximus.
+3045	3048	I know it's a man. And you know the rules.
+3048	3053	No animals allowed outside the compound, and most especially not without a leash.
+3053	3055	Yes, sir, but... but this
+3055	3058	creature is a special case.
+3058	3060	Why special?
+3061	3063	We're conducting a new experiment.
+3063	3066	Wouldn't that more properly be done in your office?
+3066	3068	Yes, sir.
+3068	3071	Guards, return this beast to the compound.
+3072	3073	What is this?
+3076	3078	A toy.
+3078	3080	It floats on the air.
+3080	3082	Zira...
+3082	3083	Try it.
+3083	3085	Nonsense.
+3102	3106	- What's up, lieutenant? - We're taking number four to surgery.
+3106	3108	- Have him ready. - How come?
+3108	3112	- The beast's throat's nearly healed. - The vet's going to geld him.
+3112	3115	Dr. Zira won't like it. She wants that pair to mate.
+3115	3120	These orders come from Dr. Zaius himself. There's nothing she can do about it.
+3135	3138	If only you knew what they're going to do.
+3140	3142	Stay still now. Don't give me any trouble.
+3174	3178	Weep if you must, but make an end of sorrow.
+3178	3180	He lives again.
+3181	3184	Yes, he has found peace in heaven.
+3186	3191	He was a model for us all, a gorilla to remember...
+3191	3194	Hunter, warrior,
+3194	3196	defender of the faith.
+3197	3199	Cherished husband,
+3199	3201	beloved father,
+3201	3204	generous master, yes.
+3204	3206	He was
+3206	3208	a font of simian kindness.
+3210	3216	The dear departed once said to me "I never met an ape I didn't like."
+3217	3220	Look! It's a man!
+3220	3223	In heaven's name! Get rid of that creature!
+3223	3225	Catch him!
+3227	3229	Catch him! Catch him!
+3316	3317	Come on, Quintus.
+3444	3446	- Go get him! - Taylor!
+3446	3449	- Why did you run away? - Security police.
+3449	3451	I'm in charge of this man.
+3451	3453	He is in the custody of the ministry of science.
+3453	3456	Take your stinking paws off me,
+3456	3458	you damn dirty ape!
+3468	3470	No one'll listen to me.
+3472	3474	Only you.
+3477	3479	You.
+3480	3482	Nova.
+3482	3484	You... Nova.
+3484	3486	No...
+3488	3490	Yeah. Me Tarzan, you Jane.
+3499	3500	What are you doing?
+3500	3502	Leave her alone,
+3502	3503	damn you!
+3503	3505	Where are you taking her?
+3514	3516	Where are you taking her?
+3529	3532	Damn you! You hairy scum!
+3532	3534	Shut up, you freak!
+3534	3536	Julius, you...
+3536	3538	I said shut up!
+3538	3540	It's a madhouse!
+3541	3543	A madhouse!
+3554	3556	Now I don't even have you.
+3558	3560	Imagine me needing someone.
+3560	3564	Back on Earth I never did. Oh, there were women. Lots of women.
+3564	3567	Lots of... lovemaking, but no love.
+3567	3570	That was the kind of world we'd made.
+3570	3572	So I left
+3572	3575	because there was no one to hold me there.
+3575	3577	Did I tell you about Stewart?
+3577	3580	Now there was a lovely girl.
+3580	3583	The most precious cargo we'd brought along.
+3583	3586	She was... to be the new Eve.
+3586	3590	With our hot and eager help, of course.
+3591	3594	Probably just as well she didn't make it this far.
+3598	3600	Do you love me, I wonder?
+3600	3603	Can you love, I wonder?
+3609	3611	Well...
+3611	3614	You're not as smart as Stewart, but
+3615	3617	you're the only girl in town.
+3622	3624	Look at that. I...
+3625	3627	I taught you to smile.
+3707	3711	It's been weeks. What happened? Where have you been?
+3711	3713	Why didn't you come to see me?
+3713	3715	- What is this? - A hearing.
+3715	3718	- Be clever. Be quiet. - All rise!
+3727	3728	Be seated!
+3731	3734	This ad hoc tribunal of the National Academy is now in session.
+3735	3737	The president of the Academy presiding.
+3737	3742	On my right, Dr. Maximus, commissioner for animal affairs. And on my left,
+3742	3747	Dr. Zaius, minister of science and chief defender of the faith.
+3747	3751	And appearing for the state, Dr. Honorious, deputy minister of justice.
+3755	3759	Bailiff! Your instructions: To clean up the beast.
+3759	3764	These rags he's wearing give off a stench that's offensive to the dignity
+3764	3766	of this tribunal.
+3774	3776	You may proceed,
+3776	3779	- Dr. Honorious. - By your leave, Mr. President,
+3779	3784	this tribunal has not yet defined the purpose for this inquiry.
+3785	3789	You asked for the opportunity to present your case.
+3789	3791	Surely you must know why you're here.
+3791	3796	At the very least, this man has the right to know whether there's a charge against him.
+3796	3797	Objection!
+3797	3800	This exhibit is indeed a man.
+3800	3802	Therefore he has no rights under ape law.
+3803	3806	Dr. Zira, this is a man,
+3806	3810	- is it not? - He is unlike any man you have ever seen.
+3810	3812	As we hope to prove.
+3812	3815	Answer the question, Dr. Zira. Is it a man?
+3815	3819	Sir, perhaps the... question is the point at issue.
+3819	3822	Is he a man, is he a deviant,
+3822	3824	or... a freak of nature?
+3824	3826	- Objection! - Sustained.
+3826	3829	Now, Dr. Zira, in all fairness,
+3829	3832	you must admit that the accused is a non-ape
+3832	3834	and therefore has no rights under ape law.
+3834	3836	Then why is he called the accused?
+3837	3840	Your Honors must think him guilty of something.
+3842	3846	The creature's not being tried. He's being disposed of.
+3846	3850	It is scientific heresy that is being tried here.
+3850	3852	Well put, Dr. Zaius.
+3852	3854	Let us warn our friends
+3854	3858	that they endanger their own careers by defending this animal.
+3860	3862	Then I'll... defend myself.
+3865	3868	Dr. Zira, would you tell
+3868	3870	Bright Eyes to be quiet?
+3870	3873	- My name is Taylor! - Bailiff! Silence the animal!
+3874	3876	Wait! Let me...
+3879	3881	You may proceed, Mr. Prosecutor.
+3881	3884	Learned judges, my case is simple.
+3884	3887	It is based on our first article of faith.
+3887	3890	That the almighty created the ape in his own image.
+3890	3893	That he gave him a soul and a mind.
+3893	3898	That he set him apart from the beasts of the jungle and made him the lord of the planet.
+3898	3900	These sacred truths are self-evident.
+3901	3904	The proper study of apes is apes.
+3906	3909	But certain young cynics have chosen to study man.
+3909	3915	Yes! Perverted scientists who advance an insidious theory called evolution.
+3916	3918	Come to the point, Dr. Honorious.
+3918	3922	The state charges that Dr. Zira and a corrupt surgeon named Galen
+3922	3925	experimented on this wounded animal,
+3925	3930	tampering with his brain and throat tissues, to produce a speaking monster.
+3930	3932	That's a lie!
+3932	3933	Mind your tongue, madam.
+3933	3936	Did we create his mind as well?
+3936	3938	Not only can this man speak,
+3938	3941	he can think! He can reason.
+3943	3945	That can reason?
+3945	3950	With the tribunal's permission, allow me to expose this hoax by direct examination.
+3951	3954	Proceed, doctor. But do not turn this hearing into a farce.
+3961	3965	Tell the court, Bright Eyes, what is the second article of faith?
+3966	3969	I know nothing of your culture. I admit that.
+3969	3973	Of course he doesn't know our culture, because he cannot think!
+3974	3978	Tell us... Why are all apes created equal?
+3979	3982	Some apes, it seems, are more equal than others.
+3982	3983	Ridiculous!
+3983	3985	Tell us, Bright Eyes.
+3985	3987	Why do men have no souls?
+3987	3991	What is the proof that a divine spark exists in the simian brain?
+4000	4002	Read this for me.
+4012	4016	Since the defendant has been forbidden to speak in his own defense,
+4016	4019	he requests that the following statement
+4019	4021	be read into the record.
+4021	4024	You read it, Dr. Cornelius. Read it.
+4027	4032	"I have, uh, come to you from a planet in a different solar system."
+4032	4034	"I am an explorer in space..."
+4034	4037	Stop right there. Let me see that paper.
+4043	4045	It's a joke.
+4046	4048	In very poor taste.
+4048	4050	Is it a joke to seek the truth about this man?
+4051	4052	Dr. Zira,
+4052	4057	you state here that a ship from outer space sank in an inland sea of our eastern desert.
+4058	4061	You state that Bright Eyes had two intelligent companions with him
+4061	4063	at the time of his capture.
+4063	4065	That is his assertion.
+4065	4067	Mr. President,
+4067	4072	in addition to Bright Eyes, I believe the prosecutor has reassembled
+4072	4076	all the surviving humans that were captured in the hunt.
+4076	4078	That's true, Dr. Zaius.
+4078	4080	Very well.
+4080	4083	Then I suggest that we... go take a look at 'em.
+4120	4122	That's him! That's Landon!
+4122	4124	- Which one? - The tall one in the back.
+4126	4130	Do you acknowledge kinship with any of these creatures?
+4130	4133	- With one of them, yes. - Identify him, then. Speak to him.
+4135	4137	Landon?
+4138	4139	Landon.
+4144	4147	Oh! They cut him!
+4149	4151	Did you know about this?
+4151	4155	No. I... I swear. I never saw this man before.
+4155	4157	But they...
+4158	4160	You did it.
+4161	4164	You cut up his brain, you bloody baboon!
+4164	4166	Stop him!
+4176	4178	Take him inside!
+4218	4221	Mr. President, a word of explanation.
+4221	4223	The human specimen you saw outside
+4223	4227	suffered a skull fracture in the course of the hunt.
+4227	4232	Two fine veterinary surgeons under my direction were able to save his life.
+4232	4234	But the beast could not speak, of course.
+4234	4236	Nor will he ever speak.
+4237	4239	You did that to him, damn you!
+4239	4242	Cut out his memory, took his identity, and that's what you wanna do to me!
+4242	4244	Bailiff! Gag the animal!
+4244	4246	Damn you!
+4248	4250	May it please the tribunal,
+4250	4254	I grant you that this creature cannot have come from another planet.
+4254	4258	But this much is certain. He does come from somewhere in the forbidden zone.
+4258	4263	He's described the region to us and described it accurately for... I have been there.
+4263	4265	You visited the forbidden zone?
+4265	4266	Yes, sir.
+4266	4269	A year ago. With the permission of the Academy.
+4269	4273	He exceeded his orders. His travel permit was canceled immediately.
+4273	4275	Yes, sir. That is true, thanks to you.
+4275	4278	But not before I discovered evidence
+4278	4282	of a simian culture that existed long before the sacred scrolls were written.
+4282	4286	Objection! These remarks are profane and irrelevant!
+4286	4292	Sustained. Your archaeological theories have no bearing on the disposition of this creature.
+4292	4294	Let them talk, Mr. President. Let them talk.
+4295	4299	Sirs, our theories have a bearing on his identity.
+4299	4301	How so?
+4301	4304	Let us assume, as common sense dictates,
+4304	4307	that the prisoner's story is false.
+4307	4311	But if he did not come from another planet,
+4311	4313	then surely he sprang from our own.
+4315	4318	Yes! Sprang! As an animal psychologist,
+4318	4323	I have found no physiological defect to explain why humans are mute.
+4323	4325	- Objection! - Sustained!
+4325	4330	Their speech organs are adequate. The flaw lies not in anatomy, but in the brain.
+4330	4332	- Objection! - Sustained!
+4332	4336	Sustain all objections, but face the truth!
+4336	4338	Yes! Behold this marvel!
+4338	4340	This living paradox!
+4340	4343	This missing link in an evolutionary chain!
+4343	4345	Silence there!
+4345	4346	You go too far.
+4346	4348	I think an indictment is in order.
+4348	4353	Yes, sir. The state charges Drs Zira and Cornelius with contempt of this tribunal,
+4354	4356	malicious mischief, and scientific heresy.
+4356	4358	It is so ordered.
+4359	4363	This tribunal will examine the evidence and in due course render its verdict.
+4363	4366	As to the proposed indictment and as to the disposition
+4366	4369	of the deviate in question,
+4369	4370	this hearing is adjourned.
+4416	4418	Wait outside.
+4429	4431	Well, the verdict is in.
+4432	4438	At the moment, your two simian friends and sponsors are free on bail.
+4438	4441	But they'll soon be brought to trial for heresy.
+4441	4443	What about me?
+4443	4446	Your case was preordained.
+4446	4449	In a way, you did the state a service
+4449	4454	because you made it possible for us to expose Zira and Cornelius.
+4454	4458	Now the tribunal has placed you in my custody
+4458	4460	for final disposition.
+4461	4463	Do you realize what that means?
+4464	4466	No.
+4466	4468	Emasculation to begin with.
+4468	4470	Then experimental surgery
+4470	4473	on the speech centers - on the brain.
+4473	4476	Eventually a kind of living death.
+4478	4480	However,
+4481	4484	I have it in my power to grant a reprieve.
+4485	4487	That is why I summoned you here tonight.
+4489	4493	Tell me who and what you really are and where you came from,
+4493	4495	and no veterinary shall touch you.
+4495	4498	I told you that at that hearing of yours.
+4498	4500	You lied!
+4500	4502	Where is your tribe?
+4502	4504	My tribe!
+4504	4507	They live on another planet in another solar system.
+4507	4511	Even in your lies, some truth slips through.
+4511	4515	That mythical community you're supposed to come from - Fort Wayne.
+4515	4517	- What about it? - A fort!
+4518	4521	Unconsciously you chose a name that was belligerent.
+4521	4523	Where were you nurtured?
+4524	4531	Then... you don't believe that prosecutor's charge that I'm a monster created by Dr. Zira?
+4531	4533	Certainly not.
+4535	4537	You're a mutant.
+4537	4541	That's what Zira and Cornelius claim. You're talking heresy, doctor.
+4541	4543	Of course!
+4543	4547	Suppose I am a mutant. How can the appearance of one mutant
+4547	4550	- send you into a panic? - Because you're not unique.
+4550	4554	- There's the one you call Landon. - Oh. Then you admit that...
+4554	4558	I admit that where there's one mutant, there's probably another and another.
+4558	4560	A whole nest of them.
+4560	4563	Where is your nest, Taylor?
+4563	4565	Where are your women?
+4565	4567	Thank you.
+4567	4569	Thank you for calling me Taylor.
+4569	4571	Dr. Zaius,
+4571	4573	I know who I am.
+4573	4575	But who are you?
+4575	4579	How in hell did this upside-down civilization get started?
+4579	4582	You may well call it upside down,
+4582	4584	since you occupy its lowest level.
+4585	4587	And deservedly so.
+4589	4592	Our eastern desert has never been explored
+4592	4597	because we've always assumed that life cannot exist there.
+4597	4600	Taylor, save yourself!
+4600	4605	Tell me, is there another jungle beyond the forbidden zone?
+4605	4607	I don't know.
+4607	4612	If you're trying to protect others of your kind, it'll cost you your identity.
+4612	4614	I'm not protecting anyone.
+4614	4616	This whole thing is insane! What have I done?
+4622	4624	You are a menace.
+4625	4627	A walking pestilence!
+4627	4630	I do know who you are, Taylor.
+4632	4635	I'll give you just six hours to make a full confession.
+4635	4638	After that I shall use surgery to obtain one.
+4638	4639	Guards!
+4639	4643	All right. You can cut pieces out of me. You've got the power.
+4643	4645	Return this creature to his cage.
+4645	4647	But you do it out of fear!
+4647	4652	Remember that! Because you're afraid of me! What are you afraid of, doctor?
+4673	4675	Are you Julius?
+4675	4679	- Who are you? - I'm from the office of animal affairs.
+4681	4683	That male is to be transferred to the zoo.
+4683	4685	At this hour?
+4685	4687	Who says so?
+4687	4689	Don't they tell you anything?
+4689	4693	The antivivisectionist society is up in arms.
+4693	4697	They're gonna save this beast from those butchers in the lab.
+4697	4701	If he can speak, he belongs in a public zoo, but what'll probably happen
+4701	4705	is some money-mad grown-up'll put him in a circus, and we'll have to pay...
+4705	4708	Stop making speeches and show me the order!
+4723	4726	This order's no good.
+4727	4729	It must be countersigned by Dr. Zaius.
+4730	4731	Grab him!
+4737	4738	Who are you?
+4738	4740	So you can talk!
+4740	4743	I'm Dr. Zira's nephew. This abduction was her idea.
+4743	4745	You're not really going to the zoo.
+4746	4748	That's our story if somebody stops us.
+4748	4750	Get me out of this.
+4752	4754	We've gotta move fast!
+4757	4758	She comes along too.
+4758	4761	- Zira doesn't want your female. - I want her.
+4762	4765	If you insist, but I'm not taking any orders.
+4765	4767	All right. Come on! Let's go!
+4789	4793	- I told you not to bring the other one! - He wouldn't leave her.
+4793	4795	Oh, all right. Come on!
+4802	4805	- Here. Put this on. - Don't you have any clothes for me?
+4805	4808	What do you expect? An ape's new suit?
+4809	4812	- This stuff stinks! - Well, so do you. Like all men.
+4812	4814	Taylor, remember,
+4814	4816	all men look alike to most apes.
+4816	4820	So put it on and keep quiet, and we may just get away with this. Hurry!
+4869	4871	Cornelius!
+4880	4881	How'd it go?
+4883	4884	Come on!
+4884	4886	Let me out of this!
+4895	4897	Well, Taylor, we're all fugitives now.
+4898	4900	Do you have any weapons? Any guns?
+4900	4902	The best. But we won't need them.
+4902	4905	I'm glad to hear it. I want one anyway.
+4913	4916	Taylor, I'm in charge of this expedition!
+4916	4919	Good for you. But you're not in charge of me. Not any more.
+4919	4921	I don't plan to be caught again.
+4923	4926	- As you wish. - Dr. Zaius seemed to think there was
+4927	4929	another jungle beyond the forbidden zone.
+4929	4931	I'll try for that. What about you?
+4931	4934	Cornelius and I have been indicted for heresy.
+4934	4938	Unless we can prove our theories, we don't stand a chance of acquittal.
+4938	4940	You're going back to the forbidden zone?
+4940	4944	We're going back to the diggings I worked at over a year ago.
+4944	4946	It's a three-day ride across the desert.
+4946	4949	Near where you claim you landed from that planet of yours.
+4949	4953	- You still don't believe me, do you? - It's a long detour to Dead Lake.
+4953	4955	- What would we find? - Nothing much.
+4955	4960	An empty rubber life raft. Maybe a... little flag, the emblem of my countrymen.
+4961	4963	The terrain around that lake
+4963	4967	is poisonous. There's no fresh water, no vegetation - nothing.
+4971	4975	Anyway, I... ought to thank you for saving me. You'll be in trouble for that.
+4976	4979	We've been in trouble since the moment we met you.
+4983	4985	What's she pointing at?
+4985	4988	This must be close to home for her. She knows it.
+4992	4994	Nova, no. Nova!
+4994	4997	Nova, you can't go there! It's not safe! Nova!
+5001	5005	We'd better get started. If the mounted police pick up our trail, they'll come this far.
+5005	5009	Right. Let's get the water and provisions into the wagon.
+5078	5080	Cornelius!
+5083	5085	Where does this river lead to?
+5085	5090	It flows into a sea some miles from here. That's where we'll find the diggings.
+5090	5092	And beyond that?
+5092	5096	I don't know. You can't ride along the shore at high tide
+5096	5099	and we had no boats on our last expedition.
+5099	5102	You never told me - why do you call this the forbidden zone?
+5103	5108	No one knows. It's an ancient taboo, set forth in the sacred scrolls.
+5109	5112	The lawgiver pronounced this whole area deadly.
+5114	5116	Shouldn't we be moving on?
+5116	5118	I'm for that.
+5203	5205	Well? Do you like it?
+5210	5213	Why did you do that? Scrape off your hair?
+5213	5216	In my world, when I left it, only kids your age wore beards.
+5217	5219	Beards?
+5219	5221	I don't go in for fads.
+5222	5224	Somehow
+5224	5226	it makes you look less intelligent.
+5227	5230	When will you show me what's in that cave?
+5230	5232	Right now, if you like.
+5251	5252	Cornelius!
+5262	5265	- Lucius, don't fire at them! - You're all under arrest!
+5270	5275	If there's any more shooting, Dr. Zaius, you'll be the first to go. You can count on it.
+5275	5277	You are not in command. Put down that gun.
+5277	5278	Shut up!
+5279	5280	Very well.
+5281	5282	Lower your weapons.
+5282	5285	Tell them to pull back around the rocks, out of range.
+5286	5288	Withdraw!
+5293	5295	How did you know we'd come here?
+5295	5299	It wasn't difficult. Only an apostate would flee to the forbidden zone.
+5299	5302	And only a fool would give a gun to an animal.
+5303	5306	I see you've brought the female of your species.
+5306	5310	I didn't realize that man could be monogamous.
+5310	5312	On this planet it's easy.
+5313	5317	I'll ask you to reconsider the rash course you've undertaken.
+5317	5322	If you're convicted of heresy, the most you'll get is two years, but
+5322	5327	if you persist in pointing guns in my direction, you'll hang for high treason.
+5327	5330	We never meant to be treasonous, sir.
+5330	5334	But up there, in the face of that cliff, there is a vast cave,
+5334	5338	and in that cave a fabulous treasure of fossils and artifacts.
+5338	5342	I've seen some of your fossils and artifacts. They're worthless.
+5342	5344	There's your minister of science.
+5344	5347	Honor-bound to expand the frontiers of knowledge.
+5347	5350	- Taylor, please! - Except he's also chief defender of the faith.
+5350	5355	There is no contradiction between faith and science - true science.
+5355	5358	- Are you willing to put it to the test? - Taylor, I would rather...
+5358	5362	Take it easy. You saved me from this fanatic. Maybe I can return the favor.
+5362	5364	What is your proposal?
+5365	5368	When were those sacred scrolls of yours written?
+5368	5370	1,200 years ago.
+5370	5375	All right. If they can prove those scrolls don't tell the whole truth of your history,
+5375	5377	if they can find some real evidence
+5377	5381	of another culture from some remote past, will you let them off?
+5381	5384	- Of course. - Let's go up to the cave.
+5389	5392	Sorry, Lucius. You've got to stay here and guard the camp.
+5392	5395	Always giving orders. Just like every other adult.
+5395	5397	Relax. You'll get to see it all later on.
+5457	5459	Present your evidence, Cornelius.
+5460	5465	It was at this level that I discovered traces of an early ape creature.
+5465	5470	A stage of primitive barbarism really, dating back some 1,300 years roughly.
+5470	5476	It was at this level... I discovered cutting tools and arrowheads of quartz
+5476	5479	and the fossilized bones of carnivorous gorillas.
+5480	5482	But the artifacts
+5482	5484	Lying here
+5485	5488	were found at this level,
+5488	5491	and date back... 700 years earlier.
+5491	5493	That's the paradox.
+5493	5497	For the more ancient culture is the more advanced.
+5497	5501	Now, admittedly, many of these objects are unidentified.
+5501	5505	But clearly they were fashioned by beings with a knowledge of metallurgy.
+5505	5509	Indeed, the fact that many of these tools are unknown to us
+5509	5513	suggests a culture which in certain ways equals our own.
+5513	5516	Some of the evidence is uncontestable.
+5516	5520	Don't speak to me in absolutes. The evidence is contestable!
+5521	5522	I apologize, sir.
+5523	5527	To begin with, your methods of dating the past are crude to say the least.
+5527	5530	There are geologists on my staff who'd laugh at your speculations.
+5530	5532	But there's the doll, sir.
+5533	5535	What?
+5535	5537	Oh, lying right there. The human doll.
+5543	5548	What does this prove? My granddaughter plays with human dolls.
+5549	5552	The doll was found beside the jawbone of a man
+5552	5556	and no trace of simian fossil has been found in this deposit.
+5556	5558	Your conclusion is premature.
+5558	5561	Have you forgotten your scripture? The 13th scroll?
+5561	5566	"And Proteus brought the upright beast into the garden and chained him to a tree,
+5566	5570	- and the children did make sport of him." - No, sir, I have not forgotten.
+5570	5574	Well, for a time the ancients kept humans as household pets
+5574	5578	until our lawgiver proved that man could not be tamed.
+5579	5584	Keep digging, Cornelius. You'll find evidence of the master of this house...
+5585	5588	An ape.
+5590	5591	What are you doing?
+5591	5594	Reconstructing a past life.
+5596	5599	You say these things were found at the same level as that doll?
+5599	5603	Whoever owned them must have been in pretty bad shape.
+5603	5605	He wore false teeth.
+5606	5608	And eyeglasses.
+5609	5611	He had a failing heart.
+5612	5616	Towards the end, he... had this prefabricated valve put in it.
+5618	5620	I don't say he was a man like I knew at home,
+5621	5624	but he must have been a close relative. He had all the same weaknesses.
+5625	5627	He was a weak,
+5627	5629	fragile animal.
+5630	5632	But he was here before you
+5632	5634	and he was better than you are.
+5634	5639	That's lunacy! I can offer alternate descriptions of every one of those articles
+5639	5642	which is just as ingenious as yours.
+5642	5645	But it'd be conjecture, not proof.
+5645	5647	Mamma!
+5654	5656	Mamma!
+5658	5662	Dr. Zaius, would an ape make a human doll
+5662	5663	that talks?
+5668	5669	Lucius!
+5672	5674	You dirty...
+5674	5675	Nova!
+5694	5696	Nova!
+5732	5734	Cornelius!
+5734	5735	Zira!
+5735	5737	Help me!
+5739	5741	Mamma!
+5748	5750	I oughta kill you right now.
+5750	5751	Come on!
+5753	5755	Tell 'em to pull back. Now!
+5755	5757	Cease fire! Withdraw!
+5759	5760	Up there!
+5760	5762	Withdraw!
+5765	5767	Get down!
+5779	5781	Lucius, are you all right?
+5782	5784	They took me by surprise.
+5784	5787	Sneaked up on me while I was feeding the horses.
+5787	5789	What's happened to honor?
+5791	5793	I got off two rounds to warn you.
+5793	5796	- They've taken everything. - Not quite everything!
+5796	5799	They left a hostage behind.
+5799	5802	- How are you feeling? - Disillusioned.
+5802	5804	You can't trust the older generation.
+5805	5807	I know what you mean.
+5807	5811	I want you to go round the rocks and tell those gorillas I've got Dr. Zaius prisoner.
+5811	5813	Yes, I can do that.
+5813	5817	I want a horse, food, and water. Enough for a week for me and this female.
+5817	5821	- And 50 rounds of ammunition. - What if they won't agree to your terms?
+5821	5823	Tell them I'll shoot him.
+5823	5825	Taylor, you can't!
+5825	5827	Oh, yes, he can.
+5828	5830	He's a born killer.
+5830	5832	Deliver the message.
+5834	5836	Over here.
+5839	5841	Sit down.
+5857	5861	Taylor, please! Don't treat him like that!
+5861	5863	- Why not? - It's humiliating.
+5864	5868	The way I was humiliated... by all of you?
+5868	5870	You led me around on a leash!
+5870	5873	That was different. We thought you were inferior.
+5873	5875	Now you know better.
+5875	5878	Cornelius was right, doctor. He proved it.
+5878	5882	Man was here first. You owe him your science, your culture,
+5882	5885	- whatever civilization you've got. - Then answer me this.
+5885	5889	If man was superior, why didn't he survive?
+5889	5893	Wiped out by a plague, some natural catastrophe, a storm of meteors.
+5893	5897	From the looks of some parts of this planet, I'd say that was a fair bet.
+5897	5898	But we can't be sure.
+5898	5900	He is.
+5900	5904	He knew all the time. Long before you found your cave, he knew.
+5904	5908	Defender of the faith? Guardian of the terrible secret.
+5908	5912	- That's it, isn't it, doctor? - What I know of man was written long ago.
+5912	5916	Set down by the greatest ape of all, our lawgiver.
+5916	5917	Cornelius,
+5917	5919	come here.
+5919	5922	Reach into my pocket. Read to him
+5922	5924	the 29th scroll.
+5924	5926	6th verse.
+5929	5933	"Beware the beast man, for he is the devil's pawn."
+5933	5936	"Alone among God's primates,
+5936	5940	he kills for sport or lust or greed."
+5941	5945	"Yea, he will murder his brother to possess his brother's land."
+5945	5948	"Let him not breed in great numbers,
+5948	5952	for he will make a desert of his home and yours."
+5952	5954	"Shun him."
+5954	5957	"Drive him back into his jungle lair."
+5957	5960	"For he is the harbinger of death."
+5962	5965	I found nothing in the cave to alter that conception of man
+5965	5967	and I still live by its injunction.
+5976	5978	That's far enough!
+5984	5987	They think you're behaving foolishly.
+5987	5989	I must say, I agree!
+5990	5992	Where will you go?
+5992	5995	To start with, I'll follow the shoreline and my nose.
+5995	5998	But suppose you find nothing but... but wasteland?
+5998	6000	How will you survive?
+6000	6002	He won't survive.
+6007	6009	Nova.
+6011	6013	How about coming along?
+6013	6017	- We can't. - It's better than going to jail for heresy.
+6017	6019	Oh, they can't convict us of heresy.
+6019	6021	You've helped prove our innocence.
+6021	6024	Besides... his culture
+6024	6026	is our culture.
+6026	6029	Well, good luck, then.
+6034	6037	Lucius.
+6037	6039	I still say you're making a mistake.
+6039	6041	That's the spirit. Keep 'em flying.
+6041	6044	- What? - The flags of discontent.
+6044	6047	Remember, never trust anybody over 30.
+6047	6050	Doctor, I'd like to kiss you goodbye.
+6057	6059	All right, but
+6059	6061	you're so damned ugly.
+6086	6089	Don't try to follow us. I'm pretty handy with this.
+6089	6091	Of that I'm sure.
+6091	6096	All my life I've awaited your coming and dreaded it, like death itself.
+6097	6098	Why?
+6098	6102	I've terrified you from the first, doctor. I still do.
+6102	6104	You're afraid of me and you hate me. Why?
+6104	6107	Because you're a man.
+6107	6109	And you're right.
+6109	6111	I have always known about man.
+6112	6118	From the evidence, I believe his wisdom must walk hand in hand with his idiocy.
+6118	6120	His emotions must rule his brain.
+6120	6123	He must be a warlike creature who gives battle
+6124	6126	to everything around him, even himself.
+6126	6129	What evidence? There were no weapons in that cave.
+6130	6133	The forbidden zone was once a paradise.
+6133	6137	Your breed made a desert of it... ages ago.
+6137	6139	It still doesn't give me the why.
+6139	6142	A planet where apes evolved from men.
+6143	6145	There's gotta be an answer.
+6145	6147	Don't look for it, Taylor.
+6148	6150	You may not like what you find.
+6158	6160	Untie me!
+6174	6176	No, no, no! Wait!
+6176	6178	Wait!
+6178	6180	Let him go!
+6181	6185	Lieutenant, fetch your explosives. We're going to seal up the cave.
+6185	6187	Yes, sir!
+6187	6189	- Seal the cave? - That is correct.
+6189	6191	And you will both stand trial for heresy.
+6192	6195	- But the proof! The doll! - In a few minutes there will be no doll.
+6196	6198	There can't be. I'm sorry.
+6198	6199	Dr. Zaius!
+6199	6201	Dr. Zaius, you mustn't! You promised!
+6201	6203	What I do, I do with no pleasure.
+6204	6206	- Silence him! - Doctor.
+6206	6209	Dr. Zaius, this is inexcusable!
+6209	6212	Why must knowledge stand still?
+6212	6214	What about the future?
+6215	6217	I may just have saved it for you.
+6220	6222	What will he find out there, doctor?
+6223	6226	His destiny.
+6351	6353	Oh, my God!
+6353	6355	I'm back!
+6357	6359	I'm home.
+6359	6361	All the time, it was...
+6363	6365	We finally really did it.
+6366	6368	You maniacs!
+6370	6372	You blew it up!
+6372	6374	God damn you!
+6375	6379	God damn you all to hell!

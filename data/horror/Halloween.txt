@@ -1,0 +1,703 @@
+128	132	Black cats and goblins and broomsticks and ghosts.
+132	136	Pumpkins of witches are there to roast.
+136	139	You may think, they scare me. You're probably right.
+139	142	Black cats and goblins on Halloween night.
+142	144	Trick-or-treat!!!
+165	168	My parents won't be home until ten. - Are you sure?
+178	179	We're all alone, aren't we?
+180	182	Michael's around someplace ...
+183	185	Take off that thing.
+188	190	Let's go upstairs. - Ok.
+272	274	Look, Judith, it's very late.
+274	275	I gotta go.
+275	277	Will you call me tomorrow?
+277	279	Yeah, sure. - Promise?
+279	280	Yeah.
+348	349	Michael?
+389	391	Michael?
+465	468	Ever done anything like this before?
+469	471	Only minimum security.
+471	472	I see.
+475	478	The driveway's a few hundred yards up on the right.
+480	483	The only thing that ever bothers me is their jibberish.
+484	487	When they start raving on and on ...
+487	489	You haven't anything to worry about.
+490	493	He hasn't spoken a word in 15 years.
+494	496	Are there any special instructions?
+496	499	Just try to understand what we're dealing with here.
+500	501	Don't underestimate it.
+501	504	Don't you think we could refer to 'it' as him?
+505	507	If you say so.
+508	510	Your compassion's overwhelming, Doctor.
+518	520	What do I give him, when we're taking him in front of the judge?
+521	522	Thorazin.
+524	527	Barely be able to sit up. - That's the idea.
+537	539	You're serious about that, aren't you?
+540	541	Yeah.
+543	547	You mean, you actually never want him to get out. - Never ever ...
+548	549	Never.
+550	554	Then why we're taking up to Hardy county, if he just gonna ... - Because that is the law.
+556	557	We are.
+564	566	Since when do they let them wander around?
+568	571	Pull up to the main gate. - Shouldn't we ... - Pull up?
+580	582	Stop here.
+585	588	Shouldn't we go on up to the hospital on ... - Wait!
+647	649	Are you all right?
+649	652	You all right? - Yes, I'm ok. - He's gone. He's gone?
+652	654	The evil is gone!
+659	660	I gotta ...
+719	722	Don't forget to drop the key off the Myers place ...
+723	724	I won't.
+724	729	They're coming by look at the house at 10:30. Be sure you leave it under the mat ... - Promise.
+762	763	Laurie ...
+765	767	Hi Tommy.
+769	772	Coming over tonight? - Same time, same place.
+772	774	Can we make Jack-O-Lanterns? - Sure.
+774	776	And watch the monster movies? - Sure.
+776	778	Will you read to me?
+778	781	Can we make popcorn? - Sure, sure, sure.
+783	785	You better hurry up.
+786	790	How can you walk in the school this way? - My dad asked me to.
+790	791	Why?
+791	792	I have to drop off the key.
+792	793	Why?
+793	795	Because he's gonna sell a house.
+795	796	Why?
+796	798	Because that's his job. - Where?
+798	799	The Meyers house.
+799	801	The Meyers house!
+810	812	You're not supposed to go up there?
+812	813	Yes, I am.
+815	816	That's a spook house.
+817	818	Just watch.
+828	830	Lonnie Elam said never to go up there.
+831	833	Lonnie Elam said that's a haunted house.
+833	838	He said real awful stuff happened there once. - Lonnie Elam probably won't get out of the 6th grade.
+838	840	I gotta go.
+840	841	I see you tonight.
+841	843	Bye. - Bye.
+846	851	# I wish I had you all alone ... #
+851	854	# Just the two of us ... #
+856	860	# I would hold you close to me ... #
+861	864	# So close to me ... #
+866	869	# Just the two ... #
+871	874	I'm not responsible, Sam. - Oh, no ...
+874	875	I told them how dangerous he was!
+875	878	You wouldn't have enough two roadblocks and an all-points bulletin wouldn't stop a five-year-old!
+878	882	But he was your patient, Doctor. If precautions weren't strong enough, you should have told somebody.
+882	883	I told everybody!
+883	885	Nobody listened. - There's nothing else I can do.
+885	887	You can get back in there and get back on the telephone.
+887	889	Tell them exactly who walked out of here last night ...
+889	892	And tell them exactly where he is going. - Probably going.
+892	895	I'm wasting my time. - Sam, Haddonfield is a hundred and fifty miles away from here.
+895	899	Now, now for God's sake, he can't drive a car! - He was doing very well last night!
+899	901	Maybe someone around here gave him lessons.
+905	909	Doctor Chance, plese come to point C ...
+909	913	Doctor Chance, point C please.
+914	916	... and the book ends.
+916	921	But what Samuels is really talking about here ...
+921	923	is fate.
+923	925	You see ...
+925	929	fate caught up with several lives here.
+930	934	No matter what course of action Collins took ...
+934	938	he was destined to his own fate,
+938	942	his own day of reckoning with himself.
+942	944	The idea ...
+944	945	is ...
+945	947	that destiny ...
+947	953	is a very real, concrete thing that every person has to deal with.
+953	959	How does Samuels' view of fate differ from that of Costaine's? Laurie?
+959	960	M'am?
+960	961	Answer the question.
+963	967	Costaine wrote that fate-- was somehow related only to religion
+967	972	or where Samuels felt that ... well, fate was like a natural element, like earth, air, fire, and water.
+972	976	That's right, Samuels definitely personified fate.
+976	980	In Samuels' writing, fate is a moveable like a mountain.
+980	984	It stands, where man passes a way.
+984	986	Fate never changes.
+1009	1011	You, with pumpkin. - Leave me alone!
+1011	1017	He's gonna get you! - He's gonna get you, he's gonna get you...
+1017	1020	The boogeyman is coming! - Leave me alone!
+1020	1023	He doesn't believe us. - Don't you know what happens on Halloween?
+1023	1026	Yeah, we get candy.
+1026	1033	The boogey man! - The boogey man, the boogey man, the boogey ...
+1125	1126	He's on his way.
+1128	1132	You gotta believe me officer, he is coming to Haddonfield.
+1133	1135	Because I know him.
+1136	1139	I'm his doctor. You must be ready for him.
+1140	1142	If you don't, it's your funeral.
+1194	1196	We're from Haddonfield, couldn't be prouder.
+1196	1199	Can't hear now, we yell a little louder.
+1199	1201	We're from Haddonfield, couldn't be prouder!
+1201	1203	Can't hear now ... continue - Oh, look at you.
+1203	1206	Get off the books you have. You neeed a shopping cart to get home.
+1208	1212	Heeey Haddonfield! - Yeah, one for me.
+1213	1217	You know it's totally insane! We have three new cheers to learn in the morning,
+1217	1220	the game in the afternoon, I have to get my hair done at five and the dance is at eight.
+1220	1222	I'll be totally wiped out!
+1222	1225	I don't think get enough to do tommorow. - Totally!
+1230	1235	As usual, I have nothing to do. - It's your own fault and I don't feel bit sorry for you.
+1237	1239	Hey, Lynda, Laurie!
+1239	1241	Why didn't you wait for me?
+1241	1242	We did.
+1242	1246	Fifteen minutes. You totally never showed. - That's not true. Here I am.
+1249	1253	What's wrong, Annie? You're not smiling. - I'm never smiling again.
+1253	1258	Paul dragged me into the boys' locker room to tell ... - Exploring uncharted territory?- It's been totally charted.
+1258	1259	We just talked.
+1259	1260	Sure, sure.
+1260	1265	Old jerko got caught throwing eggs and soaping windows. His parents grounded him.
+1265	1267	He can't come over tonight.
+1267	1271	I thought you were babysitting tonight. - The only reason she babysits is to have a place to... - Oh shit ...
+1272	1274	I have a place for that.
+1275	1277	I forgot my chemistry book.
+1277	1282	So, who cares? I always forget my chemistry book and my math book and my english book and my ...
+1282	1284	and let's see my French book and ...
+1284	1288	Who needs books anyway? I don't need books. I always forget all of my books. I mean ...
+1288	1290	it doesn't really matter if I you got that books or not.
+1292	1294	Hey, isn't that the van Graham?
+1296	1297	I don't think so.
+1298	1299	I think he's cute.
+1304	1305	Hey, jerk ...
+1306	1308	Speed kills!
+1318	1320	Gosh ... Can't he take a joke?
+1328	1330	You know, Annie, some day you gonna get us all into deep trouble.
+1333	1335	Totally.
+1335	1338	I hate a guy with a car and no sense of humor.
+1341	1343	Well, are we still on for tonight?
+1343	1346	I wouldn't want to get you in deep trouble, Lynda.
+1346	1348	Oh come on, Annie ...
+1348	1350	Bob and I've been planning on it all week.
+1350	1352	All right.
+1352	1354	The Wallaces leave at seven.
+1354	1355	I'm babysitting the Doyles.
+1355	1360	It's only three houses down. We can keep each other company. - Ohh, terrific ... I've got three choices.
+1360	1365	Watch the kid sleep, listen to Lynda screw around or talk to you.
+1368	1370	We're so ma ...
+1370	1372	Here.
+1402	1403	What time at night?
+1403	1408	I don't know yet. I have to get out of taking my little brother trick- or-treating. - Saving the treats for Bob?
+1408	1409	Fun-ny.
+1409	1411	See you. - Bye. - Bye.
+1424	1426	Annie, look.
+1426	1427	Look where?
+1427	1429	Behind the bush.
+1430	1434	I don't see anything. - That guy who drove by so fast, when you yelled at.
+1435	1437	Subtle, isn't he?
+1444	1446	Hey, creep!
+1448	1452	Laurie, dear, he wants to talk to you.
+1453	1455	He wants to take you out tonight.
+1470	1471	He was standing right there.
+1471	1473	Poor Laurie.
+1473	1475	Scared another one away.
+1476	1478	It's tragic. You never go out.
+1478	1484	You must have a small fortune stashed from babysitting so much. - Guys think I'm too smart.
+1484	1488	I don't. I think you're whacko. Now you're seeing men behind bushes.
+1490	1493	Well, home sweet home.
+1493	1495	See you later.
+1495	1497	Bye. - Bye.
+1512	1516	Excuse me, Laurie. - Oh, Mr. Brackett, I'm sorry, Mr. Brackett. - Oh, I didn't mean to scary ya.
+1516	1517	I'm sorry.
+1518	1521	You know, it's Halloween. I guess everybody's entitled to a one good scare.
+1522	1523	Yes, sir.
+1523	1524	Nice evening, sir.
+1563	1566	Trick -o - treat, Trick -o - treat.
+1569	1571	Oh, kiddo ...
+1571	1573	thought you grew up from superstition.
+1622	1623	Hello?
+1627	1628	Hello?
+1630	1632	Who is this?
+1642	1643	Hello?
+1643	1644	Why did you hang up on me?
+1644	1645	Annie?
+1645	1647	Was that you?
+1647	1650	Of course. - Why didn't you say anything? You scared me to death.
+1650	1652	I had my mouth full. Couldn't you hear me?
+1652	1654	I thought it was an obscene phone call.
+1654	1658	Now you hear obscene chewing. You're losing it, Laurie. - I've already lost it.
+1658	1659	I Doubt that.
+1659	1663	Listen, my mother is letting me use her car. I'll pick you up. 6:30.
+1663	1665	Ok, bye. -Bye.
+1677	1679	Just calm down.
+1680	1682	This is ridiculous.
+1758	1759	Hurry up.
+1769	1771	Just have time.
+1784	1786	Judith Myers. Myers.
+1787	1790	Row 18 ... plot 20.
+1791	1795	Hey, you know. You know, every town has something like this happen.
+1796	1797	I remember over in Russellville.
+1797	1801	Old Charly Bowles. About fifteen years ago.
+1801	1803	One night he, he finished dinner ...
+1804	1807	And he excused himself from the table ...
+1807	1809	And he went out to the garage ...
+1810	1812	He got himself a hack saw ...
+1813	1815	And then he went back into the house ...
+1815	1818	And he kissed his wife and two children goodbye ...
+1818	1821	And then he proceeded ... - Where are we?
+1823	1824	It's right over here.
+1825	1828	Myers, Judith Myers. I remember her.
+1828	1829	Couldn't believe.
+1829	1831	Such a young boy.
+1832	1834	Well, you lost?
+1835	1836	Why do they do it?
+1836	1838	Goddamn kids.
+1840	1842	They'll do anything for Halloweens.
+1843	1846	It was grave, hers. - Oh, I know that.
+1847	1848	18, 19 ...
+1851	1853	Judith Myers.
+1856	1858	He came home.
+1863	1864	You still spooked?
+1864	1866	I wasn't spooked.
+1867	1869	Lies. - I wasn't.
+1869	1872	Saw somebody standing in Mr. Riddle's back yard. - Probably Mr. Riddle.
+1872	1877	He was watching me. - Mr. Riddle was watching you? Laurie, Mr. Riddle is 87.
+1877	1878	He can still watch.
+1878	1880	That's probably all he can do.
+1881	1887	What's the pumkin for? - I brought it for Tommy. I figured carving a Jack-O-Lantern would keep him occupied.
+1887	1890	I always said you'd make a fabulous girl scout. -
+1890	1893	Thanks. - And for that matter, I might as well be a girl scout myself tonight.
+1893	1897	I plan on making popcorn and watching Doctor Demensia.
+1897	1902	Six straight hours of horror movies. Little Lindsey Wallace won't know what hit her.
+1911	1913	My dad!
+1913	1914	Get rid of this.
+1923	1926	Laurie, stop caughing. What's the matter with you?
+1927	1930	Just be natural. There he is. Just be natural, Laurie.
+1935	1936	Hi, Annie, Laurie...
+1937	1938	Hi, Dad.
+1938	1942	What happened? - What? What happened?
+1942	1945	Somebody broke into the hardware store. Probably kids.
+1945	1947	You blame everything on kids.
+1947	1953	What all they took was some Halloween masks, a rope and a couple of knives. Who do you think it was?
+1953	1955	It's hard growing up with a cynical father.
+1956	1958	Aren't you gonna be late ... - Huh?
+1958	1962	I said aren't you gonna be late. - He shouts too.
+1966	1967	Bye girls.
+1967	1969	Bye dad. - Bye.
+1977	1978	Sheriff.
+1979	1982	Pardon me, I'm a Loomis. Dr. Sam Loomis.
+1982	1985	Lee Brackett. - I, I'd like to have a word with you if I could.
+1985	1988	Ah, maybe a few minutes. I gotta take that - It's just important.
+1989	1991	Ten minutes. - I'll be here.
+2007	2009	What's the matter with you?
+2009	2011	I think he knew. I'm sure he could smell it.
+2011	2013	No, he didn't. - He did.
+2013	2015	See the look on his face?
+2015	2017	He always looks like that.
+2020	2022	What  you gonna wear on dance tommorow night?
+2022	2025	I didn't know you thought about things like that, Laurie.
+2032	2034	You know you could ask somebody. - No, I couldn't.
+2034	2038	Sure you could. All you have to do is go up to somebody and say ...
+2038	2040	You wanna go to the dance?
+2040	2042	You could do that, I couldn't.
+2043	2046	Or you could ask Dick Paxter. He could go out with ya.
+2047	2049	I try to get out Ben Tramor.
+2050	2052	Ben Tramor?
+2053	2055	I knew it!
+2056	2059	See, you do think about things like that, huh, Laurie?
+2060	2062	Shut up. - He is cute.
+2062	2064	Ben Tramor.
+2097	2098	Ok.
+2098	2100	Bye.
+2132	2142	Trick or treat, trick or treat: give me something good to eat.
+2153	2157	Hi. - Hi Annie, come on in. - How are you doing today? - Fine. How are you?
+2158	2161	What time are you in your bed? - I'm being in bed by nine, ok.
+2161	2163	Have a good night, dear. - Be a good girl.
+2163	2165	Bye bye. - Here.
+2191	2194	Anybody lives here? - No, not since 1963 when that happened.
+2194	2198	Every kid in Haddonfield thinks this place is haunted. - They may be right.
+2216	2218	Look. - What?
+2218	2220	What is that?
+2220	2221	It's a dog.
+2228	2229	Still warm.
+2231	2232	He got hungry.
+2235	2236	Could have been a skunk.
+2236	2237	Could have.
+2239	2240	A man wouldn't do that ...
+2241	2243	This is not a man.
+2279	2281	It happened in here.
+2281	2284	She was sitting right here ...
+2292	2293	He could have seen her thru this window.
+2295	2297	Standing on the lawn ...
+2297	2299	He could have seen in side.
+2308	2310	You must think of me ...
+2310	2311	the very sinister doctor.
+2314	2316	I do have a permit.
+2318	2320	Seems to me you're just plain scared.
+2320	2321	Yes.
+2321	2323	Yeah, I'm a...
+2324	2328	I met him ... fifteen years ago. I was told there was nothing left.
+2328	2336	No reason ... nowhere conscience, no understanding in even the most rudimentary sense, of life or death of ...
+2337	2339	good or evil, right or wrong.
+2340	2341	I met this ...
+2342	2345	six year-old child with his ...
+2345	2349	blank, pale, emotionless face, and ...
+2350	2352	the blackest eyes ...
+2353	2354	the Devil's eyes.
+2355	2358	I spent eight years trying to reach him ...
+2358	2361	and then another seven trying to keep him locked up, because I realized that
+2361	2365	what was living behind that boy's eyes was purely and simply...
+2366	2367	... evil.
+2368	2369	What do we do?
+2370	2372	He's been here once tonight ...
+2372	2374	I think he'll come back.
+2374	2376	I'm gonna wait for him.
+2376	2379	I still think I should notify the radio and television. - No.
+2379	2384	If you do that, they'll see him on every street corner, they look for him on every house. Just tell your men to keep their ...
+2384	2387	mouth shut and their eyes open.
+2389	2391	I'll check back in an hour.
+2402	2404	... oh now, cried Arthur.
+2404	2407	'Let no one pass this way without a fight!'
+2407	2408	'That's so,' said the knight
+2408	2411	in a bold and haughty manner.
+2411	2414	I don't like that story. - I thought king Arthur was your favorite.
+2414	2416	Not anymore.
+2418	2420	Why do you keep them under there?
+2420	2422	Mom doesn't like me to have them.
+2422	2424	'Laser Man' ...
+2425	2428	'Neutron Man' ... I can understand why.
+2428	2430	'Tarantula Man' ...
+2430	2431	Laurie ...
+2431	2433	what's the Boogeyman?
+2439	2441	Doyle residence.
+2441	2443	It's me ... - Hi Annie, what are you doing?
+2443	2445	Making popcorn ...
+2445	2447	Having fun ...
+2447	2450	Never mind, I'm sure you are.
+2450	2453	I have big, big news for you ...
+2456	2457	Hold on a minute.
+2459	2460	Hi Lester...
+2461	2464	I'm about to be ripped apart by the family dog.
+2469	2474	Lindsey ... get this dog out of the kitchen right now.
+2484	2488	I hate that dog ... I'm the only person in the world he doesn't like.
+2488	2490	So, what is this big, big news?
+2491	2496	What would you say if I told you that you were going to the Homecoming Dance tomorrow night?
+2496	2498	I would probably say you've got the wrong number.
+2499	2500	Well ...
+2501	2507	I just talked with Ben Tramer and he got real excited when I told him how attracted you were to him.
+2507	2509	Oh, Annie ...
+2509	2512	Oh, you didn't. Please tell me you didn't.
+2512	2514	How could you do that?
+2514	2518	I mean how you just call him. What do you mean it's easy?
+2519	2520	I can't believe this.
+2521	2522	I can't tell you anything.
+2530	2531	Please tell me you didn't.
+2531	2533	Oh, you didn't.
+2534	2537	Laurie ... - I'm so embarrassed, I couldn't even face him. - Boogeyman is outside.
+2538	2540	Laurie ... out there. - Hold on.
+2540	2542	Laurie, the boogeyman is outside. Look!
+2548	2550	Tommy, there is nobody outside.
+2551	2552	Go watch TV.
+2552	2554	It's just Tommy.
+2556	2557	Oh, please, Annie ...
+2557	2559	You could do that.
+2560	2565	Look it's simple. You like him, he likes you. All you need is a little push.
+2566	2569	It won't hurt you to go out with him, for God's sake.
+2569	2570	Shit!
+2571	2574	No, no, I just made a mess on myself. I gotta call you back.
+2574	2576	Oh, yuck!
+2576	2577	Lindsey ...
+2577	2579	I need a robe.
+2623	2624	Lindsey ...
+2624	2628	Lester's barking again and getting on my nerves again.
+2631	2633	Never mind ...
+2633	2635	I guess he found a hot date.
+2683	2686	What about the Jack-O-Lantern? - After the movie.
+2687	2690	What about the rest of my comic books? - After the Jack-O-Lantern.
+2690	2692	What about the boogeyman?
+2692	2694	There is no such thing.
+2694	2696	Richie said he was coming after me tonight.
+2696	2698	Do you believe everything that Richie tells you?
+2698	2699	No.
+2700	2704	Tommy, Halloween night ... it's when people play tricks on each other.
+2704	2707	It's all make believe. I think Richie was just trying to scare you.
+2707	2711	I saw the boogeyman. I saw him outside.
+2711	2713	There was nobody outside.
+2713	2715	There was. - What did he look like?
+2716	2717	The boogyeman!
+2718	2720	We're not getting anywhere.
+2721	2722	All right.
+2722	2724	The boogyeman can only come out on Halloween night, right?
+2724	2725	Right.
+2725	2728	Welll, I'm here tonight. I'm not about to let anything happen to you.
+2729	2730	Promise?
+2730	2732	Promise.
+2732	2734	Can we make the Jack-O-Lantern now?
+2736	2737	Let's go.
+2759	2761	Hmm, terrific.
+2778	2779	Hello?
+2781	2783	Who's there?
+2784	2788	Paul, is this one of your cheap pranks?
+2791	2793	Guess not.
+2794	2796	No tricks for Annie tonight.
+2814	2816	Lindsey!
+2817	2819	Lindsey, come out here!
+2819	2823	Lindsey, I'm in the laundry room! The door wouldn't open!
+2823	2823	Spread out everybody.
+2823	2826	We gonna try to figure out the shape of this thing.
+2827	2828	Holly cat.
+2828	2830	Hey. - Yeah.
+2831	2834	Almost perfect. What's wrong?
+2835	2838	We finally got one. - We found a plain sourcer.
+2838	2841	Oh, Lindsey, get the phone, it's Paul.
+2842	2844	Lindsey!
+2845	2847	Lindseeey!
+2865	2868	No, no answer. - Doctor, where are those fingers from?
+2868	2870	I don't know, Mr. Scott. Hallo?
+2870	2873	Hi Lindsey, this is Paul. Is Annie there?
+2873	2874	Yes, she is.
+2874	2875	Get her for me, will ya?
+2875	2877	She's washing her clothes.
+2877	2880	Look, just tell her it's me, ok?
+2880	2881	Ok.
+2886	2888	Annie, Paul called!
+2901	2904	You locked yourself there. - I know.
+2906	2909	Pull my foot. I'm stuck!
+2927	2931	Now promise me you won't tell anybody about this.
+2949	2952	She got stuck in a window. She'll be right here.
+2955	2957	Hello? Hi Annie.
+2957	2959	Oh, hi Paul. Stuck, huh?
+2959	2964	All right, cut it out. It can happen to anyone. Sure ... stuck in the widow.
+2964	2967	Yeah, but I've seen you stuck in plenty of other positions!
+2967	2969	My parents are gone.
+2969	2972	Oh that's fabulous. When did they leave?
+2972	2975	About half ago - Oh, utterly fantastic.
+2976	2978	So why don't you just walk over?
+2978	2982	You coming pick me up. - Well, I can't come now. My clothes are in the wash.
+2982	2988	Oh shut up jerk. Can't, I've got a shirt on. That's all you ever think about.
+2988	2991	I think that's all you ever think about. - That's not true, I think about lots of things.
+2991	2995	Now why don't we not stand here talking about them and get down to doing them?
+2997	3003	Lock your doors, bolt your window and turn off the lights.
+3003	3007	Don't go away ... cause here is a scene ... - I'm scared.
+3008	3010	Then why are you sitting here with half the lights off?
+3010	3013	I don't know. - Well, come on get your coat. We're going to pick up Paul.
+3013	3015	I don't want to.
+3015	3021	Look, Lindsey, I thought we understood each other... - I want to stay here and watch this.
+3021	3025	Okay, if I can fix it so you can watch TV with Tommy Doyle, would you like that?
+3025	3028	Yes. - Well, come with me.
+3034	3035	Come on! Hurry up.
+3061	3064	That strange that has to short it out.
+3065	3066	Hi Tommy.
+3066	3067	Hi.
+3067	3071	Come on in. We're making a Jack-O-Lantern. - You know I wanna watch TV.
+3073	3074	Annie, come in here.
+3075	3079	...now the horrifying conclusion ...
+3079	3081	... to ... the them.
+3083	3085	Oh, fancy.
+3085	3087	This has not been my night.
+3089	3095	I spilled butter all over. My cloths are in the wash. I got stuck in a window. - I'd like you call Ben Tramer and tell him you're just fooling around.
+3095	3100	I can't. - Yes, you can. - No, he went drinking with Mike Godfrey and he won't be back until late.
+3100	3103	YOU'LL have to call him ... tomorrow.
+3103	3105	Besides, I'm on my way to pick up Paul.
+3106	3107	Wait a minute.
+3107	3112	If you watch her, I'll CONSIDER talking to Ben Tramer in the morning.
+3113	3114	Deal.
+3115	3119	I thought Paul was grounded. - He was. Old jerko found a way to sneak out.
+3119	3123	Listen, I'll call you in an hour or so, ok? - Yeah.
+3123	3124	Bye.
+3128	3131	The old girl scout comes through again.
+3144	3148	# My Paul ... I give you all #
+3150	3156	# No keys, but pleeease ... # #my Paul #
+3186	3192	# Oh, Paul ... # #I can no longer stall... #
+3192	3200	# Oh Paul. Oh Paul ...# #I can no longer stall... #
+3200	3203	# Dearly Paul ... #
+3204	3206	# my Paul #
+3262	3263	Attention ...
+3263	3265	Captain and crew standby reverse polarity.
+3265	3269	Standard class A security will be maintained upon landing.
+3269	3272	And until further notice all land in and hold on.
+3272	3273	That is all.
+3274	3275	Artificial gravity are ...
+3275	3277	ad lock cut primary coarse.
+3277	3278	Primary stature.
+3302	3305	Lindsey ...
+3305	3306	Lindseyyy ....
+3307	3308	Where are you?
+3334	3340	There is the boogeyman! He is outside! Look, there is the boogeyman outside! - What's wrong?
+3340	3344	I saw the boogeyman! I know that - Oh, Tommy stop it! - But at Lindsey's! - You're scaring Lindsey.
+3344	3348	He's over there! - Tommy, stop it! There is nobody out there!
+3348	3353	There's no boogeyman. And if you don't stop all this I'll have to turn off the TV and send you to bed.
+3357	3361	Nobody believes me. - I believe you, Tommy.
+3393	3394	I'm not afraid.
+3394	3395	Bull.
+3395	3397	I'm not. - Then go in.
+3405	3406	Chicken.
+3406	3408	Go ahead, Lonnie.
+3409	3410	Go in!
+3413	3414	Hey!
+3415	3416	Hey, Lonnie ...
+3416	3419	Get your ass away from there ...
+3431	3433	Jesus.
+3433	3434	Are you all right here?
+3434	3436	Yeah.
+3436	3441	Well, nothing's going on except kids playing pranks, trick or treating, partying, getting high.
+3441	3444	I have the feeling you're way off on this.
+3444	3447	You have the wrong feeling. - You're not doing very much to prove me wrong.
+3447	3449	What more do you need?
+3449	3453	Well, it's going to take more than fancy talk to keep me up all night crawling around these bushes.
+3453	3455	I, I, I watched him for fifteen years ...
+3455	3459	sitting in a room, staring at a wall, not seeing the wall ...
+3459	3461	looking past the wall
+3461	3464	looking at ... THIS NIGHT inhumanly patient.
+3466	3469	waiting for some secret, silent alarm ...
+3469	3471	to trigger him off.
+3471	3475	Death has come to your little town, sheriff.
+3475	3478	You can either ignore it or you can help me to stop it.
+3479	3480	More fancy talk.
+3481	3483	Doctor, do you know what Haddonfield is?
+3483	3484	Families ...
+3484	3487	Children ... all lined up in rows, up and down these streets.
+3487	3489	You're telling me they're lined up for a slaughterhouse.
+3489	3491	They could be.
+3492	3494	All right, I'll stay with you out tonight ...
+3494	3496	just on the chance that you're right.
+3497	3498	And if you are right ...
+3499	3501	damn you for letting him go.
+3523	3526	So we gonna first, we'll go inside, right? Then we just talk a little.
+3526	3531	Then Annie will distract Lindsey, that's when we'll go upstairs to the first bedroom on the left. You got it?
+3531	3533	First I rip your clothes off ...
+3533	3537	Don't rip, my blouse is expensive, idiot. - Then you rip my clothes off...
+3537	3540	then we rip Lyndsey's cloth off. Yeah, I think I got it.
+3540	3541	Totally.
+3561	3563	Bob ... put me down.
+3563	3566	Put me down. This is totally silly.
+3566	3567	Put me down.
+3571	3573	Hey, it's totally dark. - Yeah.
+3574	3575	Annie!
+3575	3578	Annie, we're here! - I wonder where they went.
+3579	3582	Annie probably took Lindsey out or something.
+3590	3592	Hey, let's look for a note.
+3592	3593	Let's not.
+3628	3629	He's gonna get you ...
+3629	3633	No, he's not. - Hey, nobody's getting anybody. Stop scaring each other.
+3649	3652	Everybody's having good time tonight.
+3653	3654	All right, guys, what's next?
+3654	3658	Let's make more popcorn. - No, we had enough. Why don't we watch the rest of the movie?
+3659	3660	Yeah.
+3663	3665	All right, put it back on.
+3677	3678	Doyle house.
+3678	3681	Hi Laurie ... what's up?
+3681	3683	I'm just setting down for the first time tonight.
+3684	3685	Hey ... is Annie around?
+3686	3687	No, I thought she'd be home by now.
+3687	3690	She went to pick up Paul. - Well, she's totally not here.
+3692	3694	She's probably stopped off some place.
+3694	3698	Have her call me when she gets home. I've got Lyndsey here and I want to know what time to put her to bed.
+3698	3702	Okay. Later. - Have a good time.
+3702	3704	We definetely will.
+3705	3706	Bye.
+3708	3713	Lindsey is gone for the night. - Hey, now that's wonderful.
+3756	3758	Oh, shit! Not again.
+3758	3760	I can't help it. The phone keeps ringing.
+3761	3764	Oh, I can't keep you interested, huh? - Just answer that damn phone.
+3764	3767	I can't. What if it's the Wallaces?
+3767	3768	We'd get Annie in trouble now.
+3773	3774	Just take it off the hook.
+3809	3811	Fantastic.
+3813	3816	Totally. - Yeah.
+3828	3829	Is that all you can say?
+3829	3830	Yeah.
+3833	3836	Go get me a beer. - I thought you were gonna get me one.
+3836	3837	Yeaah.
+3840	3841	I'll be right back.
+3841	3843	Don't get dressed.
+3899	3900	Annie?
+3902	3903	Paul?
+3906	3909	Lynda, you asshole!
+3913	3914	Ok, Lynda.
+3914	3915	Come on out.
+3979	3980	Well, did you get my beer?
+3987	3989	Cute, Bob. Real cute.
+4002	4003	See anything you like?
+4011	4014	What's the matter? Can I get your ghost, Bob?
+4022	4024	All right, all right. Come on, where is my beer?
+4030	4032	Ok, ain't answer me?
+4036	4038	Ok, don't answer me?
+4039	4042	Oh, you're weird! - I'm gonna call Laurie.
+4042	4045	Well, I'm gonna call Laurie. I wanna know where Annie and Paul are.
+4045	4047	This is going nowhere.
+4051	4052	Finally.
+4058	4059	Hello.
+4062	4063	Hello?
+4066	4071	All right, Annie. First I get your famous chewing, now I get your famous squealing?
+4075	4076	Annie, you all right?
+4086	4088	Are you fooling around again?
+4090	4092	I'll kill you if this is a joke.
+4092	4093	Annie?
+4096	4097	Annie?
+4147	4149	Sleep tight, kids.
+4340	4341	Paul?
+4342	4343	Lynda?
+4351	4352	Lynda?
+4364	4365	Annie?
+4383	4384	Annie?
+4387	4388	Lynda?
+4391	4392	Bob?
+4408	4409	All right, Annie ...
+4434	4436	All right, meatheads. The joke's over.
+4441	4442	Come on, Annie.
+4442	4443	It's enough.
+4447	4450	This is most definitely stopping funny. Now cut it out!
+4453	4455	You'll be sorry.
+4647	4648	No.
+4674	4675	Help!
+4675	4678	Somebody help me, please!
+4678	4680	Somebody help!
+4680	4682	Oh, God, help me!
+4683	4684	Please!
+4685	4686	Please, help me!
+4688	4690	Heeeelp!
+4690	4692	Oh, God, help me, please!
+4693	4694	Hello!
+4694	4695	Helloo!
+4696	4697	Hello?
+4698	4699	Helloo, help me!
+4699	4701	Will you please help me?
+4701	4703	Please!
+4703	4705	Can't you hear me?!
+4705	4707	Oh,God ...
+4710	4712	Help me, please!
+4724	4725	The keys!
+4725	4727	Oh, the keys!
+4732	4733	Tommyy!
+4734	4736	Tommy, it's mee!
+4738	4740	Tommyy!
+4748	4751	Who is it? - Tommy, open up, it's mee!
+4753	4755	Tommy please!
+4755	4757	Tommy, hurry up!
+4757	4759	Tommy please!
+4763	4765	Hurry up! Tommy please!
+4765	4768	Tommy, go upstairs. - What is it, Laurie? - Tommy go back upstairs, grab the Lindsey and lock the door.
+4768	4772	I'm scared!- Do what I say! Now! - It's the boogeyman, isn't it? - Hurry!
+4784	4785	Oh, no ...
+4800	4802	Please, stop.
+4802	4803	Please ...
+4879	4882	Where were you? I went to the Meyers house. - I found the car. He is here!
+4882	4887	Where? - He's three blocks down. You go around back off the houses, I'll watch the front.
+4887	4888	Go on!
+4918	4920	Tommy ... Lyndsey ...
+4922	4924	Babies ...
+4927	4929	We're gonna take a little walk.
+4929	4931	Was it the boogeyman?
+4931	4933	-I'm scared. -There's nothing to be scared of.
+4933	4935	Are you sure?
+4936	4937	How?
+4938	4939	I killed him.
+4940	4942	You can't kill the boogeyman.
+4946	4948	Get in there! Come on, Tommy! Now, lock the door!
+5106	5108	Tommy ...
+5108	5109	Unlock the door.
+5113	5114	Come here.
+5115	5116	Now just listen to me ...
+5117	5118	I want you to go down the stairs ...
+5118	5120	and out the front door.
+5120	5122	And I want you to go down the street to the Mackenzies' house ...
+5123	5125	I want you to tell them to call the police.
+5125	5127	And tell them to send them over here.
+5127	5129	Laurie ... - Now, do you understand me?
+5129	5130	Yes. - Go. Do as I say.
+5152	5153	Get help!
+5153	5154	Come on!
+5154	5156	Come on!
+5240	5242	Was that the boogeyman?
+5247	5249	As a matter of fact ...
+5249	5250	it was.

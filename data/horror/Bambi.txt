@@ -1,0 +1,398 @@
+12	18	Love is a song that never ends
+18	23	Life may be swift and fleeting
+23	28	Hope may die Yet love's beautiful music
+28	34	Comes each day like the dawn
+34	39	Love is a song that never ends
+39	45	One simple theme repeating
+45	50	Like the voice of a heavenly choir
+50	57	Love's sweet music flows on
+64	69	Like the voice of a heavenly choir
+70	76	Love's sweet music flows on
+278	280	Wake up.
+280	283	- What now? - Wake up, Friend Owl.
+283	285	What's going on around here?
+285	287	- Wake up. - lt's happened.
+287	289	The new prince is born.
+289	293	- We're going to see him. - Come on. You better hurry up.
+305	307	Well, look.
+309	312	- Well. - lsn't he cute?
+315	319	Well, this is quite an occasion.
+320	324	Yes, sir, it isn't every day a prince is born.
+325	327	You're to be congratulated.
+327	331	- Yes, congratulations. - Congratulations.
+331	333	Thank you very much.
+334	337	Come on. Wake up. We have company.
+343	344	Hello. Hello, there.
+345	347	- Hello, little prince. - Hello. Hello, there.
+348	350	Hello, little prince.
+367	370	Look. He's trying to get up.
+392	394	Kinda wobbly, isn't he?
+394	396	Thumper.
+397	399	Well, he is.
+401	403	Aren't you?
+410	413	Looks to me like he's getting kind of sleepy.
+416	418	l think it's time we all left.
+418	420	Come on.
+437	439	Thumper. Come on.
+442	444	Whatcha gonna call him?
+445	449	Well, l think l'll call him Bambi.
+453	456	Yep, l guess that'll do all right.
+459	460	My little Bambi.
+489	493	Walking already. Well, what do you know.
+508	511	- Good morning. - Good morning, Mrs Quail.
+511	513	And where's the young prince this...
+516	519	- Good morning, Bambi. - Good morning, young prince.
+522	524	Goodbye.
+527	529	Good morning, young prince.
+536	537	Good morning, young prince.
+551	553	Good morning.
+554	556	Nice sunny day.
+568	570	- What's the matter? - What happened?
+570	573	Did the young prince fall down?
+573	576	- ls he hurt? - No, he's all right.
+578	580	He doesn't walk very good, does he?
+581	582	Thumper.
+583	585	Yes, Mama?
+586	589	What did your father tell you this morning?
+591	594	lf you can't say something nice,
+598	601	don't say nothing at all.
+602	606	Come on, Bambi, get up. Try again.
+606	608	Come on, get up. Get up.
+609	611	- Get up. - Try again.
+641	644	l'm thumping. That's why they call me Thumper.
+647	649	Thumper!
+666	669	Come on. You can do it.
+670	673	Hop over it. Like this.
+674	676	Hop over it.
+679	681	Like this.
+693	696	You didn't hop far enough.
+699	701	That's it. Now the other one.
+711	714	Gee whiz, what happened that time?
+732	734	Those are birds.
+739	741	Look, he's trying to talk.
+743	745	He's trying to say ''bird''.
+747	749	Say ''bird''.
+753	754	Bird.
+759	760	Bird.
+761	763	Come on, say ''bird'', say ''bird''.
+763	766	Say ''bird''. Say ''bird''. Come on, say ''bird''.
+766	768	Say ''bird''.
+770	771	Bird.
+773	776	He talked. He talked, Mama.
+776	779	The young prince said ''bird''.
+779	781	Bird, bird, bird...
+800	801	Bird.
+802	804	No, that's not a bird.
+804	806	That's a butterfly.
+806	808	Butterfly?
+808	809	Butter...
+814	815	Butterfly.
+815	818	No, that's a flower.
+818	822	- Flower? - lt's pretty.
+827	829	Pretty.
+835	837	Flower.
+837	839	Me?
+847	849	That's not a flower.
+849	852	- He's a little... - That's all right.
+852	857	He can call me a flower if he wants to.
+861	863	l don't mind.
+867	869	Pretty. Pretty flower.
+876	877	Gosh.
+888	891	l think l better go home now.
+945	948	Drip, drip, drop Little April shower
+948	950	Beating a tune As you fall all around
+950	953	Drip, drip, drop Little April shower
+953	955	What can compare With your beautiful sound?
+956	958	Beautiful sound Beautiful sound
+958	960	Drip, drop Drip, drop
+961	963	Drip, drip, drop When the sky is cloudy
+963	966	Your pretty music Can brighten the day
+966	968	Drip, drip, drop When the sky is cloudy
+968	971	You come along with a song rightaway
+971	972	Come with your beautiful music
+973	975	Drip, drip, drop Little April shower
+975	978	Beating a tune As you fall all around
+978	980	Drip, drip, drop Little April shower
+980	983	What can compare With your beautiful sound?
+983	985	Drip, drip, drop When the sky is cloudy
+985	988	You come along With your pretty little song
+988	990	Drip, drip, drop When the sky is cloudy
+990	993	You come along With your pretty little song
+993	995	- Gay little roundelay - Gay little roundelay
+995	997	- Song of the rainy day - Song of the rainy day
+998	1000	How I love to hear your patter Pretty little pitter-patter.
+1000	1003	Helter skelter, when you pelter Troubles always seem to scatter
+1003	1005	Drip, drip, drop Little April shower
+1005	1008	Beating a sound as you fall all around
+1008	1010	Drip, drip, drop Little April shower
+1010	1013	- Little April shower - With your beautiful sound
+1102	1104	Drip, drip, drop Little April shower
+1104	1107	Beating a tune As you fall all around
+1107	1109	Drip, drip, drop Little April shower
+1109	1112	What can compare With your beautiful sound?
+1112	1116	Beautiful sound
+1145	1148	Mother, what we going to do today?
+1148	1150	l'm going to take you to the meadow.
+1151	1154	Meadow? What's the meadow?
+1154	1157	lt's a very wonderful place.
+1157	1160	Then why haven't we been there before?
+1160	1162	You weren't big enough.
+1162	1165	- Mother, you know what? - What?
+1165	1168	We're not the only deer in the forest.
+1168	1171	- Where did you hear that? - Thumper told me.
+1171	1173	Well, he's right.
+1173	1176	There are many deer in the forest besides us.
+1176	1179	Then why don't l ever see them?
+1179	1181	- You will, sometime. - On the meadow?
+1181	1183	Perhaps.
+1183	1185	Hush now.
+1186	1188	We're almost there.
+1197	1199	- The meadow. - Wait.
+1200	1202	Bambi, wait.
+1203	1206	You must never rush out on the meadow.
+1206	1208	There might be danger.
+1209	1211	Out there, we're unprotected.
+1211	1214	The meadow is wide and open,
+1214	1216	and there are no trees or bushes to hide us.
+1217	1219	So we have to be very careful.
+1220	1222	Wait here.
+1223	1228	l'll go out first. And if the meadow is safe, l'll call you.
+1277	1280	Come on, Bambi. lt's all right.
+1284	1286	Come on.
+1335	1337	Good morning, Prince Bambi.
+1337	1339	Good morning, young prince.
+1339	1342	Hello. What ya eatin'?
+1342	1345	- Clover. - lt's awfully good.
+1345	1347	lt's delicious.
+1347	1349	Why don't you try some?
+1352	1355	No, not that green stuff.
+1356	1358	Just eat the blossoms.
+1358	1360	That's the good stuff.
+1361	1362	Thumper.
+1364	1368	- Yes, Mama? - What did your father tell you?
+1368	1370	About what?
+1370	1374	About eating the blossoms and leaving the greens?
+1374	1376	Oh, that one.
+1378	1381	Eating greens is a special treat.
+1381	1385	lt makes long ears and great big feet.
+1387	1390	But it sure is awful stuff to eat.
+1392	1394	l made that last part up myself.
+1398	1400	Watch out.
+1461	1463	That's little Faline.
+1464	1467	He's kind of bashful, isn't he, Mama?
+1467	1471	Well, maybe he wouldn't be if you'd say hello.
+1474	1476	Hello, Bambi.
+1479	1482	l said hello.
+1482	1484	Well, aren't you going to answer her?
+1487	1489	You're not afraid, are you?
+1493	1495	Well, then, go ahead.
+1501	1503	Go on, say hello.
+1506	1507	Hello.
+1544	1546	You.
+1696	1698	He stopped and looked at me.
+1698	1700	Yes, l know.
+1701	1705	Why was everyone still when he came on the meadow?
+1705	1707	Everyone respects him.
+1707	1713	For of all the deer in the forest, not one has lived half so long.
+1714	1717	He's very brave and very wise.
+1718	1723	That's why he's known as the Great Prince of the Forest.
+1788	1789	Faline.
+1792	1794	Bambi.
+1796	1797	Mother.
+1800	1801	Bambi.
+1809	1810	Mother.
+1849	1851	Come on out, Bambi.
+1853	1855	Come on.
+1855	1857	lt's safe now.
+1857	1860	We don't have to hide any longer.
+1862	1866	What happened, Mother? Why did we all run?
+1870	1874	Man was in the forest.
+1970	1974	Mother, look. What's all that white stuff?
+1975	1977	Why, it's snow.
+1977	1980	- Snow? - Yes.
+1980	1982	Winter has come.
+2043	2045	Hiya, Bambi.
+2046	2048	Watch what l can do.
+2063	2065	Come on. lt's all right.
+2065	2067	Look.
+2068	2070	The water's stiff.
+2085	2088	Some fun, huh, Bambi?
+2090	2093	Come on, get up. Like this.
+2132	2135	Kinda wobbly, aren't you?
+2155	2158	Got to watch both ends at the same time.
+2164	2166	Guess you better unwind it.
+2219	2221	Wake up. Wake up, Flower.
+2225	2228	ls it spring yet?
+2228	2231	No. Winter's just started.
+2232	2234	What you doing? Hibernating?
+2240	2242	What do you want to do that for?
+2243	2247	All us flowers sleep in the winter.
+2251	2255	Well, good night.
+2321	2324	Winter sure is long, isn't it?
+2324	2326	lt seems long.
+2327	2329	But it won't last forever.
+2333	2336	l'm awful hungry, Mother.
+2336	2338	Yes, l know.
+2347	2349	Bambi, come here.
+2350	2352	Look.
+2352	2355	New spring grass.
+2377	2379	Bambi. Quick.
+2379	2381	The thicket.
+2385	2388	Faster. Faster, Bambi.
+2388	2391	Don't look back. Keep running.
+2391	2393	Keep running.
+2405	2407	We made it.
+2407	2409	We made it, Mother.
+2410	2411	We...
+2412	2414	Mother.
+2425	2427	Mother, where are you?
+2466	2469	Your mother can't be with you anymore.
+2485	2487	Come.
+2487	2489	My son.
+2511	2513	Let's sing a gay little spring song
+2514	2517	This is the season to sing
+2517	2520	So I'd like to suggest That we all do our best
+2520	2523	And warble a song about spring
+2523	2526	Spring, spring, spring
+2526	2528	Let's get together and sing
+2533	2535	Let's sing a gay little spring song
+2536	2539	Just like bird on the wing
+2539	2542	Things always seem right When you're cheerful and bright
+2542	2545	So let's get together and sing
+2545	2547	Sing, sing, sing
+2547	2550	Let's sing a song about spring
+2550	2554	Let's twitter and tweet Like the birdies in May
+2554	2557	Get into the mood And be merry today
+2557	2561	Forget all your troubles And warble away...
+2561	2563	Wait.
+2563	2565	What now?
+2567	2569	Hey.
+2570	2571	Stop that racket.
+2571	2573	Scat.
+2575	2577	Let's sing a song about spring
+2578	2580	l'll fix 'em.
+2587	2591	There. l guess that'll teach 'em.
+2596	2598	Oh, what's the use?
+2601	2604	This is the season to sing...
+2607	2610	Same thing every spring.
+2617	2619	Love's sweet song.
+2621	2623	Pain in the pin feathers, l call it.
+2643	2645	Stop it.
+2647	2650	Get out of here. All of you.
+2652	2655	And you, too.
+2655	2659	Hello, Friend Owl. Don't you remember me?
+2659	2661	Why, it's the young prince.
+2661	2663	Bambi!
+2664	2667	My, my, how you've changed.
+2667	2670	Turn round there. Let me look at you.
+2670	2674	l see you've traded in your spots for a pair of antlers.
+2676	2682	You know, just the other day l was talking to myself about you.
+2682	2684	And we were wondering what had become of you.
+2684	2686	Hello, Bambi.
+2688	2690	Remember me?
+2690	2691	Thumper.
+2692	2694	Right.
+2698	2700	Hi, fellas.
+2700	2702	Flower.
+2702	2704	Yeah.
+2714	2717	Well, what's the matter with them?
+2717	2719	Why are they acting that way?
+2720	2722	Why, don't you know?
+2723	2724	They're ''twitterpated''.
+2726	2727	Twitterpated?
+2727	2732	Yes. Nearly everybody gets twitterpated in the spring time.
+2736	2738	For example,
+2739	2742	you're walking along, minding your own business,
+2742	2746	you're looking neither to the left nor to the right,
+2746	2748	when all of a sudden
+2748	2752	you run smack into a pretty face.
+2757	2761	You begin to get weak in the knees.
+2761	2763	Your head's in a whirl.
+2764	2767	And then you feel light as a feather.
+2767	2769	And before you know it,
+2769	2772	you're walking on air.
+2776	2778	And then you know what?
+2778	2780	You're knocked for a loop.
+2780	2783	And you completely lose your head.
+2785	2787	Gosh, that's awful.
+2787	2789	- Gee whiz. - Terrible.
+2789	2791	And that ain't all.
+2791	2794	lt can happen to anybody.
+2795	2797	So you'd better be careful.
+2798	2801	lt could happen to you, and you, and...
+2803	2806	Yes, it could even happen to you.
+2809	2811	Well, it's not going to happen to me.
+2811	2814	- Me neither. - Me neither.
+2918	2920	Twitterpated.
+3025	3027	Hello, Bambi.
+3029	3031	Don't you remember me?
+3035	3037	l'm Faline.
+3101	3102	Bambi.
+3209	3212	I bring you a song
+3213	3217	And I sing as I go
+3217	3220	For I want you to know
+3220	3224	That I'm looking for romance
+3225	3229	I bring you a song
+3229	3232	In the hope that you'll see
+3233	3235	When you're looking at me
+3235	3238	That I'm looking for love
+3241	3244	I'm seeking that glow
+3244	3246	Only found when you're young and it's May
+3246	3249	Only found on that wonderful day
+3249	3251	When all longing is through
+3253	3256	I'm seeking that glow
+3256	3260	Only found when a thrill is complete
+3260	3263	Only found when two hearts gently beat
+3263	3269	To the strains of a waltz That's both tender and new
+3269	3273	I bring you a song
+3273	3276	For I'm seeking romance
+3277	3279	You're by my side There's a moon up above
+3279	3282	It shines with a light That's so mellow and bright
+3282	3288	It's easy to see That tonight we shall fall in love
+3297	3301	I bring you a song
+3301	3304	For I'm seeking romance
+3305	3308	And you
+3379	3382	lt is Man.
+3382	3384	He is here again.
+3386	3388	There are many this time.
+3391	3393	We must go deep into the forest.
+3393	3395	Hurry. Follow me.
+3397	3399	Faline.
+3414	3416	Bambi, where are you?
+3431	3432	Faline.
+3472	3473	Listen.
+3474	3475	- He's coming. - Hush.
+3476	3477	Be quiet.
+3478	3482	- He's coming closer. - Be calm. Don't get excited.
+3483	3486	- We better fly. - No. No, don't fly.
+3486	3488	Whatever you do, don't fly.
+3488	3492	He's almost here. l can't stand it any longer.
+3507	3509	Bambi.
+3524	3525	Faline.
+3598	3600	Quick, Faline. Jump.
+3690	3691	Get up, Bambi.
+3695	3697	Get up.
+3702	3703	You must get up.
+3707	3709	Get up.
+3709	3711	Get up.
+3715	3718	Now, come with me.
+3841	3842	Bambi.
+3882	3884	Wake up. Wake up, Friend Owl.
+3884	3886	Wake up, Friend Owl.
+3888	3889	What now?
+3891	3893	Hey, what's going on around here?
+3893	3895	- lt's happened. - Happened?
+3895	3897	Yes. ln the thicket.
+3897	3899	Hurry up, Bambi.
+3899	3902	Yes, Papa. l'm coming.
+3930	3933	Oh. Well.
+3939	3941	Look.
+3942	3943	Two of them.
+3950	3956	Well, l don't believe l've ever seen a more likely looking pair of fawns.
+3956	3959	Prince Bambi ought to be mighty proud.
+3963	3971	Love is a song that never ends
+3971	3978	One simple theme repeating
+3980	3983	Like the voice
+3983	3989	Of a heavenly choir
+3989	3993	Love's sweet music
+3993	3997	Flows on

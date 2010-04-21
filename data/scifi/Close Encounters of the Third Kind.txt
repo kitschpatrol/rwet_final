@@ -1,0 +1,888 @@
+145	147	Are we the first?
+150	152	Are we the first to arrive here?
+193	195	Is the interpreter with you?
+197	201	I'm not a professional interpreter. My occupation is cartography.
+202	203	I'm a mapmaker.
+204	207	Can you translate French into English and English into French?
+207	210	Yes, I explained to the team leader at Villa Hermosa.
+210	212	I'm just a little taken by surprise.
+213	216	-Etes-vous Monsieur Loglin? -Laughlin, oui.
+216	217	Oh, Laughlin. Pardon.
+238	241	They're all there! All of them!
+253	255	Check for landing marks!
+280	283	Mr. Lacombe wants the numbers off the engine blocks!
+287	290	M-447148!
+290	294	W-445529!
+295	298	Number 445529, check!
+298	303	Approximately 46 gallons in the right tank!
+303	305	447149, check!
+305	307	Tell me something. What's happening here?
+308	310	-lt's flight number 1 9! -1 9 what?
+310	314	lt's that training mission from the naval air station at Fort Lauderdale.
+314	317	They were doing target runs on an old hulk.
+317	320	Who flies crates like these anymore?
+320	325	No one! These planes were reported missing in 1 945.
+330	332	But it looks brand-new!
+336	338	Where's the pilot?
+339	341	l don't understand!
+342	344	Where's the crew?!
+348	351	How the hell did it get here?!
+383	385	He says this guy's local.
+385	388	He was here last night. He saw it happen.
+410	412	Sunburn?
+428	431	He says the sun came out last night.
+432	435	He says it sang to him.
+471	473	Ernie, keep an eye on that point-out.
+473	475	He's on 1 22.5.
+476	477	l'll be right back.
+479	482	lndianapolis Center, you have any traffic forAirEast 31?
+484	486	Air East 31 , negative.
+486	491	The only traffic l have is a TWA L-1 01 1 in your 6:00 position...
+491	493	...range 1 5 miles...
+494	497	...and an Allegheny DC-9 in your 1 2:00 position, 50 miles.
+498	501	Stand by. l'll take a look at broadband, over.
+501	505	AirEast 31 has traffic 2:00, slightly above and descending.
+505	507	Air East 31 , roger.
+507	510	l have a primary target about that position now.
+510	512	l have no known traffic.
+512	514	Stand by, l'll check low, over.
+515	517	Check and see if they know who it is.
+517	519	Center, AirEast 31.
+519	521	The traffic's not lower than us.
+521	525	He's 1:00 now, still above me and descending.
+525	528	Air East 31 , can you say aircraft type?
+529	533	Negative, Center, no distinct outline.
+534	537	To tell you the truth, the target is ratherbrilliant.
+537	541	lt has the brightest anti-collision lights l think l've everseen.
+541	543	Alternating white to red.
+544	546	The colors are striking.
+546	549	Center, this is TWA 517.
+549	552	Traffic now looks like extra-bright landing lights.
+553	556	l thoughtAirEast had his landing lights on.
+557	559	lt could be a satellite.
+559	562	l have a primary target now in your 1 0:00 position...
+562	563	...five miles, over.
+563	565	Affirmative, 31.
+565	569	The traffic is proceeding northeast. No altitude readout.
+569	572	Roger, Center. lt doesn't appear he'll be a problem.
+572	576	He's going to descend about 1500 feet below me.
+576	577	Wait a second!
+578	579	Stand by, one.
+580	582	Okay, Center, AirEast 31. The traffic has turned.
+583	586	He's heading formy windshield. We're turning immediately.
+588	590	Descend and maintain flight level 31 0.
+590	592	Break Allegheny, turn right 30 degrees.
+592	597	Get on the horn to the 45th Recon Wing and see what they're testing up there.
+597	601	Do you have test operations in restricted area 2508?
+602	603	AirEast 31, roger.
+603	607	The traffic is luminous and exhibiting non-ballistic motion.
+608	610	Roger. Continue descent at your discretion.
+611	613	Okay, Center. Descent atpilot's discretion is approved.
+614	617	The traffic is approaching head-on, ultra-bright and really moving.
+617	621	And right by us! Right now! Now that was really close.
+621	624	AirEast 31 is out of340....
+624	626	Ask if they want to report officially.
+627	630	TWA 51 7, do you want to report a UFO? Over.
+635	638	TWA 51 7, do you want to report a UFO? Over.
+641	644	Negative. We don't want to report.
+644	647	Air East 31 , do you wish to report a UFO? Over.
+649	651	Negative. We don't want to report one either.
+652	656	Air East 31 , do you wish to file a report of any kind? Over.
+657	659	l wouldn't know what kind ofreport to file, Center.
+660	662	Air East 31 , me neither.
+662	664	l'll try to track traffic to destination, over.
+832	833	Barry?
+844	845	Honey?
+861	863	Barry!
+883	886	Dad, do myproblems forme.
+887	891	l don't have to do your problems for you. You do your problems for you.
+891	895	That's why l graduated, so l don't have to do problems.
+896	898	l don't understand these fractions.
+898	902	All right. What's one-third of 60?
+902	904	That's a fraction. l don't understand it.
+905	906	All right, look.
+906	908	Let's say...
+909	912	...that this boxcar is 60 feet long.
+913	917	And one-third is across this switch here.
+920	922	And now another train is coming.
+926	929	How far do you have to move this boxcar off the track...
+929	932	...so that the other train doesn't smash it?
+932	935	Quickly, Brad, there are thousands of lives at stake.
+936	937	Brad, any answer.
+940	942	Remember last weekend...
+942	946	...you promised everybody a movie this weekend?
+948	949	Honey?
+952	955	And you also promised Goofy Golf.
+961	964	Roy, what is all this stuff on my table?
+965	967	l thought l told you this was for my stuff.
+967	969	l mean, you can have that table.
+970	971	l don't want this on my table.
+971	973	This can cause tetanus!
+974	976	-What is this?! -You know what's playing?
+977	979	Pinocchio! The kids have never seen Pinocchio.
+980	982	You guys have never seen it. You'll love it.
+982	984	l don't believe this.
+984	988	Who wants to go see some dumb cartoon rated G for kids?
+989	991	-How old are you? -Eight.
+991	993	-You want to be 9? -Yeah.
+993	995	Then you're gonna see Pinocchio tomorrow night.
+997	999	That's a wonderful way to win over your children.
+999	1003	l'm not serious. l'm just saying that l grew up with Pinocchio.
+1003	1006	And if kids are still kids, they're gonna eat it up.
+1009	1011	Okay, l'm wrong. l'm Wrong Roy, all right?
+1011	1015	Toby! You are close to death! Come out here!
+1020	1025	l'll give you your choice. l'm not gonna be biased in any way.
+1025	1029	You can either play Goofy Golf, which means a lot of waiting and pushing...
+1030	1032	...or you can see Pinocchio...
+1032	1036	...which is a lot of furry animals and magic and a wonderful time.
+1037	1038	-Now, let's vote. -Golf!
+1039	1040	All right, everybody to bed!
+1041	1045	No way! Dad said we could finish watching The Ten Commandments!
+1046	1048	Roy, that movie is four hours long.
+1048	1051	l told them they'd watch only five commandments.
+1051	1053	Hi, Ronnie, it's Earl.
+1053	1056	We got a big problem. l need your old man in the field.
+1056	1058	Roy can't drive at night without me.
+1058	1061	We're experiencing an overall outage!
+1061	1064	Wait, l can't-- Honey!
+1064	1068	Jiminy Cricket. lt's Earl on the phone.
+1073	1077	Neary. Get into your truck and report to line N in Tolono.
+1078	1082	We're losing poweracross the grid. Has the outage hityou yet?
+1094	1095	Hey! Lights!
+1121	1124	Barry!
+1146	1148	Help! l'm lost.
+1151	1154	You're gonna cough up a little Tolono, right?
+1154	1157	Cough up Tolono on lnterstate Highway 90.
+1157	1160	A little familiar landmark of some sort.
+1160	1163	-Cornbread Road, south of 20. -Cornbread?
+1164	1165	Powermust have been restored.
+1165	1169	Couple hundred neighbors think it's Saturday night.
+1169	1170	Dispatch, this is 411.
+1170	1173	Do you want me to disregard that Tolono call?
+1176	1178	You're in the middle of the road, jackass!
+1179	1182	Can you tell me where Cornbread is? Turkey!
+1210	1213	834...834.... F-27.
+1215	1218	M-Mary-1 0 through M-Mary-1 2. Okay.
+1226	1230	Stoppage in the single circuits will lead you right to nowhere.
+1233	1234	M-Mary-1 0.
+1301	1302	Oh, shit!
+1415	1417	What do you guys got out there?
+1417	1419	l don't believe this!
+1420	1422	My God! lt's as big as a house!
+1424	1425	Shaped like a barn.
+1427	1429	This is absolutely crazy.
+1434	1437	Just off the Telemark Expressway and east toward Harper Valley.
+1507	1508	No!
+1508	1510	Watch out!
+1515	1517	Oh, my God! Lady!
+1518	1520	Are you okay? l'm sorry.
+1520	1524	l didn't see him. He was in the middle of the road.
+1526	1528	Hello! Here!
+1528	1529	What's the matter with you?
+1531	1532	Barry, come back here!
+1565	1566	lce cream!
+1588	1590	This is nuts.
+1633	1635	Wait a minute!
+1636	1638	What are you guys doing? Hey!
+1638	1641	That's Ohio! That's a quarter!
+1646	1650	Jesus, look at those suckers. They're glued to the road!
+1697	1699	Honey, wake up!
+1700	1703	Ronnie, wake up! You're not gonna believe what l saw!
+1703	1705	Don't! Not now.
+1705	1708	No, listen! l never would have believed it!
+1708	1711	There was this-- ln the cab there was this whole--
+1711	1713	lt went-- lt was-- There was a red whoosh that--
+1715	1717	Roy.
+1717	1718	lke called you.
+1719	1721	And McGovern.
+1721	1723	They want you to call. They couldn't reach you.
+1724	1725	l turned the radio off.
+1725	1728	Don't do that. The phone rang off the hook.
+1728	1731	lt woke Sylvia up two times already. You'd better call them.
+1732	1735	You know those pictures in National Geographic, the aurora borealis?
+1735	1738	This is better than that. Come on!
+1738	1740	Come on, Ronnie, get up.
+1740	1742	-What's wrong? -Nothing. l don't know.
+1742	1745	-Get up! -ls it an accident?
+1745	1748	lt's not an accident. You wanted out of the house, right?
+1748	1750	Not at 4:00 in the morning.
+1750	1753	Ronnie, l need you to see something with me.
+1754	1755	lt's really important.
+1756	1758	Okay. All right. What about the kids?
+1758	1760	The kids! l'll get the kids.
+1761	1763	Sylvia, we're going on an adventure.
+1763	1765	Toby! Brad! Come on! Get up.
+1766	1767	lt's better than Goofy Golf!
+1772	1774	l'm going as fast as l can!
+1775	1776	Come on.
+1780	1781	Hi, Mrs. Harris.
+1782	1783	Roy, there's Mrs. Harris.
+1784	1785	There better be a good reason for this...
+1786	1787	...because it doesn't make sense!
+1789	1792	All right, Roy, l really think you've proved your point.
+1796	1798	You're sunburned. Look at you.
+1804	1806	Honey, what is that?
+1811	1813	Roy, what did it look like?
+1814	1816	lt was like an ice-cream cone.
+1818	1820	What flavor?
+1820	1821	Orange.
+1822	1825	lt was orange. lt wasn't like an ice-cream cone.
+1825	1827	lt was more like a shell.
+1827	1829	Like a taco?
+1829	1834	Was it like one of those Sara Lee moon-shaped cookies?
+1834	1836	Those crescent cookies?
+1845	1848	Don't you think l'm taking this really well?
+1851	1855	l remember coming to places like this just to look at each other.
+1860	1861	Snuggle.
+2007	2011	l don't believe it. l don't believe it!
+2011	2013	l don't believe it.
+2013	2014	lt's the Cotopaxi.
+2014	2017	-Why is it here? -Beats the shit out of me.
+2052	2054	ls this the bathroom?
+2072	2075	This is not your toy to play with every time l turn around.
+2076	2077	He looks like a 50l50 Bar.
+2078	2081	All right, out of this house. All of you. Out of my house.
+2082	2084	l'm sorry, but you're not to play with this!
+2084	2087	Get out while l clean up your mess!
+2087	2089	Thank you very much.
+2107	2110	l found this overnight tanning stuff.
+2110	2114	l want you to spray it on half your face, so it's all one color.
+2114	2117	lt makes my face look yellow. What does this remind you of?
+2118	2120	Then we'll tell everybody you fell asleep...
+2120	2122	...under the sun lamp on your right side.
+2122	2124	What for?
+2125	2128	Dad, can l ask you a question?
+2128	2129	Are they for real?
+2130	2131	That's what for.
+2131	2133	No, they are not for real.
+2133	2135	Go outside and have a hot dog, okay?
+2136	2137	Ronnie, don't tell him that.
+2137	2141	Don't talk about this until you know what you're talking about.
+2141	2145	lf l can't talk about it, how will l know what's going on?
+2146	2147	What?
+2147	2148	Mom, l believe in them.
+2149	2150	l believe in them too.
+2151	2152	No, you don't.
+2152	2154	Dad says we do.
+2154	2156	No, he does not.
+2157	2158	Do you, Roy?
+2159	2163	All l want to do is know what's going on.
+2163	2166	Nothing's going on! lt's just one of those things.
+2166	2168	Which things? Which things?
+2169	2171	-l don't want to hear about this. -This is very important!
+2172	2175	l won't let it lay here. l'm gonna call somebody!
+2175	2177	l'm not listening. l'm not listening.
+2177	2180	l saw something last night that l can't explain.
+2182	2184	l saw something last night l can't explain.
+2186	2189	l'm going out there again tonight.
+2191	2192	No, you're not.
+2193	2194	Yes, l am.
+2195	2196	No, you're not.
+2196	2197	Yes, l am.
+2200	2201	No, you're not.
+2202	2203	Do they live on the moon?
+2203	2207	They got bases there so at night they can come through your window.
+2208	2211	This isn't a moonburn, goddamn it!
+2211	2214	-You came through my window last. -You hurt me!
+2214	2217	-You took all my covers. -Roy's not like that.
+2217	2220	He loves his work. Don't say that!
+2220	2222	What did he do? He was with us all night!
+2222	2224	l won't have to go tonight.
+2224	2227	He is not like that at all!
+2227	2229	Stop yelling at me!
+2230	2232	Can't you tell him about this?
+2232	2233	Hello?
+2234	2235	l can't believe it.
+2236	2237	Roy...
+2237	2239	...you got fired.
+2240	2242	They didn't even want to talk to you.
+2317	2319	Where were the sounds coming from?
+2345	2349	Where did these sounds come from? Tell us, please.
+2376	2378	Good evening, ladies and gentlemen.
+2382	2386	l beg your pardon, but my English is not good too.
+2389	2391	l want to share with you now...
+2391	2394	...the breakthrough that happened in lndia.
+2395	2398	We think it means something.
+2399	2402	We think it is important.
+2402	2407	To help you learn, l am using the hand sign created by Zoltan Kodaly.
+2409	2414	Kodaly developed these signs to teach music to deaf children.
+2509	2510	Hello?
+2511	2512	Hi.
+2512	2515	Hi, how are you? You came here too?
+2515	2517	Yes. Jillian Guiler.
+2517	2519	Roy Neary. Sorry about what happened.
+2519	2522	-Good night! -What?
+2524	2526	Look at you.
+2529	2531	You got the same burn.
+2532	2535	Yeah, but it's better on you. You got it all over at least.
+2536	2538	l gotta tan the other side tonight.
+2539	2541	How's the kid? l'm really sorry.
+2541	2543	l'll be right back.
+2543	2545	Raise your head a bit and give me a smile.
+2546	2549	He's a little young for a record, don't you think?
+2569	2570	Weird.
+2572	2577	l know this sounds crazy, but ever since yesterday on the road...
+2578	2579	...l've been seeing this shape.
+2582	2585	ln shaving cream and pillows....
+2597	2599	Damn it, l know this! l know what this is.
+2607	2609	This means something.
+2615	2617	This is important.
+2618	2619	Here they come!
+2619	2621	Get the camera!
+2621	2623	Out of the northwest!
+2638	2641	lt's like Halloween for grownups.
+2643	2644	Trick or treat.
+2675	2676	Wait a minute!
+2730	2731	The patterns are:
+2731	2734	-We received two 1 5-minute broadcasts. -Non-random signals?
+2735	2738	1 04 rapid pulses. After a five-second interval, 40 pulses.
+2738	2741	Another five-second break, and 30 pulses.
+2741	2743	60 seconds of silence, then a new set of numbers.
+2746	2748	40, break five. 36, break five. Ten.
+2748	2750	-1 04 rapid pulses. -Lord!
+2751	2754	Wait 60 seconds and the whole doggone thing repeats.
+2755	2758	-Where are the signals from? -The neighborhood.
+2758	2760	Light-travel time, roughly 7 seconds.
+2760	2762	Well within the plane of the ecliptic.
+2762	2767	Are these non-random signals here, 40, 36, 1 0, in response to that?
+2767	2771	They should be. We've sent this combination out for weeks.
+2771	2774	All we're getting back are numbers.
+2779	2782	This could mean the lndia sounds reached a dead end.
+2783	2784	They don't mean a thing.
+2784	2786	There's so much we don't know.
+2786	2789	How about where the signals originate?
+2792	2793	Excuse me.
+2796	2798	What letter is 1 04?
+2800	2801	Excuse me.
+2805	2808	Before l got paid to speak French...
+2811	2812	...l used to read maps.
+2815	2817	This first number is a longitude.
+2823	2824	Two sets of three numbers.
+2824	2827	Degrees, minutes and seconds.
+2827	2832	The first number has three digits, and the last two are below 60.
+2833	2836	lt's not in the right ascension and declination on the sky.
+2837	2840	These have to be Earth coordinates.
+2840	2842	There's a globe in the office.
+2845	2847	This is what we need.
+2847	2849	Maybe there's a release pin underneath here.
+2850	2853	That's a $2500 globe! What are you doing?
+2870	2874	All right, everybody, quiet down! Hold it down!
+2879	2881	The antenna. How dumb!
+2881	2883	-Which way's it pointing? -Northeast.
+2883	2885	That's Wyoming.
+2892	2894	We'll need a geodetic survey map of Wyoming.
+2894	2896	l want it to the square yard.
+2896	2900	The Army has a geodetic survey map of Wyoming.
+3011	3013	Toys!
+3014	3016	Toys!
+3093	3095	Oh, my God!
+3124	3126	You can come and play now.
+3126	3128	You can come and play now.
+3133	3136	Come in through the door.
+3138	3141	One...two...three....
+3151	3154	Mom, look! The sun's here!
+3159	3161	Oh, my God!
+3199	3201	Go away!
+3225	3227	Clean everything up!
+3243	3245	-Mom, let me listen! -Wait a minute!
+3263	3264	Mom, look!
+3273	3275	Come in through the door.
+3297	3299	Barry!
+3347	3349	Let's get in touch with the forest service...
+3349	3353	...or we'll end up in a wilderness area with vehicular traffic.
+3353	3357	And that's strictly sacred-cow stuff for those folks in Wyoming.
+3364	3366	lf this mission is fully developed...
+3367	3372	...l get white knuckles thinking about what might be ahead for those folks.
+3373	3375	Your flight will be at 20:00 hours.
+3375	3379	We have a limo that'll take you to the heliport now.
+3380	3383	And transportation will be provided on the other end.
+3386	3389	-l like the flash flood idea. -Where will you get the water?
+3390	3394	We'll tell them one of the reservoirs is going to burst.
+3395	3397	There's not enough water in those reservoirs!
+3397	3400	Wait! Contaminated water affects people, crops, animals.
+3400	3402	Disease.
+3402	3405	-Yeah, epidemic. -What kind of disease?
+3405	3406	A plague epidemic.
+3406	3408	Nobody will believe a plague.
+3409	3411	-Anthrax. -Ranching country.
+3411	3413	There are a lot of sheep in the hills.
+3413	3415	Good, l like that.
+3415	3418	-lt'll create a panic. -But it may not evacuate everybody.
+3418	3421	There's always some joker who thinks he's immune.
+3423	3427	l need something so scary it'll clear 300 square miles...
+3428	3430	...of every living Christian soul.
+3462	3463	Help yourself.
+3466	3471	l hate these potatoes. There's a dead fly in my potatoes.
+3471	3472	lt's okay.
+3579	3581	Well, l guess you've noticed...
+3582	3586	...something is a little strange with Dad.
+3589	3591	lt's okay, though.
+3593	3595	l'm still Dad.
+3600	3604	l can't describe it, what l'm feeling...
+3604	3607	...and what l'm thinking.
+3609	3612	This means something.
+3613	3615	This is important.
+3626	3628	That's not right.
+3632	3633	lt's not right.
+3635	3637	That's not right.
+3666	3667	What is it?
+3669	3671	What is it?!
+3679	3680	lt's not fair.
+3686	3687	Tell me.
+3717	3719	Open the door, please.
+3720	3721	please.
+3724	3726	Open this door!
+3726	3728	Open this door!
+3757	3760	l don't think l know what's happening to me.
+3766	3770	Look, Roy. What it is, is family therapy.
+3770	3773	l mean, we all go. We all talk.
+3773	3777	No one is singled out. Maybe it's not your fault anyway.
+3778	3780	lt's waterproof. lt still works.
+3781	3782	promise me you'll go!
+3783	3786	You crybaby! You crybaby!
+3786	3788	-You crybaby! -Get out of here!
+3788	3789	Get out!
+3790	3791	Come on, you guys.
+3792	3794	You crybaby!
+3794	3796	-Be quiet! -Stop it!
+3796	3798	l don't understand it!
+3798	3800	-Neither do l. -Get out!
+3801	3803	Go to your room and close the door.
+3806	3807	-Ronnie? -Yes.
+3808	3812	l'm really scared. l want you to help me.
+3812	3815	All this bullshit! lt's turning this house upside down!
+3816	3818	l just hate you! That's why!
+3818	3819	No!
+3820	3823	Hold me. put your arms around me. lt'll really help me.
+3824	3825	lt'll really help me.
+3825	3828	Listen! Listen! Don't you see what's happening?
+3828	3830	None of our friends call us anymore!
+3830	3833	You're out of work! You don't care!
+3833	3836	You're ruining us! You're ruining us!
+3836	3838	-Ronnie, just hold on. -No!
+3839	3840	Hold on.
+3848	3851	Ronnie, open the door now. Come on.
+3886	3889	Well, what do you know? lt's disintegrated.
+3892	3896	Happy birthday, you thing from another world, you.
+3896	3898	Thank you!
+3905	3907	Well, l guess he's had enough.
+3910	3912	Are you going to yell at me?
+3929	3930	Everything's fine.
+3941	3943	All this stuff is coming down.
+3948	3950	lt's all gonna be like it was.
+3959	3964	That's the last straw! Now l use my secret weapon!
+3988	3990	-Where we going? -Where we going?
+3991	3992	-Where are we going? -Just get in the car.
+3992	3995	-Where are we going? -Quietly, quickly, get in.
+3996	3997	Get in there, Toby.
+3997	3998	Quickly.
+4002	4004	-Dad needs some more help! -Lock the doors!
+4004	4006	Dad needs some more help!
+4006	4008	Quiet! Just lock the doors.
+4008	4009	Roll up those windows.
+4009	4012	Dad needs some more help!
+4012	4014	Honey, where you going?
+4014	4016	-What? -Where are you going?
+4017	4019	Taking the kids to my sister's.
+4021	4023	That's crazy. You're not even dressed.
+4024	4025	What?
+4025	4027	You said what?
+4032	4033	Ronnie, wait!
+4034	4036	Ronnie, hold it.
+4037	4039	Will you hold it one minute?
+4062	4063	Who is it, please?
+4063	4068	lt's the mailman. There's a package forJulie Anderson.
+4071	4074	You canjust leave it at the door!
+4075	4080	l can't do that. l'm supposed to C.O.D.
+4080	4081	And besides...
+4082	4085	...you and l have to have a little talk...
+4086	4087	...about Kim.
+4107	4110	Like sands through the hourglass...
+4110	4113	...so are the Days of Our Lives.
+4115	4118	Here comes the king Here comes the big number one
+4119	4123	Budweiserbeer The king is second to none
+4123	4126	When you say Bud The king is coming
+4126	4128	Let's hear the call
+4128	4130	When you say Bud You've said it all
+4131	4134	When you say Bud You've said it all
+4139	4142	Good evening. At the top of the news tonight, a rail disaster.
+4143	4145	At Devil's Tower, Wyoming...
+4145	4148	...a trainload of dangerous chemical gas went off the rails...
+4148	4151	...and forced the widest area evacuation...
+4151	4155	...in the history of these controversial rail shipments.
+4155	4158	Whenever you want me to. Tomorrow is fine.
+4160	4162	l can do other things.
+4163	4165	l'm trying to be.
+4167	4167	Yes, l am.
+4168	4171	The Army and National Guard are supervising the evacuation.
+4171	4176	l am an adult, okay? Even though there's no such thing.
+4176	4177	lt was a joke!
+4178	4180	--the danger will be over within 72 hours.
+4181	4184	Ronnie, anything you want.
+4184	4187	Anything you want, l'll do.
+4190	4191	For how long?
+4197	4199	All of you?
+4200	4205	No. Ronnie, l want to talk about this in person.
+4206	4209	This is not-- We can't talk about this on the telephone.
+4211	4215	Ronnie! Don't hang up! Just don't--
+4220	4223	Devil's Tower, Wyoming was the first national monument...
+4223	4227	...erected in this country by Theodore Roosevelt in 1915.
+4227	4231	Thousands of civilian refugees are fleeing the area...
+4231	4234	...spurred by rumors that the overturned tanker cars...
+4235	4239	...at Walkashi Needles Junction were filled to capacity with nerve gas.
+4245	4248	Fortunately, there have been no fatalities.
+4248	4250	--evacuate this area, which soon...
+4251	4254	...will become the ''hotzone,'' depending on the prevailing winds.
+4255	4258	This is as close to the disaster as we've been allowed to get.
+4259	4261	--due to a strong prevailing north-south wind.
+4261	4264	Army engineers and the Wyoming National Guard...
+4264	4268	...are making every effort to contain the leaking toxins...
+4268	4271	...and evacuate an area ofalmost 200 square miles.
+4272	4275	Everyone is being warned: Stay out of the area.
+4275	4278	Everyone, please, stay out of the area.
+4278	4280	--thousands of others are homeless.
+4281	4285	U.S. Army Materiel Command has issued these new area restrictions:
+4285	4289	All roadways north of Crowheart on lnterstate 25.
+4289	4292	All roads leading into the Grand Tetons west ofMeteste.
+4292	4295	All multilane undivided full traffic interchange...
+4296	4300	...railroad, local and historic stage roads south of Cody.
+4310	4313	Why aren't there fat lines instead of these thin ones?
+4317	4319	You're going the wrong way!
+4321	4324	Turn back around. Back this way.
+4325	4327	What's the matter with you?
+4327	4329	Yes, sir. Sorry, officer.
+4329	4332	lt's just a rental, officer.
+4332	4334	My fault! My fault!
+4334	4336	Starting with the letter ''F,'' as in ''Frank''...
+4337	4339	...to the letter ''J'' as in ''Jack''...
+4339	4343	...please find your way to the loading platform forimmediate boarding.
+4347	4349	You'll be real disappointed and sorry...
+4349	4354	...if you don't have an early warning system, such as a bird, a gas mask.
+4354	4356	Why, even my dog has a gas mask.
+4356	4359	And any of you folks are worth more than a dog.
+4391	4392	Roy!
+4404	4407	l don't care where you go, just get behind the barricade!
+4434	4435	Why are we here?
+4435	4439	The only way there is across country. We'll break through the fence.
+4439	4441	-Let's go. -All right, hold on.
+4465	4467	The police dragged the river for him.
+4467	4470	l told them he wasn't in the river. He wasn't.
+4471	4475	Then they went around to every house within five miles...
+4476	4480	...looking inside backyard refrigerators.
+4484	4488	They asked if l'd seen any strangers in the neighbourhood.
+4556	4558	l don't believe it's real.
+4560	4562	l don't believe it's real!
+4563	4565	lt's real.
+4572	4575	Let's get down there. Get some gas and get down in there.
+4578	4579	What are those?
+4604	4608	Look, l guarantee you. This whole thing is a put-on.
+4655	4657	What do you want? Get your hands off!
+4659	4662	-How are you feeling? -l feel fine!
+4662	4666	According to my birds, the bad air is from you guys farting around!
+4677	4679	-Move them out! -What's happening?
+4679	4681	Where are we going?
+4681	4683	Where are you taking her?
+4683	4685	Hold it! Why can't we go together?
+4685	4686	Watch your step.
+4705	4708	We have very little time, Mr. Neary. This is Mr. Lacombe.
+4709	4712	We need answers from you that are honest, direct and to the point.
+4712	4714	Where is Jillian?
+4716	4719	Do you realize the danger you and your friend have risked?
+4720	4723	ln coming here, you've exposed yourself to toxic gas.
+4724	4725	Well, l'm alive.
+4725	4727	We're talking.
+4728	4730	This is true, Mr. Neary.
+4731	4734	But if the wind blew from the south instead of the north...
+4735	4738	...this conversation would not be taking place.
+4738	4740	There's nothing wrong with the air.
+4741	4743	What makes you say that?
+4743	4745	l just know. There's nothing wrong with it.
+4746	4748	Go outside and make me a liar.
+4752	4755	l want to talk to the man in charge.
+4755	4757	Mr. Lacombe is the highest authority.
+4758	4760	He isn't even an American.
+4762	4765	Mr. Neary, are you an artist or a painter?
+4766	4767	No.
+4771	4774	Have you been hearing a persistent ringing in your ears?
+4774	4776	Almost an agreeable ringing?
+4776	4777	No.
+4779	4781	Having headaches, migraines?
+4781	4782	Yeah.
+4784	4786	An irritation in your eyes and your sinuses?
+4786	4787	Yeah.
+4788	4791	Do you have hives? Do you have allergies?
+4793	4796	And burning on your face and on your body?
+4796	4798	-Yes. Who are you people? -Look at this.
+4799	4802	l got one like it in my living room. Who are you?
+4808	4810	Monsieur Neary, please, one more question.
+4812	4814	Have you recently had a close encounter?
+4816	4819	A close encounter with something very unusual?
+4822	4824	Who are you people?
+4830	4834	-These people strangers to you? -Yeah. Except for her.
+4836	4839	And the two of you felt compelled to be here?
+4840	4842	Yeah, you might say that.
+4843	4846	-But what did you expect to find? -An answer.
+4848	4850	That's not crazy, is it?
+4866	4869	Hold it, hold it, hold it.
+4869	4870	ls that it?
+4871	4874	ls that all you're going to ask me?
+4875	4877	l got a couple of thousand goddamn questions.
+4877	4882	l want to speak to someone in charge. l want to lodge a complaint.
+4882	4884	You have no right to make people crazy.
+4884	4889	You think l investigate every Walter Cronkite story there is?
+4889	4893	lf this is just nerve gas, how come l know everything in such detail?
+4893	4895	l've never been here before.
+4896	4898	How come l know so much?
+4898	4900	What the hell is going on around here?!
+4900	4902	Who the hell are you people?!
+4927	4929	ls that it?! Answer me!
+4930	4933	l didn't come this far to get taken on any bus ride home!
+4956	4958	Five minutes. Five!
+4958	4961	We're gonna hold for a couple of minutes.
+4995	4998	You brought 1 2 people to the decontamination camp...
+4998	5003	...instead of the evacuation centre where they belong. Why?
+5003	5006	-Because this means something. -This means something.
+5007	5011	These people have come from all over their country...
+5013	5016	...to a place they've been told will endanger their lives.
+5016	5017	Why?
+5017	5021	Because somebody could be trying to subvert this whole operation...
+5021	5025	...by sending in fanatics, cultists and Christ knows what all.
+5032	5035	This is a small group of people...
+5036	5040	...who have shared a vision in common.
+5040	5041	Look.
+5045	5048	lt's still a mystery to me why they are here.
+5048	5050	Even they do not know why.
+5072	5073	Don't! You'll be poisoned!
+5074	5077	Listen, there's nothing wrong with the air around here.
+5077	5081	The Army's getting us out because they don't want any witnesses.
+5082	5085	lf the Army doesn't want us here, it's none of our business.
+5086	5089	We wanted to see the mountain. lt was a coincidence when l painted it.
+5089	5091	You can take it off!
+5091	5094	The air here is better than in Los Angeles.
+5095	5099	Listen. How many of you people are for getting out of here?
+5104	5108	l don't know what's happening either. l must find out.
+5112	5117	For every one of these anxious, anguished people who've come here...
+5120	5124	...there must be hundreds more touched by the vision who never made it here.
+5125	5128	Simply because they never watch the television.
+5130	5133	Or perhaps they watched it, but never made the psychic connection.
+5134	5137	lt's a coincidence. lt's not scientific.
+5140	5142	Listen to me, Major Walsh...
+5142	5145	...it is an event sociological.
+5164	5166	Wait a minute!
+5182	5184	-My name's Neary! -Larry Butler!
+5184	5186	-How are you? -Okay! You?
+5186	5188	-Fine, fine! -That's good!
+5188	5193	Everybody keep their masks on until you're out of here and out of danger.
+5193	5197	Listen, we want to get out of here! What's the matter with you?
+5215	5218	l'll have the rest of them off the mountain in one hour.
+5219	5221	Major, l wantyou to use infrared...
+5222	5224	...and get me a photo analysis of the northern face.
+5224	5226	Yes, sir, it's already been ordered.
+5227	5229	Major Walsh, listen.
+5229	5232	l don't like to do this. We're in enough trouble with these cattlemen.
+5233	5237	lfyou can't get these folks out of the area by 20:00 hours...
+5237	5239	...start dusting with EZ-4.
+5240	5241	What's EZ-4?
+5241	5245	lt's a sleep aerosol. Same stuff we used with the livestock.
+5245	5246	Comes out of Riot Control.
+5247	5250	They'll sleep for six hours and wake up with a headache, that's all.
+5251	5254	We didn't choose this place. We didn't choose these people.
+5255	5257	They were invited!
+5263	5265	They belong here more than we.
+5273	5274	l shouldn't have given up jogging.
+5275	5278	See that notch in the mountain? We'll make it in no time.
+5278	5280	Here come three more.
+5283	5285	The authority in this park...
+5285	5289	...has been superseded by the United States government.
+5289	5291	There's a ravine leading straight up.
+5292	5295	-lt's an easier climb. -lt's no good.
+5295	5298	When you get to the top, it's a 300-foot drop down. Get down!
+5299	5301	What do you think it's like on the other side?
+5302	5305	There's a box canyon on the other side with ravines and trails...
+5305	5307	...if you take this incline to the right.
+5308	5310	l never imagined that. l only painted one side.
+5311	5314	-There was no canyon in my doodles. -Next time, sculpt.
+5314	5317	You give us a lot of credit. That's an hour's climb.
+5317	5318	Come on, let's go.
+5324	5326	The authority in this park...
+5326	5331	...has been superseded by the United States government.
+5331	5336	You are entering a military reservation...
+5336	5338	...and subject to military law.
+5339	5340	Call the bastard.
+5344	5346	Bahama, this is pyramid. Over.
+5346	5347	Go ahead.
+5348	5350	Nothing to report at midstation.
+5350	5353	Up ahead there's thousands of places to hide.
+5353	5357	We'll need three times the men to cover this in one hour.
+5358	5361	Get everybody off the northern face, call the otherside...
+5361	5363	...and tell them we're gonna dust.
+5389	5391	Get down!
+5392	5395	You are entering a military reservation...
+5395	5398	...and subject to military law.
+5428	5431	Larry! Larry, come on!
+5449	5452	Larry! Don't let them see you! Get down!
+5488	5491	They're just crop-dusting. Los Angeles!
+5497	5498	Don't stop!
+5499	5501	Don't look back! Come on, come on!
+5532	5535	Hurry! We're only 1 0 feet from the top.
+5535	5538	Just a few more feet! We can slide down the other side!
+5546	5548	Come on, hurry. l'll come down.
+5548	5549	Don't come down.
+5550	5552	Come on, come on. Come on!
+5552	5554	Don't worry. We'll make it.
+5555	5557	Come on. Move it. Move your ass!
+5563	5565	Come on. Come on, please.
+5568	5569	Hurry!
+5571	5572	Hold it!
+5577	5578	Jump! Jump!
+5591	5594	-Do you see that? -Oh, yes.
+5594	5596	Good.
+5597	5599	ls it on? Check the speakersystem here.
+5599	5601	l want this up all the way.
+5605	5606	Are you reading me on this one?
+5607	5608	How about here?
+5610	5615	-Testing. Testing. -Okay, one, two, three, four.
+5616	5617	Testing. Testing.
+5618	5621	One, two, three, testing.
+5628	5632	Gentlemen, ladies. Take your positions, please.
+5633	5635	This is not a drill.
+5635	5639	l repeat, this is not a drill.
+5640	5643	Could we have the lights in the arena down 60%, please?
+5644	5646	60%.
+5650	5654	l don't think we could ask for a more beautiful evening, do you?
+5662	5665	Okay, watch the skies, please.
+5666	5670	We now show uncorrelated targets approaching from the north-northwest.
+5720	5724	We're the only ones who know. The only ones.
+5733	5735	You see that?
+5737	5738	Yes.
+5739	5740	Good.
+5788	5793	All ground personnel not D-class approved...
+5793	5797	...please evacuate the center approach marker.
+5797	5802	Audio analysis personnel, behind the double yellow line.
+5808	5810	lTC, stereo, time and resistance.
+5811	5812	Auto ready?
+5813	5816	Tone interpolation on interlock. Altitude and tabling.
+5816	5818	ARp and interlock now.
+5819	5821	Speed set at seven and a half.
+5821	5825	All positive functions, standing by.
+5849	5850	Go ahead.
+5851	5852	-Sunset. -Go.
+5853	5856	Okay. Start with the tone.
+5863	5864	-Tang. -Go.
+5865	5867	Up a full tone.
+5870	5872	Down a major third.
+5872	5874	Now drop an octave.
+5879	5880	-Cool blue. -Go.
+5880	5882	Up a perfect fifth.
+5885	5887	Nothing. Nothing at all.
+5892	5893	Give me a tone.
+5894	5896	-''Re'' to the second. -Up a full tone.
+5896	5898	-''Mi'' to the third. -Down a major third.
+5898	5900	-''Do'' to the first. -Drop an octave.
+5900	5902	''Do'' up a perfect fifth.
+5902	5904	''Sol'' to the fifth.
+5920	5921	l know that.
+5924	5925	Faster.
+5941	5942	Kick that mule!
+5946	5948	Let's go!
+5990	5991	l'm very happy tonight.
+5992	5993	-Congratulations. -Thank you.
+5994	5997	Not a Merle Haggard, but it was great.
+6017	6018	Mr. Lacombe?
+6025	6028	What is it? What's happening?
+6083	6086	Come on. Come on, let's go.
+6087	6089	Keep down.
+6095	6096	They're talking way over my head.
+6167	6168	Duck, duck!
+6204	6205	Photo one.
+6205	6209	Fantastic! Keep those reloads coming.
+6209	6211	Fantastic!
+6217	6219	-You want to see better? -l can see fine.
+6219	6223	-We can't stay here. -l can.
+6224	6227	-Why? -Because Barry's not here.
+6228	6230	l'm just not ready.
+6234	6236	l can't stay. l've gotta get down there.
+6236	6238	l know.
+6271	6275	This is data control to all personnel.
+6276	6279	We monitorno biologic hazards.
+6279	6282	Range safety clear.
+6349	6352	Oh, my God.
+6405	6408	Oh, my God!
+6432	6433	Holy shit.
+6545	6547	There is a safety hazard zone...
+6547	6551	...extending 25 meters from the ship.
+6552	6557	Special teams are exempt and should be aware oflow gravity.
+6557	6561	Expect some dizziness, and look out fora static charge.
+6564	6567	All departments at operational during this phase...
+6568	6570	...signify by beeping twice.
+6570	6573	lf everything's ready here on the dark side of the moon...
+6573	6575	...play the five tones.
+6645	6647	Give her six quavers, then pause.
+6648	6650	She sent us four quavers...
+6650	6653	...a group of five quavers, a group of four semiquavers.
+6668	6670	All these phrases have in common are five signals.
+6670	6673	-l hope somebody's taking all this down. -What are we saying to each other?
+6674	6676	lt seems they're trying to teach us a basic tonal vocabulary.
+6677	6678	lt's the first day of school.
+6686	6689	Take everything from the lady. Follow her pattern note for note.
+6706	6709	We have a translation airlock on their audio signal.
+6709	6710	We're taking over this conversation now.
+6773	6775	Let's go! Come on!
+6872	6873	l am Claude Lacombe.
+6877	6878	Frank Taylor...
+6878	6881	...Lieutenant, United States Navy Reserve...
+6881	6883	...0641 99.
+6883	6886	Lieutenant, welcome home.
+6886	6888	This way to debriefing.
+6888	6889	Harry Ward Craig...
+6889	6892	...Captain, United States Navy...
+6892	6894	...043431 .
+6894	6898	Captain, would you come right this way?
+6899	6902	Welcome back, Navy. Welcome back.
+6904	6907	-Craig, Harry Ward. -''Captain, United States Navy...
+6907	6909	...043431 1 .''
+6910	6913	Disappeared off Chicken Shoals, flight 1 9.
+6915	6918	Matthew McMichael, Lieutenant, United States Naval Reserve...
+6919	6921	...090941 1 .
+6921	6923	Good to have you back.
+6924	6926	Furlow, Otis B...
+6926	6929	...Lieutenant J.G., United States Navy.
+6930	6933	They haven't even aged. Einstein was right.
+6933	6935	Einstein was probably one of them.
+6936	6938	Erickson, David A...
+6938	6941	...Lieutenant J.G., United States Navy...
+6941	6945	...0639552.
+6947	6949	Henkle, Robert F...
+6949	6953	...Lieutenant J.G., United States Navy....
+6985	6987	Monsieur Neary...
+6987	6989	...what do you want?
+6992	6995	l just want to know that it's really happening.
+6998	7003	l went up in the air, and l saw our house.
+7003	7007	l saw you going up in the air. Did you see me running after you?
+7013	7015	All right, now we have to talk.
+7018	7020	He wants to speak about Mr. Neary's case.
+7020	7023	Swensen, Matthew Daniel...
+7023	7026	...reported missing April 1976.
+7027	7030	-Are they going away? -Yes.
+7034	7035	Wait a second, wait.
+7036	7040	He says these are ordinary people under extraordinary circumstances.
+7041	7044	Delores, Rudolph E...
+7044	7048	...reported missing: December '51, Bisbee...
+7049	7050	...Arizona.
+7054	7056	Goodbye.
+7066	7067	Monsieur Neary...
+7069	7071	...l envy you.
+7189	7192	l'm told we can count on your complete cooperation.
+7192	7195	-What's your blood type? -l don't know.
+7195	7198	-What's your birth date? -December 4th, 1 944.
+7198	7200	Have you been inoculated against smallpox, diphtheria?
+7201	7204	ls there any liver disease in your family?
+7263	7265	May the Lord be praised at all times.
+7266	7268	May God help us and grant us a happy journey.
+7268	7270	Show us Your ways.
+7270	7272	And lead us along Your paths.
+7272	7276	God has given you His angels charge over you.
+7276	7279	Grant these pilgrims, we pray, a happy journey...
+7280	7285	...and peaceful days, so that with Yourholy angel as a guide...
+7285	7288	...they may safely reach their destination....
+7684	7686	Bye!
