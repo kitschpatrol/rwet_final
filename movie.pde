@@ -36,8 +36,8 @@ class Movie {
 		// normal time is a float from 0 to 1
 		int targetTime = round(map(_normalTime, 0.0, 1.0, (float)timeStart, (float)timeEnd));
 		
-		println("Normal Time is " + _normalTime);
-		println("Target Time is " + targetTime);		
+		//println("Normal Time is " + _normalTime);
+		//println("Target Time is " + targetTime);		
 		
 		// start from a  more efficient place than the beginning?
 		for (int i = 0; i < subtitles.length; i++) {

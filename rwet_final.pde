@@ -66,7 +66,6 @@ void draw() {
 	// grow the text if need be	
 	if(currentText.length() > 0) {
 		textSize(fontSize);
-		println(textWidth(currentText));
 
 		// grow the text if need be (changing while to if will animate)
 		while (textWidth(currentText) < width) {
@@ -104,7 +103,6 @@ void keyPressed() {
 	// if the key is [1-5], set the genre
 	if ((keyCode >= 49) && (keyCode <= 53)) {
 		genreIndex = keyCode - 49;
-		println(genreIndex);
 	}
 
 	// if the key is [a-z], grab a subtitle
@@ -122,6 +120,18 @@ void addText(int _genreIndex, int _movieIndex, float _normalTime) {
 	
 	// find the closest subtitle
 	Subtitle tempSubtitle = tempMovie.getSubtitleAtTime(_normalTime);
+	
+	// add the duration of the existing elements 
+	// time left++
+	int timeOnTheBoard = 0;
+	for (int i = 0; i < activeTitles.size(); i++) {
+		timeOnTheBoard += ((Subtitle)activeTitles.get(i)).getTimeLeft();
+	}
+	
+	println("Time on the board: " + timeOnTheBoard);
+	
+	tempSubtitle.duration += timeOnTheBoard;
+	
 	
 	// add it to the display list
 	activeTitles.add(tempSubtitle.copy());

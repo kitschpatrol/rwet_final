@@ -19,6 +19,10 @@ class Subtitle {
 	Subtitle copy() {
 		return new Subtitle(timeStart, timeEnd, title);
 	}
+	
+	int getTimeLeft() {
+		return (duration * 1000) - (millis() - timeAdded);
+	}
 
 
   void startTimer() {

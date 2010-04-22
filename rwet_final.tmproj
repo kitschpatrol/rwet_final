@@ -2,15 +2,65 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>currentDocument</key>
+	<string>rwet_final.pde</string>
 	<key>documents</key>
-	<array/>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>data</string>
+			<key>regexFolderFilter</key>
+			<string>!.*/(\.[^/]*|CVS|_darcs|_MTN|\{arch\}|blib|.*~\.nib|.*\.(framework|app|pbproj|pbxproj|xcode(proj)?|bundle))$</string>
+			<key>sourceDirectory</key>
+			<string>data</string>
+		</dict>
+		<dict>
+			<key>filename</key>
+			<string>movie.pde</string>
+		</dict>
+		<dict>
+			<key>filename</key>
+			<string>README</string>
+		</dict>
+		<dict>
+			<key>filename</key>
+			<string>rwet_final.pde</string>
+			<key>lastUsed</key>
+			<date>2010-04-22T01:36:24Z</date>
+			<key>selected</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>filename</key>
+			<string>subtitle.pde</string>
+		</dict>
+	</array>
 	<key>fileHierarchyDrawerWidth</key>
 	<integer>206</integer>
 	<key>metaData</key>
-	<dict/>
+	<dict>
+		<key>rwet_final.pde</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>14</integer>
+				<key>line</key>
+				<integer>17</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>7</integer>
+		</dict>
+	</dict>
+	<key>openDocuments</key>
+	<array>
+		<string>rwet_final.pde</string>
+	</array>
 	<key>showFileHierarchyDrawer</key>
 	<true/>
 	<key>windowFrame</key>
-	<string>{{224, -78}, {918, 874}}</string>
+	<string>{{746, -44}, {918, 874}}</string>
 </dict>
 </plist>
