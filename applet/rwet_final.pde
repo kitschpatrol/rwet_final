@@ -6,12 +6,6 @@ Serial serial;  // Create object from Serial class
 int[] serialValues = new int[6];
 String[] serialStringValues = new String[6];
 String serialString;
-int pedalValue;
-int button0;
-int button1;
-int button2;
-int button3;
-int button4;
 
 MidiBus midi;
 int midiOffset; // how much to subtract from the midi pitch to get our movie index
@@ -25,8 +19,8 @@ int movieIndex;
 // we're going to have a precision issue if the value is only 0 - 1024
 // normalize
 int timeIndex;
-int timeMin = 1024;
-int timeMax = 0;
+int timeMin;
+int timeMax;
 float normalTime;
 
 String currentText;
@@ -56,6 +50,8 @@ void setup() {
 
   // The volume pot...
   timeIndex = 0;
+  timeMin = 0;
+  timeMax = 1024;
   normalTime = 0.0;
 
   talker = new TextToSpeech();
@@ -127,7 +123,7 @@ void draw() {
   // if(frameCount % 30 == 0) println(currentText);
 
   // temporarily use random bullshit for normal time
-  //normalTime = random(1);
+  normalTime = random(1);
 }
 
 
@@ -137,7 +133,8 @@ void keyPressed() {
 
   // if the key is [1-5], set the genre
   if ((keyCode >= 49) && (keyCode <= 53)) {
-    setGenre(keyCode - 49);
+    genreIndex = keyCode - 49;
+
   }
 
   // if the key is [a-z], grab a subtitle
@@ -163,7 +160,7 @@ void addText(int _genreIndex, int _movieIndex, float _normalTime) {
     timeOnTheBoard += ((Subtitle)activeTitles.get(i)).getTimeLeft();
   }
 
-  //println("Time on the board: " + timeOnTheBoard);
+  println("Time on the board: " + timeOnTheBoard);
 
   tempSubtitle.duration += timeOnTheBoard;
 
@@ -173,10 +170,10 @@ void addText(int _genreIndex, int _movieIndex, float _normalTime) {
 
   // speak it
   if(random(1) < .5) {
-    talker.say(tempSubtitle.title, "Alex", 250);        
+    talker.say(tempSubtitle.title, "Alex", 180);        
   }
   else {
-    talker.say(tempSubtitle.title, "Victoria", 250);                
+    talker.say(tempSubtitle.title, "Victoria", 180);                
   }
 }
 
@@ -238,6 +235,7 @@ void noteOff(int channel, int pitch, int velocity) {
 
 
 void serialEvent(Serial p) { 
+  println("serial in");
   serialString = trim(p.readString()); 
   serialStringValues = serialString.split(",");
   
@@ -247,36 +245,7 @@ void serialEvent(Serial p) {
     }
   }
   
-  pedalValue = serialValues[0];
-  
-  // set the min and max for the pedal
-  if(pedalValue < timeMin) timeMin = pedalValue;
-  if(pedalValue > timeMax) timeMax = pedalValue;
-  
-  // set the time from the pedal
-  normalTime = map(serialValues[0], timeMin, timeMax,  1, 0);
-  
-  //println("Pedal:" + serialValues[0] + " Time: " + normalTime + " Min: " + timeMin + " Max: " + timeMax);
-  
-  // set the genre from the buttons
-  button0 = serialValues[1];
-  button1 = serialValues[2];
-  button2 = serialValues[3];
-  button3 = serialValues[4];
-  button4 = serialValues[5];
-  
-  if(button0 == 1) setGenre(0);
-  if(button1 == 1) setGenre(1);
-  if(button2 == 1) setGenre(2);
-  if(button3 == 1) setGenre(3);
-  if(button4 == 1) setGenre(4);  
-  
-  
-}
-
-void setGenre(int newIndex) {
-  println("changing to genre " + newIndex);
-  genreIndex = newIndex;
+  println(serialValues);
 }
 
 

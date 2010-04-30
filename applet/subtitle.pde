@@ -11,22 +11,21 @@ class Subtitle {
     timeEnd = _timeEnd;
     title = _title;
     duration = timeEnd - timeStart;
-    timeAdded = millis(); // we only really care about this for display
+		timeAdded = millis(); // we only really care about this for display
   }
 
 
-  // returns a copy of the subtitle, useful when adding to draw lists
-  Subtitle copy() {
-    return new Subtitle(timeStart, timeEnd, title);
-  }
-
-  int getTimeLeft() {
-    return (duration * 1000) - (millis() - timeAdded);
-  }
+	// returns a copy of the subtitle, useful when adding to draw lists
+	Subtitle copy() {
+		return new Subtitle(timeStart, timeEnd, title);
+	}
+	
+	int getTimeLeft() {
+		return (duration * 1000) - (millis() - timeAdded);
+	}
 
 
   void startTimer() {
     timeAdded = millis();
   }
 }
-

@@ -1162,5 +1162,3 @@
 5693	5694	Any second now.
 5706	5708	Any second now.
 5713	5714	[DING]
-6013	6014	Subtitles by SDI Media Group
-6014	6015	[ENGLISH SDH]

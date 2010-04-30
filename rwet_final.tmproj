@@ -26,7 +26,7 @@
 			<key>filename</key>
 			<string>rwet_final.pde</string>
 			<key>lastUsed</key>
-			<date>2010-04-22T01:36:24Z</date>
+			<date>2010-04-27T19:29:11Z</date>
 			<key>selected</key>
 			<true/>
 		</dict>
@@ -44,14 +44,14 @@
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>14</integer>
+				<integer>0</integer>
 				<key>line</key>
-				<integer>17</integer>
+				<integer>0</integer>
 			</dict>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
-			<integer>7</integer>
+			<integer>0</integer>
 		</dict>
 	</dict>
 	<key>openDocuments</key>
@@ -61,6 +61,6 @@
 	<key>showFileHierarchyDrawer</key>
 	<true/>
 	<key>windowFrame</key>
-	<string>{{746, -44}, {918, 874}}</string>
+	<string>{{522, 4}, {918, 874}}</string>
 </dict>
 </plist>

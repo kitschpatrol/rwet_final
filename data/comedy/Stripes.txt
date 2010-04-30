@@ -1373,4 +1373,3 @@
 6891	6893	Forward march!
 6895	6898	Left, left, Your left, right, left.
 6904	6906	Five, six, seven, eight.
-7068	7070	Subtitles by SDI Media Group
